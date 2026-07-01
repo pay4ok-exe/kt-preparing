@@ -1,0 +1,3757 @@
+{
+  "variant_id": "angl_tgo_v05",
+  "title": "Английский + ТГО — Вариант 5",
+  "total_count": 40,
+  "attempt_id": "d07b0256-d58c-4d09-a9a2-06eb4236e725",
+  "questions": [
+    {
+      "question_id": "4bcb1e20-ceac-409f-8a1b-4d482ec8cb05",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "How do Anna and Pete think about the circus performers? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "685d4e9e-25ca-42c1-8656-00bcf58bac27",
+          "type": "TEXT",
+          "payload": {
+            "text": "How do Anna and Pete think about the circus performers?"
+          },
+          "position": 1
+        },
+        {
+          "id": "cb561166-9739-48d1-8d87-06a6986daeec",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "81d11807-b986-4469-90a3-37b58731419b",
+          "text": "Pete thinks they are interesting actors. Anna thinks they are athletic.",
+          "is_correct": false
+        },
+        {
+          "id": "6d861901-e4b8-4595-b424-82d029eb1b94",
+          "text": "They agree that circus performers are artists.",
+          "is_correct": false
+        },
+        {
+          "id": "3846b9a6-9d1e-48f9-92cb-c981c9c46616",
+          "text": "Anna thinks they are artists. Pete thinks they are athletes.",
+          "is_correct": true
+        },
+        {
+          "id": "044d9c39-63d0-4efe-8e41-06ecd5308715",
+          "text": "They both think that circus performers are skilled athletes.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3846b9a6-9d1e-48f9-92cb-c981c9c46616"
+      ]
+    },
+    {
+      "question_id": "f5b0a306-4f96-42a8-9aa3-1c0dc378d2dd",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What reason does Pete give for his opinion about circus arts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "2ef14685-e625-40a8-90a6-6daac23eca2e",
+          "type": "TEXT",
+          "payload": {
+            "text": "What reason does Pete give for his opinion about circus arts?"
+          },
+          "position": 1
+        },
+        {
+          "id": "82c91e3e-2afd-4465-974f-bcebc4b56b40",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "05d314eb-b5cb-4a25-866d-d8a6803a82c9",
+          "text": "It is not easy to swing from a bar and catch someone.",
+          "is_correct": false
+        },
+        {
+          "id": "0fd63110-a228-4da0-a58a-8d9b9e9dd5a5",
+          "text": "The performers are strong and have good skills.",
+          "is_correct": false
+        },
+        {
+          "id": "bf94c240-01d1-4154-a639-246d4f1fe0e6",
+          "text": "It takes a lot of skill to be a juggler.",
+          "is_correct": false
+        },
+        {
+          "id": "8c56d236-b80f-4772-93ed-05e1fcbbb8c5",
+          "text": "The performers are athletic but do not make art.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "8c56d236-b80f-4772-93ed-05e1fcbbb8c5"
+      ]
+    },
+    {
+      "question_id": "3437b3a7-6d04-4efc-aeeb-92bd621a7b40",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What reason does Anna give for her opinion about circus performers? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "47720029-96b4-4e57-a03e-fdeb987f487f",
+          "type": "TEXT",
+          "payload": {
+            "text": "What reason does Anna give for her opinion about circus performers?"
+          },
+          "position": 1
+        },
+        {
+          "id": "b1420be5-b805-4903-b72d-45607020c9cf",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "da1bc7a1-796e-416e-8544-833561d88952",
+          "text": "She says they have very nice costumes.",
+          "is_correct": false
+        },
+        {
+          "id": "5a24dad6-f68a-4980-ab4b-a36a61c1a52a",
+          "text": "Anna says the performers are telling a story.",
+          "is_correct": true
+        },
+        {
+          "id": "608a919c-34e7-4221-a257-8a16148b69fc",
+          "text": "They are doing physical tricks with great skill.",
+          "is_correct": false
+        },
+        {
+          "id": "f5554492-5962-442f-910c-ccee06713336",
+          "text": "It is difficult to twirl sticks while dancing.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5a24dad6-f68a-4980-ab4b-a36a61c1a52a"
+      ]
+    },
+    {
+      "question_id": "9694b054-7936-49f4-b4df-cc24a5fbb0af",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "How does the performer, Kate, show that performing in the circus is an art? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "58d99a8a-914d-4024-94e3-d6d30139d73f",
+          "type": "TEXT",
+          "payload": {
+            "text": "How does the performer, Kate, show that performing in the circus is an art?"
+          },
+          "position": 1
+        },
+        {
+          "id": "3b31ca44-d8be-4c63-8ba2-3e3b98308445",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "55fa7457-f740-447f-abdf-2a5b4ab5a782",
+          "text": "Kate says that it is art because they do not compete.",
+          "is_correct": true
+        },
+        {
+          "id": "88607074-17ab-4779-b9a6-ce1931010001",
+          "text": "They are more athletic than those who participate in sports.",
+          "is_correct": false
+        },
+        {
+          "id": "817550c8-60c0-4a97-9a52-08b4f5d1e4a7",
+          "text": "Kate says they do not have as much fun as athletes do.",
+          "is_correct": false
+        },
+        {
+          "id": "ef1dc3c0-7b15-49e2-8ef4-fc7a41a3c859",
+          "text": "They are hanging upside down while they perform.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "55fa7457-f740-447f-abdf-2a5b4ab5a782"
+      ]
+    },
+    {
+      "question_id": "e788801a-3869-4f40-98e1-7c426eb04b1f",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is today’s show about? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6a56764e-8708-410e-9a1f-9a420508b594",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is today’s show about?"
+          },
+          "position": 1
+        },
+        {
+          "id": "f4a8e70b-541c-4d2c-869f-652898f8f57a",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "805d7f20-c586-41c3-abce-658f1a048993",
+          "text": "Sports competition.",
+          "is_correct": false
+        },
+        {
+          "id": "03404b2e-a677-49dc-91a5-8ec25c37c76d",
+          "text": "Famous painters.",
+          "is_correct": false
+        },
+        {
+          "id": "32fa08be-5f08-4763-adfb-95a590f78653",
+          "text": "Circus Arts.",
+          "is_correct": true
+        },
+        {
+          "id": "03591ba3-deac-415b-8ae3-63a070aa1a37",
+          "text": "Theater history.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "32fa08be-5f08-4763-adfb-95a590f78653"
+      ]
+    },
+    {
+      "question_id": "1e2f5317-67f4-4e41-854a-8d60d481899c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "At first, what does Pete think about circus as an art form? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "744317d5-b9f5-4722-a541-471173a78d8e",
+          "type": "TEXT",
+          "payload": {
+            "text": "At first, what does Pete think about circus as an art form?"
+          },
+          "position": 1
+        },
+        {
+          "id": "7fed1fb8-9244-4274-a0cd-2cfe59617f8b",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "363008d7-7320-4d48-bfd2-3cb913bc99bf",
+          "text": "He thinks it is beautiful art.",
+          "is_correct": false
+        },
+        {
+          "id": "67058b69-68fd-4954-be10-4779f774adf1",
+          "text": "He thinks circus is not an art form.",
+          "is_correct": true
+        },
+        {
+          "id": "64acd5b0-c370-46b4-8de8-bda866ac9f40",
+          "text": "He thinks only juggling is art.",
+          "is_correct": false
+        },
+        {
+          "id": "cface37a-0cfd-4bd2-b913-16ab4557a592",
+          "text": "He thinks circus performers are painters.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "67058b69-68fd-4954-be10-4779f774adf1"
+      ]
+    },
+    {
+      "question_id": "ffc495cd-a17c-4ca6-aec8-18f80fe89f36",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Pete compare real artists to? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "3665b3b9-9705-4de2-a582-29685575e5b1",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Pete compare real artists to?"
+          },
+          "position": 1
+        },
+        {
+          "id": "c3a6f4aa-c392-48c4-9229-7f5e830329ec",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "96b16d51-0b59-4552-bfa0-2f2526ef8c55",
+          "text": "Kate and Piper.",
+          "is_correct": false
+        },
+        {
+          "id": "e5c2fa1e-7ad1-4490-9cfb-ba4fe4f6e60a",
+          "text": "High school teachers.",
+          "is_correct": false
+        },
+        {
+          "id": "453f8424-e137-4c2c-86aa-12425a310d21",
+          "text": "Jugglers and athletes.",
+          "is_correct": false
+        },
+        {
+          "id": "57da23d2-5879-49de-a141-d30bad5261f3",
+          "text": "Michelangelo and Rembrandt.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "57da23d2-5879-49de-a141-d30bad5261f3"
+      ]
+    },
+    {
+      "question_id": "933da685-534f-4fd0-8e37-f152b5accaaf",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What do Anna and Pete finally agree about before hearing from the performers? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "13dfc9fd-f938-4b56-8745-5d518b01021e",
+          "type": "TEXT",
+          "payload": {
+            "text": "What do Anna and Pete finally agree about before hearing from the performers?"
+          },
+          "position": 1
+        },
+        {
+          "id": "0bbba65f-d3be-49e6-9294-fad5bdd912fa",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "b1347f83-afdc-4c60-81f4-ca9f44ff93b3",
+          "text": "Circus performers are not artists.",
+          "is_correct": false
+        },
+        {
+          "id": "1880b3b3-e082-463a-a665-2e8eee78273b",
+          "text": "Circus performers should compete more.",
+          "is_correct": false
+        },
+        {
+          "id": "7fb0d211-b735-4254-9062-55454bca91cf",
+          "text": "The young performers are amazing.",
+          "is_correct": true
+        },
+        {
+          "id": "9244ba9f-e9ed-4100-8360-2856480eea84",
+          "text": "The costumes are not important.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7fb0d211-b735-4254-9062-55454bca91cf"
+      ]
+    },
+    {
+      "question_id": "f4cde6d7-5aa8-4a9e-be59-5593c17bbb8a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Piper say circus performers learn to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "138be405-3c77-4f2b-a31f-58afb893042d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Piper say circus performers learn to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "163f8907-fc43-4a1b-b8c1-7247eead8970",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "c259670e-35d2-418a-aba7-23c30850502c",
+          "text": "Compete against other performers.",
+          "is_correct": false
+        },
+        {
+          "id": "3d4b15e4-75d6-4a42-88f0-6cc108d3c6fe",
+          "text": "Paint costumes for the show.",
+          "is_correct": false
+        },
+        {
+          "id": "3a7f787e-b460-4376-951a-af2c68743e7b",
+          "text": "Embody characters and move fluidly and gracefully.",
+          "is_correct": true
+        },
+        {
+          "id": "ee834753-170d-431c-bd17-6a80cd5860a4",
+          "text": "Interview people upside down.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3a7f787e-b460-4376-951a-af2c68743e7b"
+      ]
+    },
+    {
+      "question_id": "237f454a-246c-4df9-8e5b-d2ef373fbd7d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Pete finally admit at the end? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "bdfa072b-fb76-4204-9964-3be25f8ec50e",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Pete finally admit at the end?"
+          },
+          "position": 1
+        },
+        {
+          "id": "9b1c676a-fe0c-475a-a059-12713b591380",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "6cbc2e67-d408-4c6d-862b-5a29fbb83ee7",
+          "text": "Anna was wrong.",
+          "is_correct": false
+        },
+        {
+          "id": "58c9e4fa-5969-43ea-a46a-d3bb08b2c2ac",
+          "text": "Circus performers are only athletes.",
+          "is_correct": false
+        },
+        {
+          "id": "439301e0-e34d-4850-9f5d-452135ea2c70",
+          "text": "Anna is right and circus arts are beautiful.",
+          "is_correct": true
+        },
+        {
+          "id": "74abefcd-3fcb-49b3-a0b9-8aa0bcb2f358",
+          "text": "He wants to join the circus.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "439301e0-e34d-4850-9f5d-452135ea2c70"
+      ]
+    },
+    {
+      "question_id": "eb1d5793-4600-4612-a21e-4448b0c8e3fa",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Eva and Yesica ... to many cities in California.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "814499f4-7e4a-409a-bfcf-f727a7adebc6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Eva and Yesica ... to many cities in California."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "31ea8ca3-6430-4c2d-a690-5234154e3000",
+          "text": "has traveled",
+          "is_correct": false
+        },
+        {
+          "id": "00512801-52f7-4c58-be36-33a74c1dab9d",
+          "text": "have traveled",
+          "is_correct": true
+        },
+        {
+          "id": "99065663-1e92-498b-a970-f9a96a85fd75",
+          "text": "traveled",
+          "is_correct": false
+        },
+        {
+          "id": "31cdab8e-b3fd-4948-9f08-9c62e77bfe85",
+          "text": "have travel",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "00512801-52f7-4c58-be36-33a74c1dab9d"
+      ]
+    },
+    {
+      "question_id": "8c748209-86a0-4ea6-8578-d6dc6c41be29",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Omar ... his homework.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "61568fe7-0d94-4f2c-b20d-0c9f4779f533",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Omar ... his homework."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e4c6eb68-cc6d-4ea0-bc59-4a7697cc68a3",
+          "text": "has completed",
+          "is_correct": true
+        },
+        {
+          "id": "a669c80b-84cc-4e0b-90bd-d5df7def561b",
+          "text": "have completed",
+          "is_correct": false
+        },
+        {
+          "id": "7eb1a28c-b59e-4f7c-ba75-5e8a7f21d5ac",
+          "text": "completed",
+          "is_correct": false
+        },
+        {
+          "id": "e2508a0a-15f8-45a7-8052-c9ce81141427",
+          "text": "has complete",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e4c6eb68-cc6d-4ea0-bc59-4a7697cc68a3"
+      ]
+    },
+    {
+      "question_id": "dd6ef0d5-99a2-4335-866a-9b429ad6fd63",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Nasra and Abeer ... care of each other for many years.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4ca69195-c286-453e-8261-7cf4fde6bc30",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Nasra and Abeer ... care of each other for many years."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6801633e-73bf-4bc1-8a34-9cca97a3e7da",
+          "text": "has taken",
+          "is_correct": false
+        },
+        {
+          "id": "291fb64d-1987-4df9-902d-9226ae48ac97",
+          "text": "have taken",
+          "is_correct": true
+        },
+        {
+          "id": "67a5c93a-7bac-479e-af72-e797c26d4def",
+          "text": "took",
+          "is_correct": false
+        },
+        {
+          "id": "e67462ac-7501-4a31-b90e-5448bc885cc3",
+          "text": "have took",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "291fb64d-1987-4df9-902d-9226ae48ac97"
+      ]
+    },
+    {
+      "question_id": "7b56dca9-b85e-4e2c-9af6-301dc3a22c58",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Igor ... the hot beverage, sahlab.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "5ffb4f63-24ac-4a38-aa77-6581aeca6635",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Igor ... the hot beverage, sahlab."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "74589bde-5417-4269-b230-355793311d2e",
+          "text": "has drank",
+          "is_correct": false
+        },
+        {
+          "id": "bf4ec992-428f-41cb-baac-81bc10b9f763",
+          "text": "have drunk",
+          "is_correct": false
+        },
+        {
+          "id": "8d2663d8-f739-4660-accf-9b9dca1dd523",
+          "text": "has drunk",
+          "is_correct": true
+        },
+        {
+          "id": "b041cdfc-8537-4b57-88bd-3e554f0372c7",
+          "text": "drank",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8d2663d8-f739-4660-accf-9b9dca1dd523"
+      ]
+    },
+    {
+      "question_id": "94b3ffa2-b744-44cb-afea-308a3760d5fb",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Agnes ... her homework late several times.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c1717bff-95c9-4839-ac4c-d2658fa2217f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Agnes ... her homework late several times."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "739e8523-e5a7-410d-8e61-cc2e95f3f25b",
+          "text": "have submitted",
+          "is_correct": false
+        },
+        {
+          "id": "bb27888a-73d2-4857-b73e-308092a2c360",
+          "text": "has submitted",
+          "is_correct": true
+        },
+        {
+          "id": "b51f3889-3ac4-4163-b9b3-4e37142348a1",
+          "text": "submitted",
+          "is_correct": false
+        },
+        {
+          "id": "e6d1a7ab-27ff-4f88-82bc-47053e7abbd0",
+          "text": "has submit",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bb27888a-73d2-4857-b73e-308092a2c360"
+      ]
+    },
+    {
+      "question_id": "ff2011d0-6546-4128-9c82-0dc5a3541df8",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Yuliya’s daughter ... for only two hours for the last two months.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "a266b875-3321-434f-bf24-923b0f24935e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Yuliya’s daughter ... for only two hours for the last two months."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "01150942-329e-42c3-a13c-eefb4f2b5db2",
+          "text": "have slept",
+          "is_correct": false
+        },
+        {
+          "id": "b9c3b716-8446-46dd-986e-f7e9aacb7456",
+          "text": "has slept",
+          "is_correct": true
+        },
+        {
+          "id": "c37a3e41-c541-47a2-8173-140e43d7fa19",
+          "text": "slept",
+          "is_correct": false
+        },
+        {
+          "id": "35b49092-4057-4082-a3cf-61ecce2bc7d9",
+          "text": "has sleep",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b9c3b716-8446-46dd-986e-f7e9aacb7456"
+      ]
+    },
+    {
+      "question_id": "67a9465a-67cb-4f24-9d2f-910363c0339e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Aleksandra ... to be a doctor since she was a little girl.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "b254287d-1e63-4a0c-adc6-eb80aa941a75",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Aleksandra ... to be a doctor since she was a little girl."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "39b9fed4-dbf9-4905-a713-517952af426f",
+          "text": "have wanted",
+          "is_correct": false
+        },
+        {
+          "id": "b73f584f-5bc3-47b6-9dd8-a360a684d19f",
+          "text": "has wanted",
+          "is_correct": true
+        },
+        {
+          "id": "23a15bf8-461d-49ae-841a-571c95a356ee",
+          "text": "wanted",
+          "is_correct": false
+        },
+        {
+          "id": "9d3c9ce4-0e79-4f74-b619-aa674a0bd655",
+          "text": "has want",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b73f584f-5bc3-47b6-9dd8-a360a684d19f"
+      ]
+    },
+    {
+      "question_id": "71b92dac-ffe5-4169-b722-b3d5a7b6bdb1",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Enrique’s boss ... the work schedule for next month.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2f3737f1-e248-4368-9ba9-1fa348da192b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Enrique’s boss ... the work schedule for next month."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fdca909b-df0a-4c15-800d-7da09e9029bc",
+          "text": "has assign just",
+          "is_correct": false
+        },
+        {
+          "id": "5a91db58-dbda-4877-a4b2-17b49c1e6f67",
+          "text": "have just assigned",
+          "is_correct": false
+        },
+        {
+          "id": "e2eef72a-574a-4545-bf88-d69530e59760",
+          "text": "has just assigned",
+          "is_correct": true
+        },
+        {
+          "id": "51262340-4bd5-46df-b81a-58eb398a835e",
+          "text": "just assigned has",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e2eef72a-574a-4545-bf88-d69530e59760"
+      ]
+    },
+    {
+      "question_id": "9be13c7e-52c5-4177-b3a8-a36b4a676dee",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect negative form: Dominique ... his homework.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5ae048c0-49ff-46ab-9279-5890c9915f1e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect negative form: Dominique ... his homework."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "99f333fd-a9d8-4385-a347-b7fd3fe790bb",
+          "text": "have not finished",
+          "is_correct": false
+        },
+        {
+          "id": "2bd6331e-06f4-4d26-b954-0dac9c4d9bc8",
+          "text": "has not finished",
+          "is_correct": true
+        },
+        {
+          "id": "42c87134-af8b-4b7a-9d7c-74c54d61f2d6",
+          "text": "has not finish",
+          "is_correct": false
+        },
+        {
+          "id": "52fea699-c2c1-4359-a80b-8266a252d25e",
+          "text": "did not finished",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2bd6331e-06f4-4d26-b954-0dac9c4d9bc8"
+      ]
+    },
+    {
+      "question_id": "da3f0cbf-3911-457e-b642-1c8f2e7e4daa",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Lidia and Karin ... that movie three times.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "33dafcb6-6e86-4a02-9e8f-873ede6c6945",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Lidia and Karin ... that movie three times."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "24d81652-8d9d-44d2-a106-5a86021a993d",
+          "text": "has already seen",
+          "is_correct": false
+        },
+        {
+          "id": "0ce6b064-7e38-4afd-997a-1b3986aecd4d",
+          "text": "have already seen",
+          "is_correct": true
+        },
+        {
+          "id": "b6b62aef-864d-41d3-927c-56fb188d8b1d",
+          "text": "have already saw",
+          "is_correct": false
+        },
+        {
+          "id": "e41c25a4-a5c0-4b2d-87ab-e41b872732ce",
+          "text": "already have see",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0ce6b064-7e38-4afd-997a-1b3986aecd4d"
+      ]
+    },
+    {
+      "question_id": "d2f51802-57be-4142-8b36-a80110da8135",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. Maps. People have relied on maps for a very long time, although early maps were not always made on paper. Some of the first maps were carved or drawn on stone, and sometimes people simply sketched directions on the ground to guide travellers. The oldest surviving maps are about four thousand years old. A map is a visual representation of a place, and its main purpose is to help people move from one location to another. To use a map properly, however, a person must first know where they are. The ancient Greeks created a geographic grid by using the stars as reference points. They drew lines from north to south, called longitude, and lines from east to west, called latitude. With the help of these lines, people could identify their position and decide how to reach the place they wanted to visit. The use of stars for navigation had been known for a long time, so it is not surprising that early mapmakers depended greatly on the night sky to determine places. The Greeks were so interested in the stars that they produced many maps of the sky as well as maps of the land. Maps can also contain much more than physical features of the earth. Ancient maps often showed drawings of people and animals to explain who or what lived in certain places. Some maps included strange imaginary creatures, such as dragons or people with two heads. These maps were not only used to show locations; they also helped people understand what they might meet there and sometimes warned them about possible dangers. Many old maps had large empty spaces. For example, maps from the fifteenth and sixteenth centuries often showed coastlines in detail, while the inland parts were left mostly unknown. Today, because of satellite technology, people have detailed maps of even the most distant parts of the world. How old are the oldest surviving maps mentioned in the text?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b5a18a6f-e238-4add-b6cc-b8f7e6fe85fa",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. Maps. People have relied on maps for a very long time, although early maps were not always made on paper. Some of the first maps were carved or drawn on stone, and sometimes people simply sketched directions on the ground to guide travellers. The oldest surviving maps are about four thousand years old. A map is a visual representation of a place, and its main purpose is to help people move from one location to another. To use a map properly, however, a person must first know where they are. The ancient Greeks created a geographic grid by using the stars as reference points. They drew lines from north to south, called longitude, and lines from east to west, called latitude. With the help of these lines, people could identify their position and decide how to reach the place they wanted to visit. The use of stars for navigation had been known for a long time, so it is not surprising that early mapmakers depended greatly on the night sky to determine places. The Greeks were so interested in the stars that they produced many maps of the sky as well as maps of the land. Maps can also contain much more than physical features of the earth. Ancient maps often showed drawings of people and animals to explain who or what lived in certain places. Some maps included strange imaginary creatures, such as dragons or people with two heads. These maps were not only used to show locations; they also helped people understand what they might meet there and sometimes warned them about possible dangers. Many old maps had large empty spaces. For example, maps from the fifteenth and sixteenth centuries often showed coastlines in detail, while the inland parts were left mostly unknown. Today, because of satellite technology, people have detailed maps of even the most distant parts of the world. How old are the oldest surviving maps mentioned in the text?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "31681f93-d414-4faa-a5e7-a9b4a56c870f",
+          "text": "about 1,000 years old",
+          "is_correct": false
+        },
+        {
+          "id": "0646f19b-e8f5-4e0c-96f3-d8b4a9515ade",
+          "text": "about 3,000 years old",
+          "is_correct": false
+        },
+        {
+          "id": "0a55542e-86f6-47a0-b768-7d9e26109515",
+          "text": "about 2,000 years old",
+          "is_correct": false
+        },
+        {
+          "id": "348ba272-f5a8-498a-8a32-dd6614a9763d",
+          "text": "about 4,000 years old",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "348ba272-f5a8-498a-8a32-dd6614a9763d"
+      ]
+    },
+    {
+      "question_id": "462a1d10-f7a7-4e81-95d8-f6d88411a56a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Why did some early maps include pictures of people and animals?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "22cba93f-eb7a-4b83-baea-8161fe92ee9d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why did some early maps include pictures of people and animals?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "50260c3a-b83d-48d8-9490-0495650489f0",
+          "text": "to damage the image of a place",
+          "is_correct": false
+        },
+        {
+          "id": "de00fc01-7aee-4b43-b6fb-b5f75227cc0d",
+          "text": "to show what or who could be found in an area",
+          "is_correct": true
+        },
+        {
+          "id": "7ed78d73-9de3-4941-96c6-f32f52d1948d",
+          "text": "to make the map incorrect",
+          "is_correct": false
+        },
+        {
+          "id": "887ad993-b687-4ae6-b338-a38d4d57e51d",
+          "text": "to hide dangerous places",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "de00fc01-7aee-4b43-b6fb-b5f75227cc0d"
+      ]
+    },
+    {
+      "question_id": "c952c2e1-0c1b-4606-8688-13cc5f78a9ad",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What does latitude help to show?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "8412c69e-ea42-4cdf-9843-24409cfc4c54",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does latitude help to show?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "962f905c-c856-40bf-bbef-2ec1a35d2497",
+          "text": "a line that always goes from north to south",
+          "is_correct": false
+        },
+        {
+          "id": "ce1ded5c-ceb7-4655-8558-254ba003eba7",
+          "text": "complete freedom of movement",
+          "is_correct": false
+        },
+        {
+          "id": "23506b23-1a54-42b7-bb38-9b42efdbd377",
+          "text": "a person’s ability to act freely",
+          "is_correct": false
+        },
+        {
+          "id": "e3a8d00e-eefe-4f3d-a08a-9bc458eb4a54",
+          "text": "distance from the equator",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "e3a8d00e-eefe-4f3d-a08a-9bc458eb4a54"
+      ]
+    },
+    {
+      "question_id": "4ec8d2b6-ccd0-46f1-9bfd-4f3d884721e1",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What material was used for some of the earliest maps?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "997f2702-f0a6-4d5a-b869-d1ad110912bb",
+          "type": "TEXT",
+          "payload": {
+            "text": "What material was used for some of the earliest maps?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b7c8d4cd-87c1-49ad-976c-84ade88264d1",
+          "text": "pieces of paper",
+          "is_correct": false
+        },
+        {
+          "id": "a9815b13-bb6d-4097-81f9-275d16556e68",
+          "text": "pieces of stone",
+          "is_correct": true
+        },
+        {
+          "id": "3890ec28-c8aa-41a1-8cec-40dd01abe1d2",
+          "text": "Chinese silk",
+          "is_correct": false
+        },
+        {
+          "id": "4957096c-ff2e-468a-98f6-e2008aa2c4f7",
+          "text": "green leaves",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a9815b13-bb6d-4097-81f9-275d16556e68"
+      ]
+    },
+    {
+      "question_id": "57038dc5-263b-4d36-93c7-45e46dfd5361",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What technology helps people create detailed maps today?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d0e3333a-dbb5-4f38-87ad-940cd060716f",
+          "type": "TEXT",
+          "payload": {
+            "text": "What technology helps people create detailed maps today?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "498df4a8-116c-4466-a854-11414e74670e",
+          "text": "drawings of mythical creatures",
+          "is_correct": false
+        },
+        {
+          "id": "1bd818bd-3755-46fc-97ab-d93df930f12e",
+          "text": "different types of paper",
+          "is_correct": false
+        },
+        {
+          "id": "b6b9ae45-8e89-4c7c-8867-1fa26b77ea16",
+          "text": "satellite technology",
+          "is_correct": true
+        },
+        {
+          "id": "5390d027-c31f-416b-a66a-e35037034cfb",
+          "text": "ancient sky pictures",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b6b9ae45-8e89-4c7c-8867-1fa26b77ea16"
+      ]
+    },
+    {
+      "question_id": "c07e1297-1165-45f1-a28f-22b3bbe4f2b9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "The oldest maps that still exist are approximately how many years old?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c059563e-6d2d-4936-94e9-62164e759016",
+          "type": "TEXT",
+          "payload": {
+            "text": "The oldest maps that still exist are approximately how many years old?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "23baf3ce-ee1e-4b65-9a96-d3b78f802375",
+          "text": "1,000",
+          "is_correct": false
+        },
+        {
+          "id": "432b8818-7d01-4325-9cec-121b7f3374e9",
+          "text": "3,000",
+          "is_correct": false
+        },
+        {
+          "id": "391999ce-9f3c-4b3f-8f73-7ed828687a8c",
+          "text": "2,000",
+          "is_correct": false
+        },
+        {
+          "id": "767f096f-5355-4abe-ad43-157917326c42",
+          "text": "4,000",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "767f096f-5355-4abe-ad43-157917326c42"
+      ]
+    },
+    {
+      "question_id": "219f8af7-5e5f-444e-a90c-dd63f3dd81d9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Map-making is connected with creating what kind of representation?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c32a7800-6249-4d4c-915b-004363d7b9d0",
+          "type": "TEXT",
+          "payload": {
+            "text": "Map-making is connected with creating what kind of representation?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "07f25da1-6554-462f-8909-eaedaead6994",
+          "text": "plan-making",
+          "is_correct": false
+        },
+        {
+          "id": "46bd06d4-34d9-4dea-a63e-9d5e9fc9f538",
+          "text": "trip-making",
+          "is_correct": false
+        },
+        {
+          "id": "8b94f18b-78f0-4372-a4b2-197cce7ff4b0",
+          "text": "distance-making",
+          "is_correct": false
+        },
+        {
+          "id": "989f75d3-c761-49b0-8838-c3c4ae385447",
+          "text": "a two-dimensional drawing of an area",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "989f75d3-c761-49b0-8838-c3c4ae385447"
+      ]
+    },
+    {
+      "question_id": "425804c9-e878-411d-bc76-c0678a67593e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "According to the text, lines going from north to south are called what?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "da157f7c-ac81-4245-9717-be4798305319",
+          "type": "TEXT",
+          "payload": {
+            "text": "According to the text, lines going from north to south are called what?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "aa34d156-3557-402e-81f7-8cc9f0d176c7",
+          "text": "freedom from restriction",
+          "is_correct": false
+        },
+        {
+          "id": "6a21739c-412f-4eed-a97f-69dfec10a309",
+          "text": "scope for free action",
+          "is_correct": false
+        },
+        {
+          "id": "c01d4e88-82cc-438e-885a-9ef2e4ae980c",
+          "text": "longitude",
+          "is_correct": true
+        },
+        {
+          "id": "01228c1d-7516-424f-8aaf-689b9e8d85cc",
+          "text": "latitude",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c01d4e88-82cc-438e-885a-9ef2e4ae980c"
+      ]
+    },
+    {
+      "question_id": "1f07b80b-1587-4891-953c-c1b074749876",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What did the ancient Greeks use as reference points for their geographical grid?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c8971bd7-7355-46c4-9179-86af5925f1a7",
+          "type": "TEXT",
+          "payload": {
+            "text": "What did the ancient Greeks use as reference points for their geographical grid?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5944a476-446b-4c44-9bed-1a1fc809dcc2",
+          "text": "rivers",
+          "is_correct": false
+        },
+        {
+          "id": "d15307e4-bd71-45c9-94b5-2b7fe6946d8c",
+          "text": "mountains",
+          "is_correct": false
+        },
+        {
+          "id": "5eca3e7c-910e-4dfb-a54b-76db42859900",
+          "text": "stars",
+          "is_correct": true
+        },
+        {
+          "id": "a6d6da79-4852-46b5-9617-a25816dbaae9",
+          "text": "coastlines",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5eca3e7c-910e-4dfb-a54b-76db42859900"
+      ]
+    },
+    {
+      "question_id": "d2cde8db-a6e3-4bf3-b6e7-155e3d1db92a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Why did many maps from the 15th and 16th centuries have blank inland areas?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "58cf1927-b039-4ab1-bced-1fa7efdf608c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why did many maps from the 15th and 16th centuries have blank inland areas?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "035eade5-3ef8-4ad4-a1cb-491089076140",
+          "text": "because many inland regions were still not well known",
+          "is_correct": true
+        },
+        {
+          "id": "2a3911da-2633-4b09-affa-f1809cbb6c75",
+          "text": "because mapmakers disliked drawing land",
+          "is_correct": false
+        },
+        {
+          "id": "64995670-d26e-46e3-a93b-9f1426b9f27f",
+          "text": "because satellites could not print colours",
+          "is_correct": false
+        },
+        {
+          "id": "8b409eb5-8c35-4ba8-9826-296a06eb7b3b",
+          "text": "because coastlines were considered unimportant",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "035eade5-3ef8-4ad4-a1cb-491089076140"
+      ]
+    },
+    {
+      "question_id": "bea70359-abd0-4852-ae2c-59a9ff145324",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "«О сколько нам открытий чудных / Готовят просвещенья дух / И опыт, сын ошибок трудных, / И гений, парадоксов друг, / И случай, бог изобретатель...» — А.С. Пушкин. Какой популярной телепередаче 1973–2012 гг. эти строки служили заставкой?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2328659d-a09e-4539-b339-a2277c116339",
+          "type": "TEXT",
+          "payload": {
+            "text": "«О сколько нам открытий чудных / Готовят просвещенья дух / И опыт, сын ошибок трудных, / И гений, парадоксов друг, / И случай, бог изобретатель...» — А.С. Пушкин. Какой популярной телепередаче 1973–2012 гг. эти строки служили заставкой?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4baada37-1999-4a34-bec2-293890733852",
+          "text": "«Очевидные достижения»",
+          "is_correct": false
+        },
+        {
+          "id": "ae59a3a8-b4a4-42a1-8ef9-7d609f44e2d5",
+          "text": "«Очевидность невероятного»",
+          "is_correct": false
+        },
+        {
+          "id": "a9684e9c-8f59-48a9-b8d1-77807ddcf1dc",
+          "text": "«Очевидные открытия»",
+          "is_correct": false
+        },
+        {
+          "id": "193cb5c6-b49c-44a3-a65c-9e9a49108a81",
+          "text": "«Очевидное — невероятное»",
+          "is_correct": true
+        },
+        {
+          "id": "917cdf6c-d9e1-4dd9-9a50-a2c923801c8c",
+          "text": "«Очевидное — тайное»",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "193cb5c6-b49c-44a3-a65c-9e9a49108a81"
+      ]
+    },
+    {
+      "question_id": "2f1249c0-2e10-4bbe-a6da-dbed0d4f0f8c",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Механизм подражания в своей основе является у человека врожденным. Подражание является для высших животных важным механизмом приобретения опыта. Не меньшую роль оно играет и в процессе социализации человека. Почти весь человеческий опыт ребенок до трехлетнего возраста приобретает в общении с окружающими людьми через подражание.\n\nВнушение можно рассматривать как процесс, в результате которого происходит неосознанное воспроизводство человеком мыслей, чувств, психических свойств и состояний других людей, с которыми он общается.\n\nСоциальная фацилитация — это положительное стимулирующее влияние поведения одних людей на деятельность других, совершаемую в их присутствии или при их непосредственном участии. В результате социальной фацилитации действия человека становятся более раскованными, а мыслительные процессы протекают свободнее, активнее и интенсивнее. В обществе чужих людей, порождающих чувство тревоги и беспокойства, нередко наблюдается явление противоположного характера — социальная ингибиция, то есть торможение поведения и психических процессов субъекта общения.\n\nКонформным называют поведение человека, при котором он, осознанно расходясь в мнениях с окружающими людьми, тем не менее соглашается с ними, исходя из каких-либо конъюнктурных соображений. Конформность — это приспособленчество, следование чужому мнению, заранее и сознательно рассчитанное на то, чтобы не создавать себе лишних трудностей в общении и взаимодействии с людьми, добиться поставленных целей, погрешив против истины.\n\nКакой из механизмов социализации является осознанным?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "073c9b2f-48a0-4dab-9754-8751f2fc79fe",
+          "type": "TEXT",
+          "payload": {
+            "text": "Механизм подражания в своей основе является у человека врожденным. Подражание является для высших животных важным механизмом приобретения опыта. Не меньшую роль оно играет и в процессе социализации человека. Почти весь человеческий опыт ребенок до трехлетнего возраста приобретает в общении с окружающими людьми через подражание.\n\nВнушение можно рассматривать как процесс, в результате которого происходит неосознанное воспроизводство человеком мыслей, чувств, психических свойств и состояний других людей, с которыми он общается.\n\nСоциальная фацилитация — это положительное стимулирующее влияние поведения одних людей на деятельность других, совершаемую в их присутствии или при их непосредственном участии. В результате социальной фацилитации действия человека становятся более раскованными, а мыслительные процессы протекают свободнее, активнее и интенсивнее. В обществе чужих людей, порождающих чувство тревоги и беспокойства, нередко наблюдается явление противоположного характера — социальная ингибиция, то есть торможение поведения и психических процессов субъекта общения.\n\nКонформным называют поведение человека, при котором он, осознанно расходясь в мнениях с окружающими людьми, тем не менее соглашается с ними, исходя из каких-либо конъюнктурных соображений. Конформность — это приспособленчество, следование чужому мнению, заранее и сознательно рассчитанное на то, чтобы не создавать себе лишних трудностей в общении и взаимодействии с людьми, добиться поставленных целей, погрешив против истины.\n\nКакой из механизмов социализации является осознанным?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "51d0860d-0a0a-494f-b0b6-c795d939ba16",
+          "text": "внушение",
+          "is_correct": false
+        },
+        {
+          "id": "7ce28192-6fab-4527-b258-f93cea7c8409",
+          "text": "подражание",
+          "is_correct": false
+        },
+        {
+          "id": "105ccee4-ab2c-4ccb-9b61-b2ff5ee9e917",
+          "text": "социальная фацилитация",
+          "is_correct": false
+        },
+        {
+          "id": "287100ec-3475-477b-a377-ded173e16dcd",
+          "text": "социальная ингибиция",
+          "is_correct": false
+        },
+        {
+          "id": "6ed2eafe-3327-440f-97ed-6826c27326f3",
+          "text": "конформность",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "6ed2eafe-3327-440f-97ed-6826c27326f3"
+      ]
+    },
+    {
+      "question_id": "818a52eb-3c19-4e11-b343-6dab93480d3c",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "К необходимости обращения к философии психологов привела сложность и необычность проблем, с которыми они столкнулись. Многие вопросы психологии с большим трудом поддаются экспериментальному анализу и изучению с помощью естественнонаучных методов. Во многом они решаются философско-умозрительно. Человек не является полностью биологическим существом: он обитает между природой и обществом и одновременно принадлежит к этим двум реальностям. По этой причине в своем познании он не может быть полностью охвачен только методами какой-либо одной науки.\n\nМногие проблемы психологии современного человека — личностный смысл и цель жизни, мировоззрение, политические пристрастия и моральные ценности — выступают как общие и для социальной психологии, и для философии. В самой психологии есть немало вопросов, к решению которых невозможно подойти лабораторно-экспериментальным путем, но которые, тем не менее, приходится решать. При столкновении с такими проблемами психологи вынуждены обращаться к философии.\n\nСделайте анализ данного текста и выделите проблему, которую можно отнести к традиционно философско-психологическим.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "82607d55-17ff-4700-9f1e-d7cd43a5e0cc",
+          "type": "TEXT",
+          "payload": {
+            "text": "К необходимости обращения к философии психологов привела сложность и необычность проблем, с которыми они столкнулись. Многие вопросы психологии с большим трудом поддаются экспериментальному анализу и изучению с помощью естественнонаучных методов. Во многом они решаются философско-умозрительно. Человек не является полностью биологическим существом: он обитает между природой и обществом и одновременно принадлежит к этим двум реальностям. По этой причине в своем познании он не может быть полностью охвачен только методами какой-либо одной науки.\n\nМногие проблемы психологии современного человека — личностный смысл и цель жизни, мировоззрение, политические пристрастия и моральные ценности — выступают как общие и для социальной психологии, и для философии. В самой психологии есть немало вопросов, к решению которых невозможно подойти лабораторно-экспериментальным путем, но которые, тем не менее, приходится решать. При столкновении с такими проблемами психологи вынуждены обращаться к философии.\n\nСделайте анализ данного текста и выделите проблему, которую можно отнести к традиционно философско-психологическим."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cb8b060e-e608-4d30-a80a-6a3592119626",
+          "text": "сущность и происхождение человеческого сознания",
+          "is_correct": true
+        },
+        {
+          "id": "3b16ddaf-ca78-4b60-9dad-870aadb8591b",
+          "text": "совпадение диалектики, логики и теории познания",
+          "is_correct": false
+        },
+        {
+          "id": "f1985079-d951-4021-95d1-4cc80eace075",
+          "text": "диалектика абсолютной и относительной истины",
+          "is_correct": false
+        },
+        {
+          "id": "a161f85d-29bc-4e0a-975a-75a0ec7a2cf2",
+          "text": "асимметрия полушарий головного мозга",
+          "is_correct": false
+        },
+        {
+          "id": "8092cb70-d162-425d-a9f6-b146f5267b55",
+          "text": "статус личности в группе",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "cb8b060e-e608-4d30-a80a-6a3592119626"
+      ]
+    },
+    {
+      "question_id": "84ddf7cc-c787-4888-a267-1c45b0af268a",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Гегель полагал, что «философии не приписывается, подобно религии, в качестве содержания твердо определенная с самого начала истина… Содержание же христианства, которое есть истина, оставалось, как таковое, неизменным…». Выберите вариант, который лучше отражает отличие религии и философии.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "083f1494-ff67-4670-9789-448efbbf354f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Гегель полагал, что «философии не приписывается, подобно религии, в качестве содержания твердо определенная с самого начала истина… Содержание же христианства, которое есть истина, оставалось, как таковое, неизменным…». Выберите вариант, который лучше отражает отличие религии и философии."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7f304a4e-9ac1-4382-aab1-2ca769f10a2f",
+          "text": "Не следует приписывать философии претензию на истинность знания.",
+          "is_correct": false
+        },
+        {
+          "id": "8a973d5f-f9bf-437b-ade5-f49c1208f864",
+          "text": "Философы не могут определить истину, которую твердо знает религия.",
+          "is_correct": false
+        },
+        {
+          "id": "627515d0-9b03-4344-a475-96763d69fe61",
+          "text": "Христианство истинно, а философия истины не имеет.",
+          "is_correct": false
+        },
+        {
+          "id": "2f27d485-1dba-465c-804e-311dc0a2667b",
+          "text": "Недогматичность философии и догматичность религиозной веры.",
+          "is_correct": true
+        },
+        {
+          "id": "9f140d2c-e074-4b01-82b8-f9e8df092cbd",
+          "text": "В философии нет истинного знания, а в религии есть истина.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2f27d485-1dba-465c-804e-311dc0a2667b"
+      ]
+    },
+    {
+      "question_id": "78b54386-5a26-468c-807d-869e8d1eabe9",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Что такое общественная жизнь? Какова природа общественной жизни за многообразием её проявлений? К чему стремится человек, строя формы общественного бытия? Каково отношение социальной жизни к последним основаниям и ценностям жизни вообще? Предметную область какой отрасли философии объяснял через эти вопросы С.Л. Франк?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9a4b0a26-0f39-4209-9d50-e3606d1296d1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что такое общественная жизнь? Какова природа общественной жизни за многообразием её проявлений? К чему стремится человек, строя формы общественного бытия? Каково отношение социальной жизни к последним основаниям и ценностям жизни вообще? Предметную область какой отрасли философии объяснял через эти вопросы С.Л. Франк?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1c8e31ad-c677-4263-9530-38bc3a1ab0b1",
+          "text": "Социальная философия",
+          "is_correct": true
+        },
+        {
+          "id": "b4170447-d67b-4c51-bb5a-647e3feae599",
+          "text": "Философия социального познания",
+          "is_correct": false
+        },
+        {
+          "id": "1739a9d5-e26c-4e94-9f2e-586e4e579cab",
+          "text": "Философская онтология",
+          "is_correct": false
+        },
+        {
+          "id": "0b8ce4db-22f2-4574-b163-6c87b7b18ba8",
+          "text": "Философская антропология",
+          "is_correct": false
+        },
+        {
+          "id": "cd68dbce-6b20-4e72-8d9c-f1a4f4938a84",
+          "text": "Философия истории",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1c8e31ad-c677-4263-9530-38bc3a1ab0b1"
+      ]
+    },
+    {
+      "question_id": "2450d5fc-507e-4384-afdf-8fa59bdfe429",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Бір тауардың бағасы 800 теңге еді. Бағасы 25% арзандады. Жаңа бағасын табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d40b2948-f2f3-4467-9ecc-bd6d1e859bfe",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бір тауардың бағасы 800 теңге еді. Бағасы 25% арзандады. Жаңа бағасын табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8f18004a-65ad-4989-9b5e-cc77c45126ce",
+          "text": "500 теңге",
+          "is_correct": false
+        },
+        {
+          "id": "46abe254-94b0-44e5-ba41-c6b793735a07",
+          "text": "600 теңге",
+          "is_correct": true
+        },
+        {
+          "id": "8b917dfa-8f8f-49e4-b21e-773bd672d535",
+          "text": "650 теңге",
+          "is_correct": false
+        },
+        {
+          "id": "11b1e256-39c0-4133-9be3-88b0386c35ce",
+          "text": "700 теңге",
+          "is_correct": false
+        },
+        {
+          "id": "858897f5-ec10-44a9-9a0d-c3d331bcbc68",
+          "text": "750 теңге",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "46abe254-94b0-44e5-ba41-c6b793735a07"
+      ]
+    },
+    {
+      "question_id": "536e0cbe-130d-4b21-86de-ff33fbe99898",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Тік төртбұрыштың ұзындығы 12 см, ені 7 см. Оның ауданын табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f48de42a-8035-4b34-8fe1-3e4eb6d00432",
+          "type": "TEXT",
+          "payload": {
+            "text": "Тік төртбұрыштың ұзындығы 12 см, ені 7 см. Оның ауданын табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1dd3b149-f5b6-4c91-98ed-6d85f327a0de",
+          "text": "19 см²",
+          "is_correct": false
+        },
+        {
+          "id": "ba06f6db-63bc-4b13-b008-b56481a92241",
+          "text": "38 см²",
+          "is_correct": false
+        },
+        {
+          "id": "a7be4574-0339-447e-afda-4c48316f4121",
+          "text": "72 см²",
+          "is_correct": false
+        },
+        {
+          "id": "b2b2722e-1c62-4afd-af44-996a65c59dc5",
+          "text": "84 см²",
+          "is_correct": true
+        },
+        {
+          "id": "0324263a-fcc5-4a17-b5ec-2b8a805c2208",
+          "text": "96 см²",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b2b2722e-1c62-4afd-af44-996a65c59dc5"
+      ]
+    },
+    {
+      "question_id": "e180c481-39d0-4e95-b65d-c34bd76fb0ef",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Арифметикалық прогрессияның бірінші мүшесі 3-ке, айырмасы 4-ке тең. Оның 6-мүшесін табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "709c4860-6bbf-444c-9900-2b385ee86a92",
+          "type": "TEXT",
+          "payload": {
+            "text": "Арифметикалық прогрессияның бірінші мүшесі 3-ке, айырмасы 4-ке тең. Оның 6-мүшесін табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3498ee10-538b-4b3a-8948-8a8d0b20baef",
+          "text": "19",
+          "is_correct": false
+        },
+        {
+          "id": "9136ad88-91e6-4973-85fa-82a1cd015fac",
+          "text": "21",
+          "is_correct": false
+        },
+        {
+          "id": "436d19b0-47b5-4b04-b6cc-10b2556479e7",
+          "text": "23",
+          "is_correct": true
+        },
+        {
+          "id": "14c8bf75-d6e2-4c31-a61a-0825d0ddc7d0",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "id": "aa6d311c-6350-4f0f-bbe8-fb12ad285a16",
+          "text": "27",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "436d19b0-47b5-4b04-b6cc-10b2556479e7"
+      ]
+    },
+    {
+      "question_id": "11bb4d3b-98e2-40af-8c39-6a6e9f334153",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Вы владеете пекарней и продаете пироги с начинкой из ягод и фруктов. Раньше вы покупали по 2 кг каждого фрукта и ягоды, но из-за повышения аренды вынуждены покупать в 2 раза меньше дорогих ягод: малины и клубники. Все сэкономленные деньги вы добавляете в бюджет яблок. Сколько кг яблок вы покупаете?\nЯблоки — 300 тг/кг при покупке до 6 кг включительно; 250 тг/кг при покупке от 7 кг.\nМалина — 1500 тг/кг при покупке до 6 кг включительно; 1300 тг/кг при покупке от 7 кг.\nКлубника — 1400 тг/кг при покупке до 6 кг включительно; 1200 тг/кг при покупке от 7 кг.\nГруша — 800 тг/кг при покупке до 6 кг включительно; 650 тг/кг при покупке от 7 кг.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f2613e16-73c4-4e81-bd40-8fe64c24d85b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Вы владеете пекарней и продаете пироги с начинкой из ягод и фруктов. Раньше вы покупали по 2 кг каждого фрукта и ягоды, но из-за повышения аренды вынуждены покупать в 2 раза меньше дорогих ягод: малины и клубники. Все сэкономленные деньги вы добавляете в бюджет яблок. Сколько кг яблок вы покупаете?\nЯблоки — 300 тг/кг при покупке до 6 кг включительно; 250 тг/кг при покупке от 7 кг.\nМалина — 1500 тг/кг при покупке до 6 кг включительно; 1300 тг/кг при покупке от 7 кг.\nКлубника — 1400 тг/кг при покупке до 6 кг включительно; 1200 тг/кг при покупке от 7 кг.\nГруша — 800 тг/кг при покупке до 6 кг включительно; 650 тг/кг при покупке от 7 кг."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3cf9917b-bbd2-4835-9d59-3492242ee9cc",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "id": "a7c01693-30b9-4e74-bd36-f2276a436708",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "id": "a144871d-ce8a-4a6a-b22f-16abffd56406",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "c19bcabc-5c14-4aec-8ed6-ca27bafc506c",
+          "text": "14",
+          "is_correct": true
+        },
+        {
+          "id": "c6ce0f47-f8a5-41c8-a406-94afdd99b56e",
+          "text": "11",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c19bcabc-5c14-4aec-8ed6-ca27bafc506c"
+      ]
+    },
+    {
+      "question_id": "e001c1b5-5841-4383-b51b-9da10ce600e6",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "В группе из 14 человек 8 занимаются танцами, 6 занимаются вокалом, 3 не занимаются ничем. Найдите процент людей, которые занимаются только танцами.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6d92101f-2340-412c-a78b-0bff35754e89",
+          "type": "TEXT",
+          "payload": {
+            "text": "В группе из 14 человек 8 занимаются танцами, 6 занимаются вокалом, 3 не занимаются ничем. Найдите процент людей, которые занимаются только танцами."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c22cc3a6-7c5b-424a-8ec2-2db4aa8b50b6",
+          "text": "35 5/7%",
+          "is_correct": true
+        },
+        {
+          "id": "215cff32-c9d0-41c3-8205-ae5b3f5352a4",
+          "text": "38 5/7%",
+          "is_correct": false
+        },
+        {
+          "id": "04b195f3-bddf-4bc5-b1ac-77fa3ea59494",
+          "text": "36 5/7%",
+          "is_correct": false
+        },
+        {
+          "id": "227b9dbf-de50-493f-8dca-7c3e1eb9772b",
+          "text": "37 5/7%",
+          "is_correct": false
+        },
+        {
+          "id": "82f73589-aa6d-4b95-bf15-7b6f566f8bc5",
+          "text": "34 5/7%",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c22cc3a6-7c5b-424a-8ec2-2db4aa8b50b6"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 15,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "4bcb1e20-ceac-409f-8a1b-4d482ec8cb05",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "How do Anna and Pete think about the circus performers? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "685d4e9e-25ca-42c1-8656-00bcf58bac27",
+            "type": "TEXT",
+            "payload": {
+              "text": "How do Anna and Pete think about the circus performers?"
+            },
+            "position": 1
+          },
+          {
+            "id": "cb561166-9739-48d1-8d87-06a6986daeec",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "81d11807-b986-4469-90a3-37b58731419b",
+            "text": "Pete thinks they are interesting actors. Anna thinks they are athletic.",
+            "is_correct": false
+          },
+          {
+            "id": "6d861901-e4b8-4595-b424-82d029eb1b94",
+            "text": "They agree that circus performers are artists.",
+            "is_correct": false
+          },
+          {
+            "id": "3846b9a6-9d1e-48f9-92cb-c981c9c46616",
+            "text": "Anna thinks they are artists. Pete thinks they are athletes.",
+            "is_correct": true
+          },
+          {
+            "id": "044d9c39-63d0-4efe-8e41-06ecd5308715",
+            "text": "They both think that circus performers are skilled athletes.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3846b9a6-9d1e-48f9-92cb-c981c9c46616"
+        ]
+      },
+      {
+        "question_id": "f5b0a306-4f96-42a8-9aa3-1c0dc378d2dd",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What reason does Pete give for his opinion about circus arts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "2ef14685-e625-40a8-90a6-6daac23eca2e",
+            "type": "TEXT",
+            "payload": {
+              "text": "What reason does Pete give for his opinion about circus arts?"
+            },
+            "position": 1
+          },
+          {
+            "id": "82c91e3e-2afd-4465-974f-bcebc4b56b40",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "05d314eb-b5cb-4a25-866d-d8a6803a82c9",
+            "text": "It is not easy to swing from a bar and catch someone.",
+            "is_correct": false
+          },
+          {
+            "id": "0fd63110-a228-4da0-a58a-8d9b9e9dd5a5",
+            "text": "The performers are strong and have good skills.",
+            "is_correct": false
+          },
+          {
+            "id": "bf94c240-01d1-4154-a639-246d4f1fe0e6",
+            "text": "It takes a lot of skill to be a juggler.",
+            "is_correct": false
+          },
+          {
+            "id": "8c56d236-b80f-4772-93ed-05e1fcbbb8c5",
+            "text": "The performers are athletic but do not make art.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "8c56d236-b80f-4772-93ed-05e1fcbbb8c5"
+        ]
+      },
+      {
+        "question_id": "3437b3a7-6d04-4efc-aeeb-92bd621a7b40",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What reason does Anna give for her opinion about circus performers? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "47720029-96b4-4e57-a03e-fdeb987f487f",
+            "type": "TEXT",
+            "payload": {
+              "text": "What reason does Anna give for her opinion about circus performers?"
+            },
+            "position": 1
+          },
+          {
+            "id": "b1420be5-b805-4903-b72d-45607020c9cf",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "da1bc7a1-796e-416e-8544-833561d88952",
+            "text": "She says they have very nice costumes.",
+            "is_correct": false
+          },
+          {
+            "id": "5a24dad6-f68a-4980-ab4b-a36a61c1a52a",
+            "text": "Anna says the performers are telling a story.",
+            "is_correct": true
+          },
+          {
+            "id": "608a919c-34e7-4221-a257-8a16148b69fc",
+            "text": "They are doing physical tricks with great skill.",
+            "is_correct": false
+          },
+          {
+            "id": "f5554492-5962-442f-910c-ccee06713336",
+            "text": "It is difficult to twirl sticks while dancing.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5a24dad6-f68a-4980-ab4b-a36a61c1a52a"
+        ]
+      },
+      {
+        "question_id": "9694b054-7936-49f4-b4df-cc24a5fbb0af",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "How does the performer, Kate, show that performing in the circus is an art? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "58d99a8a-914d-4024-94e3-d6d30139d73f",
+            "type": "TEXT",
+            "payload": {
+              "text": "How does the performer, Kate, show that performing in the circus is an art?"
+            },
+            "position": 1
+          },
+          {
+            "id": "3b31ca44-d8be-4c63-8ba2-3e3b98308445",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "55fa7457-f740-447f-abdf-2a5b4ab5a782",
+            "text": "Kate says that it is art because they do not compete.",
+            "is_correct": true
+          },
+          {
+            "id": "88607074-17ab-4779-b9a6-ce1931010001",
+            "text": "They are more athletic than those who participate in sports.",
+            "is_correct": false
+          },
+          {
+            "id": "817550c8-60c0-4a97-9a52-08b4f5d1e4a7",
+            "text": "Kate says they do not have as much fun as athletes do.",
+            "is_correct": false
+          },
+          {
+            "id": "ef1dc3c0-7b15-49e2-8ef4-fc7a41a3c859",
+            "text": "They are hanging upside down while they perform.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "55fa7457-f740-447f-abdf-2a5b4ab5a782"
+        ]
+      },
+      {
+        "question_id": "e788801a-3869-4f40-98e1-7c426eb04b1f",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is today’s show about? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6a56764e-8708-410e-9a1f-9a420508b594",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is today’s show about?"
+            },
+            "position": 1
+          },
+          {
+            "id": "f4a8e70b-541c-4d2c-869f-652898f8f57a",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "805d7f20-c586-41c3-abce-658f1a048993",
+            "text": "Sports competition.",
+            "is_correct": false
+          },
+          {
+            "id": "03404b2e-a677-49dc-91a5-8ec25c37c76d",
+            "text": "Famous painters.",
+            "is_correct": false
+          },
+          {
+            "id": "32fa08be-5f08-4763-adfb-95a590f78653",
+            "text": "Circus Arts.",
+            "is_correct": true
+          },
+          {
+            "id": "03591ba3-deac-415b-8ae3-63a070aa1a37",
+            "text": "Theater history.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "32fa08be-5f08-4763-adfb-95a590f78653"
+        ]
+      },
+      {
+        "question_id": "1e2f5317-67f4-4e41-854a-8d60d481899c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "At first, what does Pete think about circus as an art form? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "744317d5-b9f5-4722-a541-471173a78d8e",
+            "type": "TEXT",
+            "payload": {
+              "text": "At first, what does Pete think about circus as an art form?"
+            },
+            "position": 1
+          },
+          {
+            "id": "7fed1fb8-9244-4274-a0cd-2cfe59617f8b",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "363008d7-7320-4d48-bfd2-3cb913bc99bf",
+            "text": "He thinks it is beautiful art.",
+            "is_correct": false
+          },
+          {
+            "id": "67058b69-68fd-4954-be10-4779f774adf1",
+            "text": "He thinks circus is not an art form.",
+            "is_correct": true
+          },
+          {
+            "id": "64acd5b0-c370-46b4-8de8-bda866ac9f40",
+            "text": "He thinks only juggling is art.",
+            "is_correct": false
+          },
+          {
+            "id": "cface37a-0cfd-4bd2-b913-16ab4557a592",
+            "text": "He thinks circus performers are painters.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "67058b69-68fd-4954-be10-4779f774adf1"
+        ]
+      },
+      {
+        "question_id": "ffc495cd-a17c-4ca6-aec8-18f80fe89f36",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Pete compare real artists to? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "3665b3b9-9705-4de2-a582-29685575e5b1",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Pete compare real artists to?"
+            },
+            "position": 1
+          },
+          {
+            "id": "c3a6f4aa-c392-48c4-9229-7f5e830329ec",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "96b16d51-0b59-4552-bfa0-2f2526ef8c55",
+            "text": "Kate and Piper.",
+            "is_correct": false
+          },
+          {
+            "id": "e5c2fa1e-7ad1-4490-9cfb-ba4fe4f6e60a",
+            "text": "High school teachers.",
+            "is_correct": false
+          },
+          {
+            "id": "453f8424-e137-4c2c-86aa-12425a310d21",
+            "text": "Jugglers and athletes.",
+            "is_correct": false
+          },
+          {
+            "id": "57da23d2-5879-49de-a141-d30bad5261f3",
+            "text": "Michelangelo and Rembrandt.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "57da23d2-5879-49de-a141-d30bad5261f3"
+        ]
+      },
+      {
+        "question_id": "933da685-534f-4fd0-8e37-f152b5accaaf",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What do Anna and Pete finally agree about before hearing from the performers? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "13dfc9fd-f938-4b56-8745-5d518b01021e",
+            "type": "TEXT",
+            "payload": {
+              "text": "What do Anna and Pete finally agree about before hearing from the performers?"
+            },
+            "position": 1
+          },
+          {
+            "id": "0bbba65f-d3be-49e6-9294-fad5bdd912fa",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "b1347f83-afdc-4c60-81f4-ca9f44ff93b3",
+            "text": "Circus performers are not artists.",
+            "is_correct": false
+          },
+          {
+            "id": "1880b3b3-e082-463a-a665-2e8eee78273b",
+            "text": "Circus performers should compete more.",
+            "is_correct": false
+          },
+          {
+            "id": "7fb0d211-b735-4254-9062-55454bca91cf",
+            "text": "The young performers are amazing.",
+            "is_correct": true
+          },
+          {
+            "id": "9244ba9f-e9ed-4100-8360-2856480eea84",
+            "text": "The costumes are not important.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7fb0d211-b735-4254-9062-55454bca91cf"
+        ]
+      },
+      {
+        "question_id": "f4cde6d7-5aa8-4a9e-be59-5593c17bbb8a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Piper say circus performers learn to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "138be405-3c77-4f2b-a31f-58afb893042d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Piper say circus performers learn to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "163f8907-fc43-4a1b-b8c1-7247eead8970",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "c259670e-35d2-418a-aba7-23c30850502c",
+            "text": "Compete against other performers.",
+            "is_correct": false
+          },
+          {
+            "id": "3d4b15e4-75d6-4a42-88f0-6cc108d3c6fe",
+            "text": "Paint costumes for the show.",
+            "is_correct": false
+          },
+          {
+            "id": "3a7f787e-b460-4376-951a-af2c68743e7b",
+            "text": "Embody characters and move fluidly and gracefully.",
+            "is_correct": true
+          },
+          {
+            "id": "ee834753-170d-431c-bd17-6a80cd5860a4",
+            "text": "Interview people upside down.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3a7f787e-b460-4376-951a-af2c68743e7b"
+        ]
+      },
+      {
+        "question_id": "237f454a-246c-4df9-8e5b-d2ef373fbd7d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Pete finally admit at the end? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "bdfa072b-fb76-4204-9964-3be25f8ec50e",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Pete finally admit at the end?"
+            },
+            "position": 1
+          },
+          {
+            "id": "9b1c676a-fe0c-475a-a059-12713b591380",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/2312887a41ec478382e55edff3a7e102.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/72917e65-d60a-4a5e-a468-20a996b8a219.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "6cbc2e67-d408-4c6d-862b-5a29fbb83ee7",
+            "text": "Anna was wrong.",
+            "is_correct": false
+          },
+          {
+            "id": "58c9e4fa-5969-43ea-a46a-d3bb08b2c2ac",
+            "text": "Circus performers are only athletes.",
+            "is_correct": false
+          },
+          {
+            "id": "439301e0-e34d-4850-9f5d-452135ea2c70",
+            "text": "Anna is right and circus arts are beautiful.",
+            "is_correct": true
+          },
+          {
+            "id": "74abefcd-3fcb-49b3-a0b9-8aa0bcb2f358",
+            "text": "He wants to join the circus.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "439301e0-e34d-4850-9f5d-452135ea2c70"
+        ]
+      },
+      {
+        "question_id": "eb1d5793-4600-4612-a21e-4448b0c8e3fa",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Eva and Yesica ... to many cities in California.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "814499f4-7e4a-409a-bfcf-f727a7adebc6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Eva and Yesica ... to many cities in California."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "31ea8ca3-6430-4c2d-a690-5234154e3000",
+            "text": "has traveled",
+            "is_correct": false
+          },
+          {
+            "id": "00512801-52f7-4c58-be36-33a74c1dab9d",
+            "text": "have traveled",
+            "is_correct": true
+          },
+          {
+            "id": "99065663-1e92-498b-a970-f9a96a85fd75",
+            "text": "traveled",
+            "is_correct": false
+          },
+          {
+            "id": "31cdab8e-b3fd-4948-9f08-9c62e77bfe85",
+            "text": "have travel",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "00512801-52f7-4c58-be36-33a74c1dab9d"
+        ]
+      },
+      {
+        "question_id": "8c748209-86a0-4ea6-8578-d6dc6c41be29",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Omar ... his homework.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "61568fe7-0d94-4f2c-b20d-0c9f4779f533",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Omar ... his homework."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e4c6eb68-cc6d-4ea0-bc59-4a7697cc68a3",
+            "text": "has completed",
+            "is_correct": true
+          },
+          {
+            "id": "a669c80b-84cc-4e0b-90bd-d5df7def561b",
+            "text": "have completed",
+            "is_correct": false
+          },
+          {
+            "id": "7eb1a28c-b59e-4f7c-ba75-5e8a7f21d5ac",
+            "text": "completed",
+            "is_correct": false
+          },
+          {
+            "id": "e2508a0a-15f8-45a7-8052-c9ce81141427",
+            "text": "has complete",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e4c6eb68-cc6d-4ea0-bc59-4a7697cc68a3"
+        ]
+      },
+      {
+        "question_id": "dd6ef0d5-99a2-4335-866a-9b429ad6fd63",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Nasra and Abeer ... care of each other for many years.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4ca69195-c286-453e-8261-7cf4fde6bc30",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Nasra and Abeer ... care of each other for many years."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6801633e-73bf-4bc1-8a34-9cca97a3e7da",
+            "text": "has taken",
+            "is_correct": false
+          },
+          {
+            "id": "291fb64d-1987-4df9-902d-9226ae48ac97",
+            "text": "have taken",
+            "is_correct": true
+          },
+          {
+            "id": "67a5c93a-7bac-479e-af72-e797c26d4def",
+            "text": "took",
+            "is_correct": false
+          },
+          {
+            "id": "e67462ac-7501-4a31-b90e-5448bc885cc3",
+            "text": "have took",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "291fb64d-1987-4df9-902d-9226ae48ac97"
+        ]
+      },
+      {
+        "question_id": "7b56dca9-b85e-4e2c-9af6-301dc3a22c58",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Igor ... the hot beverage, sahlab.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "5ffb4f63-24ac-4a38-aa77-6581aeca6635",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Igor ... the hot beverage, sahlab."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "74589bde-5417-4269-b230-355793311d2e",
+            "text": "has drank",
+            "is_correct": false
+          },
+          {
+            "id": "bf4ec992-428f-41cb-baac-81bc10b9f763",
+            "text": "have drunk",
+            "is_correct": false
+          },
+          {
+            "id": "8d2663d8-f739-4660-accf-9b9dca1dd523",
+            "text": "has drunk",
+            "is_correct": true
+          },
+          {
+            "id": "b041cdfc-8537-4b57-88bd-3e554f0372c7",
+            "text": "drank",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8d2663d8-f739-4660-accf-9b9dca1dd523"
+        ]
+      },
+      {
+        "question_id": "94b3ffa2-b744-44cb-afea-308a3760d5fb",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Agnes ... her homework late several times.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c1717bff-95c9-4839-ac4c-d2658fa2217f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Agnes ... her homework late several times."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "739e8523-e5a7-410d-8e61-cc2e95f3f25b",
+            "text": "have submitted",
+            "is_correct": false
+          },
+          {
+            "id": "bb27888a-73d2-4857-b73e-308092a2c360",
+            "text": "has submitted",
+            "is_correct": true
+          },
+          {
+            "id": "b51f3889-3ac4-4163-b9b3-4e37142348a1",
+            "text": "submitted",
+            "is_correct": false
+          },
+          {
+            "id": "e6d1a7ab-27ff-4f88-82bc-47053e7abbd0",
+            "text": "has submit",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bb27888a-73d2-4857-b73e-308092a2c360"
+        ]
+      },
+      {
+        "question_id": "ff2011d0-6546-4128-9c82-0dc5a3541df8",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Yuliya’s daughter ... for only two hours for the last two months.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "a266b875-3321-434f-bf24-923b0f24935e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Yuliya’s daughter ... for only two hours for the last two months."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "01150942-329e-42c3-a13c-eefb4f2b5db2",
+            "text": "have slept",
+            "is_correct": false
+          },
+          {
+            "id": "b9c3b716-8446-46dd-986e-f7e9aacb7456",
+            "text": "has slept",
+            "is_correct": true
+          },
+          {
+            "id": "c37a3e41-c541-47a2-8173-140e43d7fa19",
+            "text": "slept",
+            "is_correct": false
+          },
+          {
+            "id": "35b49092-4057-4082-a3cf-61ecce2bc7d9",
+            "text": "has sleep",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b9c3b716-8446-46dd-986e-f7e9aacb7456"
+        ]
+      },
+      {
+        "question_id": "67a9465a-67cb-4f24-9d2f-910363c0339e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Aleksandra ... to be a doctor since she was a little girl.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "b254287d-1e63-4a0c-adc6-eb80aa941a75",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Aleksandra ... to be a doctor since she was a little girl."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "39b9fed4-dbf9-4905-a713-517952af426f",
+            "text": "have wanted",
+            "is_correct": false
+          },
+          {
+            "id": "b73f584f-5bc3-47b6-9dd8-a360a684d19f",
+            "text": "has wanted",
+            "is_correct": true
+          },
+          {
+            "id": "23a15bf8-461d-49ae-841a-571c95a356ee",
+            "text": "wanted",
+            "is_correct": false
+          },
+          {
+            "id": "9d3c9ce4-0e79-4f74-b619-aa674a0bd655",
+            "text": "has want",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b73f584f-5bc3-47b6-9dd8-a360a684d19f"
+        ]
+      },
+      {
+        "question_id": "71b92dac-ffe5-4169-b722-b3d5a7b6bdb1",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Enrique’s boss ... the work schedule for next month.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2f3737f1-e248-4368-9ba9-1fa348da192b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Enrique’s boss ... the work schedule for next month."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fdca909b-df0a-4c15-800d-7da09e9029bc",
+            "text": "has assign just",
+            "is_correct": false
+          },
+          {
+            "id": "5a91db58-dbda-4877-a4b2-17b49c1e6f67",
+            "text": "have just assigned",
+            "is_correct": false
+          },
+          {
+            "id": "e2eef72a-574a-4545-bf88-d69530e59760",
+            "text": "has just assigned",
+            "is_correct": true
+          },
+          {
+            "id": "51262340-4bd5-46df-b81a-58eb398a835e",
+            "text": "just assigned has",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e2eef72a-574a-4545-bf88-d69530e59760"
+        ]
+      },
+      {
+        "question_id": "9be13c7e-52c5-4177-b3a8-a36b4a676dee",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect negative form: Dominique ... his homework.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5ae048c0-49ff-46ab-9279-5890c9915f1e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect negative form: Dominique ... his homework."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "99f333fd-a9d8-4385-a347-b7fd3fe790bb",
+            "text": "have not finished",
+            "is_correct": false
+          },
+          {
+            "id": "2bd6331e-06f4-4d26-b954-0dac9c4d9bc8",
+            "text": "has not finished",
+            "is_correct": true
+          },
+          {
+            "id": "42c87134-af8b-4b7a-9d7c-74c54d61f2d6",
+            "text": "has not finish",
+            "is_correct": false
+          },
+          {
+            "id": "52fea699-c2c1-4359-a80b-8266a252d25e",
+            "text": "did not finished",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2bd6331e-06f4-4d26-b954-0dac9c4d9bc8"
+        ]
+      },
+      {
+        "question_id": "da3f0cbf-3911-457e-b642-1c8f2e7e4daa",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Lidia and Karin ... that movie three times.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "33dafcb6-6e86-4a02-9e8f-873ede6c6945",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Lidia and Karin ... that movie three times."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "24d81652-8d9d-44d2-a106-5a86021a993d",
+            "text": "has already seen",
+            "is_correct": false
+          },
+          {
+            "id": "0ce6b064-7e38-4afd-997a-1b3986aecd4d",
+            "text": "have already seen",
+            "is_correct": true
+          },
+          {
+            "id": "b6b62aef-864d-41d3-927c-56fb188d8b1d",
+            "text": "have already saw",
+            "is_correct": false
+          },
+          {
+            "id": "e41c25a4-a5c0-4b2d-87ab-e41b872732ce",
+            "text": "already have see",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0ce6b064-7e38-4afd-997a-1b3986aecd4d"
+        ]
+      },
+      {
+        "question_id": "d2f51802-57be-4142-8b36-a80110da8135",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. Maps. People have relied on maps for a very long time, although early maps were not always made on paper. Some of the first maps were carved or drawn on stone, and sometimes people simply sketched directions on the ground to guide travellers. The oldest surviving maps are about four thousand years old. A map is a visual representation of a place, and its main purpose is to help people move from one location to another. To use a map properly, however, a person must first know where they are. The ancient Greeks created a geographic grid by using the stars as reference points. They drew lines from north to south, called longitude, and lines from east to west, called latitude. With the help of these lines, people could identify their position and decide how to reach the place they wanted to visit. The use of stars for navigation had been known for a long time, so it is not surprising that early mapmakers depended greatly on the night sky to determine places. The Greeks were so interested in the stars that they produced many maps of the sky as well as maps of the land. Maps can also contain much more than physical features of the earth. Ancient maps often showed drawings of people and animals to explain who or what lived in certain places. Some maps included strange imaginary creatures, such as dragons or people with two heads. These maps were not only used to show locations; they also helped people understand what they might meet there and sometimes warned them about possible dangers. Many old maps had large empty spaces. For example, maps from the fifteenth and sixteenth centuries often showed coastlines in detail, while the inland parts were left mostly unknown. Today, because of satellite technology, people have detailed maps of even the most distant parts of the world. How old are the oldest surviving maps mentioned in the text?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b5a18a6f-e238-4add-b6cc-b8f7e6fe85fa",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. Maps. People have relied on maps for a very long time, although early maps were not always made on paper. Some of the first maps were carved or drawn on stone, and sometimes people simply sketched directions on the ground to guide travellers. The oldest surviving maps are about four thousand years old. A map is a visual representation of a place, and its main purpose is to help people move from one location to another. To use a map properly, however, a person must first know where they are. The ancient Greeks created a geographic grid by using the stars as reference points. They drew lines from north to south, called longitude, and lines from east to west, called latitude. With the help of these lines, people could identify their position and decide how to reach the place they wanted to visit. The use of stars for navigation had been known for a long time, so it is not surprising that early mapmakers depended greatly on the night sky to determine places. The Greeks were so interested in the stars that they produced many maps of the sky as well as maps of the land. Maps can also contain much more than physical features of the earth. Ancient maps often showed drawings of people and animals to explain who or what lived in certain places. Some maps included strange imaginary creatures, such as dragons or people with two heads. These maps were not only used to show locations; they also helped people understand what they might meet there and sometimes warned them about possible dangers. Many old maps had large empty spaces. For example, maps from the fifteenth and sixteenth centuries often showed coastlines in detail, while the inland parts were left mostly unknown. Today, because of satellite technology, people have detailed maps of even the most distant parts of the world. How old are the oldest surviving maps mentioned in the text?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "31681f93-d414-4faa-a5e7-a9b4a56c870f",
+            "text": "about 1,000 years old",
+            "is_correct": false
+          },
+          {
+            "id": "0646f19b-e8f5-4e0c-96f3-d8b4a9515ade",
+            "text": "about 3,000 years old",
+            "is_correct": false
+          },
+          {
+            "id": "0a55542e-86f6-47a0-b768-7d9e26109515",
+            "text": "about 2,000 years old",
+            "is_correct": false
+          },
+          {
+            "id": "348ba272-f5a8-498a-8a32-dd6614a9763d",
+            "text": "about 4,000 years old",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "348ba272-f5a8-498a-8a32-dd6614a9763d"
+        ]
+      },
+      {
+        "question_id": "462a1d10-f7a7-4e81-95d8-f6d88411a56a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Why did some early maps include pictures of people and animals?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "22cba93f-eb7a-4b83-baea-8161fe92ee9d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why did some early maps include pictures of people and animals?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "50260c3a-b83d-48d8-9490-0495650489f0",
+            "text": "to damage the image of a place",
+            "is_correct": false
+          },
+          {
+            "id": "de00fc01-7aee-4b43-b6fb-b5f75227cc0d",
+            "text": "to show what or who could be found in an area",
+            "is_correct": true
+          },
+          {
+            "id": "7ed78d73-9de3-4941-96c6-f32f52d1948d",
+            "text": "to make the map incorrect",
+            "is_correct": false
+          },
+          {
+            "id": "887ad993-b687-4ae6-b338-a38d4d57e51d",
+            "text": "to hide dangerous places",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "de00fc01-7aee-4b43-b6fb-b5f75227cc0d"
+        ]
+      },
+      {
+        "question_id": "c952c2e1-0c1b-4606-8688-13cc5f78a9ad",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What does latitude help to show?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "8412c69e-ea42-4cdf-9843-24409cfc4c54",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does latitude help to show?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "962f905c-c856-40bf-bbef-2ec1a35d2497",
+            "text": "a line that always goes from north to south",
+            "is_correct": false
+          },
+          {
+            "id": "ce1ded5c-ceb7-4655-8558-254ba003eba7",
+            "text": "complete freedom of movement",
+            "is_correct": false
+          },
+          {
+            "id": "23506b23-1a54-42b7-bb38-9b42efdbd377",
+            "text": "a person’s ability to act freely",
+            "is_correct": false
+          },
+          {
+            "id": "e3a8d00e-eefe-4f3d-a08a-9bc458eb4a54",
+            "text": "distance from the equator",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "e3a8d00e-eefe-4f3d-a08a-9bc458eb4a54"
+        ]
+      },
+      {
+        "question_id": "4ec8d2b6-ccd0-46f1-9bfd-4f3d884721e1",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What material was used for some of the earliest maps?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "997f2702-f0a6-4d5a-b869-d1ad110912bb",
+            "type": "TEXT",
+            "payload": {
+              "text": "What material was used for some of the earliest maps?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b7c8d4cd-87c1-49ad-976c-84ade88264d1",
+            "text": "pieces of paper",
+            "is_correct": false
+          },
+          {
+            "id": "a9815b13-bb6d-4097-81f9-275d16556e68",
+            "text": "pieces of stone",
+            "is_correct": true
+          },
+          {
+            "id": "3890ec28-c8aa-41a1-8cec-40dd01abe1d2",
+            "text": "Chinese silk",
+            "is_correct": false
+          },
+          {
+            "id": "4957096c-ff2e-468a-98f6-e2008aa2c4f7",
+            "text": "green leaves",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a9815b13-bb6d-4097-81f9-275d16556e68"
+        ]
+      },
+      {
+        "question_id": "57038dc5-263b-4d36-93c7-45e46dfd5361",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What technology helps people create detailed maps today?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d0e3333a-dbb5-4f38-87ad-940cd060716f",
+            "type": "TEXT",
+            "payload": {
+              "text": "What technology helps people create detailed maps today?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "498df4a8-116c-4466-a854-11414e74670e",
+            "text": "drawings of mythical creatures",
+            "is_correct": false
+          },
+          {
+            "id": "1bd818bd-3755-46fc-97ab-d93df930f12e",
+            "text": "different types of paper",
+            "is_correct": false
+          },
+          {
+            "id": "b6b9ae45-8e89-4c7c-8867-1fa26b77ea16",
+            "text": "satellite technology",
+            "is_correct": true
+          },
+          {
+            "id": "5390d027-c31f-416b-a66a-e35037034cfb",
+            "text": "ancient sky pictures",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b6b9ae45-8e89-4c7c-8867-1fa26b77ea16"
+        ]
+      },
+      {
+        "question_id": "c07e1297-1165-45f1-a28f-22b3bbe4f2b9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "The oldest maps that still exist are approximately how many years old?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c059563e-6d2d-4936-94e9-62164e759016",
+            "type": "TEXT",
+            "payload": {
+              "text": "The oldest maps that still exist are approximately how many years old?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "23baf3ce-ee1e-4b65-9a96-d3b78f802375",
+            "text": "1,000",
+            "is_correct": false
+          },
+          {
+            "id": "432b8818-7d01-4325-9cec-121b7f3374e9",
+            "text": "3,000",
+            "is_correct": false
+          },
+          {
+            "id": "391999ce-9f3c-4b3f-8f73-7ed828687a8c",
+            "text": "2,000",
+            "is_correct": false
+          },
+          {
+            "id": "767f096f-5355-4abe-ad43-157917326c42",
+            "text": "4,000",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "767f096f-5355-4abe-ad43-157917326c42"
+        ]
+      },
+      {
+        "question_id": "219f8af7-5e5f-444e-a90c-dd63f3dd81d9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Map-making is connected with creating what kind of representation?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c32a7800-6249-4d4c-915b-004363d7b9d0",
+            "type": "TEXT",
+            "payload": {
+              "text": "Map-making is connected with creating what kind of representation?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "07f25da1-6554-462f-8909-eaedaead6994",
+            "text": "plan-making",
+            "is_correct": false
+          },
+          {
+            "id": "46bd06d4-34d9-4dea-a63e-9d5e9fc9f538",
+            "text": "trip-making",
+            "is_correct": false
+          },
+          {
+            "id": "8b94f18b-78f0-4372-a4b2-197cce7ff4b0",
+            "text": "distance-making",
+            "is_correct": false
+          },
+          {
+            "id": "989f75d3-c761-49b0-8838-c3c4ae385447",
+            "text": "a two-dimensional drawing of an area",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "989f75d3-c761-49b0-8838-c3c4ae385447"
+        ]
+      },
+      {
+        "question_id": "425804c9-e878-411d-bc76-c0678a67593e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "According to the text, lines going from north to south are called what?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "da157f7c-ac81-4245-9717-be4798305319",
+            "type": "TEXT",
+            "payload": {
+              "text": "According to the text, lines going from north to south are called what?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "aa34d156-3557-402e-81f7-8cc9f0d176c7",
+            "text": "freedom from restriction",
+            "is_correct": false
+          },
+          {
+            "id": "6a21739c-412f-4eed-a97f-69dfec10a309",
+            "text": "scope for free action",
+            "is_correct": false
+          },
+          {
+            "id": "c01d4e88-82cc-438e-885a-9ef2e4ae980c",
+            "text": "longitude",
+            "is_correct": true
+          },
+          {
+            "id": "01228c1d-7516-424f-8aaf-689b9e8d85cc",
+            "text": "latitude",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c01d4e88-82cc-438e-885a-9ef2e4ae980c"
+        ]
+      },
+      {
+        "question_id": "1f07b80b-1587-4891-953c-c1b074749876",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What did the ancient Greeks use as reference points for their geographical grid?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c8971bd7-7355-46c4-9179-86af5925f1a7",
+            "type": "TEXT",
+            "payload": {
+              "text": "What did the ancient Greeks use as reference points for their geographical grid?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5944a476-446b-4c44-9bed-1a1fc809dcc2",
+            "text": "rivers",
+            "is_correct": false
+          },
+          {
+            "id": "d15307e4-bd71-45c9-94b5-2b7fe6946d8c",
+            "text": "mountains",
+            "is_correct": false
+          },
+          {
+            "id": "5eca3e7c-910e-4dfb-a54b-76db42859900",
+            "text": "stars",
+            "is_correct": true
+          },
+          {
+            "id": "a6d6da79-4852-46b5-9617-a25816dbaae9",
+            "text": "coastlines",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5eca3e7c-910e-4dfb-a54b-76db42859900"
+        ]
+      },
+      {
+        "question_id": "d2cde8db-a6e3-4bf3-b6e7-155e3d1db92a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Why did many maps from the 15th and 16th centuries have blank inland areas?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "58cf1927-b039-4ab1-bced-1fa7efdf608c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why did many maps from the 15th and 16th centuries have blank inland areas?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "035eade5-3ef8-4ad4-a1cb-491089076140",
+            "text": "because many inland regions were still not well known",
+            "is_correct": true
+          },
+          {
+            "id": "2a3911da-2633-4b09-affa-f1809cbb6c75",
+            "text": "because mapmakers disliked drawing land",
+            "is_correct": false
+          },
+          {
+            "id": "64995670-d26e-46e3-a93b-9f1426b9f27f",
+            "text": "because satellites could not print colours",
+            "is_correct": false
+          },
+          {
+            "id": "8b409eb5-8c35-4ba8-9826-296a06eb7b3b",
+            "text": "because coastlines were considered unimportant",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "035eade5-3ef8-4ad4-a1cb-491089076140"
+        ]
+      },
+      {
+        "question_id": "bea70359-abd0-4852-ae2c-59a9ff145324",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "«О сколько нам открытий чудных / Готовят просвещенья дух / И опыт, сын ошибок трудных, / И гений, парадоксов друг, / И случай, бог изобретатель...» — А.С. Пушкин. Какой популярной телепередаче 1973–2012 гг. эти строки служили заставкой?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2328659d-a09e-4539-b339-a2277c116339",
+            "type": "TEXT",
+            "payload": {
+              "text": "«О сколько нам открытий чудных / Готовят просвещенья дух / И опыт, сын ошибок трудных, / И гений, парадоксов друг, / И случай, бог изобретатель...» — А.С. Пушкин. Какой популярной телепередаче 1973–2012 гг. эти строки служили заставкой?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4baada37-1999-4a34-bec2-293890733852",
+            "text": "«Очевидные достижения»",
+            "is_correct": false
+          },
+          {
+            "id": "ae59a3a8-b4a4-42a1-8ef9-7d609f44e2d5",
+            "text": "«Очевидность невероятного»",
+            "is_correct": false
+          },
+          {
+            "id": "a9684e9c-8f59-48a9-b8d1-77807ddcf1dc",
+            "text": "«Очевидные открытия»",
+            "is_correct": false
+          },
+          {
+            "id": "193cb5c6-b49c-44a3-a65c-9e9a49108a81",
+            "text": "«Очевидное — невероятное»",
+            "is_correct": true
+          },
+          {
+            "id": "917cdf6c-d9e1-4dd9-9a50-a2c923801c8c",
+            "text": "«Очевидное — тайное»",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "193cb5c6-b49c-44a3-a65c-9e9a49108a81"
+        ]
+      },
+      {
+        "question_id": "2f1249c0-2e10-4bbe-a6da-dbed0d4f0f8c",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Механизм подражания в своей основе является у человека врожденным. Подражание является для высших животных важным механизмом приобретения опыта. Не меньшую роль оно играет и в процессе социализации человека. Почти весь человеческий опыт ребенок до трехлетнего возраста приобретает в общении с окружающими людьми через подражание.\n\nВнушение можно рассматривать как процесс, в результате которого происходит неосознанное воспроизводство человеком мыслей, чувств, психических свойств и состояний других людей, с которыми он общается.\n\nСоциальная фацилитация — это положительное стимулирующее влияние поведения одних людей на деятельность других, совершаемую в их присутствии или при их непосредственном участии. В результате социальной фацилитации действия человека становятся более раскованными, а мыслительные процессы протекают свободнее, активнее и интенсивнее. В обществе чужих людей, порождающих чувство тревоги и беспокойства, нередко наблюдается явление противоположного характера — социальная ингибиция, то есть торможение поведения и психических процессов субъекта общения.\n\nКонформным называют поведение человека, при котором он, осознанно расходясь в мнениях с окружающими людьми, тем не менее соглашается с ними, исходя из каких-либо конъюнктурных соображений. Конформность — это приспособленчество, следование чужому мнению, заранее и сознательно рассчитанное на то, чтобы не создавать себе лишних трудностей в общении и взаимодействии с людьми, добиться поставленных целей, погрешив против истины.\n\nКакой из механизмов социализации является осознанным?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "073c9b2f-48a0-4dab-9754-8751f2fc79fe",
+            "type": "TEXT",
+            "payload": {
+              "text": "Механизм подражания в своей основе является у человека врожденным. Подражание является для высших животных важным механизмом приобретения опыта. Не меньшую роль оно играет и в процессе социализации человека. Почти весь человеческий опыт ребенок до трехлетнего возраста приобретает в общении с окружающими людьми через подражание.\n\nВнушение можно рассматривать как процесс, в результате которого происходит неосознанное воспроизводство человеком мыслей, чувств, психических свойств и состояний других людей, с которыми он общается.\n\nСоциальная фацилитация — это положительное стимулирующее влияние поведения одних людей на деятельность других, совершаемую в их присутствии или при их непосредственном участии. В результате социальной фацилитации действия человека становятся более раскованными, а мыслительные процессы протекают свободнее, активнее и интенсивнее. В обществе чужих людей, порождающих чувство тревоги и беспокойства, нередко наблюдается явление противоположного характера — социальная ингибиция, то есть торможение поведения и психических процессов субъекта общения.\n\nКонформным называют поведение человека, при котором он, осознанно расходясь в мнениях с окружающими людьми, тем не менее соглашается с ними, исходя из каких-либо конъюнктурных соображений. Конформность — это приспособленчество, следование чужому мнению, заранее и сознательно рассчитанное на то, чтобы не создавать себе лишних трудностей в общении и взаимодействии с людьми, добиться поставленных целей, погрешив против истины.\n\nКакой из механизмов социализации является осознанным?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "51d0860d-0a0a-494f-b0b6-c795d939ba16",
+            "text": "внушение",
+            "is_correct": false
+          },
+          {
+            "id": "7ce28192-6fab-4527-b258-f93cea7c8409",
+            "text": "подражание",
+            "is_correct": false
+          },
+          {
+            "id": "105ccee4-ab2c-4ccb-9b61-b2ff5ee9e917",
+            "text": "социальная фацилитация",
+            "is_correct": false
+          },
+          {
+            "id": "287100ec-3475-477b-a377-ded173e16dcd",
+            "text": "социальная ингибиция",
+            "is_correct": false
+          },
+          {
+            "id": "6ed2eafe-3327-440f-97ed-6826c27326f3",
+            "text": "конформность",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "6ed2eafe-3327-440f-97ed-6826c27326f3"
+        ]
+      },
+      {
+        "question_id": "818a52eb-3c19-4e11-b343-6dab93480d3c",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "К необходимости обращения к философии психологов привела сложность и необычность проблем, с которыми они столкнулись. Многие вопросы психологии с большим трудом поддаются экспериментальному анализу и изучению с помощью естественнонаучных методов. Во многом они решаются философско-умозрительно. Человек не является полностью биологическим существом: он обитает между природой и обществом и одновременно принадлежит к этим двум реальностям. По этой причине в своем познании он не может быть полностью охвачен только методами какой-либо одной науки.\n\nМногие проблемы психологии современного человека — личностный смысл и цель жизни, мировоззрение, политические пристрастия и моральные ценности — выступают как общие и для социальной психологии, и для философии. В самой психологии есть немало вопросов, к решению которых невозможно подойти лабораторно-экспериментальным путем, но которые, тем не менее, приходится решать. При столкновении с такими проблемами психологи вынуждены обращаться к философии.\n\nСделайте анализ данного текста и выделите проблему, которую можно отнести к традиционно философско-психологическим.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "82607d55-17ff-4700-9f1e-d7cd43a5e0cc",
+            "type": "TEXT",
+            "payload": {
+              "text": "К необходимости обращения к философии психологов привела сложность и необычность проблем, с которыми они столкнулись. Многие вопросы психологии с большим трудом поддаются экспериментальному анализу и изучению с помощью естественнонаучных методов. Во многом они решаются философско-умозрительно. Человек не является полностью биологическим существом: он обитает между природой и обществом и одновременно принадлежит к этим двум реальностям. По этой причине в своем познании он не может быть полностью охвачен только методами какой-либо одной науки.\n\nМногие проблемы психологии современного человека — личностный смысл и цель жизни, мировоззрение, политические пристрастия и моральные ценности — выступают как общие и для социальной психологии, и для философии. В самой психологии есть немало вопросов, к решению которых невозможно подойти лабораторно-экспериментальным путем, но которые, тем не менее, приходится решать. При столкновении с такими проблемами психологи вынуждены обращаться к философии.\n\nСделайте анализ данного текста и выделите проблему, которую можно отнести к традиционно философско-психологическим."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cb8b060e-e608-4d30-a80a-6a3592119626",
+            "text": "сущность и происхождение человеческого сознания",
+            "is_correct": true
+          },
+          {
+            "id": "3b16ddaf-ca78-4b60-9dad-870aadb8591b",
+            "text": "совпадение диалектики, логики и теории познания",
+            "is_correct": false
+          },
+          {
+            "id": "f1985079-d951-4021-95d1-4cc80eace075",
+            "text": "диалектика абсолютной и относительной истины",
+            "is_correct": false
+          },
+          {
+            "id": "a161f85d-29bc-4e0a-975a-75a0ec7a2cf2",
+            "text": "асимметрия полушарий головного мозга",
+            "is_correct": false
+          },
+          {
+            "id": "8092cb70-d162-425d-a9f6-b146f5267b55",
+            "text": "статус личности в группе",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "cb8b060e-e608-4d30-a80a-6a3592119626"
+        ]
+      },
+      {
+        "question_id": "84ddf7cc-c787-4888-a267-1c45b0af268a",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Гегель полагал, что «философии не приписывается, подобно религии, в качестве содержания твердо определенная с самого начала истина… Содержание же христианства, которое есть истина, оставалось, как таковое, неизменным…». Выберите вариант, который лучше отражает отличие религии и философии.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "083f1494-ff67-4670-9789-448efbbf354f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Гегель полагал, что «философии не приписывается, подобно религии, в качестве содержания твердо определенная с самого начала истина… Содержание же христианства, которое есть истина, оставалось, как таковое, неизменным…». Выберите вариант, который лучше отражает отличие религии и философии."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7f304a4e-9ac1-4382-aab1-2ca769f10a2f",
+            "text": "Не следует приписывать философии претензию на истинность знания.",
+            "is_correct": false
+          },
+          {
+            "id": "8a973d5f-f9bf-437b-ade5-f49c1208f864",
+            "text": "Философы не могут определить истину, которую твердо знает религия.",
+            "is_correct": false
+          },
+          {
+            "id": "627515d0-9b03-4344-a475-96763d69fe61",
+            "text": "Христианство истинно, а философия истины не имеет.",
+            "is_correct": false
+          },
+          {
+            "id": "2f27d485-1dba-465c-804e-311dc0a2667b",
+            "text": "Недогматичность философии и догматичность религиозной веры.",
+            "is_correct": true
+          },
+          {
+            "id": "9f140d2c-e074-4b01-82b8-f9e8df092cbd",
+            "text": "В философии нет истинного знания, а в религии есть истина.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2f27d485-1dba-465c-804e-311dc0a2667b"
+        ]
+      },
+      {
+        "question_id": "78b54386-5a26-468c-807d-869e8d1eabe9",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Что такое общественная жизнь? Какова природа общественной жизни за многообразием её проявлений? К чему стремится человек, строя формы общественного бытия? Каково отношение социальной жизни к последним основаниям и ценностям жизни вообще? Предметную область какой отрасли философии объяснял через эти вопросы С.Л. Франк?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9a4b0a26-0f39-4209-9d50-e3606d1296d1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что такое общественная жизнь? Какова природа общественной жизни за многообразием её проявлений? К чему стремится человек, строя формы общественного бытия? Каково отношение социальной жизни к последним основаниям и ценностям жизни вообще? Предметную область какой отрасли философии объяснял через эти вопросы С.Л. Франк?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1c8e31ad-c677-4263-9530-38bc3a1ab0b1",
+            "text": "Социальная философия",
+            "is_correct": true
+          },
+          {
+            "id": "b4170447-d67b-4c51-bb5a-647e3feae599",
+            "text": "Философия социального познания",
+            "is_correct": false
+          },
+          {
+            "id": "1739a9d5-e26c-4e94-9f2e-586e4e579cab",
+            "text": "Философская онтология",
+            "is_correct": false
+          },
+          {
+            "id": "0b8ce4db-22f2-4574-b163-6c87b7b18ba8",
+            "text": "Философская антропология",
+            "is_correct": false
+          },
+          {
+            "id": "cd68dbce-6b20-4e72-8d9c-f1a4f4938a84",
+            "text": "Философия истории",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1c8e31ad-c677-4263-9530-38bc3a1ab0b1"
+        ]
+      },
+      {
+        "question_id": "2450d5fc-507e-4384-afdf-8fa59bdfe429",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Бір тауардың бағасы 800 теңге еді. Бағасы 25% арзандады. Жаңа бағасын табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d40b2948-f2f3-4467-9ecc-bd6d1e859bfe",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бір тауардың бағасы 800 теңге еді. Бағасы 25% арзандады. Жаңа бағасын табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8f18004a-65ad-4989-9b5e-cc77c45126ce",
+            "text": "500 теңге",
+            "is_correct": false
+          },
+          {
+            "id": "46abe254-94b0-44e5-ba41-c6b793735a07",
+            "text": "600 теңге",
+            "is_correct": true
+          },
+          {
+            "id": "8b917dfa-8f8f-49e4-b21e-773bd672d535",
+            "text": "650 теңге",
+            "is_correct": false
+          },
+          {
+            "id": "11b1e256-39c0-4133-9be3-88b0386c35ce",
+            "text": "700 теңге",
+            "is_correct": false
+          },
+          {
+            "id": "858897f5-ec10-44a9-9a0d-c3d331bcbc68",
+            "text": "750 теңге",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "46abe254-94b0-44e5-ba41-c6b793735a07"
+        ]
+      },
+      {
+        "question_id": "536e0cbe-130d-4b21-86de-ff33fbe99898",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Тік төртбұрыштың ұзындығы 12 см, ені 7 см. Оның ауданын табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f48de42a-8035-4b34-8fe1-3e4eb6d00432",
+            "type": "TEXT",
+            "payload": {
+              "text": "Тік төртбұрыштың ұзындығы 12 см, ені 7 см. Оның ауданын табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1dd3b149-f5b6-4c91-98ed-6d85f327a0de",
+            "text": "19 см²",
+            "is_correct": false
+          },
+          {
+            "id": "ba06f6db-63bc-4b13-b008-b56481a92241",
+            "text": "38 см²",
+            "is_correct": false
+          },
+          {
+            "id": "a7be4574-0339-447e-afda-4c48316f4121",
+            "text": "72 см²",
+            "is_correct": false
+          },
+          {
+            "id": "b2b2722e-1c62-4afd-af44-996a65c59dc5",
+            "text": "84 см²",
+            "is_correct": true
+          },
+          {
+            "id": "0324263a-fcc5-4a17-b5ec-2b8a805c2208",
+            "text": "96 см²",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b2b2722e-1c62-4afd-af44-996a65c59dc5"
+        ]
+      },
+      {
+        "question_id": "e180c481-39d0-4e95-b65d-c34bd76fb0ef",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Арифметикалық прогрессияның бірінші мүшесі 3-ке, айырмасы 4-ке тең. Оның 6-мүшесін табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "709c4860-6bbf-444c-9900-2b385ee86a92",
+            "type": "TEXT",
+            "payload": {
+              "text": "Арифметикалық прогрессияның бірінші мүшесі 3-ке, айырмасы 4-ке тең. Оның 6-мүшесін табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3498ee10-538b-4b3a-8948-8a8d0b20baef",
+            "text": "19",
+            "is_correct": false
+          },
+          {
+            "id": "9136ad88-91e6-4973-85fa-82a1cd015fac",
+            "text": "21",
+            "is_correct": false
+          },
+          {
+            "id": "436d19b0-47b5-4b04-b6cc-10b2556479e7",
+            "text": "23",
+            "is_correct": true
+          },
+          {
+            "id": "14c8bf75-d6e2-4c31-a61a-0825d0ddc7d0",
+            "text": "25",
+            "is_correct": false
+          },
+          {
+            "id": "aa6d311c-6350-4f0f-bbe8-fb12ad285a16",
+            "text": "27",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "436d19b0-47b5-4b04-b6cc-10b2556479e7"
+        ]
+      },
+      {
+        "question_id": "11bb4d3b-98e2-40af-8c39-6a6e9f334153",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Вы владеете пекарней и продаете пироги с начинкой из ягод и фруктов. Раньше вы покупали по 2 кг каждого фрукта и ягоды, но из-за повышения аренды вынуждены покупать в 2 раза меньше дорогих ягод: малины и клубники. Все сэкономленные деньги вы добавляете в бюджет яблок. Сколько кг яблок вы покупаете?\nЯблоки — 300 тг/кг при покупке до 6 кг включительно; 250 тг/кг при покупке от 7 кг.\nМалина — 1500 тг/кг при покупке до 6 кг включительно; 1300 тг/кг при покупке от 7 кг.\nКлубника — 1400 тг/кг при покупке до 6 кг включительно; 1200 тг/кг при покупке от 7 кг.\nГруша — 800 тг/кг при покупке до 6 кг включительно; 650 тг/кг при покупке от 7 кг.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f2613e16-73c4-4e81-bd40-8fe64c24d85b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Вы владеете пекарней и продаете пироги с начинкой из ягод и фруктов. Раньше вы покупали по 2 кг каждого фрукта и ягоды, но из-за повышения аренды вынуждены покупать в 2 раза меньше дорогих ягод: малины и клубники. Все сэкономленные деньги вы добавляете в бюджет яблок. Сколько кг яблок вы покупаете?\nЯблоки — 300 тг/кг при покупке до 6 кг включительно; 250 тг/кг при покупке от 7 кг.\nМалина — 1500 тг/кг при покупке до 6 кг включительно; 1300 тг/кг при покупке от 7 кг.\nКлубника — 1400 тг/кг при покупке до 6 кг включительно; 1200 тг/кг при покупке от 7 кг.\nГруша — 800 тг/кг при покупке до 6 кг включительно; 650 тг/кг при покупке от 7 кг."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3cf9917b-bbd2-4835-9d59-3492242ee9cc",
+            "text": "15",
+            "is_correct": false
+          },
+          {
+            "id": "a7c01693-30b9-4e74-bd36-f2276a436708",
+            "text": "13",
+            "is_correct": false
+          },
+          {
+            "id": "a144871d-ce8a-4a6a-b22f-16abffd56406",
+            "text": "12",
+            "is_correct": false
+          },
+          {
+            "id": "c19bcabc-5c14-4aec-8ed6-ca27bafc506c",
+            "text": "14",
+            "is_correct": true
+          },
+          {
+            "id": "c6ce0f47-f8a5-41c8-a406-94afdd99b56e",
+            "text": "11",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c19bcabc-5c14-4aec-8ed6-ca27bafc506c"
+        ]
+      },
+      {
+        "question_id": "e001c1b5-5841-4383-b51b-9da10ce600e6",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "В группе из 14 человек 8 занимаются танцами, 6 занимаются вокалом, 3 не занимаются ничем. Найдите процент людей, которые занимаются только танцами.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6d92101f-2340-412c-a78b-0bff35754e89",
+            "type": "TEXT",
+            "payload": {
+              "text": "В группе из 14 человек 8 занимаются танцами, 6 занимаются вокалом, 3 не занимаются ничем. Найдите процент людей, которые занимаются только танцами."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c22cc3a6-7c5b-424a-8ec2-2db4aa8b50b6",
+            "text": "35 5/7%",
+            "is_correct": true
+          },
+          {
+            "id": "215cff32-c9d0-41c3-8205-ae5b3f5352a4",
+            "text": "38 5/7%",
+            "is_correct": false
+          },
+          {
+            "id": "04b195f3-bddf-4bc5-b1ac-77fa3ea59494",
+            "text": "36 5/7%",
+            "is_correct": false
+          },
+          {
+            "id": "227b9dbf-de50-493f-8dca-7c3e1eb9772b",
+            "text": "37 5/7%",
+            "is_correct": false
+          },
+          {
+            "id": "82f73589-aa6d-4b95-bf15-7b6f566f8bc5",
+            "text": "34 5/7%",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c22cc3a6-7c5b-424a-8ec2-2db4aa8b50b6"
+        ]
+      }
+    ]
+  }
+}

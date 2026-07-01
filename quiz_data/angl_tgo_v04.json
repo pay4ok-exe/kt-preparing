@@ -1,0 +1,3757 @@
+{
+  "variant_id": "angl_tgo_v04",
+  "title": "Английский + ТГО — Вариант 4",
+  "total_count": 40,
+  "attempt_id": "7e9db1f0-ef24-48c8-aa36-71c3e92c2131",
+  "questions": [
+    {
+      "question_id": "fde9396c-e62f-4db6-9081-6b30182e9f82",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Choose the sentence with a past perfect verb tense. [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "077e2e80-50bb-4356-8b21-6f8d2a4803ce",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the sentence with a past perfect verb tense."
+          },
+          "position": 1
+        },
+        {
+          "id": "0c05f591-31a2-4357-863c-cbc6cd582c35",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "03ae7911-f293-4f12-95b9-d15779ac6653",
+          "text": "Pete and I are meeting with a consultant who will help us with our new show.",
+          "is_correct": false
+        },
+        {
+          "id": "6e496f36-d183-4c3b-b7c3-7a9a93aa6ea1",
+          "text": "Yesterday, Pete had promised to meet me here at 8:00 a.m. but he did not come on time.",
+          "is_correct": true
+        },
+        {
+          "id": "ee61db5e-9384-4284-92c3-a35daf06ad6c",
+          "text": "She had to feed her birds -- HER birds!",
+          "is_correct": false
+        },
+        {
+          "id": "a394774c-979a-40ca-9900-ecf3b74e7093",
+          "text": "He had to get his \"special\" coffee -- SPECIAL coffee!",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6e496f36-d183-4c3b-b7c3-7a9a93aa6ea1"
+      ]
+    },
+    {
+      "question_id": "f031856a-4d15-4c88-bc8e-6bcf6f564e3e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna say about why she and Pete are late? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b018a5df-2929-4c90-8356-a004b1d99715",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna say about why she and Pete are late?"
+          },
+          "position": 1
+        },
+        {
+          "id": "ca734cdd-6b85-4e81-9c5a-fdd658d211c5",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "a311d6cc-ea1e-43ba-b8df-f291b005dbdc",
+          "text": "Pete took too long to get his special coffee.",
+          "is_correct": true
+        },
+        {
+          "id": "2325ee2b-fd12-4a6e-a249-783902250d41",
+          "text": "Anna was talking with Pete for a long time.",
+          "is_correct": false
+        },
+        {
+          "id": "c035bd1c-70f4-441c-83c2-8a1c9d586771",
+          "text": "Pete did not come to the coffee shop.",
+          "is_correct": false
+        },
+        {
+          "id": "02b574e9-e57f-4e13-abab-9525f4e75d8b",
+          "text": "They left their apartment too late.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a311d6cc-ea1e-43ba-b8df-f291b005dbdc"
+      ]
+    },
+    {
+      "question_id": "0d3a799f-4554-49a4-b672-efb0cb617d54",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Pete say about why he and Anna are late? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "691717fe-035c-4e17-9069-39f7d336ba6d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Pete say about why he and Anna are late?"
+          },
+          "position": 1
+        },
+        {
+          "id": "f662d5e1-31d5-4510-a6c4-bcb7cf40e3c7",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "4a8b90e4-e70f-46e8-8903-763e798af53d",
+          "text": "Pete’s scooter was too small.",
+          "is_correct": false
+        },
+        {
+          "id": "1a4e4ba1-7a50-4fb8-9167-8095ac3ac83b",
+          "text": "Anna was standing near a tree.",
+          "is_correct": false
+        },
+        {
+          "id": "84ba549d-3b32-4209-a770-675d48c860e1",
+          "text": "Pete did not know what time to meet Anna.",
+          "is_correct": false
+        },
+        {
+          "id": "626c93ec-09cc-430d-a8e0-44a5b9653935",
+          "text": "Anna wanted to ride scooters and feed the birds.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "626c93ec-09cc-430d-a8e0-44a5b9653935"
+      ]
+    },
+    {
+      "question_id": "1415903b-71c3-4c8d-9212-c8eb82cb2314",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is Kelly’s idea? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b9b8e9d6-8ace-41b9-ac07-e27ac7caf16b",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is Kelly’s idea?"
+          },
+          "position": 1
+        },
+        {
+          "id": "4f890c2c-7bb2-4660-bf7e-e84009323c0f",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d4c6ad65-8ef4-403a-aca2-fefab71705ff",
+          "text": "Pete and Anna should learn how to understand each other.",
+          "is_correct": false
+        },
+        {
+          "id": "4add64c0-16bb-45b6-b8f8-5716e24cb15a",
+          "text": "Anna should always agree with Pete’s ideas.",
+          "is_correct": false
+        },
+        {
+          "id": "29492342-df77-40d4-8603-0da55a652345",
+          "text": "Pete and Anna should tell their different points of view on their show.",
+          "is_correct": true
+        },
+        {
+          "id": "d132c957-6d0c-4714-bedc-4f758a9a5b88",
+          "text": "Anna’s point of view is too different from Pete’s.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "29492342-df77-40d4-8603-0da55a652345"
+      ]
+    },
+    {
+      "question_id": "5834df53-6205-4cca-b9e6-391dcac84996",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why are Anna and Pete meeting with Kelly? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a4db9194-3ea5-4d81-91bf-e8f6fc4fed4f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why are Anna and Pete meeting with Kelly?"
+          },
+          "position": 1
+        },
+        {
+          "id": "124a21a7-7634-4b4c-92a9-7b4c22daccc3",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "68d67a4a-bd34-435d-84a8-95da2c7ad952",
+          "text": "Kelly wants to give them a new apartment.",
+          "is_correct": false
+        },
+        {
+          "id": "43b356d9-7073-45e1-8b78-ab6fbaecb160",
+          "text": "Kelly wants to teach them how to ride scooters.",
+          "is_correct": false
+        },
+        {
+          "id": "6c395d8a-f423-4a3d-b331-3f7f9271d750",
+          "text": "Kelly is a consultant who will help them with their new show.",
+          "is_correct": true
+        },
+        {
+          "id": "0aabb0bd-3e69-4f74-b48c-45617def5752",
+          "text": "Kelly is interviewing Pete for a new job.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6c395d8a-f423-4a3d-b331-3f7f9271d750"
+      ]
+    },
+    {
+      "question_id": "cc1a6147-5748-48f1-bf88-659425953594",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "How late are Anna and Pete for the meeting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "550be2e0-a7dc-44ac-8b31-bcdb6584f086",
+          "type": "TEXT",
+          "payload": {
+            "text": "How late are Anna and Pete for the meeting?"
+          },
+          "position": 1
+        },
+        {
+          "id": "9af5aac7-04fb-4178-bcf8-e82b19e2570e",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "3e42aa34-930d-47e4-94a6-f8f017470031",
+          "text": "15 minutes late.",
+          "is_correct": false
+        },
+        {
+          "id": "1e37c04b-192a-44f0-9cc6-a8fff5b447b4",
+          "text": "30 minutes late.",
+          "is_correct": false
+        },
+        {
+          "id": "06d0175d-a60d-468c-a929-a5627dd5ebbd",
+          "text": "43 minutes late.",
+          "is_correct": true
+        },
+        {
+          "id": "873ebe4c-98d2-49e3-919f-b896de6c01c3",
+          "text": "8 minutes late.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "06d0175d-a60d-468c-a929-a5627dd5ebbd"
+      ]
+    },
+    {
+      "question_id": "02d5a1b5-d8a7-4d35-b127-aa4a2dbd3b63",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Kelly tell Anna and Pete to do when they both start talking? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "fd5fb5d7-fcba-41b0-a730-6b122a4f7aea",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Kelly tell Anna and Pete to do when they both start talking?"
+          },
+          "position": 1
+        },
+        {
+          "id": "84f198e1-2957-44e1-9b2c-4cc8b6ee8d25",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "7e0cb877-90f6-42ba-8d4c-2dea1d8bc939",
+          "text": "Speak louder.",
+          "is_correct": false
+        },
+        {
+          "id": "afbad967-ea13-429b-9dcc-c8fb4a5fb95e",
+          "text": "Leave the meeting.",
+          "is_correct": false
+        },
+        {
+          "id": "fa3ba8af-a7a9-4409-9e8b-07b2f48324b9",
+          "text": "Take turns.",
+          "is_correct": true
+        },
+        {
+          "id": "d0c18d75-b615-4868-9e52-d20cab0d7336",
+          "text": "Write a message.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "fa3ba8af-a7a9-4409-9e8b-07b2f48324b9"
+      ]
+    },
+    {
+      "question_id": "9f5cec97-e36c-44c6-ac7a-98afc2622476",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "According to Anna, how long did she wait before Pete arrived? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "257fcec0-4064-4c6f-842d-26d750c24be5",
+          "type": "TEXT",
+          "payload": {
+            "text": "According to Anna, how long did she wait before Pete arrived?"
+          },
+          "position": 1
+        },
+        {
+          "id": "111ddc51-3e91-4f98-9c00-e31505126562",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "342462a1-c8f0-4f03-9b39-6d7c3c9b5692",
+          "text": "15 minutes.",
+          "is_correct": true
+        },
+        {
+          "id": "652ececd-f071-4182-ab01-cb95ef7facd2",
+          "text": "43 minutes.",
+          "is_correct": false
+        },
+        {
+          "id": "5f56d15a-f727-406e-b7a9-f7480f5de27a",
+          "text": "8 minutes.",
+          "is_correct": false
+        },
+        {
+          "id": "27e9333e-a2e3-49b9-8b5e-4f8f83ab9f1e",
+          "text": "30 minutes.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "342462a1-c8f0-4f03-9b39-6d7c3c9b5692"
+      ]
+    },
+    {
+      "question_id": "70c3e28a-d744-41a4-816b-9be9b458b615",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why did Pete dislike the scooter? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "73ec3aee-1d04-4129-b092-13870e7362a1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why did Pete dislike the scooter?"
+          },
+          "position": 1
+        },
+        {
+          "id": "4db29f49-6378-42ec-a89d-1b818cd7762c",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "ccbb82ba-61a4-4c7b-98ef-94d66e508baf",
+          "text": "It was too expensive.",
+          "is_correct": false
+        },
+        {
+          "id": "223ba0af-a0b3-4aae-8adf-1c1600b8ee5f",
+          "text": "It was broken.",
+          "is_correct": false
+        },
+        {
+          "id": "d7dc092c-4179-4d39-afb8-f296f2afbb88",
+          "text": "He hated it and thought it added too much time to their commute.",
+          "is_correct": true
+        },
+        {
+          "id": "90eb8c18-7ab2-4257-b2f3-ce5d5c6ff921",
+          "text": "Anna did not know how to ride it.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d7dc092c-4179-4d39-afb8-f296f2afbb88"
+      ]
+    },
+    {
+      "question_id": "dc12b290-f60a-40a5-8347-f07f8c772d42",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What had Anna named the birds after? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "8d6dbc17-09b4-43d8-8fcd-4783b251ef7e",
+          "type": "TEXT",
+          "payload": {
+            "text": "What had Anna named the birds after?"
+          },
+          "position": 1
+        },
+        {
+          "id": "dd225c2f-f9c9-4070-aab3-42bea34b010d",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "c51946a9-727f-4051-86e4-e7ef15ce3972",
+          "text": "Famous reporters.",
+          "is_correct": false
+        },
+        {
+          "id": "0926eb39-0427-4c2b-8251-382cfce55263",
+          "text": "Places in the city.",
+          "is_correct": false
+        },
+        {
+          "id": "53407fe3-669b-4ec3-bd39-22c8f9625f02",
+          "text": "Characters from books.",
+          "is_correct": true
+        },
+        {
+          "id": "31af15c0-7fd1-48c3-a8d4-1b2982647da9",
+          "text": "People from The Studio.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "53407fe3-669b-4ec3-bd39-22c8f9625f02"
+      ]
+    },
+    {
+      "question_id": "6a6ca3e3-bbcf-4b77-96a2-f9da05167277",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal: According to my counselor, I ... meet with a tutor to improve my writing.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "bb4b31a3-c128-4b13-addd-ce6855cdfedc",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal: According to my counselor, I ... meet with a tutor to improve my writing."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "aa34241e-3675-4625-945d-462b5fef3ab9",
+          "text": "should",
+          "is_correct": true
+        },
+        {
+          "id": "e1c2ff2c-4acf-4ada-95d5-23470b9f1fb6",
+          "text": "must",
+          "is_correct": false
+        },
+        {
+          "id": "560e211f-0be7-433a-8fa1-21f04716e316",
+          "text": "might",
+          "is_correct": false
+        },
+        {
+          "id": "d52bae8d-6c42-40b7-9584-90d4ee8118b1",
+          "text": "will",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "aa34241e-3675-4625-945d-462b5fef3ab9"
+      ]
+    },
+    {
+      "question_id": "fe8d33f2-0432-4ae9-8fcd-93cd283e51bb",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal: Plants ... have water in order to live.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "93e865a1-7de7-4b6d-9db7-c8d2f1475193",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal: Plants ... have water in order to live."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3a396d70-ff99-4c6a-8528-143defde1ce5",
+          "text": "should",
+          "is_correct": false
+        },
+        {
+          "id": "55038aa7-dc06-4a09-813d-8d5c70f38908",
+          "text": "must",
+          "is_correct": true
+        },
+        {
+          "id": "81c94dc7-5ec2-4098-9464-fbfe0fb49694",
+          "text": "would",
+          "is_correct": false
+        },
+        {
+          "id": "74da5332-5b1a-4bd7-a1a4-24ac044bbaf2",
+          "text": "may",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "55038aa7-dc06-4a09-813d-8d5c70f38908"
+      ]
+    },
+    {
+      "question_id": "1dc656ec-12cb-4b30-b77d-b2587549f9b3",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal: We ... eat fruits and vegetables.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8b89a3f7-16e8-48c5-a4d5-d7928acd2d26",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal: We ... eat fruits and vegetables."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e7648db2-2ee1-4c68-b18b-74316e438d4e",
+          "text": "should",
+          "is_correct": true
+        },
+        {
+          "id": "1f4fcc74-c886-42d4-ac3e-463bc4340248",
+          "text": "must",
+          "is_correct": false
+        },
+        {
+          "id": "26688e88-ce11-4afd-be5b-f6d10bd61606",
+          "text": "might",
+          "is_correct": false
+        },
+        {
+          "id": "e01cf6b7-b8df-496e-ba42-4e3918e7515e",
+          "text": "would",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e7648db2-2ee1-4c68-b18b-74316e438d4e"
+      ]
+    },
+    {
+      "question_id": "6f24a90f-47a6-4f56-a602-1bceeed0c09c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "944f8966-48cb-48e4-9200-29ec0c89bfe6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b8a79b45-5aa0-4195-849f-74337ccc6646",
+          "text": "I can to move this heavy table.",
+          "is_correct": false
+        },
+        {
+          "id": "9e2a395f-7f78-4765-8b19-88baf8818c14",
+          "text": "I can move this heavy table.",
+          "is_correct": true
+        },
+        {
+          "id": "7d91a886-9938-4f66-8941-6ad6026646f4",
+          "text": "I can moving this heavy table.",
+          "is_correct": false
+        },
+        {
+          "id": "57033be2-de36-4f84-9a9f-641b43b4aea6",
+          "text": "I can moved this heavy table.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9e2a395f-7f78-4765-8b19-88baf8818c14"
+      ]
+    },
+    {
+      "question_id": "c3818b2d-4993-4a30-b5df-bccd070077b3",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "75e013a3-135a-4fe6-b18b-fc3fd66b987f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b3722644-9c95-4b48-85b2-33adaf5d7b0c",
+          "text": "I could moving to the United States.",
+          "is_correct": false
+        },
+        {
+          "id": "f3c1137c-26be-45c0-9425-6fa79e976243",
+          "text": "I could move to the United States.",
+          "is_correct": true
+        },
+        {
+          "id": "b25db12d-1e57-40fa-93f3-2cbbe09414c2",
+          "text": "I could to move to the United States.",
+          "is_correct": false
+        },
+        {
+          "id": "67a42c72-35af-43fc-a466-aac8003ede59",
+          "text": "I could moved to the United States.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f3c1137c-26be-45c0-9425-6fa79e976243"
+      ]
+    },
+    {
+      "question_id": "a2c86f05-39a4-4320-96ff-a28b454cc6a6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "8a6f70d8-f272-43fd-b8e0-2cdea8a3f61f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "34a70eb5-4621-4f2f-9a69-0d89e17052fd",
+          "text": "I should must renew my passport.",
+          "is_correct": false
+        },
+        {
+          "id": "17060cf7-516d-4d5a-9bd0-1fcaf098f7f9",
+          "text": "I must renew my passport.",
+          "is_correct": true
+        },
+        {
+          "id": "16a93c36-115b-49ad-9054-046b626dac49",
+          "text": "I must to renew my passport.",
+          "is_correct": false
+        },
+        {
+          "id": "6feba8e6-ebf5-4e4b-9514-342da227fa96",
+          "text": "I should must to renew my passport.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "17060cf7-516d-4d5a-9bd0-1fcaf098f7f9"
+      ]
+    },
+    {
+      "question_id": "e00cfdcc-57bb-4d96-8728-af64dd02ba6d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "b7886b78-0a2d-48a7-8442-cdb170190dee",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5ac3ece1-0448-4335-a756-3b65898ed8ce",
+          "text": "I may to go to France next summer.",
+          "is_correct": false
+        },
+        {
+          "id": "c7a3637e-c66d-42fe-ba88-6cda3cb9e2cd",
+          "text": "I may go to France next summer.",
+          "is_correct": true
+        },
+        {
+          "id": "b37e4bb2-a4c9-452f-a57c-e7bb9f75fee5",
+          "text": "I may going to France next summer.",
+          "is_correct": false
+        },
+        {
+          "id": "9d0c58f4-df0f-4a5b-ba86-0fce1204b6f0",
+          "text": "I may went to France next summer.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c7a3637e-c66d-42fe-ba88-6cda3cb9e2cd"
+      ]
+    },
+    {
+      "question_id": "3685d585-345b-4023-8284-fcd9077e60f8",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "af55c5b2-d4f4-4a7a-adca-cc24f7c2a2da",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "16c85e06-e391-4f4e-8982-6acbba64d4b8",
+          "text": "I will to drive around the countryside.",
+          "is_correct": false
+        },
+        {
+          "id": "1551bec2-6533-4671-b157-26eab16c4b89",
+          "text": "I will drive around the countryside.",
+          "is_correct": true
+        },
+        {
+          "id": "c0df1dfe-aca8-49d3-95be-425a5a39d7e4",
+          "text": "I will driving around the countryside.",
+          "is_correct": false
+        },
+        {
+          "id": "3383dce4-1da4-4dac-a067-989fb81c66c1",
+          "text": "I will drove around the countryside.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1551bec2-6533-4671-b157-26eab16c4b89"
+      ]
+    },
+    {
+      "question_id": "96c66e88-686a-41ba-8394-5cf38acd7e75",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c7d5b967-29ed-49a7-aea1-7b6ab26115fa",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "70ce7659-34d5-4b69-bd90-d93fb8c26c7a",
+          "text": "I will not moved to France.",
+          "is_correct": false
+        },
+        {
+          "id": "c79ed06b-8463-4fa9-b6e5-c105c0324323",
+          "text": "I will not move to France.",
+          "is_correct": true
+        },
+        {
+          "id": "ce8479c7-380e-4fb7-be90-170511f08a64",
+          "text": "I will not to move to France.",
+          "is_correct": false
+        },
+        {
+          "id": "3120bafe-9c1f-4aca-ab17-fa078a42f328",
+          "text": "I will not moving to France.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c79ed06b-8463-4fa9-b6e5-c105c0324323"
+      ]
+    },
+    {
+      "question_id": "4874e663-edda-4aa0-8f58-93737b99399c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the sentence that expresses preference or a polite request.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "d2face4e-5bee-400f-9432-653bb4bce5e9",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the sentence that expresses preference or a polite request."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1f694261-844b-4e3c-9844-a49aff8f9f0f",
+          "text": "I must like the steak, please.",
+          "is_correct": false
+        },
+        {
+          "id": "a01f522f-943a-4e66-9466-bc62f852b2a3",
+          "text": "I can like the steak, please.",
+          "is_correct": false
+        },
+        {
+          "id": "035cc11e-e452-4ec6-be42-34f5b24e0740",
+          "text": "I would like the steak, please.",
+          "is_correct": true
+        },
+        {
+          "id": "54cf9a48-76f2-449c-816c-52dd72f08728",
+          "text": "I should like the steak, please.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "035cc11e-e452-4ec6-be42-34f5b24e0740"
+      ]
+    },
+    {
+      "question_id": "391413fb-225a-4c90-9dad-96d443ee7224",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. Welcome to Filmworld Cinemas. To hear information about today’s films and showtimes, press 1. To reserve tickets, press 2. To talk to a member of staff, press 3. The following films are showing today, Tuesday the 7th. Tickets cost €5.00 for adults and €3.50 for children under the age of 14. On Screen 1, there is Don’t Open the Door! In this film, several college students rent a house in the mountains for a quiet weekend, but they soon discover that they are not alone. The students begin to vanish one after another. Something or someone is outside the house. The film is shown at 4:30, 7:00, and 9:00. On Screen 2, there is Ships in the Night. Maggie breaks up with her boyfriend and goes on a cruise to forget him. Tony works as a waiter on the ship and feels miserable because his girlfriend leaves him and plans to marry the captain. Maggie and Tony help each other deal with their problems. The film is shown at 5:00, 7:45, and 10:15. On Screen 3, there is Streetmatch: The Return. This is the second movie by the French director Jean-Luc Ducroix. Two American teenagers buy an old car. After a lot of effort and many difficulties, they enter it in the Streetmatch competition. But will their car be strong enough to win? The film is shown at 5:50, 8:30, and 11:45. On Screen 4, there is Lulu: It’s a Dog’s Life. A charming little dog leaves the countryside and goes to the big city in search of success and fame. After many funny adventures, he understands that life in the country is not so bad. Made by the creators of Shrek and Shark Tale, this film is enjoyable for the whole family. The film is shown at 3:00, 6:00, and 8:45. Which film is about trying to win a contest after many difficulties?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "057a7729-e5d0-40ef-b5a1-a60a5d24f4b1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. Welcome to Filmworld Cinemas. To hear information about today’s films and showtimes, press 1. To reserve tickets, press 2. To talk to a member of staff, press 3. The following films are showing today, Tuesday the 7th. Tickets cost €5.00 for adults and €3.50 for children under the age of 14. On Screen 1, there is Don’t Open the Door! In this film, several college students rent a house in the mountains for a quiet weekend, but they soon discover that they are not alone. The students begin to vanish one after another. Something or someone is outside the house. The film is shown at 4:30, 7:00, and 9:00. On Screen 2, there is Ships in the Night. Maggie breaks up with her boyfriend and goes on a cruise to forget him. Tony works as a waiter on the ship and feels miserable because his girlfriend leaves him and plans to marry the captain. Maggie and Tony help each other deal with their problems. The film is shown at 5:00, 7:45, and 10:15. On Screen 3, there is Streetmatch: The Return. This is the second movie by the French director Jean-Luc Ducroix. Two American teenagers buy an old car. After a lot of effort and many difficulties, they enter it in the Streetmatch competition. But will their car be strong enough to win? The film is shown at 5:50, 8:30, and 11:45. On Screen 4, there is Lulu: It’s a Dog’s Life. A charming little dog leaves the countryside and goes to the big city in search of success and fame. After many funny adventures, he understands that life in the country is not so bad. Made by the creators of Shrek and Shark Tale, this film is enjoyable for the whole family. The film is shown at 3:00, 6:00, and 8:45. Which film is about trying to win a contest after many difficulties?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0bdcbc00-814b-4bf2-b7fb-84207f612855",
+          "text": "Streetmatch: The Return",
+          "is_correct": true
+        },
+        {
+          "id": "5862e3dd-199f-493c-af19-43a19c3b3e3c",
+          "text": "Lulu: It’s a Dog’s Life",
+          "is_correct": false
+        },
+        {
+          "id": "d8b338bb-434c-405e-9f86-77dde2d54e8f",
+          "text": "Don’t Open the Door!",
+          "is_correct": false
+        },
+        {
+          "id": "4ef93e81-0f3d-49a7-8564-b9d51f270a37",
+          "text": "Ships in the Night",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0bdcbc00-814b-4bf2-b7fb-84207f612855"
+      ]
+    },
+    {
+      "question_id": "f9437764-478a-4050-bda2-2645d8e5a80c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "If someone comes to the cinema at 7:10, what is the nearest next showtime?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "cbe082d3-c7bc-4fe3-bcd4-3b2d81ab8cfe",
+          "type": "TEXT",
+          "payload": {
+            "text": "If someone comes to the cinema at 7:10, what is the nearest next showtime?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "634a3a63-76a3-4232-8771-9425858675c9",
+          "text": "7:00",
+          "is_correct": false
+        },
+        {
+          "id": "44305804-756b-4854-9cb9-fe86eed9747b",
+          "text": "8:45",
+          "is_correct": false
+        },
+        {
+          "id": "2ea09681-c088-4609-8e47-70ae1ee54440",
+          "text": "7:45",
+          "is_correct": true
+        },
+        {
+          "id": "1a654cc0-8593-4649-92ca-4107a6296707",
+          "text": "6:00",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2ea09681-c088-4609-8e47-70ae1ee54440"
+      ]
+    },
+    {
+      "question_id": "29952315-cca7-467d-99c4-9eec85ce8fb6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Jean-Luc Ducroix is described as a director from which country?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ec432552-cbb0-4108-ba87-0d57d298bcd2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Jean-Luc Ducroix is described as a director from which country?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bc073a6f-1244-4498-a5e1-eee8079f9ed5",
+          "text": "France",
+          "is_correct": true
+        },
+        {
+          "id": "38577dcf-197e-4e21-b8a0-ba612fd9e022",
+          "text": "America",
+          "is_correct": false
+        },
+        {
+          "id": "f6f61ae2-07e2-4045-a44b-ccb0a618428a",
+          "text": "Spain",
+          "is_correct": false
+        },
+        {
+          "id": "cd87e0f0-3eee-4bfc-9fd3-170f1b768c80",
+          "text": "Ducroix",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bc073a6f-1244-4498-a5e1-eee8079f9ed5"
+      ]
+    },
+    {
+      "question_id": "ae4a3856-73e9-4e49-9ada-7e1fb50b7bb4",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What kind of film is Don’t Open the Door! most likely to be?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ffcbb9d0-f04e-4a4c-8a9a-28ece335c416",
+          "type": "TEXT",
+          "payload": {
+            "text": "What kind of film is Don’t Open the Door! most likely to be?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "50ae959c-86c1-4df0-8549-6dbbde20f21f",
+          "text": "horror or thriller",
+          "is_correct": true
+        },
+        {
+          "id": "ca8b0f9b-e9cb-4c2b-bd82-d9179f700390",
+          "text": "romance",
+          "is_correct": false
+        },
+        {
+          "id": "6ea10b50-d415-4f4e-9a6c-b019721c3d93",
+          "text": "science fiction",
+          "is_correct": false
+        },
+        {
+          "id": "39f6d84c-65b4-4bef-922b-497c620473a6",
+          "text": "historical drama",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "50ae959c-86c1-4df0-8549-6dbbde20f21f"
+      ]
+    },
+    {
+      "question_id": "9ec9f4b3-aab7-41f2-a930-9c2311b5524e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "On which screen is the family animated film shown?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9bcee562-15d6-49ce-b262-a4f0dca3287f",
+          "type": "TEXT",
+          "payload": {
+            "text": "On which screen is the family animated film shown?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "91d7df76-292b-4422-836b-b01f4280c5c9",
+          "text": "Screen 1",
+          "is_correct": false
+        },
+        {
+          "id": "a8aae644-d938-4d86-ae2c-c9dea53e02c5",
+          "text": "Screen 2",
+          "is_correct": false
+        },
+        {
+          "id": "dabe0231-ca73-4e2c-bc0f-e17aeb1a7097",
+          "text": "Screen 3",
+          "is_correct": false
+        },
+        {
+          "id": "3c87deb7-871b-4387-b38f-8f06faa66330",
+          "text": "Screen 4",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "3c87deb7-871b-4387-b38f-8f06faa66330"
+      ]
+    },
+    {
+      "question_id": "e953ba26-3948-4f5c-a26b-2fb8d17ec8ce",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What time does the earliest film of the day begin?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4cf0357e-ac19-4ebb-b8d5-a99873010d3b",
+          "type": "TEXT",
+          "payload": {
+            "text": "What time does the earliest film of the day begin?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a8acf848-7488-4f4d-b8b4-fe1f50a0187e",
+          "text": "2:00",
+          "is_correct": false
+        },
+        {
+          "id": "e084cbf9-93a1-4e24-a7de-02fa7501ab79",
+          "text": "3:00",
+          "is_correct": true
+        },
+        {
+          "id": "b994f861-7082-47e4-b5c4-9ecabefbb859",
+          "text": "4:00",
+          "is_correct": false
+        },
+        {
+          "id": "25bfb880-e1a9-43e6-8ad4-3b240f2e87c0",
+          "text": "5:00",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e084cbf9-93a1-4e24-a7de-02fa7501ab79"
+      ]
+    },
+    {
+      "question_id": "38f4987d-3538-4cc0-ba97-e619d328c032",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "A visitor arrives at 7:10. What time is the next available film?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "dc70b2e9-00d7-471a-9b51-3199cf8466c1",
+          "type": "TEXT",
+          "payload": {
+            "text": "A visitor arrives at 7:10. What time is the next available film?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8544bff5-f445-4353-812d-152b4ee1640d",
+          "text": "7:25",
+          "is_correct": false
+        },
+        {
+          "id": "04fdbad5-35db-4db3-b113-13d8d0e2d01f",
+          "text": "7:45",
+          "is_correct": true
+        },
+        {
+          "id": "21cf7d21-4e44-462a-a46e-be1458f517cb",
+          "text": "7:55",
+          "is_correct": false
+        },
+        {
+          "id": "2af6a7f5-9b74-4154-be91-5b20338185f2",
+          "text": "7:20",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "04fdbad5-35db-4db3-b113-13d8d0e2d01f"
+      ]
+    },
+    {
+      "question_id": "f0c785ab-5b57-4d30-9065-192f9d1f0a3a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Where is the director of Streetmatch: The Return from?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "bb955547-d0e4-4c40-bc7c-483842e5f195",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where is the director of Streetmatch: The Return from?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6e2e5ff4-5693-4f99-a92d-6fd392547431",
+          "text": "England",
+          "is_correct": false
+        },
+        {
+          "id": "c3150927-be34-46b7-8c7c-165370d9e3cf",
+          "text": "France",
+          "is_correct": true
+        },
+        {
+          "id": "896f2e5a-fbce-4aae-b899-ffb15c7407ec",
+          "text": "Spain",
+          "is_correct": false
+        },
+        {
+          "id": "45fccb76-62d4-4d96-bdb7-e8a3c5c71db2",
+          "text": "the USA",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c3150927-be34-46b7-8c7c-165370d9e3cf"
+      ]
+    },
+    {
+      "question_id": "99509b52-e5d0-49fa-8354-034d2fc04448",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "How much does a ticket cost for an adult?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "bc0396f2-8094-44c0-a182-19da2882261e",
+          "type": "TEXT",
+          "payload": {
+            "text": "How much does a ticket cost for an adult?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bc120926-8663-455c-8472-f1c50e274c33",
+          "text": "€5.00",
+          "is_correct": true
+        },
+        {
+          "id": "38c0842c-92af-48e4-b918-813e0fa745cf",
+          "text": "€3.50",
+          "is_correct": false
+        },
+        {
+          "id": "2b49f234-29cb-4267-8e00-9baa46bb3c52",
+          "text": "€7.00",
+          "is_correct": false
+        },
+        {
+          "id": "85502d6c-8232-45ac-ab87-fb52ceb47a34",
+          "text": "€10.15",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bc120926-8663-455c-8472-f1c50e274c33"
+      ]
+    },
+    {
+      "question_id": "c859842b-7d0f-40c4-a144-a7a3df0b3622",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which number should a caller press to book tickets?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c80db1f8-d3bd-4c22-a0df-160a959ef7e0",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which number should a caller press to book tickets?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6487504a-5bad-4e2d-b096-fda7be3e5154",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "id": "261d1d9f-07f8-41ef-a4e0-784a739149f6",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "id": "4b06d400-6b6d-4117-b53e-8ab4089997be",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "74dcb647-7c21-4a7f-86f8-3cbdc8adbe4c",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "261d1d9f-07f8-41ef-a4e0-784a739149f6"
+      ]
+    },
+    {
+      "question_id": "1042c5cc-1f4a-406c-b713-9190833bc4de",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что кардинально их отличает.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "54a31986-f734-4364-83c3-d4a4f306d383",
+          "type": "TEXT",
+          "payload": {
+            "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что кардинально их отличает."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b325ab22-b36b-4d72-8ded-62cd82bc64b2",
+          "text": "Кардинальное отличие состоит в том, что у Арнольд речь идет о сущности «языка», а у Антрушиной — о сущности «речи».",
+          "is_correct": false
+        },
+        {
+          "id": "b743b386-30e7-4ab7-8b02-3915f7691768",
+          "text": "Кардинальное отличие состоит в том, что у Арнольд речь идет о богатстве слова, а у Антрушиной — о роли слова в человеческой коммуникации.",
+          "is_correct": false
+        },
+        {
+          "id": "8a57066e-5e4e-4bb8-b0ea-f6be2fe48ec0",
+          "text": "У Антрушиной акцент поставлен на том, что человеческая коммуникация невозможна без слов, а у Арнольд возможна.",
+          "is_correct": false
+        },
+        {
+          "id": "647716dd-66da-4585-8eb9-a4302bf6c463",
+          "text": "У Антрушиной речь о слове идет как о «единице речи, используемой для целей человеческого общения», а у Арнольд в определении термина «слово» акцент делается на «единице языка»; о том, что слово используется для цели человеческой коммуникации, нет и речи.",
+          "is_correct": true
+        },
+        {
+          "id": "32e44f32-737e-42d3-b14a-21f13e8d9902",
+          "text": "Антрушина пишет конкретно о слове как единице языка, а Арнольд упоминает в общем виде «слово как единица языка».",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "647716dd-66da-4585-8eb9-a4302bf6c463"
+      ]
+    },
+    {
+      "question_id": "785409f8-804f-4c7b-a095-d2595010e38a",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Лев Васильевич Успенский: «Официально этот вид транспорта именовался «конно-железная дорога». По улице проложены рельсы, всюду только одна колея. Кое-где эта колея образует «разъезды» с раз и навсегда переведёнными стрелками: тут «вагоны конно-железной дороги» встречаются и расходятся на своём пути.\n\nВообразите на крыше современного трамвая двойную скамью во всю длину, на которой можно сидеть спинами друг к другу, лицами — к двум противоположным сторонам улицы. По бортикам крыши — лёгкие перильца, а к ним с внешней стороны прикреплены длинные рамки выполненных на жести вывесок и рекламных объявлений. Высота всего сооружения получалась довольно солидная, с теперешние двухэтажные автобусы и троллейбусы. По длине вагоны примерно равнялись нашим трамвайным, но только, конечно, не современным четырехосным, а двухосным, лёгким, в высоту же они намного превосходили их.\n\nВот она погромыхивает тяжко и неторопливо по рельсам: ну с какой скоростью может двигаться огромный железный вагон, влекомый двумя пусть даже и хорошо кормленными лошадьми? Для каждого из граждан 1970 года не представило бы ни малейшего труда слезть на ходу с этого рыдвана где-нибудь на углу Пушкарской и Введенской, наддать ходу, догнать вагон у Народного дома и снова вскочить в него.\n\nВнутри коночный вагон был оборудован двумя длинными крашенными масляной краской скамьями вдоль окон, из конца в конец. Над обеими дверьми висели фонарики, и по вечерам в них горели, тускло освещая внутренность конки, свечи. Билеты были разных сортов: за пятак — вовнутрь, за три копейки — на верхотурку. Были еще и «пересадочные», на копейку дороже: взяв такой билет, вы могли доехать до пересечения двух линий и пересесть бесплатно в вагон другого маршрута.\n\nВот на такой конке и ездил в те годы весь демократический Петербург: рабочие с далёких заводов, если нельзя было пройти пешком, студенты, когда был дождь или сильный холод, мелкие чиновники ежедневно, чиновники повыше рангом — от случая к случаю, горничные, модистки, хористки из мелких театриков, ночные бабочки, когда возвращались домой после нелёгкой своей работенки... С раннего утра ползли они по улицам, огромные синие вагоны, зимой залепленные снегом, с наглухо замерзшими стеклами, настылые, мрачные; летом пестреющие женскими шляпками, с империалом, то над чем-то хохочущим, то мирно созерцающим окрестный пейзаж... И вдруг — дождь, и вся конка сразу покрылась множеством чёрных зонтов, точно на ней вмиг выросло три или четыре десятка грибов.\n\nСмешно все это? Да, конечно, смешно. Смешное, старое время, смешная жизнь, медленная, болотистая, тихая... Но когда я закрываю глаза и передо мной встаёт в зимнем туманчике, в метели, в питерском июньском дожде высокий призрак дребезжащей на ходу всеми стеклами синей громады, мне приходит в голову, что по ступенькам таких конок поднимался иной раз на империал Александр Блок и оттуда видел свои улицы, свои фонари и аптеки, своих Незнакомок и Фаин. В этих кузовах мог ехать и молодой Шаляпин. И тут смех уходит в сторону, и на его место встаёт почтение к прошлому, большая гордость, что оно было и что я его помню. Каждому овощу свое время. Конке — тоже».\n\nКакое из высказываний содержит ответ на вопрос: «Как автор относится к старому транспортному средству — конке?»",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9d3feb50-33d7-4b79-8f34-e47384620d7e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Лев Васильевич Успенский: «Официально этот вид транспорта именовался «конно-железная дорога». По улице проложены рельсы, всюду только одна колея. Кое-где эта колея образует «разъезды» с раз и навсегда переведёнными стрелками: тут «вагоны конно-железной дороги» встречаются и расходятся на своём пути.\n\nВообразите на крыше современного трамвая двойную скамью во всю длину, на которой можно сидеть спинами друг к другу, лицами — к двум противоположным сторонам улицы. По бортикам крыши — лёгкие перильца, а к ним с внешней стороны прикреплены длинные рамки выполненных на жести вывесок и рекламных объявлений. Высота всего сооружения получалась довольно солидная, с теперешние двухэтажные автобусы и троллейбусы. По длине вагоны примерно равнялись нашим трамвайным, но только, конечно, не современным четырехосным, а двухосным, лёгким, в высоту же они намного превосходили их.\n\nВот она погромыхивает тяжко и неторопливо по рельсам: ну с какой скоростью может двигаться огромный железный вагон, влекомый двумя пусть даже и хорошо кормленными лошадьми? Для каждого из граждан 1970 года не представило бы ни малейшего труда слезть на ходу с этого рыдвана где-нибудь на углу Пушкарской и Введенской, наддать ходу, догнать вагон у Народного дома и снова вскочить в него.\n\nВнутри коночный вагон был оборудован двумя длинными крашенными масляной краской скамьями вдоль окон, из конца в конец. Над обеими дверьми висели фонарики, и по вечерам в них горели, тускло освещая внутренность конки, свечи. Билеты были разных сортов: за пятак — вовнутрь, за три копейки — на верхотурку. Были еще и «пересадочные», на копейку дороже: взяв такой билет, вы могли доехать до пересечения двух линий и пересесть бесплатно в вагон другого маршрута.\n\nВот на такой конке и ездил в те годы весь демократический Петербург: рабочие с далёких заводов, если нельзя было пройти пешком, студенты, когда был дождь или сильный холод, мелкие чиновники ежедневно, чиновники повыше рангом — от случая к случаю, горничные, модистки, хористки из мелких театриков, ночные бабочки, когда возвращались домой после нелёгкой своей работенки... С раннего утра ползли они по улицам, огромные синие вагоны, зимой залепленные снегом, с наглухо замерзшими стеклами, настылые, мрачные; летом пестреющие женскими шляпками, с империалом, то над чем-то хохочущим, то мирно созерцающим окрестный пейзаж... И вдруг — дождь, и вся конка сразу покрылась множеством чёрных зонтов, точно на ней вмиг выросло три или четыре десятка грибов.\n\nСмешно все это? Да, конечно, смешно. Смешное, старое время, смешная жизнь, медленная, болотистая, тихая... Но когда я закрываю глаза и передо мной встаёт в зимнем туманчике, в метели, в питерском июньском дожде высокий призрак дребезжащей на ходу всеми стеклами синей громады, мне приходит в голову, что по ступенькам таких конок поднимался иной раз на империал Александр Блок и оттуда видел свои улицы, свои фонари и аптеки, своих Незнакомок и Фаин. В этих кузовах мог ехать и молодой Шаляпин. И тут смех уходит в сторону, и на его место встаёт почтение к прошлому, большая гордость, что оно было и что я его помню. Каждому овощу свое время. Конке — тоже».\n\nКакое из высказываний содержит ответ на вопрос: «Как автор относится к старому транспортному средству — конке?»"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1c0d479f-e7c8-47d9-a1aa-abcae843ebe9",
+          "text": "Автор не проводит параллели между историей конки и историей города.",
+          "is_correct": false
+        },
+        {
+          "id": "8503edb9-6651-4cdc-8aa6-3e2ef760011b",
+          "text": "Это неприятные воспоминания.",
+          "is_correct": false
+        },
+        {
+          "id": "7d1dcd90-d25e-4aa6-a733-e6ff4ed89295",
+          "text": "Автор рад наступлению эпохи технического прогресса и возможности передвигаться с помощью современного транспорта.",
+          "is_correct": false
+        },
+        {
+          "id": "e9759a77-ffb5-4597-a755-6ab3ce011b0b",
+          "text": "История конки, по мнению автора, неотъемлемая часть истории города.",
+          "is_correct": true
+        },
+        {
+          "id": "46597cdf-bed2-404d-b14a-68604e236880",
+          "text": "Это несовременные воспоминания.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e9759a77-ffb5-4597-a755-6ab3ce011b0b"
+      ]
+    },
+    {
+      "question_id": "f9f8131b-1054-41d0-9d94-0ba3a4193f78",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "«Культура отражает внутренний мир человека, его ценности и традиции, тогда как цивилизация связана с внешними достижениями общества — техникой, организацией и прогрессом.»\n\nПротивоположность каких понятий приводится в данном рассуждении?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "89b30b44-1352-4076-a85a-84f867051120",
+          "type": "TEXT",
+          "payload": {
+            "text": "«Культура отражает внутренний мир человека, его ценности и традиции, тогда как цивилизация связана с внешними достижениями общества — техникой, организацией и прогрессом.»\n\nПротивоположность каких понятий приводится в данном рассуждении?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c0513c12-e817-406b-96e0-d265224586f3",
+          "text": "природа и культура",
+          "is_correct": false
+        },
+        {
+          "id": "3a4d801c-2775-4d84-b101-1026477ba5fe",
+          "text": "наука и философия",
+          "is_correct": false
+        },
+        {
+          "id": "31dd9fd3-367b-4352-9508-a553cf4e0085",
+          "text": "управление и подчинение",
+          "is_correct": false
+        },
+        {
+          "id": "be26f3de-8173-492d-85dd-e4fe8d828754",
+          "text": "искусство и религия",
+          "is_correct": false
+        },
+        {
+          "id": "20eb39fa-a4ad-4722-a887-8b61c6af136f",
+          "text": "культура и цивилизация",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "20eb39fa-a4ad-4722-a887-8b61c6af136f"
+      ]
+    },
+    {
+      "question_id": "f80cbd41-e78c-40fa-a39f-eaec63d48fde",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Отдельные черты личности, которые сами по себе еще не являются патологическими, однако при определенных условиях могут претерпевать развитие в положительном или отрицательном направлении, достигая особой выраженности у психопатов и невротиков, называются …. Вставьте пропущенное слово.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "dfa31805-1083-4159-b97e-916d086fd6be",
+          "type": "TEXT",
+          "payload": {
+            "text": "Отдельные черты личности, которые сами по себе еще не являются патологическими, однако при определенных условиях могут претерпевать развитие в положительном или отрицательном направлении, достигая особой выраженности у психопатов и невротиков, называются …. Вставьте пропущенное слово."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "95caed85-6856-41b6-b245-4cfc5d104705",
+          "text": "экстраверсией",
+          "is_correct": false
+        },
+        {
+          "id": "cdb941eb-5bb6-4b5b-9ca2-631b55c2269b",
+          "text": "акцентуацией",
+          "is_correct": true
+        },
+        {
+          "id": "e31b2f57-bf32-48d5-8372-6ec7c357c0ac",
+          "text": "проекцией",
+          "is_correct": false
+        },
+        {
+          "id": "45f961cf-9c2b-4621-8de5-233c62e99093",
+          "text": "рефлексией",
+          "is_correct": false
+        },
+        {
+          "id": "ae5898d2-e3a5-46d8-a805-652c38a5d423",
+          "text": "сублимацией",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "cdb941eb-5bb6-4b5b-9ca2-631b55c2269b"
+      ]
+    },
+    {
+      "question_id": "7e116b17-3763-4d0f-bfd6-4d26f2c00413",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Согласно философскому определению, дедукция — один из методов познания, переход от общего знания о предметах данного класса к единичному знанию об отдельном предмете класса. Дедуктивные умозаключения можно использовать для предвидения на основе […] закономерностей ещё не наступивших фактов. Заполните пропуск.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f9c8ff72-98ad-45e7-9218-e8e6456e2c4e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Согласно философскому определению, дедукция — один из методов познания, переход от общего знания о предметах данного класса к единичному знанию об отдельном предмете класса. Дедуктивные умозаключения можно использовать для предвидения на основе […] закономерностей ещё не наступивших фактов. Заполните пропуск."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "657af7eb-ad81-464c-a196-ccf46b539a31",
+          "text": "частных",
+          "is_correct": false
+        },
+        {
+          "id": "2a84c505-f365-40f0-b70d-a88abc1707ac",
+          "text": "конкретных",
+          "is_correct": false
+        },
+        {
+          "id": "51b2569c-57fe-47c3-b048-1377e0aa9a4e",
+          "text": "общественных",
+          "is_correct": false
+        },
+        {
+          "id": "70ec7324-3f6a-441f-b483-60e9de2adb40",
+          "text": "общих",
+          "is_correct": true
+        },
+        {
+          "id": "579c58cb-ff49-4565-8dd1-c5669e10c70d",
+          "text": "единичных",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "70ec7324-3f6a-441f-b483-60e9de2adb40"
+      ]
+    },
+    {
+      "question_id": "c03530fa-ef59-4391-b4f4-9aff59a16b02",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Кестеде жануарлар саны берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20. Барлығы — 42. Дөңгелек диаграммада балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "19174752-9d72-4d79-bd61-9ec19c567877",
+          "type": "TEXT",
+          "payload": {
+            "text": "Кестеде жануарлар саны берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20. Барлығы — 42. Дөңгелек диаграммада балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a5294632-6f40-4037-bb0c-51c334f72701",
+          "text": "134°",
+          "is_correct": false
+        },
+        {
+          "id": "aeab5f48-9baa-4867-957e-b4e90562a7a1",
+          "text": "171°",
+          "is_correct": true
+        },
+        {
+          "id": "f25eabe5-6d13-4cea-bba9-1b7f528907d4",
+          "text": "162°",
+          "is_correct": false
+        },
+        {
+          "id": "065a1cc4-c582-48e4-b9c8-9b6204e1c3e2",
+          "text": "150°",
+          "is_correct": false
+        },
+        {
+          "id": "baee32f9-2cff-4241-85b5-8fefc179d8dd",
+          "text": "195°",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "aeab5f48-9baa-4867-957e-b4e90562a7a1"
+      ]
+    },
+    {
+      "question_id": "5b8098ff-fe5e-4868-9e18-9b93d7a8ea01",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "3x − 5 = 16 теңдеуін шешіңіз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2a41f970-4b22-4e88-8a67-5c98ebda2924",
+          "type": "TEXT",
+          "payload": {
+            "text": "3x − 5 = 16 теңдеуін шешіңіз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3e94eb66-7eda-493d-8aa7-c2b68d32ce20",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "4db20f71-ad19-47e9-b912-b49aa69408c6",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "9b6b7058-d41d-4e0d-92b4-972339faee76",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "id": "08d4b36c-fc4c-4cec-bdd8-1270cf5af249",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "9ba6fb7d-6077-41ee-ba34-4c8be6b0ee3d",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9b6b7058-d41d-4e0d-92b4-972339faee76"
+      ]
+    },
+    {
+      "question_id": "4ff3c686-149c-4cf3-a2d8-c7a8cf19244d",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "12, 18 және 30 сандарының ең үлкен ортақ бөлгішін табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6ddeadef-e626-46bf-a5a3-5f3f5c481b04",
+          "type": "TEXT",
+          "payload": {
+            "text": "12, 18 және 30 сандарының ең үлкен ортақ бөлгішін табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5c93f027-95d6-45b0-a943-aef9bced7d32",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "id": "9f6d244b-a1d8-4ccd-ae1e-750ab5f56546",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "e667f626-c9c0-4401-a25f-32d15791a4aa",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "id": "309ed3b5-f781-4a1d-973a-9f9641dd2044",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "9f15ec44-d3a7-485e-a1d0-c639ea568628",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e667f626-c9c0-4401-a25f-32d15791a4aa"
+      ]
+    },
+    {
+      "question_id": "746cb8a8-9c84-45dd-9f5a-702e0dd515d6",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Решите неравенство: 7x + 8 > 11x − 16.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "30a76825-4491-45c5-9998-d39bb9fd40fb",
+          "type": "TEXT",
+          "payload": {
+            "text": "Решите неравенство: 7x + 8 > 11x − 16."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a94edfb7-52ef-4b28-ac86-8854d48f2df5",
+          "text": "x < 6",
+          "is_correct": true
+        },
+        {
+          "id": "ccc71d06-40d9-4c3e-8fd2-3b5d4bc66424",
+          "text": "x < 16",
+          "is_correct": false
+        },
+        {
+          "id": "fa9470c0-696f-46b9-9ef4-d840dccb15b1",
+          "text": "x ≥ 6",
+          "is_correct": false
+        },
+        {
+          "id": "7230e6cd-aafe-4264-a1a5-5cf172c73dc9",
+          "text": "x < 1",
+          "is_correct": false
+        },
+        {
+          "id": "a4f2f815-7c9b-46c8-9a70-7148fd859697",
+          "text": "x > 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a94edfb7-52ef-4b28-ac86-8854d48f2df5"
+      ]
+    },
+    {
+      "question_id": "349be806-28ac-494a-b619-03e48e3c0660",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Сравните две величины.Величина A: 25 · 5²\nВеличина B: 5⁴",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f3f84c08-2371-4ea8-bf7b-5262a7cb580d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Сравните две величины.Величина A: 25 · 5²\nВеличина B: 5⁴"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0ff42638-28d6-48ab-ad7f-6257106056bf",
+          "text": "Величина A больше",
+          "is_correct": false
+        },
+        {
+          "id": "b980cc7e-4770-42eb-8b73-da7615656011",
+          "text": "Величина B больше",
+          "is_correct": false
+        },
+        {
+          "id": "a01d47f3-81c4-4916-a974-3b5dacf2b8dc",
+          "text": "Величины равны",
+          "is_correct": true
+        },
+        {
+          "id": "637436e8-a8ee-4d16-b2d9-e9fae619ff57",
+          "text": "Ни больше ни меньше",
+          "is_correct": false
+        },
+        {
+          "id": "68994bf9-f1b0-46d6-b0a9-1040d61207de",
+          "text": "По данной информации невозможно определить отношение величин",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a01d47f3-81c4-4916-a974-3b5dacf2b8dc"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 23,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "fde9396c-e62f-4db6-9081-6b30182e9f82",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Choose the sentence with a past perfect verb tense. [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "077e2e80-50bb-4356-8b21-6f8d2a4803ce",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the sentence with a past perfect verb tense."
+            },
+            "position": 1
+          },
+          {
+            "id": "0c05f591-31a2-4357-863c-cbc6cd582c35",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "03ae7911-f293-4f12-95b9-d15779ac6653",
+            "text": "Pete and I are meeting with a consultant who will help us with our new show.",
+            "is_correct": false
+          },
+          {
+            "id": "6e496f36-d183-4c3b-b7c3-7a9a93aa6ea1",
+            "text": "Yesterday, Pete had promised to meet me here at 8:00 a.m. but he did not come on time.",
+            "is_correct": true
+          },
+          {
+            "id": "ee61db5e-9384-4284-92c3-a35daf06ad6c",
+            "text": "She had to feed her birds -- HER birds!",
+            "is_correct": false
+          },
+          {
+            "id": "a394774c-979a-40ca-9900-ecf3b74e7093",
+            "text": "He had to get his \"special\" coffee -- SPECIAL coffee!",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6e496f36-d183-4c3b-b7c3-7a9a93aa6ea1"
+        ]
+      },
+      {
+        "question_id": "f031856a-4d15-4c88-bc8e-6bcf6f564e3e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna say about why she and Pete are late? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b018a5df-2929-4c90-8356-a004b1d99715",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna say about why she and Pete are late?"
+            },
+            "position": 1
+          },
+          {
+            "id": "ca734cdd-6b85-4e81-9c5a-fdd658d211c5",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "a311d6cc-ea1e-43ba-b8df-f291b005dbdc",
+            "text": "Pete took too long to get his special coffee.",
+            "is_correct": true
+          },
+          {
+            "id": "2325ee2b-fd12-4a6e-a249-783902250d41",
+            "text": "Anna was talking with Pete for a long time.",
+            "is_correct": false
+          },
+          {
+            "id": "c035bd1c-70f4-441c-83c2-8a1c9d586771",
+            "text": "Pete did not come to the coffee shop.",
+            "is_correct": false
+          },
+          {
+            "id": "02b574e9-e57f-4e13-abab-9525f4e75d8b",
+            "text": "They left their apartment too late.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a311d6cc-ea1e-43ba-b8df-f291b005dbdc"
+        ]
+      },
+      {
+        "question_id": "0d3a799f-4554-49a4-b672-efb0cb617d54",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Pete say about why he and Anna are late? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "691717fe-035c-4e17-9069-39f7d336ba6d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Pete say about why he and Anna are late?"
+            },
+            "position": 1
+          },
+          {
+            "id": "f662d5e1-31d5-4510-a6c4-bcb7cf40e3c7",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "4a8b90e4-e70f-46e8-8903-763e798af53d",
+            "text": "Pete’s scooter was too small.",
+            "is_correct": false
+          },
+          {
+            "id": "1a4e4ba1-7a50-4fb8-9167-8095ac3ac83b",
+            "text": "Anna was standing near a tree.",
+            "is_correct": false
+          },
+          {
+            "id": "84ba549d-3b32-4209-a770-675d48c860e1",
+            "text": "Pete did not know what time to meet Anna.",
+            "is_correct": false
+          },
+          {
+            "id": "626c93ec-09cc-430d-a8e0-44a5b9653935",
+            "text": "Anna wanted to ride scooters and feed the birds.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "626c93ec-09cc-430d-a8e0-44a5b9653935"
+        ]
+      },
+      {
+        "question_id": "1415903b-71c3-4c8d-9212-c8eb82cb2314",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is Kelly’s idea? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b9b8e9d6-8ace-41b9-ac07-e27ac7caf16b",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is Kelly’s idea?"
+            },
+            "position": 1
+          },
+          {
+            "id": "4f890c2c-7bb2-4660-bf7e-e84009323c0f",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d4c6ad65-8ef4-403a-aca2-fefab71705ff",
+            "text": "Pete and Anna should learn how to understand each other.",
+            "is_correct": false
+          },
+          {
+            "id": "4add64c0-16bb-45b6-b8f8-5716e24cb15a",
+            "text": "Anna should always agree with Pete’s ideas.",
+            "is_correct": false
+          },
+          {
+            "id": "29492342-df77-40d4-8603-0da55a652345",
+            "text": "Pete and Anna should tell their different points of view on their show.",
+            "is_correct": true
+          },
+          {
+            "id": "d132c957-6d0c-4714-bedc-4f758a9a5b88",
+            "text": "Anna’s point of view is too different from Pete’s.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "29492342-df77-40d4-8603-0da55a652345"
+        ]
+      },
+      {
+        "question_id": "5834df53-6205-4cca-b9e6-391dcac84996",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why are Anna and Pete meeting with Kelly? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a4db9194-3ea5-4d81-91bf-e8f6fc4fed4f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why are Anna and Pete meeting with Kelly?"
+            },
+            "position": 1
+          },
+          {
+            "id": "124a21a7-7634-4b4c-92a9-7b4c22daccc3",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "68d67a4a-bd34-435d-84a8-95da2c7ad952",
+            "text": "Kelly wants to give them a new apartment.",
+            "is_correct": false
+          },
+          {
+            "id": "43b356d9-7073-45e1-8b78-ab6fbaecb160",
+            "text": "Kelly wants to teach them how to ride scooters.",
+            "is_correct": false
+          },
+          {
+            "id": "6c395d8a-f423-4a3d-b331-3f7f9271d750",
+            "text": "Kelly is a consultant who will help them with their new show.",
+            "is_correct": true
+          },
+          {
+            "id": "0aabb0bd-3e69-4f74-b48c-45617def5752",
+            "text": "Kelly is interviewing Pete for a new job.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6c395d8a-f423-4a3d-b331-3f7f9271d750"
+        ]
+      },
+      {
+        "question_id": "cc1a6147-5748-48f1-bf88-659425953594",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "How late are Anna and Pete for the meeting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "550be2e0-a7dc-44ac-8b31-bcdb6584f086",
+            "type": "TEXT",
+            "payload": {
+              "text": "How late are Anna and Pete for the meeting?"
+            },
+            "position": 1
+          },
+          {
+            "id": "9af5aac7-04fb-4178-bcf8-e82b19e2570e",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "3e42aa34-930d-47e4-94a6-f8f017470031",
+            "text": "15 minutes late.",
+            "is_correct": false
+          },
+          {
+            "id": "1e37c04b-192a-44f0-9cc6-a8fff5b447b4",
+            "text": "30 minutes late.",
+            "is_correct": false
+          },
+          {
+            "id": "06d0175d-a60d-468c-a929-a5627dd5ebbd",
+            "text": "43 minutes late.",
+            "is_correct": true
+          },
+          {
+            "id": "873ebe4c-98d2-49e3-919f-b896de6c01c3",
+            "text": "8 minutes late.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "06d0175d-a60d-468c-a929-a5627dd5ebbd"
+        ]
+      },
+      {
+        "question_id": "02d5a1b5-d8a7-4d35-b127-aa4a2dbd3b63",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Kelly tell Anna and Pete to do when they both start talking? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "fd5fb5d7-fcba-41b0-a730-6b122a4f7aea",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Kelly tell Anna and Pete to do when they both start talking?"
+            },
+            "position": 1
+          },
+          {
+            "id": "84f198e1-2957-44e1-9b2c-4cc8b6ee8d25",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "7e0cb877-90f6-42ba-8d4c-2dea1d8bc939",
+            "text": "Speak louder.",
+            "is_correct": false
+          },
+          {
+            "id": "afbad967-ea13-429b-9dcc-c8fb4a5fb95e",
+            "text": "Leave the meeting.",
+            "is_correct": false
+          },
+          {
+            "id": "fa3ba8af-a7a9-4409-9e8b-07b2f48324b9",
+            "text": "Take turns.",
+            "is_correct": true
+          },
+          {
+            "id": "d0c18d75-b615-4868-9e52-d20cab0d7336",
+            "text": "Write a message.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "fa3ba8af-a7a9-4409-9e8b-07b2f48324b9"
+        ]
+      },
+      {
+        "question_id": "9f5cec97-e36c-44c6-ac7a-98afc2622476",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "According to Anna, how long did she wait before Pete arrived? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "257fcec0-4064-4c6f-842d-26d750c24be5",
+            "type": "TEXT",
+            "payload": {
+              "text": "According to Anna, how long did she wait before Pete arrived?"
+            },
+            "position": 1
+          },
+          {
+            "id": "111ddc51-3e91-4f98-9c00-e31505126562",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "342462a1-c8f0-4f03-9b39-6d7c3c9b5692",
+            "text": "15 minutes.",
+            "is_correct": true
+          },
+          {
+            "id": "652ececd-f071-4182-ab01-cb95ef7facd2",
+            "text": "43 minutes.",
+            "is_correct": false
+          },
+          {
+            "id": "5f56d15a-f727-406e-b7a9-f7480f5de27a",
+            "text": "8 minutes.",
+            "is_correct": false
+          },
+          {
+            "id": "27e9333e-a2e3-49b9-8b5e-4f8f83ab9f1e",
+            "text": "30 minutes.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "342462a1-c8f0-4f03-9b39-6d7c3c9b5692"
+        ]
+      },
+      {
+        "question_id": "70c3e28a-d744-41a4-816b-9be9b458b615",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why did Pete dislike the scooter? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "73ec3aee-1d04-4129-b092-13870e7362a1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why did Pete dislike the scooter?"
+            },
+            "position": 1
+          },
+          {
+            "id": "4db29f49-6378-42ec-a89d-1b818cd7762c",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "ccbb82ba-61a4-4c7b-98ef-94d66e508baf",
+            "text": "It was too expensive.",
+            "is_correct": false
+          },
+          {
+            "id": "223ba0af-a0b3-4aae-8adf-1c1600b8ee5f",
+            "text": "It was broken.",
+            "is_correct": false
+          },
+          {
+            "id": "d7dc092c-4179-4d39-afb8-f296f2afbb88",
+            "text": "He hated it and thought it added too much time to their commute.",
+            "is_correct": true
+          },
+          {
+            "id": "90eb8c18-7ab2-4257-b2f3-ce5d5c6ff921",
+            "text": "Anna did not know how to ride it.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d7dc092c-4179-4d39-afb8-f296f2afbb88"
+        ]
+      },
+      {
+        "question_id": "dc12b290-f60a-40a5-8347-f07f8c772d42",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What had Anna named the birds after? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "8d6dbc17-09b4-43d8-8fcd-4783b251ef7e",
+            "type": "TEXT",
+            "payload": {
+              "text": "What had Anna named the birds after?"
+            },
+            "position": 1
+          },
+          {
+            "id": "dd225c2f-f9c9-4070-aab3-42bea34b010d",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b136f158e00941d79b73171cfb28b857.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/2fb96a35-9a04-4051-928c-76962f0fcbd2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "c51946a9-727f-4051-86e4-e7ef15ce3972",
+            "text": "Famous reporters.",
+            "is_correct": false
+          },
+          {
+            "id": "0926eb39-0427-4c2b-8251-382cfce55263",
+            "text": "Places in the city.",
+            "is_correct": false
+          },
+          {
+            "id": "53407fe3-669b-4ec3-bd39-22c8f9625f02",
+            "text": "Characters from books.",
+            "is_correct": true
+          },
+          {
+            "id": "31af15c0-7fd1-48c3-a8d4-1b2982647da9",
+            "text": "People from The Studio.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "53407fe3-669b-4ec3-bd39-22c8f9625f02"
+        ]
+      },
+      {
+        "question_id": "6a6ca3e3-bbcf-4b77-96a2-f9da05167277",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal: According to my counselor, I ... meet with a tutor to improve my writing.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "bb4b31a3-c128-4b13-addd-ce6855cdfedc",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal: According to my counselor, I ... meet with a tutor to improve my writing."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "aa34241e-3675-4625-945d-462b5fef3ab9",
+            "text": "should",
+            "is_correct": true
+          },
+          {
+            "id": "e1c2ff2c-4acf-4ada-95d5-23470b9f1fb6",
+            "text": "must",
+            "is_correct": false
+          },
+          {
+            "id": "560e211f-0be7-433a-8fa1-21f04716e316",
+            "text": "might",
+            "is_correct": false
+          },
+          {
+            "id": "d52bae8d-6c42-40b7-9584-90d4ee8118b1",
+            "text": "will",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "aa34241e-3675-4625-945d-462b5fef3ab9"
+        ]
+      },
+      {
+        "question_id": "fe8d33f2-0432-4ae9-8fcd-93cd283e51bb",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal: Plants ... have water in order to live.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "93e865a1-7de7-4b6d-9db7-c8d2f1475193",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal: Plants ... have water in order to live."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3a396d70-ff99-4c6a-8528-143defde1ce5",
+            "text": "should",
+            "is_correct": false
+          },
+          {
+            "id": "55038aa7-dc06-4a09-813d-8d5c70f38908",
+            "text": "must",
+            "is_correct": true
+          },
+          {
+            "id": "81c94dc7-5ec2-4098-9464-fbfe0fb49694",
+            "text": "would",
+            "is_correct": false
+          },
+          {
+            "id": "74da5332-5b1a-4bd7-a1a4-24ac044bbaf2",
+            "text": "may",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "55038aa7-dc06-4a09-813d-8d5c70f38908"
+        ]
+      },
+      {
+        "question_id": "1dc656ec-12cb-4b30-b77d-b2587549f9b3",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal: We ... eat fruits and vegetables.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "8b89a3f7-16e8-48c5-a4d5-d7928acd2d26",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal: We ... eat fruits and vegetables."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e7648db2-2ee1-4c68-b18b-74316e438d4e",
+            "text": "should",
+            "is_correct": true
+          },
+          {
+            "id": "1f4fcc74-c886-42d4-ac3e-463bc4340248",
+            "text": "must",
+            "is_correct": false
+          },
+          {
+            "id": "26688e88-ce11-4afd-be5b-f6d10bd61606",
+            "text": "might",
+            "is_correct": false
+          },
+          {
+            "id": "e01cf6b7-b8df-496e-ba42-4e3918e7515e",
+            "text": "would",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e7648db2-2ee1-4c68-b18b-74316e438d4e"
+        ]
+      },
+      {
+        "question_id": "6f24a90f-47a6-4f56-a602-1bceeed0c09c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "944f8966-48cb-48e4-9200-29ec0c89bfe6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b8a79b45-5aa0-4195-849f-74337ccc6646",
+            "text": "I can to move this heavy table.",
+            "is_correct": false
+          },
+          {
+            "id": "9e2a395f-7f78-4765-8b19-88baf8818c14",
+            "text": "I can move this heavy table.",
+            "is_correct": true
+          },
+          {
+            "id": "7d91a886-9938-4f66-8941-6ad6026646f4",
+            "text": "I can moving this heavy table.",
+            "is_correct": false
+          },
+          {
+            "id": "57033be2-de36-4f84-9a9f-641b43b4aea6",
+            "text": "I can moved this heavy table.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9e2a395f-7f78-4765-8b19-88baf8818c14"
+        ]
+      },
+      {
+        "question_id": "c3818b2d-4993-4a30-b5df-bccd070077b3",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "75e013a3-135a-4fe6-b18b-fc3fd66b987f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b3722644-9c95-4b48-85b2-33adaf5d7b0c",
+            "text": "I could moving to the United States.",
+            "is_correct": false
+          },
+          {
+            "id": "f3c1137c-26be-45c0-9425-6fa79e976243",
+            "text": "I could move to the United States.",
+            "is_correct": true
+          },
+          {
+            "id": "b25db12d-1e57-40fa-93f3-2cbbe09414c2",
+            "text": "I could to move to the United States.",
+            "is_correct": false
+          },
+          {
+            "id": "67a42c72-35af-43fc-a466-aac8003ede59",
+            "text": "I could moved to the United States.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f3c1137c-26be-45c0-9425-6fa79e976243"
+        ]
+      },
+      {
+        "question_id": "a2c86f05-39a4-4320-96ff-a28b454cc6a6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "8a6f70d8-f272-43fd-b8e0-2cdea8a3f61f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "34a70eb5-4621-4f2f-9a69-0d89e17052fd",
+            "text": "I should must renew my passport.",
+            "is_correct": false
+          },
+          {
+            "id": "17060cf7-516d-4d5a-9bd0-1fcaf098f7f9",
+            "text": "I must renew my passport.",
+            "is_correct": true
+          },
+          {
+            "id": "16a93c36-115b-49ad-9054-046b626dac49",
+            "text": "I must to renew my passport.",
+            "is_correct": false
+          },
+          {
+            "id": "6feba8e6-ebf5-4e4b-9514-342da227fa96",
+            "text": "I should must to renew my passport.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "17060cf7-516d-4d5a-9bd0-1fcaf098f7f9"
+        ]
+      },
+      {
+        "question_id": "e00cfdcc-57bb-4d96-8728-af64dd02ba6d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "b7886b78-0a2d-48a7-8442-cdb170190dee",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5ac3ece1-0448-4335-a756-3b65898ed8ce",
+            "text": "I may to go to France next summer.",
+            "is_correct": false
+          },
+          {
+            "id": "c7a3637e-c66d-42fe-ba88-6cda3cb9e2cd",
+            "text": "I may go to France next summer.",
+            "is_correct": true
+          },
+          {
+            "id": "b37e4bb2-a4c9-452f-a57c-e7bb9f75fee5",
+            "text": "I may going to France next summer.",
+            "is_correct": false
+          },
+          {
+            "id": "9d0c58f4-df0f-4a5b-ba86-0fce1204b6f0",
+            "text": "I may went to France next summer.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c7a3637e-c66d-42fe-ba88-6cda3cb9e2cd"
+        ]
+      },
+      {
+        "question_id": "3685d585-345b-4023-8284-fcd9077e60f8",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "af55c5b2-d4f4-4a7a-adca-cc24f7c2a2da",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "16c85e06-e391-4f4e-8982-6acbba64d4b8",
+            "text": "I will to drive around the countryside.",
+            "is_correct": false
+          },
+          {
+            "id": "1551bec2-6533-4671-b157-26eab16c4b89",
+            "text": "I will drive around the countryside.",
+            "is_correct": true
+          },
+          {
+            "id": "c0df1dfe-aca8-49d3-95be-425a5a39d7e4",
+            "text": "I will driving around the countryside.",
+            "is_correct": false
+          },
+          {
+            "id": "3383dce4-1da4-4dac-a067-989fb81c66c1",
+            "text": "I will drove around the countryside.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1551bec2-6533-4671-b157-26eab16c4b89"
+        ]
+      },
+      {
+        "question_id": "96c66e88-686a-41ba-8394-5cf38acd7e75",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c7d5b967-29ed-49a7-aea1-7b6ab26115fa",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "70ce7659-34d5-4b69-bd90-d93fb8c26c7a",
+            "text": "I will not moved to France.",
+            "is_correct": false
+          },
+          {
+            "id": "c79ed06b-8463-4fa9-b6e5-c105c0324323",
+            "text": "I will not move to France.",
+            "is_correct": true
+          },
+          {
+            "id": "ce8479c7-380e-4fb7-be90-170511f08a64",
+            "text": "I will not to move to France.",
+            "is_correct": false
+          },
+          {
+            "id": "3120bafe-9c1f-4aca-ab17-fa078a42f328",
+            "text": "I will not moving to France.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c79ed06b-8463-4fa9-b6e5-c105c0324323"
+        ]
+      },
+      {
+        "question_id": "4874e663-edda-4aa0-8f58-93737b99399c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the sentence that expresses preference or a polite request.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "d2face4e-5bee-400f-9432-653bb4bce5e9",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the sentence that expresses preference or a polite request."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1f694261-844b-4e3c-9844-a49aff8f9f0f",
+            "text": "I must like the steak, please.",
+            "is_correct": false
+          },
+          {
+            "id": "a01f522f-943a-4e66-9466-bc62f852b2a3",
+            "text": "I can like the steak, please.",
+            "is_correct": false
+          },
+          {
+            "id": "035cc11e-e452-4ec6-be42-34f5b24e0740",
+            "text": "I would like the steak, please.",
+            "is_correct": true
+          },
+          {
+            "id": "54cf9a48-76f2-449c-816c-52dd72f08728",
+            "text": "I should like the steak, please.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "035cc11e-e452-4ec6-be42-34f5b24e0740"
+        ]
+      },
+      {
+        "question_id": "391413fb-225a-4c90-9dad-96d443ee7224",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. Welcome to Filmworld Cinemas. To hear information about today’s films and showtimes, press 1. To reserve tickets, press 2. To talk to a member of staff, press 3. The following films are showing today, Tuesday the 7th. Tickets cost €5.00 for adults and €3.50 for children under the age of 14. On Screen 1, there is Don’t Open the Door! In this film, several college students rent a house in the mountains for a quiet weekend, but they soon discover that they are not alone. The students begin to vanish one after another. Something or someone is outside the house. The film is shown at 4:30, 7:00, and 9:00. On Screen 2, there is Ships in the Night. Maggie breaks up with her boyfriend and goes on a cruise to forget him. Tony works as a waiter on the ship and feels miserable because his girlfriend leaves him and plans to marry the captain. Maggie and Tony help each other deal with their problems. The film is shown at 5:00, 7:45, and 10:15. On Screen 3, there is Streetmatch: The Return. This is the second movie by the French director Jean-Luc Ducroix. Two American teenagers buy an old car. After a lot of effort and many difficulties, they enter it in the Streetmatch competition. But will their car be strong enough to win? The film is shown at 5:50, 8:30, and 11:45. On Screen 4, there is Lulu: It’s a Dog’s Life. A charming little dog leaves the countryside and goes to the big city in search of success and fame. After many funny adventures, he understands that life in the country is not so bad. Made by the creators of Shrek and Shark Tale, this film is enjoyable for the whole family. The film is shown at 3:00, 6:00, and 8:45. Which film is about trying to win a contest after many difficulties?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "057a7729-e5d0-40ef-b5a1-a60a5d24f4b1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. Welcome to Filmworld Cinemas. To hear information about today’s films and showtimes, press 1. To reserve tickets, press 2. To talk to a member of staff, press 3. The following films are showing today, Tuesday the 7th. Tickets cost €5.00 for adults and €3.50 for children under the age of 14. On Screen 1, there is Don’t Open the Door! In this film, several college students rent a house in the mountains for a quiet weekend, but they soon discover that they are not alone. The students begin to vanish one after another. Something or someone is outside the house. The film is shown at 4:30, 7:00, and 9:00. On Screen 2, there is Ships in the Night. Maggie breaks up with her boyfriend and goes on a cruise to forget him. Tony works as a waiter on the ship and feels miserable because his girlfriend leaves him and plans to marry the captain. Maggie and Tony help each other deal with their problems. The film is shown at 5:00, 7:45, and 10:15. On Screen 3, there is Streetmatch: The Return. This is the second movie by the French director Jean-Luc Ducroix. Two American teenagers buy an old car. After a lot of effort and many difficulties, they enter it in the Streetmatch competition. But will their car be strong enough to win? The film is shown at 5:50, 8:30, and 11:45. On Screen 4, there is Lulu: It’s a Dog’s Life. A charming little dog leaves the countryside and goes to the big city in search of success and fame. After many funny adventures, he understands that life in the country is not so bad. Made by the creators of Shrek and Shark Tale, this film is enjoyable for the whole family. The film is shown at 3:00, 6:00, and 8:45. Which film is about trying to win a contest after many difficulties?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0bdcbc00-814b-4bf2-b7fb-84207f612855",
+            "text": "Streetmatch: The Return",
+            "is_correct": true
+          },
+          {
+            "id": "5862e3dd-199f-493c-af19-43a19c3b3e3c",
+            "text": "Lulu: It’s a Dog’s Life",
+            "is_correct": false
+          },
+          {
+            "id": "d8b338bb-434c-405e-9f86-77dde2d54e8f",
+            "text": "Don’t Open the Door!",
+            "is_correct": false
+          },
+          {
+            "id": "4ef93e81-0f3d-49a7-8564-b9d51f270a37",
+            "text": "Ships in the Night",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0bdcbc00-814b-4bf2-b7fb-84207f612855"
+        ]
+      },
+      {
+        "question_id": "f9437764-478a-4050-bda2-2645d8e5a80c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "If someone comes to the cinema at 7:10, what is the nearest next showtime?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "cbe082d3-c7bc-4fe3-bcd4-3b2d81ab8cfe",
+            "type": "TEXT",
+            "payload": {
+              "text": "If someone comes to the cinema at 7:10, what is the nearest next showtime?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "634a3a63-76a3-4232-8771-9425858675c9",
+            "text": "7:00",
+            "is_correct": false
+          },
+          {
+            "id": "44305804-756b-4854-9cb9-fe86eed9747b",
+            "text": "8:45",
+            "is_correct": false
+          },
+          {
+            "id": "2ea09681-c088-4609-8e47-70ae1ee54440",
+            "text": "7:45",
+            "is_correct": true
+          },
+          {
+            "id": "1a654cc0-8593-4649-92ca-4107a6296707",
+            "text": "6:00",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2ea09681-c088-4609-8e47-70ae1ee54440"
+        ]
+      },
+      {
+        "question_id": "29952315-cca7-467d-99c4-9eec85ce8fb6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Jean-Luc Ducroix is described as a director from which country?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ec432552-cbb0-4108-ba87-0d57d298bcd2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Jean-Luc Ducroix is described as a director from which country?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bc073a6f-1244-4498-a5e1-eee8079f9ed5",
+            "text": "France",
+            "is_correct": true
+          },
+          {
+            "id": "38577dcf-197e-4e21-b8a0-ba612fd9e022",
+            "text": "America",
+            "is_correct": false
+          },
+          {
+            "id": "f6f61ae2-07e2-4045-a44b-ccb0a618428a",
+            "text": "Spain",
+            "is_correct": false
+          },
+          {
+            "id": "cd87e0f0-3eee-4bfc-9fd3-170f1b768c80",
+            "text": "Ducroix",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bc073a6f-1244-4498-a5e1-eee8079f9ed5"
+        ]
+      },
+      {
+        "question_id": "ae4a3856-73e9-4e49-9ada-7e1fb50b7bb4",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What kind of film is Don’t Open the Door! most likely to be?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "ffcbb9d0-f04e-4a4c-8a9a-28ece335c416",
+            "type": "TEXT",
+            "payload": {
+              "text": "What kind of film is Don’t Open the Door! most likely to be?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "50ae959c-86c1-4df0-8549-6dbbde20f21f",
+            "text": "horror or thriller",
+            "is_correct": true
+          },
+          {
+            "id": "ca8b0f9b-e9cb-4c2b-bd82-d9179f700390",
+            "text": "romance",
+            "is_correct": false
+          },
+          {
+            "id": "6ea10b50-d415-4f4e-9a6c-b019721c3d93",
+            "text": "science fiction",
+            "is_correct": false
+          },
+          {
+            "id": "39f6d84c-65b4-4bef-922b-497c620473a6",
+            "text": "historical drama",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "50ae959c-86c1-4df0-8549-6dbbde20f21f"
+        ]
+      },
+      {
+        "question_id": "9ec9f4b3-aab7-41f2-a930-9c2311b5524e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "On which screen is the family animated film shown?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9bcee562-15d6-49ce-b262-a4f0dca3287f",
+            "type": "TEXT",
+            "payload": {
+              "text": "On which screen is the family animated film shown?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "91d7df76-292b-4422-836b-b01f4280c5c9",
+            "text": "Screen 1",
+            "is_correct": false
+          },
+          {
+            "id": "a8aae644-d938-4d86-ae2c-c9dea53e02c5",
+            "text": "Screen 2",
+            "is_correct": false
+          },
+          {
+            "id": "dabe0231-ca73-4e2c-bc0f-e17aeb1a7097",
+            "text": "Screen 3",
+            "is_correct": false
+          },
+          {
+            "id": "3c87deb7-871b-4387-b38f-8f06faa66330",
+            "text": "Screen 4",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "3c87deb7-871b-4387-b38f-8f06faa66330"
+        ]
+      },
+      {
+        "question_id": "e953ba26-3948-4f5c-a26b-2fb8d17ec8ce",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What time does the earliest film of the day begin?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4cf0357e-ac19-4ebb-b8d5-a99873010d3b",
+            "type": "TEXT",
+            "payload": {
+              "text": "What time does the earliest film of the day begin?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a8acf848-7488-4f4d-b8b4-fe1f50a0187e",
+            "text": "2:00",
+            "is_correct": false
+          },
+          {
+            "id": "e084cbf9-93a1-4e24-a7de-02fa7501ab79",
+            "text": "3:00",
+            "is_correct": true
+          },
+          {
+            "id": "b994f861-7082-47e4-b5c4-9ecabefbb859",
+            "text": "4:00",
+            "is_correct": false
+          },
+          {
+            "id": "25bfb880-e1a9-43e6-8ad4-3b240f2e87c0",
+            "text": "5:00",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e084cbf9-93a1-4e24-a7de-02fa7501ab79"
+        ]
+      },
+      {
+        "question_id": "38f4987d-3538-4cc0-ba97-e619d328c032",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "A visitor arrives at 7:10. What time is the next available film?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "dc70b2e9-00d7-471a-9b51-3199cf8466c1",
+            "type": "TEXT",
+            "payload": {
+              "text": "A visitor arrives at 7:10. What time is the next available film?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8544bff5-f445-4353-812d-152b4ee1640d",
+            "text": "7:25",
+            "is_correct": false
+          },
+          {
+            "id": "04fdbad5-35db-4db3-b113-13d8d0e2d01f",
+            "text": "7:45",
+            "is_correct": true
+          },
+          {
+            "id": "21cf7d21-4e44-462a-a46e-be1458f517cb",
+            "text": "7:55",
+            "is_correct": false
+          },
+          {
+            "id": "2af6a7f5-9b74-4154-be91-5b20338185f2",
+            "text": "7:20",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "04fdbad5-35db-4db3-b113-13d8d0e2d01f"
+        ]
+      },
+      {
+        "question_id": "f0c785ab-5b57-4d30-9065-192f9d1f0a3a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Where is the director of Streetmatch: The Return from?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "bb955547-d0e4-4c40-bc7c-483842e5f195",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where is the director of Streetmatch: The Return from?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6e2e5ff4-5693-4f99-a92d-6fd392547431",
+            "text": "England",
+            "is_correct": false
+          },
+          {
+            "id": "c3150927-be34-46b7-8c7c-165370d9e3cf",
+            "text": "France",
+            "is_correct": true
+          },
+          {
+            "id": "896f2e5a-fbce-4aae-b899-ffb15c7407ec",
+            "text": "Spain",
+            "is_correct": false
+          },
+          {
+            "id": "45fccb76-62d4-4d96-bdb7-e8a3c5c71db2",
+            "text": "the USA",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c3150927-be34-46b7-8c7c-165370d9e3cf"
+        ]
+      },
+      {
+        "question_id": "99509b52-e5d0-49fa-8354-034d2fc04448",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "How much does a ticket cost for an adult?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "bc0396f2-8094-44c0-a182-19da2882261e",
+            "type": "TEXT",
+            "payload": {
+              "text": "How much does a ticket cost for an adult?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bc120926-8663-455c-8472-f1c50e274c33",
+            "text": "€5.00",
+            "is_correct": true
+          },
+          {
+            "id": "38c0842c-92af-48e4-b918-813e0fa745cf",
+            "text": "€3.50",
+            "is_correct": false
+          },
+          {
+            "id": "2b49f234-29cb-4267-8e00-9baa46bb3c52",
+            "text": "€7.00",
+            "is_correct": false
+          },
+          {
+            "id": "85502d6c-8232-45ac-ab87-fb52ceb47a34",
+            "text": "€10.15",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bc120926-8663-455c-8472-f1c50e274c33"
+        ]
+      },
+      {
+        "question_id": "c859842b-7d0f-40c4-a144-a7a3df0b3622",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which number should a caller press to book tickets?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c80db1f8-d3bd-4c22-a0df-160a959ef7e0",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which number should a caller press to book tickets?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6487504a-5bad-4e2d-b096-fda7be3e5154",
+            "text": "1",
+            "is_correct": false
+          },
+          {
+            "id": "261d1d9f-07f8-41ef-a4e0-784a739149f6",
+            "text": "2",
+            "is_correct": true
+          },
+          {
+            "id": "4b06d400-6b6d-4117-b53e-8ab4089997be",
+            "text": "3",
+            "is_correct": false
+          },
+          {
+            "id": "74dcb647-7c21-4a7f-86f8-3cbdc8adbe4c",
+            "text": "4",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "261d1d9f-07f8-41ef-a4e0-784a739149f6"
+        ]
+      },
+      {
+        "question_id": "1042c5cc-1f4a-406c-b713-9190833bc4de",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что кардинально их отличает.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "54a31986-f734-4364-83c3-d4a4f306d383",
+            "type": "TEXT",
+            "payload": {
+              "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что кардинально их отличает."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b325ab22-b36b-4d72-8ded-62cd82bc64b2",
+            "text": "Кардинальное отличие состоит в том, что у Арнольд речь идет о сущности «языка», а у Антрушиной — о сущности «речи».",
+            "is_correct": false
+          },
+          {
+            "id": "b743b386-30e7-4ab7-8b02-3915f7691768",
+            "text": "Кардинальное отличие состоит в том, что у Арнольд речь идет о богатстве слова, а у Антрушиной — о роли слова в человеческой коммуникации.",
+            "is_correct": false
+          },
+          {
+            "id": "8a57066e-5e4e-4bb8-b0ea-f6be2fe48ec0",
+            "text": "У Антрушиной акцент поставлен на том, что человеческая коммуникация невозможна без слов, а у Арнольд возможна.",
+            "is_correct": false
+          },
+          {
+            "id": "647716dd-66da-4585-8eb9-a4302bf6c463",
+            "text": "У Антрушиной речь о слове идет как о «единице речи, используемой для целей человеческого общения», а у Арнольд в определении термина «слово» акцент делается на «единице языка»; о том, что слово используется для цели человеческой коммуникации, нет и речи.",
+            "is_correct": true
+          },
+          {
+            "id": "32e44f32-737e-42d3-b14a-21f13e8d9902",
+            "text": "Антрушина пишет конкретно о слове как единице языка, а Арнольд упоминает в общем виде «слово как единица языка».",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "647716dd-66da-4585-8eb9-a4302bf6c463"
+        ]
+      },
+      {
+        "question_id": "785409f8-804f-4c7b-a095-d2595010e38a",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Лев Васильевич Успенский: «Официально этот вид транспорта именовался «конно-железная дорога». По улице проложены рельсы, всюду только одна колея. Кое-где эта колея образует «разъезды» с раз и навсегда переведёнными стрелками: тут «вагоны конно-железной дороги» встречаются и расходятся на своём пути.\n\nВообразите на крыше современного трамвая двойную скамью во всю длину, на которой можно сидеть спинами друг к другу, лицами — к двум противоположным сторонам улицы. По бортикам крыши — лёгкие перильца, а к ним с внешней стороны прикреплены длинные рамки выполненных на жести вывесок и рекламных объявлений. Высота всего сооружения получалась довольно солидная, с теперешние двухэтажные автобусы и троллейбусы. По длине вагоны примерно равнялись нашим трамвайным, но только, конечно, не современным четырехосным, а двухосным, лёгким, в высоту же они намного превосходили их.\n\nВот она погромыхивает тяжко и неторопливо по рельсам: ну с какой скоростью может двигаться огромный железный вагон, влекомый двумя пусть даже и хорошо кормленными лошадьми? Для каждого из граждан 1970 года не представило бы ни малейшего труда слезть на ходу с этого рыдвана где-нибудь на углу Пушкарской и Введенской, наддать ходу, догнать вагон у Народного дома и снова вскочить в него.\n\nВнутри коночный вагон был оборудован двумя длинными крашенными масляной краской скамьями вдоль окон, из конца в конец. Над обеими дверьми висели фонарики, и по вечерам в них горели, тускло освещая внутренность конки, свечи. Билеты были разных сортов: за пятак — вовнутрь, за три копейки — на верхотурку. Были еще и «пересадочные», на копейку дороже: взяв такой билет, вы могли доехать до пересечения двух линий и пересесть бесплатно в вагон другого маршрута.\n\nВот на такой конке и ездил в те годы весь демократический Петербург: рабочие с далёких заводов, если нельзя было пройти пешком, студенты, когда был дождь или сильный холод, мелкие чиновники ежедневно, чиновники повыше рангом — от случая к случаю, горничные, модистки, хористки из мелких театриков, ночные бабочки, когда возвращались домой после нелёгкой своей работенки... С раннего утра ползли они по улицам, огромные синие вагоны, зимой залепленные снегом, с наглухо замерзшими стеклами, настылые, мрачные; летом пестреющие женскими шляпками, с империалом, то над чем-то хохочущим, то мирно созерцающим окрестный пейзаж... И вдруг — дождь, и вся конка сразу покрылась множеством чёрных зонтов, точно на ней вмиг выросло три или четыре десятка грибов.\n\nСмешно все это? Да, конечно, смешно. Смешное, старое время, смешная жизнь, медленная, болотистая, тихая... Но когда я закрываю глаза и передо мной встаёт в зимнем туманчике, в метели, в питерском июньском дожде высокий призрак дребезжащей на ходу всеми стеклами синей громады, мне приходит в голову, что по ступенькам таких конок поднимался иной раз на империал Александр Блок и оттуда видел свои улицы, свои фонари и аптеки, своих Незнакомок и Фаин. В этих кузовах мог ехать и молодой Шаляпин. И тут смех уходит в сторону, и на его место встаёт почтение к прошлому, большая гордость, что оно было и что я его помню. Каждому овощу свое время. Конке — тоже».\n\nКакое из высказываний содержит ответ на вопрос: «Как автор относится к старому транспортному средству — конке?»",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9d3feb50-33d7-4b79-8f34-e47384620d7e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Лев Васильевич Успенский: «Официально этот вид транспорта именовался «конно-железная дорога». По улице проложены рельсы, всюду только одна колея. Кое-где эта колея образует «разъезды» с раз и навсегда переведёнными стрелками: тут «вагоны конно-железной дороги» встречаются и расходятся на своём пути.\n\nВообразите на крыше современного трамвая двойную скамью во всю длину, на которой можно сидеть спинами друг к другу, лицами — к двум противоположным сторонам улицы. По бортикам крыши — лёгкие перильца, а к ним с внешней стороны прикреплены длинные рамки выполненных на жести вывесок и рекламных объявлений. Высота всего сооружения получалась довольно солидная, с теперешние двухэтажные автобусы и троллейбусы. По длине вагоны примерно равнялись нашим трамвайным, но только, конечно, не современным четырехосным, а двухосным, лёгким, в высоту же они намного превосходили их.\n\nВот она погромыхивает тяжко и неторопливо по рельсам: ну с какой скоростью может двигаться огромный железный вагон, влекомый двумя пусть даже и хорошо кормленными лошадьми? Для каждого из граждан 1970 года не представило бы ни малейшего труда слезть на ходу с этого рыдвана где-нибудь на углу Пушкарской и Введенской, наддать ходу, догнать вагон у Народного дома и снова вскочить в него.\n\nВнутри коночный вагон был оборудован двумя длинными крашенными масляной краской скамьями вдоль окон, из конца в конец. Над обеими дверьми висели фонарики, и по вечерам в них горели, тускло освещая внутренность конки, свечи. Билеты были разных сортов: за пятак — вовнутрь, за три копейки — на верхотурку. Были еще и «пересадочные», на копейку дороже: взяв такой билет, вы могли доехать до пересечения двух линий и пересесть бесплатно в вагон другого маршрута.\n\nВот на такой конке и ездил в те годы весь демократический Петербург: рабочие с далёких заводов, если нельзя было пройти пешком, студенты, когда был дождь или сильный холод, мелкие чиновники ежедневно, чиновники повыше рангом — от случая к случаю, горничные, модистки, хористки из мелких театриков, ночные бабочки, когда возвращались домой после нелёгкой своей работенки... С раннего утра ползли они по улицам, огромные синие вагоны, зимой залепленные снегом, с наглухо замерзшими стеклами, настылые, мрачные; летом пестреющие женскими шляпками, с империалом, то над чем-то хохочущим, то мирно созерцающим окрестный пейзаж... И вдруг — дождь, и вся конка сразу покрылась множеством чёрных зонтов, точно на ней вмиг выросло три или четыре десятка грибов.\n\nСмешно все это? Да, конечно, смешно. Смешное, старое время, смешная жизнь, медленная, болотистая, тихая... Но когда я закрываю глаза и передо мной встаёт в зимнем туманчике, в метели, в питерском июньском дожде высокий призрак дребезжащей на ходу всеми стеклами синей громады, мне приходит в голову, что по ступенькам таких конок поднимался иной раз на империал Александр Блок и оттуда видел свои улицы, свои фонари и аптеки, своих Незнакомок и Фаин. В этих кузовах мог ехать и молодой Шаляпин. И тут смех уходит в сторону, и на его место встаёт почтение к прошлому, большая гордость, что оно было и что я его помню. Каждому овощу свое время. Конке — тоже».\n\nКакое из высказываний содержит ответ на вопрос: «Как автор относится к старому транспортному средству — конке?»"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1c0d479f-e7c8-47d9-a1aa-abcae843ebe9",
+            "text": "Автор не проводит параллели между историей конки и историей города.",
+            "is_correct": false
+          },
+          {
+            "id": "8503edb9-6651-4cdc-8aa6-3e2ef760011b",
+            "text": "Это неприятные воспоминания.",
+            "is_correct": false
+          },
+          {
+            "id": "7d1dcd90-d25e-4aa6-a733-e6ff4ed89295",
+            "text": "Автор рад наступлению эпохи технического прогресса и возможности передвигаться с помощью современного транспорта.",
+            "is_correct": false
+          },
+          {
+            "id": "e9759a77-ffb5-4597-a755-6ab3ce011b0b",
+            "text": "История конки, по мнению автора, неотъемлемая часть истории города.",
+            "is_correct": true
+          },
+          {
+            "id": "46597cdf-bed2-404d-b14a-68604e236880",
+            "text": "Это несовременные воспоминания.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e9759a77-ffb5-4597-a755-6ab3ce011b0b"
+        ]
+      },
+      {
+        "question_id": "f9f8131b-1054-41d0-9d94-0ba3a4193f78",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "«Культура отражает внутренний мир человека, его ценности и традиции, тогда как цивилизация связана с внешними достижениями общества — техникой, организацией и прогрессом.»\n\nПротивоположность каких понятий приводится в данном рассуждении?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "89b30b44-1352-4076-a85a-84f867051120",
+            "type": "TEXT",
+            "payload": {
+              "text": "«Культура отражает внутренний мир человека, его ценности и традиции, тогда как цивилизация связана с внешними достижениями общества — техникой, организацией и прогрессом.»\n\nПротивоположность каких понятий приводится в данном рассуждении?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c0513c12-e817-406b-96e0-d265224586f3",
+            "text": "природа и культура",
+            "is_correct": false
+          },
+          {
+            "id": "3a4d801c-2775-4d84-b101-1026477ba5fe",
+            "text": "наука и философия",
+            "is_correct": false
+          },
+          {
+            "id": "31dd9fd3-367b-4352-9508-a553cf4e0085",
+            "text": "управление и подчинение",
+            "is_correct": false
+          },
+          {
+            "id": "be26f3de-8173-492d-85dd-e4fe8d828754",
+            "text": "искусство и религия",
+            "is_correct": false
+          },
+          {
+            "id": "20eb39fa-a4ad-4722-a887-8b61c6af136f",
+            "text": "культура и цивилизация",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "20eb39fa-a4ad-4722-a887-8b61c6af136f"
+        ]
+      },
+      {
+        "question_id": "f80cbd41-e78c-40fa-a39f-eaec63d48fde",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Отдельные черты личности, которые сами по себе еще не являются патологическими, однако при определенных условиях могут претерпевать развитие в положительном или отрицательном направлении, достигая особой выраженности у психопатов и невротиков, называются …. Вставьте пропущенное слово.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "dfa31805-1083-4159-b97e-916d086fd6be",
+            "type": "TEXT",
+            "payload": {
+              "text": "Отдельные черты личности, которые сами по себе еще не являются патологическими, однако при определенных условиях могут претерпевать развитие в положительном или отрицательном направлении, достигая особой выраженности у психопатов и невротиков, называются …. Вставьте пропущенное слово."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "95caed85-6856-41b6-b245-4cfc5d104705",
+            "text": "экстраверсией",
+            "is_correct": false
+          },
+          {
+            "id": "cdb941eb-5bb6-4b5b-9ca2-631b55c2269b",
+            "text": "акцентуацией",
+            "is_correct": true
+          },
+          {
+            "id": "e31b2f57-bf32-48d5-8372-6ec7c357c0ac",
+            "text": "проекцией",
+            "is_correct": false
+          },
+          {
+            "id": "45f961cf-9c2b-4621-8de5-233c62e99093",
+            "text": "рефлексией",
+            "is_correct": false
+          },
+          {
+            "id": "ae5898d2-e3a5-46d8-a805-652c38a5d423",
+            "text": "сублимацией",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "cdb941eb-5bb6-4b5b-9ca2-631b55c2269b"
+        ]
+      },
+      {
+        "question_id": "7e116b17-3763-4d0f-bfd6-4d26f2c00413",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Согласно философскому определению, дедукция — один из методов познания, переход от общего знания о предметах данного класса к единичному знанию об отдельном предмете класса. Дедуктивные умозаключения можно использовать для предвидения на основе […] закономерностей ещё не наступивших фактов. Заполните пропуск.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f9c8ff72-98ad-45e7-9218-e8e6456e2c4e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Согласно философскому определению, дедукция — один из методов познания, переход от общего знания о предметах данного класса к единичному знанию об отдельном предмете класса. Дедуктивные умозаключения можно использовать для предвидения на основе […] закономерностей ещё не наступивших фактов. Заполните пропуск."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "657af7eb-ad81-464c-a196-ccf46b539a31",
+            "text": "частных",
+            "is_correct": false
+          },
+          {
+            "id": "2a84c505-f365-40f0-b70d-a88abc1707ac",
+            "text": "конкретных",
+            "is_correct": false
+          },
+          {
+            "id": "51b2569c-57fe-47c3-b048-1377e0aa9a4e",
+            "text": "общественных",
+            "is_correct": false
+          },
+          {
+            "id": "70ec7324-3f6a-441f-b483-60e9de2adb40",
+            "text": "общих",
+            "is_correct": true
+          },
+          {
+            "id": "579c58cb-ff49-4565-8dd1-c5669e10c70d",
+            "text": "единичных",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "70ec7324-3f6a-441f-b483-60e9de2adb40"
+        ]
+      },
+      {
+        "question_id": "c03530fa-ef59-4391-b4f4-9aff59a16b02",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Кестеде жануарлар саны берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20. Барлығы — 42. Дөңгелек диаграммада балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "19174752-9d72-4d79-bd61-9ec19c567877",
+            "type": "TEXT",
+            "payload": {
+              "text": "Кестеде жануарлар саны берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20. Барлығы — 42. Дөңгелек диаграммада балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a5294632-6f40-4037-bb0c-51c334f72701",
+            "text": "134°",
+            "is_correct": false
+          },
+          {
+            "id": "aeab5f48-9baa-4867-957e-b4e90562a7a1",
+            "text": "171°",
+            "is_correct": true
+          },
+          {
+            "id": "f25eabe5-6d13-4cea-bba9-1b7f528907d4",
+            "text": "162°",
+            "is_correct": false
+          },
+          {
+            "id": "065a1cc4-c582-48e4-b9c8-9b6204e1c3e2",
+            "text": "150°",
+            "is_correct": false
+          },
+          {
+            "id": "baee32f9-2cff-4241-85b5-8fefc179d8dd",
+            "text": "195°",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "aeab5f48-9baa-4867-957e-b4e90562a7a1"
+        ]
+      },
+      {
+        "question_id": "5b8098ff-fe5e-4868-9e18-9b93d7a8ea01",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "3x − 5 = 16 теңдеуін шешіңіз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2a41f970-4b22-4e88-8a67-5c98ebda2924",
+            "type": "TEXT",
+            "payload": {
+              "text": "3x − 5 = 16 теңдеуін шешіңіз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3e94eb66-7eda-493d-8aa7-c2b68d32ce20",
+            "text": "5",
+            "is_correct": false
+          },
+          {
+            "id": "4db20f71-ad19-47e9-b912-b49aa69408c6",
+            "text": "6",
+            "is_correct": false
+          },
+          {
+            "id": "9b6b7058-d41d-4e0d-92b4-972339faee76",
+            "text": "7",
+            "is_correct": true
+          },
+          {
+            "id": "08d4b36c-fc4c-4cec-bdd8-1270cf5af249",
+            "text": "8",
+            "is_correct": false
+          },
+          {
+            "id": "9ba6fb7d-6077-41ee-ba34-4c8be6b0ee3d",
+            "text": "9",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9b6b7058-d41d-4e0d-92b4-972339faee76"
+        ]
+      },
+      {
+        "question_id": "4ff3c686-149c-4cf3-a2d8-c7a8cf19244d",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "12, 18 және 30 сандарының ең үлкен ортақ бөлгішін табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6ddeadef-e626-46bf-a5a3-5f3f5c481b04",
+            "type": "TEXT",
+            "payload": {
+              "text": "12, 18 және 30 сандарының ең үлкен ортақ бөлгішін табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5c93f027-95d6-45b0-a943-aef9bced7d32",
+            "text": "2",
+            "is_correct": false
+          },
+          {
+            "id": "9f6d244b-a1d8-4ccd-ae1e-750ab5f56546",
+            "text": "3",
+            "is_correct": false
+          },
+          {
+            "id": "e667f626-c9c0-4401-a25f-32d15791a4aa",
+            "text": "6",
+            "is_correct": true
+          },
+          {
+            "id": "309ed3b5-f781-4a1d-973a-9f9641dd2044",
+            "text": "9",
+            "is_correct": false
+          },
+          {
+            "id": "9f15ec44-d3a7-485e-a1d0-c639ea568628",
+            "text": "12",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e667f626-c9c0-4401-a25f-32d15791a4aa"
+        ]
+      },
+      {
+        "question_id": "746cb8a8-9c84-45dd-9f5a-702e0dd515d6",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Решите неравенство: 7x + 8 > 11x − 16.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "30a76825-4491-45c5-9998-d39bb9fd40fb",
+            "type": "TEXT",
+            "payload": {
+              "text": "Решите неравенство: 7x + 8 > 11x − 16."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a94edfb7-52ef-4b28-ac86-8854d48f2df5",
+            "text": "x < 6",
+            "is_correct": true
+          },
+          {
+            "id": "ccc71d06-40d9-4c3e-8fd2-3b5d4bc66424",
+            "text": "x < 16",
+            "is_correct": false
+          },
+          {
+            "id": "fa9470c0-696f-46b9-9ef4-d840dccb15b1",
+            "text": "x ≥ 6",
+            "is_correct": false
+          },
+          {
+            "id": "7230e6cd-aafe-4264-a1a5-5cf172c73dc9",
+            "text": "x < 1",
+            "is_correct": false
+          },
+          {
+            "id": "a4f2f815-7c9b-46c8-9a70-7148fd859697",
+            "text": "x > 1",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a94edfb7-52ef-4b28-ac86-8854d48f2df5"
+        ]
+      },
+      {
+        "question_id": "349be806-28ac-494a-b619-03e48e3c0660",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Сравните две величины.Величина A: 25 · 5²\nВеличина B: 5⁴",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f3f84c08-2371-4ea8-bf7b-5262a7cb580d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Сравните две величины.Величина A: 25 · 5²\nВеличина B: 5⁴"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0ff42638-28d6-48ab-ad7f-6257106056bf",
+            "text": "Величина A больше",
+            "is_correct": false
+          },
+          {
+            "id": "b980cc7e-4770-42eb-8b73-da7615656011",
+            "text": "Величина B больше",
+            "is_correct": false
+          },
+          {
+            "id": "a01d47f3-81c4-4916-a974-3b5dacf2b8dc",
+            "text": "Величины равны",
+            "is_correct": true
+          },
+          {
+            "id": "637436e8-a8ee-4d16-b2d9-e9fae619ff57",
+            "text": "Ни больше ни меньше",
+            "is_correct": false
+          },
+          {
+            "id": "68994bf9-f1b0-46d6-b0a9-1040d61207de",
+            "text": "По данной информации невозможно определить отношение величин",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a01d47f3-81c4-4916-a974-3b5dacf2b8dc"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3717 @@
+{
+  "variant_id": "angl_tgo_v09",
+  "title": "Английский + ТГО — Вариант 9",
+  "total_count": 40,
+  "attempt_id": "b1cfa561-a74a-490e-bcae-52af8daeec4e",
+  "questions": [
+    {
+      "question_id": "3f2a2d22-5d9b-4672-a65e-13ea6af58c86",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is the main topic of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ebb0873e-e36f-4fc1-855d-9bc533195559",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is the main topic of the audio?"
+          },
+          "position": 1
+        },
+        {
+          "id": "7d80760c-0189-4365-b963-1fe043dcbcbd",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "7571f3ce-2425-4c94-a0d8-90039cac98b6",
+          "text": "How to find a job in Washington, D.C.",
+          "is_correct": false
+        },
+        {
+          "id": "68f2f9dd-edba-414c-b22b-49163320f0b6",
+          "text": "How ships stay safe at sea.",
+          "is_correct": false
+        },
+        {
+          "id": "9e34a150-6cf6-45e5-8ffe-8a1a2cda78f0",
+          "text": "Fitness and expressions with the word “shape.”",
+          "is_correct": true
+        },
+        {
+          "id": "e8d3716e-e69c-4ffb-b8ef-29ba23fb398a",
+          "text": "How to work from home successfully.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9e34a150-6cf6-45e5-8ffe-8a1a2cda78f0"
+      ]
+    },
+    {
+      "question_id": "a847814c-a642-4523-95bd-8df70888d2b7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “keeping in shape” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0babb1a2-7a7c-4b86-adf1-afecdc1928bf",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “keeping in shape” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "d20d3c02-49f8-4718-8439-caec525c57a7",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "09f4924b-ad3e-4532-87e9-1049c7c53401",
+          "text": "Changing the shape of your house.",
+          "is_correct": false
+        },
+        {
+          "id": "5b951050-17fd-4f2d-ab3a-42779c75cf0c",
+          "text": "Staying physically fit.",
+          "is_correct": true
+        },
+        {
+          "id": "839e8f3d-0cab-4f48-9e0f-dac10b0c818c",
+          "text": "Working from home.",
+          "is_correct": false
+        },
+        {
+          "id": "5f62c36f-9432-497a-a66b-921625afbd3b",
+          "text": "Cleaning a ship.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5b951050-17fd-4f2d-ab3a-42779c75cf0c"
+      ]
+    },
+    {
+      "question_id": "d5de5c91-f2b3-493c-8ddb-fa627577c4d8",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "How did the speaker stay in good shape before working from home? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c51b4685-fa90-4502-8e67-2fe5b9ec21ba",
+          "type": "TEXT",
+          "payload": {
+            "text": "How did the speaker stay in good shape before working from home?"
+          },
+          "position": 1
+        },
+        {
+          "id": "0a6093ec-e1ec-469b-b2ea-1528cda861ea",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "72e6382c-20fa-4ba6-9f14-471a297f3a4c",
+          "text": "By going to the gym every day.",
+          "is_correct": false
+        },
+        {
+          "id": "b0a41de0-2cbd-4c2a-9407-c345fcf20bd1",
+          "text": "By riding a bike to work.",
+          "is_correct": false
+        },
+        {
+          "id": "30028fa6-b393-4f41-a5f7-9c6dcad73926",
+          "text": "By walking a lot and climbing stairs.",
+          "is_correct": true
+        },
+        {
+          "id": "e7bc4ab1-7f6a-4b2a-9e0c-ff2d946abb99",
+          "text": "By swimming every morning.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "30028fa6-b393-4f41-a5f7-9c6dcad73926"
+      ]
+    },
+    {
+      "question_id": "e8f8d279-03a1-4446-b930-6717f5392b86",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What changed for the speaker in 2020? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "63b4853a-db4c-4e6e-bdf0-36e05c858c38",
+          "type": "TEXT",
+          "payload": {
+            "text": "What changed for the speaker in 2020?"
+          },
+          "position": 1
+        },
+        {
+          "id": "f1365f8f-8ae2-49b7-be92-312debbe0eae",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "e9c8b030-ec59-4c60-a93b-d011ddd8042b",
+          "text": "She moved to another country.",
+          "is_correct": false
+        },
+        {
+          "id": "a0bf991a-d663-4dea-9be7-86aa3df3992c",
+          "text": "She started working from home.",
+          "is_correct": true
+        },
+        {
+          "id": "291e24f2-013f-44a6-a265-baeaae47bd78",
+          "text": "She stopped exercising completely.",
+          "is_correct": false
+        },
+        {
+          "id": "44a0ff23-44f5-4d59-b939-04a852f14889",
+          "text": "She began working on a ship.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a0bf991a-d663-4dea-9be7-86aa3df3992c"
+      ]
+    },
+    {
+      "question_id": "16069f39-7c3b-4c84-a04f-8dc080d62280",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What did the speaker do to avoid getting out of shape? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "34287e79-3ba0-49de-b5dc-5f166fce8d6d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What did the speaker do to avoid getting out of shape?"
+          },
+          "position": 1
+        },
+        {
+          "id": "11410f1b-805b-4679-b3ac-749b784aa80f",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "1ba3556a-092d-4e58-bc79-eb16c7d8d39d",
+          "text": "She bought new work clothes.",
+          "is_correct": false
+        },
+        {
+          "id": "968bbf49-5dcc-499a-b6d9-fe56f82cb197",
+          "text": "She started running marathons.",
+          "is_correct": false
+        },
+        {
+          "id": "6365bce7-fb8f-4e95-bd4b-e29a4e293335",
+          "text": "She made time for swimming and short walks.",
+          "is_correct": true
+        },
+        {
+          "id": "2d013197-311c-4446-a11d-e60536a7e916",
+          "text": "She stopped working from home.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6365bce7-fb8f-4e95-bd4b-e29a4e293335"
+      ]
+    },
+    {
+      "question_id": "608964cb-fd9b-4798-b66a-13bcffbd1213",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “shape up” mean in the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "262de9ca-2d70-4d6f-a278-3af9e4225e26",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “shape up” mean in the audio?"
+          },
+          "position": 1
+        },
+        {
+          "id": "18b4fa28-46e6-45f2-a864-ebbf8e56e196",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "bac63208-babd-4b11-bb86-429cec53dfa1",
+          "text": "To become physically taller.",
+          "is_correct": false
+        },
+        {
+          "id": "22c5b5a7-dbbe-4137-85e9-d2cb23312a54",
+          "text": "To make a project more expensive.",
+          "is_correct": false
+        },
+        {
+          "id": "7501621a-c0c1-44d1-a0cb-aa37aca3b607",
+          "text": "To correct bad behavior.",
+          "is_correct": true
+        },
+        {
+          "id": "80516e04-af84-49ae-aa83-f9b255e31acb",
+          "text": "To take a vacation.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7501621a-c0c1-44d1-a0cb-aa37aca3b607"
+      ]
+    },
+    {
+      "question_id": "ed263511-170f-4e57-81ae-7f39b67ccb54",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “shape up or ship out” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "de6a6d1f-b91d-4ec3-8ef5-30398ec85baa",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “shape up or ship out” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "0de50b61-ea20-4c08-9ad3-526a04425398",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "4b242652-87c8-4d9a-a1f5-6cac0f29e0d0",
+          "text": "Start exercising or go sailing.",
+          "is_correct": false
+        },
+        {
+          "id": "963d1cea-ef32-4593-ac44-ab03ee5e2873",
+          "text": "Clean the ship or leave it.",
+          "is_correct": false
+        },
+        {
+          "id": "6337ac21-bf2e-4d34-8511-22f5ebbb201b",
+          "text": "Improve your behavior or leave.",
+          "is_correct": true
+        },
+        {
+          "id": "548ff1f0-2f56-439c-aa70-d79699df61cd",
+          "text": "Finish the project or take a break.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6337ac21-bf2e-4d34-8511-22f5ebbb201b"
+      ]
+    },
+    {
+      "question_id": "29eb3552-68fd-4c96-b80a-b4e5a323a700",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “shipshape” describe? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "4453f2a0-5ce4-40dc-b43e-2c13ed3cdac6",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “shipshape” describe?"
+          },
+          "position": 1
+        },
+        {
+          "id": "4adc8822-962a-42d7-a22d-5891805648e3",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "fe150927-28d6-42c1-93f5-61c478985894",
+          "text": "Something that is broken and dangerous.",
+          "is_correct": false
+        },
+        {
+          "id": "f47cd684-471a-43fb-b4dc-cf08b333eaae",
+          "text": "Something clean, orderly, or running smoothly.",
+          "is_correct": true
+        },
+        {
+          "id": "352200f8-ea52-49e5-b94a-84e02c3c4413",
+          "text": "Something related only to fitness.",
+          "is_correct": false
+        },
+        {
+          "id": "97d93590-a808-4ef4-9cbe-7762c4e41168",
+          "text": "Something that is late.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f47cd684-471a-43fb-b4dc-cf08b333eaae"
+      ]
+    },
+    {
+      "question_id": "fe6d0529-3aab-43cc-b442-115ae8dc8375",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "In the dialogue, why was the project in trouble last week? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "28a888c2-70ff-446b-b739-50d893583719",
+          "type": "TEXT",
+          "payload": {
+            "text": "In the dialogue, why was the project in trouble last week?"
+          },
+          "position": 1
+        },
+        {
+          "id": "c0f16295-3953-40a3-b7ff-4fd2c3b73e0b",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "5b24b793-2ad0-4f15-8dd4-66a24cdc10e8",
+          "text": "The project was too easy.",
+          "is_correct": false
+        },
+        {
+          "id": "b9a012bb-ea36-420f-b6da-25c032c177d1",
+          "text": "Everyone wanted to take a break.",
+          "is_correct": false
+        },
+        {
+          "id": "ab22e683-8c7f-4349-83b5-9f44bcd9dba2",
+          "text": "An employee was not pulling his weight.",
+          "is_correct": true
+        },
+        {
+          "id": "58f984dd-81bf-4fb3-95f7-92e1d7e222d0",
+          "text": "The boss was working from home.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ab22e683-8c7f-4349-83b5-9f44bcd9dba2"
+      ]
+    },
+    {
+      "question_id": "9725f487-ab1e-4ae8-99d4-02ab0d319209",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why did the employee improve after being warned? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "4a936862-d3a6-40a1-ae90-995c64a8ce78",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why did the employee improve after being warned?"
+          },
+          "position": 1
+        },
+        {
+          "id": "8c906c57-3ba4-4699-bcf2-b9a1a7f65040",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "04c5ce9f-d1fb-4dd2-904c-91964a35aa34",
+          "text": "He was fired from the team.",
+          "is_correct": false
+        },
+        {
+          "id": "6a6b88dd-cb03-4edc-941e-c6feed564a7a",
+          "text": "He started going to the gym.",
+          "is_correct": false
+        },
+        {
+          "id": "d2a10956-aec4-49a5-8c2e-9d9fc1bd2c8f",
+          "text": "He became the boss.",
+          "is_correct": false
+        },
+        {
+          "id": "985790b2-9325-425a-88f8-2bfeb38e77b1",
+          "text": "He shaped up and became a valuable member of the team.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "985790b2-9325-425a-88f8-2bfeb38e77b1"
+      ]
+    },
+    {
+      "question_id": "fbc6d952-d52d-4566-aa15-3ce37c248281",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Simple Past form of be: Tayana and Andrei ... married.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7fcf7c4c-47c7-4bb1-a53e-ccb86d68b275",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Simple Past form of be: Tayana and Andrei ... married."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "91d5684f-3623-449e-9cb3-56a2d7b98c20",
+          "text": "was",
+          "is_correct": false
+        },
+        {
+          "id": "7b07c17a-b683-4f5a-985a-e9c02b71ccfc",
+          "text": "were",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "7b07c17a-b683-4f5a-985a-e9c02b71ccfc"
+      ]
+    },
+    {
+      "question_id": "63ea3913-2c2c-4c92-ba43-bdac0d346665",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Simple Past form of be: Ghulam ... an artist.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0a7fa7d1-634d-43ac-b46b-6f34c5b03129",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Simple Past form of be: Ghulam ... an artist."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d79895c5-3eff-493d-a4ab-c8b91aed535f",
+          "text": "was",
+          "is_correct": true
+        },
+        {
+          "id": "9fbee83c-026c-4567-bf27-831b7bad3c6d",
+          "text": "were",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d79895c5-3eff-493d-a4ab-c8b91aed535f"
+      ]
+    },
+    {
+      "question_id": "e18ff913-4b9a-4bdd-a6be-db87d76ae08c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct negative Simple Past form of be: The computer ... new.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6a32c219-69eb-4810-9834-44b40fb2c804",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct negative Simple Past form of be: The computer ... new."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f4f4aa0c-b842-4870-90b4-e68e17dbf043",
+          "text": "wasn’t",
+          "is_correct": true
+        },
+        {
+          "id": "f001d255-1889-412d-9820-94292fa934a4",
+          "text": "weren’t",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f4f4aa0c-b842-4870-90b4-e68e17dbf043"
+      ]
+    },
+    {
+      "question_id": "b6c0034a-0dd1-49e3-afd1-574886c6e880",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct yes/no question: They were students.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2c3217d9-fcc4-4294-9061-e77e9827ed85",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct yes/no question: They were students."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7d4312d1-2fe3-406a-abde-91c8f9526a01",
+          "text": "Was they students?",
+          "is_correct": false
+        },
+        {
+          "id": "b87d1d47-88f9-44d7-a37e-a5743099a3fc",
+          "text": "Were they students?",
+          "is_correct": true
+        },
+        {
+          "id": "3a8b2309-4122-44e5-a85e-128d834a9793",
+          "text": "Did they were students?",
+          "is_correct": false
+        },
+        {
+          "id": "61133bd8-09fb-422b-872e-32b584af6fe3",
+          "text": "Did they be students?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b87d1d47-88f9-44d7-a37e-a5743099a3fc"
+      ]
+    },
+    {
+      "question_id": "a04be93e-e138-4307-959b-42794c0c9a67",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Simple Past form of “arrive”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "213967b8-105a-464b-842c-158ee242eb2c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Simple Past form of “arrive”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "9f1492fb-3b96-46f8-9646-747290325e06",
+          "text": "arriveed",
+          "is_correct": false
+        },
+        {
+          "id": "724d7467-1176-473c-9f34-5669a95fa2bf",
+          "text": "arrived",
+          "is_correct": true
+        },
+        {
+          "id": "ca32376b-a6d5-4f62-95af-5aaefa60f216",
+          "text": "arrove",
+          "is_correct": false
+        },
+        {
+          "id": "a8e9464f-10d9-44ed-83b9-ca539c51beae",
+          "text": "arriving",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "724d7467-1176-473c-9f34-5669a95fa2bf"
+      ]
+    },
+    {
+      "question_id": "f7c93cc5-6fde-4fbb-a234-7ea89169d4d4",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Simple Past form of “hurry”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d8243350-09c8-4c42-be94-89c3ab6f480c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Simple Past form of “hurry”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a2d19391-4894-4d75-8c53-5943ede9c33d",
+          "text": "hurryd",
+          "is_correct": false
+        },
+        {
+          "id": "d8594c91-2b06-427d-b6fb-f67f8a0dbb92",
+          "text": "hurried",
+          "is_correct": true
+        },
+        {
+          "id": "92b3b26c-4995-4514-9229-f9c550b96f3f",
+          "text": "hurrying",
+          "is_correct": false
+        },
+        {
+          "id": "252d3f04-8ead-4d7d-8d6e-153ca7198a4c",
+          "text": "hurries",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d8594c91-2b06-427d-b6fb-f67f8a0dbb92"
+      ]
+    },
+    {
+      "question_id": "97d664cc-6609-4170-aa0f-ce6e00b1dc1e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Simple Past form of “tap”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "1737d4dc-edeb-4b5e-99e8-d1578a0d04db",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Simple Past form of “tap”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "464cda4b-3ea0-4e0d-a5b3-2c6912f0b745",
+          "text": "taped",
+          "is_correct": false
+        },
+        {
+          "id": "be6ffc3c-3194-4b2e-b29b-5d31df1c508e",
+          "text": "taped",
+          "is_correct": false
+        },
+        {
+          "id": "34181a7a-752f-48bd-a25f-eb9ef15569e3",
+          "text": "tapped",
+          "is_correct": true
+        },
+        {
+          "id": "8605f4a4-d3d5-4fe1-9354-77a1eb5e21d0",
+          "text": "tapping",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "34181a7a-752f-48bd-a25f-eb9ef15569e3"
+      ]
+    },
+    {
+      "question_id": "e0edf415-aa2f-4fc4-9261-047b43fd9b01",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Simple Past form of “commit”.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "70872d7b-8b8c-4a2c-a985-0f6e2fef8e1b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Simple Past form of “commit”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1132adb3-d0a4-444d-8b2b-ac83be170252",
+          "text": "commited",
+          "is_correct": false
+        },
+        {
+          "id": "9d2d174f-c08d-4049-a964-d4ea1027f72c",
+          "text": "committed",
+          "is_correct": true
+        },
+        {
+          "id": "359883c1-9e4d-42c5-a118-a1bb3c8bdad4",
+          "text": "commitied",
+          "is_correct": false
+        },
+        {
+          "id": "ee06a80d-e5b4-4d0b-a7f7-fa768fcf3734",
+          "text": "committing",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9d2d174f-c08d-4049-a964-d4ea1027f72c"
+      ]
+    },
+    {
+      "question_id": "34138a34-6bff-4c26-8bf8-3e877c3f240d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct pronunciation of -ed in “decided”.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ba9152e3-15d7-4d08-8d08-0fa84c08ed02",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct pronunciation of -ed in “decided”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "713274ff-45c6-4939-a245-7205dd16247a",
+          "text": "/t/",
+          "is_correct": false
+        },
+        {
+          "id": "cb673c90-5818-4aa1-b9e8-f19a8f34ec29",
+          "text": "/d/",
+          "is_correct": false
+        },
+        {
+          "id": "ef44ecfe-b383-4bcd-b1b8-f31a3f0fc931",
+          "text": "/ɪd/",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "ef44ecfe-b383-4bcd-b1b8-f31a3f0fc931"
+      ]
+    },
+    {
+      "question_id": "31d03cdb-e092-40d1-a643-1f25078a860f",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct pronunciation of -ed in “worked”.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "1a0b1ac2-c608-4b1d-a009-8c6aa80d8917",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct pronunciation of -ed in “worked”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "32e52069-4c87-4b6a-a16d-9112cda20a38",
+          "text": "/t/",
+          "is_correct": true
+        },
+        {
+          "id": "fddc4e9d-55c2-4ca1-b540-5bef1eb64597",
+          "text": "/d/",
+          "is_correct": false
+        },
+        {
+          "id": "bebb7491-0ca6-46bd-8e9d-b1a5496875da",
+          "text": "/ɪd/",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "32e52069-4c87-4b6a-a16d-9112cda20a38"
+      ]
+    },
+    {
+      "question_id": "cebe104a-09e9-4a28-bc5d-a939d94cdca2",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. Food. Eating in a restaurant can be pleasant and convenient from time to time, but most people and families usually cook their meals at home. To prepare breakfast, lunch, and dinner every day, they need to have the necessary food and ingredients ready. These products are usually bought at a grocery store, which is a place that sells food, drinks, household goods, and other everyday items used by ordinary customers. Fresh fruits and vegetables are often called produce. Grocery shoppers commonly buy produce such as bananas, apples, oranges, blackberries, raspberries, grapes, pineapples, melons, watermelons, and many other fruits. Larger grocery stores may also sell less common fruits, such as mangoes, honeydew melons, starfruit, coconuts, and similar items. Depending on the store, fruit may be sold in different ways. Some stores charge by weight and calculate the price per pound. Other stores charge for each individual fruit or for a bag or bundle of fruit, such as a bag of apples or bananas. Some stores charge according to the container. Many stores also sell vegetables, including lettuce, corn, tomatoes, onions, celery, cucumbers, mushrooms, and more. Vegetables are usually bought in ways similar to fruit. In general, grocery stores often keep more vegetables than fruit because vegetables usually stay fresh for a longer period. Modern grocery stores sell many other products as well. Most shoppers buy staple foods there. Staples are foods that form an important part of an average diet. These include pasta, rice, flour, sugar, milk, meat, eggs, and bread. Many of these foods are sold in packages, but in some stores customers can also buy fresh products that employees measure, weigh, and give to them. What is a grocery store?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7207f8f0-0d1b-4137-bca1-274c028dbb9d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. Food. Eating in a restaurant can be pleasant and convenient from time to time, but most people and families usually cook their meals at home. To prepare breakfast, lunch, and dinner every day, they need to have the necessary food and ingredients ready. These products are usually bought at a grocery store, which is a place that sells food, drinks, household goods, and other everyday items used by ordinary customers. Fresh fruits and vegetables are often called produce. Grocery shoppers commonly buy produce such as bananas, apples, oranges, blackberries, raspberries, grapes, pineapples, melons, watermelons, and many other fruits. Larger grocery stores may also sell less common fruits, such as mangoes, honeydew melons, starfruit, coconuts, and similar items. Depending on the store, fruit may be sold in different ways. Some stores charge by weight and calculate the price per pound. Other stores charge for each individual fruit or for a bag or bundle of fruit, such as a bag of apples or bananas. Some stores charge according to the container. Many stores also sell vegetables, including lettuce, corn, tomatoes, onions, celery, cucumbers, mushrooms, and more. Vegetables are usually bought in ways similar to fruit. In general, grocery stores often keep more vegetables than fruit because vegetables usually stay fresh for a longer period. Modern grocery stores sell many other products as well. Most shoppers buy staple foods there. Staples are foods that form an important part of an average diet. These include pasta, rice, flour, sugar, milk, meat, eggs, and bread. Many of these foods are sold in packages, but in some stores customers can also buy fresh products that employees measure, weigh, and give to them. What is a grocery store?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d869bba2-85fe-45e9-8365-c8edb4299316",
+          "text": "a place where meals are cooked for customers",
+          "is_correct": false
+        },
+        {
+          "id": "7355bcc0-04cb-446b-a4cf-3243fcfbbc73",
+          "text": "a word with several unrelated meanings",
+          "is_correct": false
+        },
+        {
+          "id": "8ccdb78f-6625-4c5b-9042-05ee2cdf48a1",
+          "text": "a place only for exchanging goods",
+          "is_correct": false
+        },
+        {
+          "id": "65794d56-f015-4c2d-bc84-d372cdd19563",
+          "text": "a shop that sells food, drinks, household products, and everyday items",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "65794d56-f015-4c2d-bc84-d372cdd19563"
+      ]
+    },
+    {
+      "question_id": "d9503801-56ac-4f71-8809-bb6efe306559",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What word is used for fresh fruits and vegetables?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4e47fd70-d6e7-4220-8d99-a05c6d6a3427",
+          "type": "TEXT",
+          "payload": {
+            "text": "What word is used for fresh fruits and vegetables?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e3c1608d-1065-4221-9ee5-ad76865ebadb",
+          "text": "produce",
+          "is_correct": true
+        },
+        {
+          "id": "2b6b1b77-2158-4482-b9e4-21a63afec5fd",
+          "text": "feggies",
+          "is_correct": false
+        },
+        {
+          "id": "ba907b14-f91b-4ea1-82db-46cc556b1081",
+          "text": "veggies only",
+          "is_correct": false
+        },
+        {
+          "id": "92112d8f-bcdd-470b-9330-14cefb8f80b0",
+          "text": "famine",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e3c1608d-1065-4221-9ee5-ad76865ebadb"
+      ]
+    },
+    {
+      "question_id": "27c4e2fe-8284-4ae2-b743-f4008029e872",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which food completes the list of staples: pasta, _____, flour, sugar, milk, meat, eggs, and bread?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f7034ace-dbf0-4ba9-a63c-29803a219772",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which food completes the list of staples: pasta, _____, flour, sugar, milk, meat, eggs, and bread?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a28744d7-9dd3-412f-b740-e976c784567c",
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "id": "f6650088-b80d-4808-9b41-87aec3fe2624",
+          "text": "cola",
+          "is_correct": false
+        },
+        {
+          "id": "c0bdb1e0-db25-45a1-be74-8301ee47f98c",
+          "text": "rice",
+          "is_correct": true
+        },
+        {
+          "id": "4b9bdce9-2462-4fdc-b3d9-8178bd3c86ee",
+          "text": "apples",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c0bdb1e0-db25-45a1-be74-8301ee47f98c"
+      ]
+    },
+    {
+      "question_id": "7a07b20b-8909-494c-8372-a631c9d77cee",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What are staple foods according to the text?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7dc2394d-ac08-436b-8df7-284f50fc7e54",
+          "type": "TEXT",
+          "payload": {
+            "text": "What are staple foods according to the text?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "df3c70a4-959d-4528-8541-4385891ef77a",
+          "text": "metal objects used for paper",
+          "is_correct": false
+        },
+        {
+          "id": "24302daa-523a-4814-9486-e9057c7f3d06",
+          "text": "unusual and rare foods",
+          "is_correct": false
+        },
+        {
+          "id": "1d7b0010-a012-4063-95e9-57ae47737ac2",
+          "text": "foods that are important in an average diet",
+          "is_correct": true
+        },
+        {
+          "id": "0661c0c4-49e2-4bbc-80b1-6009e048182b",
+          "text": "only green fruits and vegetables",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1d7b0010-a012-4063-95e9-57ae47737ac2"
+      ]
+    },
+    {
+      "question_id": "0e0330d4-ce33-432d-b467-97f94bc3d3d9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which fruit is mentioned together with bananas, oranges, blackberries, and grapes?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "3943c533-bb59-4454-ac77-0fc5bc1d2f6c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which fruit is mentioned together with bananas, oranges, blackberries, and grapes?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ea81b48e-a7a9-4abe-8a39-0f3182d95140",
+          "text": "eggs",
+          "is_correct": false
+        },
+        {
+          "id": "40b218c6-099a-4d6a-bba4-82fb4e44d211",
+          "text": "apples",
+          "is_correct": true
+        },
+        {
+          "id": "451d7a2b-a3c6-4803-a408-d77d4d15f061",
+          "text": "milk",
+          "is_correct": false
+        },
+        {
+          "id": "0a452e25-6bd0-4d4f-96e3-4511cd14c973",
+          "text": "bread",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "40b218c6-099a-4d6a-bba4-82fb4e44d211"
+      ]
+    },
+    {
+      "question_id": "abf294e2-bc31-4e93-92d3-627d863b400b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Why do grocery stores often have more vegetables than fruits?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "28b5d276-b7d9-44a6-a588-5f190f0dc1f6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why do grocery stores often have more vegetables than fruits?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ee681055-1bb0-4737-9d7d-36372e5a3bde",
+          "text": "because vegetables usually stay fresh longer than fruits",
+          "is_correct": true
+        },
+        {
+          "id": "0ea2ecc7-c7de-400b-b52d-f43de0c0887d",
+          "text": "because vegetables are always more popular than fruits",
+          "is_correct": false
+        },
+        {
+          "id": "53d8914f-a2e0-4355-8ef7-6d1825341066",
+          "text": "because managers dislike selling fruit",
+          "is_correct": false
+        },
+        {
+          "id": "dbb01906-30e6-4719-869c-5d3f4bf319d5",
+          "text": "because fruit cannot be sold by weight",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ee681055-1bb0-4737-9d7d-36372e5a3bde"
+      ]
+    },
+    {
+      "question_id": "c62309be-bb73-4195-8ca3-48ed3531d416",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which vegetable is included in the list with lettuce, corn, tomatoes, onions, celery, and mushrooms?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "70e10901-4151-4a2c-a982-176d2f79deff",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which vegetable is included in the list with lettuce, corn, tomatoes, onions, celery, and mushrooms?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d41199b3-184e-4683-ba2d-0dfd859fc8c7",
+          "text": "cucumbers",
+          "is_correct": true
+        },
+        {
+          "id": "b0560b2f-ce6e-4f9c-9051-e2fa707ae654",
+          "text": "bananas",
+          "is_correct": false
+        },
+        {
+          "id": "e7f83cae-b0f8-4f52-b180-b24cb3c91ac3",
+          "text": "bread",
+          "is_correct": false
+        },
+        {
+          "id": "96e30add-12b5-4e06-902e-8f2d3ee46d0b",
+          "text": "juice",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d41199b3-184e-4683-ba2d-0dfd859fc8c7"
+      ]
+    },
+    {
+      "question_id": "e4e81670-daad-4ce6-9879-54c0863ca365",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "In some grocery stores, what do employees do with fresh products before giving them to customers?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "3688ac6f-40bc-49d4-82f4-8217f36c55ab",
+          "type": "TEXT",
+          "payload": {
+            "text": "In some grocery stores, what do employees do with fresh products before giving them to customers?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fb4420f9-bc0e-438f-afe8-a63b514f76d2",
+          "text": "paint and decorate them",
+          "is_correct": false
+        },
+        {
+          "id": "5747da0e-cd43-4d39-9475-97fe9c161493",
+          "text": "measure and weigh them",
+          "is_correct": true
+        },
+        {
+          "id": "13d27399-cf6f-4e0a-b197-12a4dc564625",
+          "text": "cook them in the restaurant area",
+          "is_correct": false
+        },
+        {
+          "id": "c201328e-ada1-45a5-af88-47c093f92b2c",
+          "text": "put them only into gift boxes",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5747da0e-cd43-4d39-9475-97fe9c161493"
+      ]
+    },
+    {
+      "question_id": "bb949f4b-a955-43b8-a145-4a10730b027e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which of these less common fruits may be sold in larger grocery stores?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2d63a0cd-5e49-47ca-9d04-c33416228c31",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which of these less common fruits may be sold in larger grocery stores?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4d44a059-8663-4260-86a0-b20aa96551a5",
+          "text": "potatoes",
+          "is_correct": false
+        },
+        {
+          "id": "8927d4fb-ce34-49a3-a0c9-40000d1dda77",
+          "text": "onions",
+          "is_correct": false
+        },
+        {
+          "id": "829bd0da-a228-4601-91d3-1e68878646f7",
+          "text": "mangoes",
+          "is_correct": true
+        },
+        {
+          "id": "0a7ae17d-c991-478d-b61c-b3ad82f28536",
+          "text": "eggs",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "829bd0da-a228-4601-91d3-1e68878646f7"
+      ]
+    },
+    {
+      "question_id": "671630d1-2135-4b26-a1f4-88b5a18026ff",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "How can some stores charge customers for fruit?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "7cb77ede-5c92-44fd-9944-88a022f316c9",
+          "type": "TEXT",
+          "payload": {
+            "text": "How can some stores charge customers for fruit?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1e14c2d6-e23a-4ea3-91f6-d87794ccbd7d",
+          "text": "only by the colour of the fruit",
+          "is_correct": false
+        },
+        {
+          "id": "93ee30fb-0378-442d-8bff-bb12c961eca5",
+          "text": "only by the day of the week",
+          "is_correct": false
+        },
+        {
+          "id": "f6b6522c-bdc1-425c-8ccb-01fce3433703",
+          "text": "only after the fruit is cooked",
+          "is_correct": false
+        },
+        {
+          "id": "c463ba79-36bd-40e2-ba82-5199af4cd5c6",
+          "text": "by weight, by piece, by bundle, or by container",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "c463ba79-36bd-40e2-ba82-5199af4cd5c6"
+      ]
+    },
+    {
+      "question_id": "0a312ab8-9a74-4f3c-bb15-a64d599acf2f",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Мартин Хайдеггер пишет о Рейне: Рейн как поставщик гидравлического напора для гидроэлектростанции противопоставлен Рейну из гимна Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "681638f4-510c-43b9-96b0-9c04d3433d35",
+          "type": "TEXT",
+          "payload": {
+            "text": "Мартин Хайдеггер пишет о Рейне: Рейн как поставщик гидравлического напора для гидроэлектростанции противопоставлен Рейну из гимна Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "820e2179-fc39-4308-b104-0e366e141112",
+          "text": "Между возможностями использования природной силы реки Рейн",
+          "is_correct": false
+        },
+        {
+          "id": "027a91ef-591d-4b30-962f-409c0eb9a195",
+          "text": "Между «производственным» и поэтическим восприятием природного феномена",
+          "is_correct": true
+        },
+        {
+          "id": "7889263a-2ff2-4abd-865c-f8cb9ddeb547",
+          "text": "Между обликами ландшафта до и после установления ГЭС на Рейне",
+          "is_correct": false
+        },
+        {
+          "id": "f1f98718-43b6-43bb-9221-48916908b446",
+          "text": "О контрасте между словоупотреблением в XIX и XX веках",
+          "is_correct": false
+        },
+        {
+          "id": "25d41ef2-9b1b-4530-b471-1f6332820d2e",
+          "text": "Между задачами промышленного производства и поэзии, искусства",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "027a91ef-591d-4b30-962f-409c0eb9a195"
+      ]
+    },
+    {
+      "question_id": "44ad192d-8bbf-48c5-8033-550052565313",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Марк Фабий Квинтилиан писал: «Есть такие краткие изречения, или […], которые всем приятны и всеми употребляются. Такие изречения не переходили бы из века в век, если бы всем людям не казались истинными». Вставьте слово по смыслу.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "35bf13ce-5ec6-4a47-b339-433159b68b81",
+          "type": "TEXT",
+          "payload": {
+            "text": "Марк Фабий Квинтилиан писал: «Есть такие краткие изречения, или […], которые всем приятны и всеми употребляются. Такие изречения не переходили бы из века в век, если бы всем людям не казались истинными». Вставьте слово по смыслу."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0ba1be2c-b5ec-470a-adfc-ee5991cec474",
+          "text": "фразеологизмы",
+          "is_correct": false
+        },
+        {
+          "id": "c1a06d26-c144-4a96-b517-e69c3cb9af2a",
+          "text": "алогизмы",
+          "is_correct": false
+        },
+        {
+          "id": "fc5398ca-b12d-49fc-82ef-32aaebc9f63e",
+          "text": "софизмы",
+          "is_correct": false
+        },
+        {
+          "id": "ff1715fb-9f7c-4452-a0d2-01f9a2b858ad",
+          "text": "пословицы",
+          "is_correct": true
+        },
+        {
+          "id": "615a90d2-3491-43de-a399-14bd9a29b6df",
+          "text": "цитаты",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ff1715fb-9f7c-4452-a0d2-01f9a2b858ad"
+      ]
+    },
+    {
+      "question_id": "55907c73-63c6-4928-b672-1c44d4b10b42",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "«Мы отвергаем всякую попытку навязать нам какую бы то ни было моральную догматику в качестве вечного, окончательного, отныне неизменного нравственного закона под предлогом, что мир морали тоже имеет свои неприходящие […], стоящие выше истории и национальных различий». Вставьте ключевое слово.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0f58caf6-36a3-43b0-a60f-1f4664097dc0",
+          "type": "TEXT",
+          "payload": {
+            "text": "«Мы отвергаем всякую попытку навязать нам какую бы то ни было моральную догматику в качестве вечного, окончательного, отныне неизменного нравственного закона под предлогом, что мир морали тоже имеет свои неприходящие […], стоящие выше истории и национальных различий». Вставьте ключевое слово."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a691063f-53f5-4702-8524-b34121d54877",
+          "text": "принципы",
+          "is_correct": true
+        },
+        {
+          "id": "107e8a6b-5781-4d11-872e-a4b5f856741c",
+          "text": "догматы",
+          "is_correct": false
+        },
+        {
+          "id": "6fd93abb-d01f-47d0-b77e-a30a15c7260d",
+          "text": "законы",
+          "is_correct": false
+        },
+        {
+          "id": "38cf041d-42c0-4b05-a536-16117157e492",
+          "text": "категории",
+          "is_correct": false
+        },
+        {
+          "id": "ff9c803f-8402-426b-9c61-d721fba307e9",
+          "text": "постулаты",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a691063f-53f5-4702-8524-b34121d54877"
+      ]
+    },
+    {
+      "question_id": "42ec868f-507c-436e-90e6-94ad93e5dfda",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Гастон Башляр писал, что между обыденным познанием и научным познанием существует четкий разрыв; эмпиризм подходит для обыденного познания, а научное познание связано с рационализмом. Что является главной темой суждения?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "feac5914-b0db-4c51-a23e-78c7f72d68ba",
+          "type": "TEXT",
+          "payload": {
+            "text": "Гастон Башляр писал, что между обыденным познанием и научным познанием существует четкий разрыв; эмпиризм подходит для обыденного познания, а научное познание связано с рационализмом. Что является главной темой суждения?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5671fe3e-c921-4c79-beff-a37f41a1d732",
+          "text": "Различие эмпиризма и рационализма",
+          "is_correct": false
+        },
+        {
+          "id": "53de7930-e25e-4e88-bc3c-dea6a6147de8",
+          "text": "Разорванность всего и вся — мира, познания, науки, практики",
+          "is_correct": false
+        },
+        {
+          "id": "66f3ff33-0c30-4251-bd49-d14b156dcbdb",
+          "text": "Разрыв обыденности и полноты в познании",
+          "is_correct": false
+        },
+        {
+          "id": "109b8c57-ee98-4e30-88fe-1aca8ed9e902",
+          "text": "Принципиальное несходство обыденного и научного познания",
+          "is_correct": true
+        },
+        {
+          "id": "129d6956-15cd-4bd8-a3bf-508f77c4036e",
+          "text": "Отсутствие какой бы то ни было «единой» философии",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "109b8c57-ee98-4e30-88fe-1aca8ed9e902"
+      ]
+    },
+    {
+      "question_id": "ae1cbbaa-6ea0-43c0-a0e1-6478ba980608",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Что не рассматривает Г. Башляр в приведенной цитате о различии обыденного и научного познания?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ff5b6cbf-d256-4cf6-97e5-55909be64bfe",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что не рассматривает Г. Башляр в приведенной цитате о различии обыденного и научного познания?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8352376f-6294-4282-99c7-941f094d556d",
+          "text": "связь эмпиризма с обыденным познанием",
+          "is_correct": false
+        },
+        {
+          "id": "afbecc79-3749-4380-8e2e-945bcb84b361",
+          "text": "специфику обыденного и научного познания",
+          "is_correct": false
+        },
+        {
+          "id": "5079fcb7-3878-490a-8701-d98763100a18",
+          "text": "методы эмпирического и научного познания",
+          "is_correct": true
+        },
+        {
+          "id": "9a82c06c-dba5-49aa-9cd3-4364b81cff3c",
+          "text": "связь рационализма с наукой",
+          "is_correct": false
+        },
+        {
+          "id": "18f068bf-0069-4c29-959b-a7054e019384",
+          "text": "проблему единой философии двух уровней познания",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5079fcb7-3878-490a-8701-d98763100a18"
+      ]
+    },
+    {
+      "question_id": "31d02c31-5cdf-43ce-87bf-1a736702a67c",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Кестенің диаграммалық кескіні берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20, барлығы — 42. Балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c3ba0776-807e-4785-ba41-803489c9619f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Кестенің диаграммалық кескіні берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20, барлығы — 42. Балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "83466168-d4b6-455c-9b54-a510be96cb6f",
+          "text": "134°",
+          "is_correct": false
+        },
+        {
+          "id": "20e97b8d-eff0-49a0-a952-c416f1094e73",
+          "text": "171°",
+          "is_correct": true
+        },
+        {
+          "id": "ade40d1a-923b-4bfa-85e4-f7b39fa1f9b4",
+          "text": "162°",
+          "is_correct": false
+        },
+        {
+          "id": "f22f5fc1-512b-44ae-92b2-66ba183e28dd",
+          "text": "150°",
+          "is_correct": false
+        },
+        {
+          "id": "ec41d224-4bd8-438a-90cc-1d9f6cf09c1d",
+          "text": "195°",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "20e97b8d-eff0-49a0-a952-c416f1094e73"
+      ]
+    },
+    {
+      "question_id": "7aff2077-f8f4-4e91-ab50-aca0742f0727",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Суретте неше тікт4ртбурыш бар екенін аныктау керек: [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/91fe01c7-6b00-409c-aca9-307803792b43.png]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "532f2297-25d9-4901-9348-0ec1beaf742f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Суретте неше тікт4ртбурыш бар екенін аныктау керек:"
+          },
+          "position": 1
+        },
+        {
+          "id": "895708ae-2339-4561-b904-58614ecad15f",
+          "type": "IMAGE",
+          "payload": {
+            "url": "media/5ad2267888a748d096f52b77e4741086.png",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/91fe01c7-6b00-409c-aca9-307803792b43.png"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "028528b8-5705-438d-8a25-e44288740ae6",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "4ff77bf5-d8fa-48ef-a04d-87c6b68db45a",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "234f120c-38e1-479f-9007-ca87d193126e",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "id": "13128566-60ed-467a-b8a2-35de936fd86c",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "250a434e-4fa4-41f2-9c7e-a34ef7eb8cd7",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "234f120c-38e1-479f-9007-ca87d193126e"
+      ]
+    },
+    {
+      "question_id": "a108070d-2584-4fa8-875f-64cdd0aebe39",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Суретте неше тіктөртбұрыш бар екенін анықтау керек: [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/19266925-9ba0-4cf1-b5a7-a9c097288ac6.png]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ddfa8c77-9aa9-49f7-868f-7409792af393",
+          "type": "TEXT",
+          "payload": {
+            "text": "Суретте неше тіктөртбұрыш бар екенін анықтау керек:"
+          },
+          "position": 1
+        },
+        {
+          "id": "a784c4df-b6df-4b42-9bbf-562b1fb41e6a",
+          "type": "IMAGE",
+          "payload": {
+            "url": "media/58470379d0024edda9e970380597046a.png",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/19266925-9ba0-4cf1-b5a7-a9c097288ac6.png"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "437fc9a8-f556-4efe-97fd-d6db6e259eea",
+          "text": "19",
+          "is_correct": false
+        },
+        {
+          "id": "19e411ba-70af-49d1-b6ec-cbb172ad1581",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "598565f2-ce35-44a9-8f01-2c5dd77d608a",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "id": "60419a92-3625-459d-b7a5-09158fd6a066",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "id": "383a1878-11d6-4531-8d4e-6a595d4fa68d",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "60419a92-3625-459d-b7a5-09158fd6a066"
+      ]
+    },
+    {
+      "question_id": "51d5fb4b-d051-4bb0-8835-3866b843a408",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Трактор A убирает 1/5 тонны снега ежедневно. Трактор B собирает в 5 раз больше снега, чем трактор A, но в 2 раза меньше, чем трактор C. Сколько снега ежедневно собирает трактор C?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e7cf779b-c783-4c4c-8a01-b04f07dd11fc",
+          "type": "TEXT",
+          "payload": {
+            "text": "Трактор A убирает 1/5 тонны снега ежедневно. Трактор B собирает в 5 раз больше снега, чем трактор A, но в 2 раза меньше, чем трактор C. Сколько снега ежедневно собирает трактор C?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cdb75f93-127d-493c-885d-63398fbb278d",
+          "text": "200 кг",
+          "is_correct": false
+        },
+        {
+          "id": "f022f27a-b722-48e6-ba5b-a0525a0ca596",
+          "text": "400 кг",
+          "is_correct": false
+        },
+        {
+          "id": "e2144483-2de6-4a8d-a506-7cac7859198c",
+          "text": "1 тонну",
+          "is_correct": false
+        },
+        {
+          "id": "6940787b-1197-482a-9404-7dc42b10be23",
+          "text": "300 кг",
+          "is_correct": false
+        },
+        {
+          "id": "7809809d-b4ca-4747-ad29-4f5b66ff96f6",
+          "text": "2 тонны",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "7809809d-b4ca-4747-ad29-4f5b66ff96f6"
+      ]
+    },
+    {
+      "question_id": "4b68859a-38a7-4b99-a218-0094261357c0",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Вставьте пропущенное слово: «В среднем, обычный житель Земли за всю свою [...] проходит расстояние, достаточное, чтобы трижды обогнуть Землю».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "901125b5-b543-42d6-8008-8255e3cf3491",
+          "type": "TEXT",
+          "payload": {
+            "text": "Вставьте пропущенное слово: «В среднем, обычный житель Земли за всю свою [...] проходит расстояние, достаточное, чтобы трижды обогнуть Землю»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "80861985-aad3-4141-90ba-693070a4236c",
+          "text": "мысль",
+          "is_correct": false
+        },
+        {
+          "id": "62250d2d-6284-4ab4-8764-5d3d5309df86",
+          "text": "жизнь",
+          "is_correct": true
+        },
+        {
+          "id": "b8d13c0b-1c8f-44ef-9807-22c87f405038",
+          "text": "неделю",
+          "is_correct": false
+        },
+        {
+          "id": "409fa442-d0fd-4e20-887d-987094f6e689",
+          "text": "игру",
+          "is_correct": false
+        },
+        {
+          "id": "b6174ed0-12d0-482b-ab4e-8fd3b714a96c",
+          "text": "работу",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "62250d2d-6284-4ab4-8764-5d3d5309df86"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 18,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "3f2a2d22-5d9b-4672-a65e-13ea6af58c86",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is the main topic of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "ebb0873e-e36f-4fc1-855d-9bc533195559",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is the main topic of the audio?"
+            },
+            "position": 1
+          },
+          {
+            "id": "7d80760c-0189-4365-b963-1fe043dcbcbd",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "7571f3ce-2425-4c94-a0d8-90039cac98b6",
+            "text": "How to find a job in Washington, D.C.",
+            "is_correct": false
+          },
+          {
+            "id": "68f2f9dd-edba-414c-b22b-49163320f0b6",
+            "text": "How ships stay safe at sea.",
+            "is_correct": false
+          },
+          {
+            "id": "9e34a150-6cf6-45e5-8ffe-8a1a2cda78f0",
+            "text": "Fitness and expressions with the word “shape.”",
+            "is_correct": true
+          },
+          {
+            "id": "e8d3716e-e69c-4ffb-b8ef-29ba23fb398a",
+            "text": "How to work from home successfully.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9e34a150-6cf6-45e5-8ffe-8a1a2cda78f0"
+        ]
+      },
+      {
+        "question_id": "a847814c-a642-4523-95bd-8df70888d2b7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “keeping in shape” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0babb1a2-7a7c-4b86-adf1-afecdc1928bf",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “keeping in shape” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "d20d3c02-49f8-4718-8439-caec525c57a7",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "09f4924b-ad3e-4532-87e9-1049c7c53401",
+            "text": "Changing the shape of your house.",
+            "is_correct": false
+          },
+          {
+            "id": "5b951050-17fd-4f2d-ab3a-42779c75cf0c",
+            "text": "Staying physically fit.",
+            "is_correct": true
+          },
+          {
+            "id": "839e8f3d-0cab-4f48-9e0f-dac10b0c818c",
+            "text": "Working from home.",
+            "is_correct": false
+          },
+          {
+            "id": "5f62c36f-9432-497a-a66b-921625afbd3b",
+            "text": "Cleaning a ship.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5b951050-17fd-4f2d-ab3a-42779c75cf0c"
+        ]
+      },
+      {
+        "question_id": "d5de5c91-f2b3-493c-8ddb-fa627577c4d8",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "How did the speaker stay in good shape before working from home? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c51b4685-fa90-4502-8e67-2fe5b9ec21ba",
+            "type": "TEXT",
+            "payload": {
+              "text": "How did the speaker stay in good shape before working from home?"
+            },
+            "position": 1
+          },
+          {
+            "id": "0a6093ec-e1ec-469b-b2ea-1528cda861ea",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "72e6382c-20fa-4ba6-9f14-471a297f3a4c",
+            "text": "By going to the gym every day.",
+            "is_correct": false
+          },
+          {
+            "id": "b0a41de0-2cbd-4c2a-9407-c345fcf20bd1",
+            "text": "By riding a bike to work.",
+            "is_correct": false
+          },
+          {
+            "id": "30028fa6-b393-4f41-a5f7-9c6dcad73926",
+            "text": "By walking a lot and climbing stairs.",
+            "is_correct": true
+          },
+          {
+            "id": "e7bc4ab1-7f6a-4b2a-9e0c-ff2d946abb99",
+            "text": "By swimming every morning.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "30028fa6-b393-4f41-a5f7-9c6dcad73926"
+        ]
+      },
+      {
+        "question_id": "e8f8d279-03a1-4446-b930-6717f5392b86",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What changed for the speaker in 2020? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "63b4853a-db4c-4e6e-bdf0-36e05c858c38",
+            "type": "TEXT",
+            "payload": {
+              "text": "What changed for the speaker in 2020?"
+            },
+            "position": 1
+          },
+          {
+            "id": "f1365f8f-8ae2-49b7-be92-312debbe0eae",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "e9c8b030-ec59-4c60-a93b-d011ddd8042b",
+            "text": "She moved to another country.",
+            "is_correct": false
+          },
+          {
+            "id": "a0bf991a-d663-4dea-9be7-86aa3df3992c",
+            "text": "She started working from home.",
+            "is_correct": true
+          },
+          {
+            "id": "291e24f2-013f-44a6-a265-baeaae47bd78",
+            "text": "She stopped exercising completely.",
+            "is_correct": false
+          },
+          {
+            "id": "44a0ff23-44f5-4d59-b939-04a852f14889",
+            "text": "She began working on a ship.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a0bf991a-d663-4dea-9be7-86aa3df3992c"
+        ]
+      },
+      {
+        "question_id": "16069f39-7c3b-4c84-a04f-8dc080d62280",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What did the speaker do to avoid getting out of shape? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "34287e79-3ba0-49de-b5dc-5f166fce8d6d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What did the speaker do to avoid getting out of shape?"
+            },
+            "position": 1
+          },
+          {
+            "id": "11410f1b-805b-4679-b3ac-749b784aa80f",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "1ba3556a-092d-4e58-bc79-eb16c7d8d39d",
+            "text": "She bought new work clothes.",
+            "is_correct": false
+          },
+          {
+            "id": "968bbf49-5dcc-499a-b6d9-fe56f82cb197",
+            "text": "She started running marathons.",
+            "is_correct": false
+          },
+          {
+            "id": "6365bce7-fb8f-4e95-bd4b-e29a4e293335",
+            "text": "She made time for swimming and short walks.",
+            "is_correct": true
+          },
+          {
+            "id": "2d013197-311c-4446-a11d-e60536a7e916",
+            "text": "She stopped working from home.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6365bce7-fb8f-4e95-bd4b-e29a4e293335"
+        ]
+      },
+      {
+        "question_id": "608964cb-fd9b-4798-b66a-13bcffbd1213",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “shape up” mean in the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "262de9ca-2d70-4d6f-a278-3af9e4225e26",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “shape up” mean in the audio?"
+            },
+            "position": 1
+          },
+          {
+            "id": "18b4fa28-46e6-45f2-a864-ebbf8e56e196",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "bac63208-babd-4b11-bb86-429cec53dfa1",
+            "text": "To become physically taller.",
+            "is_correct": false
+          },
+          {
+            "id": "22c5b5a7-dbbe-4137-85e9-d2cb23312a54",
+            "text": "To make a project more expensive.",
+            "is_correct": false
+          },
+          {
+            "id": "7501621a-c0c1-44d1-a0cb-aa37aca3b607",
+            "text": "To correct bad behavior.",
+            "is_correct": true
+          },
+          {
+            "id": "80516e04-af84-49ae-aa83-f9b255e31acb",
+            "text": "To take a vacation.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7501621a-c0c1-44d1-a0cb-aa37aca3b607"
+        ]
+      },
+      {
+        "question_id": "ed263511-170f-4e57-81ae-7f39b67ccb54",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “shape up or ship out” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "de6a6d1f-b91d-4ec3-8ef5-30398ec85baa",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “shape up or ship out” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "0de50b61-ea20-4c08-9ad3-526a04425398",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "4b242652-87c8-4d9a-a1f5-6cac0f29e0d0",
+            "text": "Start exercising or go sailing.",
+            "is_correct": false
+          },
+          {
+            "id": "963d1cea-ef32-4593-ac44-ab03ee5e2873",
+            "text": "Clean the ship or leave it.",
+            "is_correct": false
+          },
+          {
+            "id": "6337ac21-bf2e-4d34-8511-22f5ebbb201b",
+            "text": "Improve your behavior or leave.",
+            "is_correct": true
+          },
+          {
+            "id": "548ff1f0-2f56-439c-aa70-d79699df61cd",
+            "text": "Finish the project or take a break.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6337ac21-bf2e-4d34-8511-22f5ebbb201b"
+        ]
+      },
+      {
+        "question_id": "29eb3552-68fd-4c96-b80a-b4e5a323a700",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “shipshape” describe? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "4453f2a0-5ce4-40dc-b43e-2c13ed3cdac6",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “shipshape” describe?"
+            },
+            "position": 1
+          },
+          {
+            "id": "4adc8822-962a-42d7-a22d-5891805648e3",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "fe150927-28d6-42c1-93f5-61c478985894",
+            "text": "Something that is broken and dangerous.",
+            "is_correct": false
+          },
+          {
+            "id": "f47cd684-471a-43fb-b4dc-cf08b333eaae",
+            "text": "Something clean, orderly, or running smoothly.",
+            "is_correct": true
+          },
+          {
+            "id": "352200f8-ea52-49e5-b94a-84e02c3c4413",
+            "text": "Something related only to fitness.",
+            "is_correct": false
+          },
+          {
+            "id": "97d93590-a808-4ef4-9cbe-7762c4e41168",
+            "text": "Something that is late.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f47cd684-471a-43fb-b4dc-cf08b333eaae"
+        ]
+      },
+      {
+        "question_id": "fe6d0529-3aab-43cc-b442-115ae8dc8375",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "In the dialogue, why was the project in trouble last week? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "28a888c2-70ff-446b-b739-50d893583719",
+            "type": "TEXT",
+            "payload": {
+              "text": "In the dialogue, why was the project in trouble last week?"
+            },
+            "position": 1
+          },
+          {
+            "id": "c0f16295-3953-40a3-b7ff-4fd2c3b73e0b",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "5b24b793-2ad0-4f15-8dd4-66a24cdc10e8",
+            "text": "The project was too easy.",
+            "is_correct": false
+          },
+          {
+            "id": "b9a012bb-ea36-420f-b6da-25c032c177d1",
+            "text": "Everyone wanted to take a break.",
+            "is_correct": false
+          },
+          {
+            "id": "ab22e683-8c7f-4349-83b5-9f44bcd9dba2",
+            "text": "An employee was not pulling his weight.",
+            "is_correct": true
+          },
+          {
+            "id": "58f984dd-81bf-4fb3-95f7-92e1d7e222d0",
+            "text": "The boss was working from home.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ab22e683-8c7f-4349-83b5-9f44bcd9dba2"
+        ]
+      },
+      {
+        "question_id": "9725f487-ab1e-4ae8-99d4-02ab0d319209",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why did the employee improve after being warned? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "4a936862-d3a6-40a1-ae90-995c64a8ce78",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why did the employee improve after being warned?"
+            },
+            "position": 1
+          },
+          {
+            "id": "8c906c57-3ba4-4699-bcf2-b9a1a7f65040",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/b5b9d0c0752c46e7a8b957d354d2a9ec.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/f158bc03-e83d-41a6-a700-16a05e59d09b.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "04c5ce9f-d1fb-4dd2-904c-91964a35aa34",
+            "text": "He was fired from the team.",
+            "is_correct": false
+          },
+          {
+            "id": "6a6b88dd-cb03-4edc-941e-c6feed564a7a",
+            "text": "He started going to the gym.",
+            "is_correct": false
+          },
+          {
+            "id": "d2a10956-aec4-49a5-8c2e-9d9fc1bd2c8f",
+            "text": "He became the boss.",
+            "is_correct": false
+          },
+          {
+            "id": "985790b2-9325-425a-88f8-2bfeb38e77b1",
+            "text": "He shaped up and became a valuable member of the team.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "985790b2-9325-425a-88f8-2bfeb38e77b1"
+        ]
+      },
+      {
+        "question_id": "fbc6d952-d52d-4566-aa15-3ce37c248281",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Simple Past form of be: Tayana and Andrei ... married.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7fcf7c4c-47c7-4bb1-a53e-ccb86d68b275",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Simple Past form of be: Tayana and Andrei ... married."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "91d5684f-3623-449e-9cb3-56a2d7b98c20",
+            "text": "was",
+            "is_correct": false
+          },
+          {
+            "id": "7b07c17a-b683-4f5a-985a-e9c02b71ccfc",
+            "text": "were",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "7b07c17a-b683-4f5a-985a-e9c02b71ccfc"
+        ]
+      },
+      {
+        "question_id": "63ea3913-2c2c-4c92-ba43-bdac0d346665",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Simple Past form of be: Ghulam ... an artist.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0a7fa7d1-634d-43ac-b46b-6f34c5b03129",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Simple Past form of be: Ghulam ... an artist."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d79895c5-3eff-493d-a4ab-c8b91aed535f",
+            "text": "was",
+            "is_correct": true
+          },
+          {
+            "id": "9fbee83c-026c-4567-bf27-831b7bad3c6d",
+            "text": "were",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d79895c5-3eff-493d-a4ab-c8b91aed535f"
+        ]
+      },
+      {
+        "question_id": "e18ff913-4b9a-4bdd-a6be-db87d76ae08c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct negative Simple Past form of be: The computer ... new.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6a32c219-69eb-4810-9834-44b40fb2c804",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct negative Simple Past form of be: The computer ... new."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f4f4aa0c-b842-4870-90b4-e68e17dbf043",
+            "text": "wasn’t",
+            "is_correct": true
+          },
+          {
+            "id": "f001d255-1889-412d-9820-94292fa934a4",
+            "text": "weren’t",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f4f4aa0c-b842-4870-90b4-e68e17dbf043"
+        ]
+      },
+      {
+        "question_id": "b6c0034a-0dd1-49e3-afd1-574886c6e880",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct yes/no question: They were students.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2c3217d9-fcc4-4294-9061-e77e9827ed85",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct yes/no question: They were students."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7d4312d1-2fe3-406a-abde-91c8f9526a01",
+            "text": "Was they students?",
+            "is_correct": false
+          },
+          {
+            "id": "b87d1d47-88f9-44d7-a37e-a5743099a3fc",
+            "text": "Were they students?",
+            "is_correct": true
+          },
+          {
+            "id": "3a8b2309-4122-44e5-a85e-128d834a9793",
+            "text": "Did they were students?",
+            "is_correct": false
+          },
+          {
+            "id": "61133bd8-09fb-422b-872e-32b584af6fe3",
+            "text": "Did they be students?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b87d1d47-88f9-44d7-a37e-a5743099a3fc"
+        ]
+      },
+      {
+        "question_id": "a04be93e-e138-4307-959b-42794c0c9a67",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Simple Past form of “arrive”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "213967b8-105a-464b-842c-158ee242eb2c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Simple Past form of “arrive”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "9f1492fb-3b96-46f8-9646-747290325e06",
+            "text": "arriveed",
+            "is_correct": false
+          },
+          {
+            "id": "724d7467-1176-473c-9f34-5669a95fa2bf",
+            "text": "arrived",
+            "is_correct": true
+          },
+          {
+            "id": "ca32376b-a6d5-4f62-95af-5aaefa60f216",
+            "text": "arrove",
+            "is_correct": false
+          },
+          {
+            "id": "a8e9464f-10d9-44ed-83b9-ca539c51beae",
+            "text": "arriving",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "724d7467-1176-473c-9f34-5669a95fa2bf"
+        ]
+      },
+      {
+        "question_id": "f7c93cc5-6fde-4fbb-a234-7ea89169d4d4",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Simple Past form of “hurry”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d8243350-09c8-4c42-be94-89c3ab6f480c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Simple Past form of “hurry”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a2d19391-4894-4d75-8c53-5943ede9c33d",
+            "text": "hurryd",
+            "is_correct": false
+          },
+          {
+            "id": "d8594c91-2b06-427d-b6fb-f67f8a0dbb92",
+            "text": "hurried",
+            "is_correct": true
+          },
+          {
+            "id": "92b3b26c-4995-4514-9229-f9c550b96f3f",
+            "text": "hurrying",
+            "is_correct": false
+          },
+          {
+            "id": "252d3f04-8ead-4d7d-8d6e-153ca7198a4c",
+            "text": "hurries",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d8594c91-2b06-427d-b6fb-f67f8a0dbb92"
+        ]
+      },
+      {
+        "question_id": "97d664cc-6609-4170-aa0f-ce6e00b1dc1e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Simple Past form of “tap”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "1737d4dc-edeb-4b5e-99e8-d1578a0d04db",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Simple Past form of “tap”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "464cda4b-3ea0-4e0d-a5b3-2c6912f0b745",
+            "text": "taped",
+            "is_correct": false
+          },
+          {
+            "id": "be6ffc3c-3194-4b2e-b29b-5d31df1c508e",
+            "text": "taped",
+            "is_correct": false
+          },
+          {
+            "id": "34181a7a-752f-48bd-a25f-eb9ef15569e3",
+            "text": "tapped",
+            "is_correct": true
+          },
+          {
+            "id": "8605f4a4-d3d5-4fe1-9354-77a1eb5e21d0",
+            "text": "tapping",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "34181a7a-752f-48bd-a25f-eb9ef15569e3"
+        ]
+      },
+      {
+        "question_id": "e0edf415-aa2f-4fc4-9261-047b43fd9b01",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Simple Past form of “commit”.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "70872d7b-8b8c-4a2c-a985-0f6e2fef8e1b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Simple Past form of “commit”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1132adb3-d0a4-444d-8b2b-ac83be170252",
+            "text": "commited",
+            "is_correct": false
+          },
+          {
+            "id": "9d2d174f-c08d-4049-a964-d4ea1027f72c",
+            "text": "committed",
+            "is_correct": true
+          },
+          {
+            "id": "359883c1-9e4d-42c5-a118-a1bb3c8bdad4",
+            "text": "commitied",
+            "is_correct": false
+          },
+          {
+            "id": "ee06a80d-e5b4-4d0b-a7f7-fa768fcf3734",
+            "text": "committing",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9d2d174f-c08d-4049-a964-d4ea1027f72c"
+        ]
+      },
+      {
+        "question_id": "34138a34-6bff-4c26-8bf8-3e877c3f240d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct pronunciation of -ed in “decided”.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "ba9152e3-15d7-4d08-8d08-0fa84c08ed02",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct pronunciation of -ed in “decided”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "713274ff-45c6-4939-a245-7205dd16247a",
+            "text": "/t/",
+            "is_correct": false
+          },
+          {
+            "id": "cb673c90-5818-4aa1-b9e8-f19a8f34ec29",
+            "text": "/d/",
+            "is_correct": false
+          },
+          {
+            "id": "ef44ecfe-b383-4bcd-b1b8-f31a3f0fc931",
+            "text": "/ɪd/",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "ef44ecfe-b383-4bcd-b1b8-f31a3f0fc931"
+        ]
+      },
+      {
+        "question_id": "31d03cdb-e092-40d1-a643-1f25078a860f",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct pronunciation of -ed in “worked”.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "1a0b1ac2-c608-4b1d-a009-8c6aa80d8917",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct pronunciation of -ed in “worked”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "32e52069-4c87-4b6a-a16d-9112cda20a38",
+            "text": "/t/",
+            "is_correct": true
+          },
+          {
+            "id": "fddc4e9d-55c2-4ca1-b540-5bef1eb64597",
+            "text": "/d/",
+            "is_correct": false
+          },
+          {
+            "id": "bebb7491-0ca6-46bd-8e9d-b1a5496875da",
+            "text": "/ɪd/",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "32e52069-4c87-4b6a-a16d-9112cda20a38"
+        ]
+      },
+      {
+        "question_id": "cebe104a-09e9-4a28-bc5d-a939d94cdca2",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. Food. Eating in a restaurant can be pleasant and convenient from time to time, but most people and families usually cook their meals at home. To prepare breakfast, lunch, and dinner every day, they need to have the necessary food and ingredients ready. These products are usually bought at a grocery store, which is a place that sells food, drinks, household goods, and other everyday items used by ordinary customers. Fresh fruits and vegetables are often called produce. Grocery shoppers commonly buy produce such as bananas, apples, oranges, blackberries, raspberries, grapes, pineapples, melons, watermelons, and many other fruits. Larger grocery stores may also sell less common fruits, such as mangoes, honeydew melons, starfruit, coconuts, and similar items. Depending on the store, fruit may be sold in different ways. Some stores charge by weight and calculate the price per pound. Other stores charge for each individual fruit or for a bag or bundle of fruit, such as a bag of apples or bananas. Some stores charge according to the container. Many stores also sell vegetables, including lettuce, corn, tomatoes, onions, celery, cucumbers, mushrooms, and more. Vegetables are usually bought in ways similar to fruit. In general, grocery stores often keep more vegetables than fruit because vegetables usually stay fresh for a longer period. Modern grocery stores sell many other products as well. Most shoppers buy staple foods there. Staples are foods that form an important part of an average diet. These include pasta, rice, flour, sugar, milk, meat, eggs, and bread. Many of these foods are sold in packages, but in some stores customers can also buy fresh products that employees measure, weigh, and give to them. What is a grocery store?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7207f8f0-0d1b-4137-bca1-274c028dbb9d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. Food. Eating in a restaurant can be pleasant and convenient from time to time, but most people and families usually cook their meals at home. To prepare breakfast, lunch, and dinner every day, they need to have the necessary food and ingredients ready. These products are usually bought at a grocery store, which is a place that sells food, drinks, household goods, and other everyday items used by ordinary customers. Fresh fruits and vegetables are often called produce. Grocery shoppers commonly buy produce such as bananas, apples, oranges, blackberries, raspberries, grapes, pineapples, melons, watermelons, and many other fruits. Larger grocery stores may also sell less common fruits, such as mangoes, honeydew melons, starfruit, coconuts, and similar items. Depending on the store, fruit may be sold in different ways. Some stores charge by weight and calculate the price per pound. Other stores charge for each individual fruit or for a bag or bundle of fruit, such as a bag of apples or bananas. Some stores charge according to the container. Many stores also sell vegetables, including lettuce, corn, tomatoes, onions, celery, cucumbers, mushrooms, and more. Vegetables are usually bought in ways similar to fruit. In general, grocery stores often keep more vegetables than fruit because vegetables usually stay fresh for a longer period. Modern grocery stores sell many other products as well. Most shoppers buy staple foods there. Staples are foods that form an important part of an average diet. These include pasta, rice, flour, sugar, milk, meat, eggs, and bread. Many of these foods are sold in packages, but in some stores customers can also buy fresh products that employees measure, weigh, and give to them. What is a grocery store?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d869bba2-85fe-45e9-8365-c8edb4299316",
+            "text": "a place where meals are cooked for customers",
+            "is_correct": false
+          },
+          {
+            "id": "7355bcc0-04cb-446b-a4cf-3243fcfbbc73",
+            "text": "a word with several unrelated meanings",
+            "is_correct": false
+          },
+          {
+            "id": "8ccdb78f-6625-4c5b-9042-05ee2cdf48a1",
+            "text": "a place only for exchanging goods",
+            "is_correct": false
+          },
+          {
+            "id": "65794d56-f015-4c2d-bc84-d372cdd19563",
+            "text": "a shop that sells food, drinks, household products, and everyday items",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "65794d56-f015-4c2d-bc84-d372cdd19563"
+        ]
+      },
+      {
+        "question_id": "d9503801-56ac-4f71-8809-bb6efe306559",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What word is used for fresh fruits and vegetables?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4e47fd70-d6e7-4220-8d99-a05c6d6a3427",
+            "type": "TEXT",
+            "payload": {
+              "text": "What word is used for fresh fruits and vegetables?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e3c1608d-1065-4221-9ee5-ad76865ebadb",
+            "text": "produce",
+            "is_correct": true
+          },
+          {
+            "id": "2b6b1b77-2158-4482-b9e4-21a63afec5fd",
+            "text": "feggies",
+            "is_correct": false
+          },
+          {
+            "id": "ba907b14-f91b-4ea1-82db-46cc556b1081",
+            "text": "veggies only",
+            "is_correct": false
+          },
+          {
+            "id": "92112d8f-bcdd-470b-9330-14cefb8f80b0",
+            "text": "famine",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e3c1608d-1065-4221-9ee5-ad76865ebadb"
+        ]
+      },
+      {
+        "question_id": "27c4e2fe-8284-4ae2-b743-f4008029e872",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which food completes the list of staples: pasta, _____, flour, sugar, milk, meat, eggs, and bread?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f7034ace-dbf0-4ba9-a63c-29803a219772",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which food completes the list of staples: pasta, _____, flour, sugar, milk, meat, eggs, and bread?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a28744d7-9dd3-412f-b740-e976c784567c",
+            "text": "water",
+            "is_correct": false
+          },
+          {
+            "id": "f6650088-b80d-4808-9b41-87aec3fe2624",
+            "text": "cola",
+            "is_correct": false
+          },
+          {
+            "id": "c0bdb1e0-db25-45a1-be74-8301ee47f98c",
+            "text": "rice",
+            "is_correct": true
+          },
+          {
+            "id": "4b9bdce9-2462-4fdc-b3d9-8178bd3c86ee",
+            "text": "apples",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c0bdb1e0-db25-45a1-be74-8301ee47f98c"
+        ]
+      },
+      {
+        "question_id": "7a07b20b-8909-494c-8372-a631c9d77cee",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What are staple foods according to the text?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7dc2394d-ac08-436b-8df7-284f50fc7e54",
+            "type": "TEXT",
+            "payload": {
+              "text": "What are staple foods according to the text?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "df3c70a4-959d-4528-8541-4385891ef77a",
+            "text": "metal objects used for paper",
+            "is_correct": false
+          },
+          {
+            "id": "24302daa-523a-4814-9486-e9057c7f3d06",
+            "text": "unusual and rare foods",
+            "is_correct": false
+          },
+          {
+            "id": "1d7b0010-a012-4063-95e9-57ae47737ac2",
+            "text": "foods that are important in an average diet",
+            "is_correct": true
+          },
+          {
+            "id": "0661c0c4-49e2-4bbc-80b1-6009e048182b",
+            "text": "only green fruits and vegetables",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1d7b0010-a012-4063-95e9-57ae47737ac2"
+        ]
+      },
+      {
+        "question_id": "0e0330d4-ce33-432d-b467-97f94bc3d3d9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which fruit is mentioned together with bananas, oranges, blackberries, and grapes?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "3943c533-bb59-4454-ac77-0fc5bc1d2f6c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which fruit is mentioned together with bananas, oranges, blackberries, and grapes?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ea81b48e-a7a9-4abe-8a39-0f3182d95140",
+            "text": "eggs",
+            "is_correct": false
+          },
+          {
+            "id": "40b218c6-099a-4d6a-bba4-82fb4e44d211",
+            "text": "apples",
+            "is_correct": true
+          },
+          {
+            "id": "451d7a2b-a3c6-4803-a408-d77d4d15f061",
+            "text": "milk",
+            "is_correct": false
+          },
+          {
+            "id": "0a452e25-6bd0-4d4f-96e3-4511cd14c973",
+            "text": "bread",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "40b218c6-099a-4d6a-bba4-82fb4e44d211"
+        ]
+      },
+      {
+        "question_id": "abf294e2-bc31-4e93-92d3-627d863b400b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Why do grocery stores often have more vegetables than fruits?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "28b5d276-b7d9-44a6-a588-5f190f0dc1f6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why do grocery stores often have more vegetables than fruits?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ee681055-1bb0-4737-9d7d-36372e5a3bde",
+            "text": "because vegetables usually stay fresh longer than fruits",
+            "is_correct": true
+          },
+          {
+            "id": "0ea2ecc7-c7de-400b-b52d-f43de0c0887d",
+            "text": "because vegetables are always more popular than fruits",
+            "is_correct": false
+          },
+          {
+            "id": "53d8914f-a2e0-4355-8ef7-6d1825341066",
+            "text": "because managers dislike selling fruit",
+            "is_correct": false
+          },
+          {
+            "id": "dbb01906-30e6-4719-869c-5d3f4bf319d5",
+            "text": "because fruit cannot be sold by weight",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ee681055-1bb0-4737-9d7d-36372e5a3bde"
+        ]
+      },
+      {
+        "question_id": "c62309be-bb73-4195-8ca3-48ed3531d416",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which vegetable is included in the list with lettuce, corn, tomatoes, onions, celery, and mushrooms?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "70e10901-4151-4a2c-a982-176d2f79deff",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which vegetable is included in the list with lettuce, corn, tomatoes, onions, celery, and mushrooms?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d41199b3-184e-4683-ba2d-0dfd859fc8c7",
+            "text": "cucumbers",
+            "is_correct": true
+          },
+          {
+            "id": "b0560b2f-ce6e-4f9c-9051-e2fa707ae654",
+            "text": "bananas",
+            "is_correct": false
+          },
+          {
+            "id": "e7f83cae-b0f8-4f52-b180-b24cb3c91ac3",
+            "text": "bread",
+            "is_correct": false
+          },
+          {
+            "id": "96e30add-12b5-4e06-902e-8f2d3ee46d0b",
+            "text": "juice",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d41199b3-184e-4683-ba2d-0dfd859fc8c7"
+        ]
+      },
+      {
+        "question_id": "e4e81670-daad-4ce6-9879-54c0863ca365",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "In some grocery stores, what do employees do with fresh products before giving them to customers?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "3688ac6f-40bc-49d4-82f4-8217f36c55ab",
+            "type": "TEXT",
+            "payload": {
+              "text": "In some grocery stores, what do employees do with fresh products before giving them to customers?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fb4420f9-bc0e-438f-afe8-a63b514f76d2",
+            "text": "paint and decorate them",
+            "is_correct": false
+          },
+          {
+            "id": "5747da0e-cd43-4d39-9475-97fe9c161493",
+            "text": "measure and weigh them",
+            "is_correct": true
+          },
+          {
+            "id": "13d27399-cf6f-4e0a-b197-12a4dc564625",
+            "text": "cook them in the restaurant area",
+            "is_correct": false
+          },
+          {
+            "id": "c201328e-ada1-45a5-af88-47c093f92b2c",
+            "text": "put them only into gift boxes",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5747da0e-cd43-4d39-9475-97fe9c161493"
+        ]
+      },
+      {
+        "question_id": "bb949f4b-a955-43b8-a145-4a10730b027e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which of these less common fruits may be sold in larger grocery stores?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2d63a0cd-5e49-47ca-9d04-c33416228c31",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which of these less common fruits may be sold in larger grocery stores?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4d44a059-8663-4260-86a0-b20aa96551a5",
+            "text": "potatoes",
+            "is_correct": false
+          },
+          {
+            "id": "8927d4fb-ce34-49a3-a0c9-40000d1dda77",
+            "text": "onions",
+            "is_correct": false
+          },
+          {
+            "id": "829bd0da-a228-4601-91d3-1e68878646f7",
+            "text": "mangoes",
+            "is_correct": true
+          },
+          {
+            "id": "0a7ae17d-c991-478d-b61c-b3ad82f28536",
+            "text": "eggs",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "829bd0da-a228-4601-91d3-1e68878646f7"
+        ]
+      },
+      {
+        "question_id": "671630d1-2135-4b26-a1f4-88b5a18026ff",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "How can some stores charge customers for fruit?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "7cb77ede-5c92-44fd-9944-88a022f316c9",
+            "type": "TEXT",
+            "payload": {
+              "text": "How can some stores charge customers for fruit?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1e14c2d6-e23a-4ea3-91f6-d87794ccbd7d",
+            "text": "only by the colour of the fruit",
+            "is_correct": false
+          },
+          {
+            "id": "93ee30fb-0378-442d-8bff-bb12c961eca5",
+            "text": "only by the day of the week",
+            "is_correct": false
+          },
+          {
+            "id": "f6b6522c-bdc1-425c-8ccb-01fce3433703",
+            "text": "only after the fruit is cooked",
+            "is_correct": false
+          },
+          {
+            "id": "c463ba79-36bd-40e2-ba82-5199af4cd5c6",
+            "text": "by weight, by piece, by bundle, or by container",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "c463ba79-36bd-40e2-ba82-5199af4cd5c6"
+        ]
+      },
+      {
+        "question_id": "0a312ab8-9a74-4f3c-bb15-a64d599acf2f",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Мартин Хайдеггер пишет о Рейне: Рейн как поставщик гидравлического напора для гидроэлектростанции противопоставлен Рейну из гимна Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "681638f4-510c-43b9-96b0-9c04d3433d35",
+            "type": "TEXT",
+            "payload": {
+              "text": "Мартин Хайдеггер пишет о Рейне: Рейн как поставщик гидравлического напора для гидроэлектростанции противопоставлен Рейну из гимна Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "820e2179-fc39-4308-b104-0e366e141112",
+            "text": "Между возможностями использования природной силы реки Рейн",
+            "is_correct": false
+          },
+          {
+            "id": "027a91ef-591d-4b30-962f-409c0eb9a195",
+            "text": "Между «производственным» и поэтическим восприятием природного феномена",
+            "is_correct": true
+          },
+          {
+            "id": "7889263a-2ff2-4abd-865c-f8cb9ddeb547",
+            "text": "Между обликами ландшафта до и после установления ГЭС на Рейне",
+            "is_correct": false
+          },
+          {
+            "id": "f1f98718-43b6-43bb-9221-48916908b446",
+            "text": "О контрасте между словоупотреблением в XIX и XX веках",
+            "is_correct": false
+          },
+          {
+            "id": "25d41ef2-9b1b-4530-b471-1f6332820d2e",
+            "text": "Между задачами промышленного производства и поэзии, искусства",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "027a91ef-591d-4b30-962f-409c0eb9a195"
+        ]
+      },
+      {
+        "question_id": "44ad192d-8bbf-48c5-8033-550052565313",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Марк Фабий Квинтилиан писал: «Есть такие краткие изречения, или […], которые всем приятны и всеми употребляются. Такие изречения не переходили бы из века в век, если бы всем людям не казались истинными». Вставьте слово по смыслу.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "35bf13ce-5ec6-4a47-b339-433159b68b81",
+            "type": "TEXT",
+            "payload": {
+              "text": "Марк Фабий Квинтилиан писал: «Есть такие краткие изречения, или […], которые всем приятны и всеми употребляются. Такие изречения не переходили бы из века в век, если бы всем людям не казались истинными». Вставьте слово по смыслу."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0ba1be2c-b5ec-470a-adfc-ee5991cec474",
+            "text": "фразеологизмы",
+            "is_correct": false
+          },
+          {
+            "id": "c1a06d26-c144-4a96-b517-e69c3cb9af2a",
+            "text": "алогизмы",
+            "is_correct": false
+          },
+          {
+            "id": "fc5398ca-b12d-49fc-82ef-32aaebc9f63e",
+            "text": "софизмы",
+            "is_correct": false
+          },
+          {
+            "id": "ff1715fb-9f7c-4452-a0d2-01f9a2b858ad",
+            "text": "пословицы",
+            "is_correct": true
+          },
+          {
+            "id": "615a90d2-3491-43de-a399-14bd9a29b6df",
+            "text": "цитаты",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ff1715fb-9f7c-4452-a0d2-01f9a2b858ad"
+        ]
+      },
+      {
+        "question_id": "55907c73-63c6-4928-b672-1c44d4b10b42",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "«Мы отвергаем всякую попытку навязать нам какую бы то ни было моральную догматику в качестве вечного, окончательного, отныне неизменного нравственного закона под предлогом, что мир морали тоже имеет свои неприходящие […], стоящие выше истории и национальных различий». Вставьте ключевое слово.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0f58caf6-36a3-43b0-a60f-1f4664097dc0",
+            "type": "TEXT",
+            "payload": {
+              "text": "«Мы отвергаем всякую попытку навязать нам какую бы то ни было моральную догматику в качестве вечного, окончательного, отныне неизменного нравственного закона под предлогом, что мир морали тоже имеет свои неприходящие […], стоящие выше истории и национальных различий». Вставьте ключевое слово."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a691063f-53f5-4702-8524-b34121d54877",
+            "text": "принципы",
+            "is_correct": true
+          },
+          {
+            "id": "107e8a6b-5781-4d11-872e-a4b5f856741c",
+            "text": "догматы",
+            "is_correct": false
+          },
+          {
+            "id": "6fd93abb-d01f-47d0-b77e-a30a15c7260d",
+            "text": "законы",
+            "is_correct": false
+          },
+          {
+            "id": "38cf041d-42c0-4b05-a536-16117157e492",
+            "text": "категории",
+            "is_correct": false
+          },
+          {
+            "id": "ff9c803f-8402-426b-9c61-d721fba307e9",
+            "text": "постулаты",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a691063f-53f5-4702-8524-b34121d54877"
+        ]
+      },
+      {
+        "question_id": "42ec868f-507c-436e-90e6-94ad93e5dfda",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Гастон Башляр писал, что между обыденным познанием и научным познанием существует четкий разрыв; эмпиризм подходит для обыденного познания, а научное познание связано с рационализмом. Что является главной темой суждения?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "feac5914-b0db-4c51-a23e-78c7f72d68ba",
+            "type": "TEXT",
+            "payload": {
+              "text": "Гастон Башляр писал, что между обыденным познанием и научным познанием существует четкий разрыв; эмпиризм подходит для обыденного познания, а научное познание связано с рационализмом. Что является главной темой суждения?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5671fe3e-c921-4c79-beff-a37f41a1d732",
+            "text": "Различие эмпиризма и рационализма",
+            "is_correct": false
+          },
+          {
+            "id": "53de7930-e25e-4e88-bc3c-dea6a6147de8",
+            "text": "Разорванность всего и вся — мира, познания, науки, практики",
+            "is_correct": false
+          },
+          {
+            "id": "66f3ff33-0c30-4251-bd49-d14b156dcbdb",
+            "text": "Разрыв обыденности и полноты в познании",
+            "is_correct": false
+          },
+          {
+            "id": "109b8c57-ee98-4e30-88fe-1aca8ed9e902",
+            "text": "Принципиальное несходство обыденного и научного познания",
+            "is_correct": true
+          },
+          {
+            "id": "129d6956-15cd-4bd8-a3bf-508f77c4036e",
+            "text": "Отсутствие какой бы то ни было «единой» философии",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "109b8c57-ee98-4e30-88fe-1aca8ed9e902"
+        ]
+      },
+      {
+        "question_id": "ae1cbbaa-6ea0-43c0-a0e1-6478ba980608",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Что не рассматривает Г. Башляр в приведенной цитате о различии обыденного и научного познания?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ff5b6cbf-d256-4cf6-97e5-55909be64bfe",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что не рассматривает Г. Башляр в приведенной цитате о различии обыденного и научного познания?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8352376f-6294-4282-99c7-941f094d556d",
+            "text": "связь эмпиризма с обыденным познанием",
+            "is_correct": false
+          },
+          {
+            "id": "afbecc79-3749-4380-8e2e-945bcb84b361",
+            "text": "специфику обыденного и научного познания",
+            "is_correct": false
+          },
+          {
+            "id": "5079fcb7-3878-490a-8701-d98763100a18",
+            "text": "методы эмпирического и научного познания",
+            "is_correct": true
+          },
+          {
+            "id": "9a82c06c-dba5-49aa-9cd3-4364b81cff3c",
+            "text": "связь рационализма с наукой",
+            "is_correct": false
+          },
+          {
+            "id": "18f068bf-0069-4c29-959b-a7054e019384",
+            "text": "проблему единой философии двух уровней познания",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5079fcb7-3878-490a-8701-d98763100a18"
+        ]
+      },
+      {
+        "question_id": "31d02c31-5cdf-43ce-87bf-1a736702a67c",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Кестенің диаграммалық кескіні берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20, барлығы — 42. Балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c3ba0776-807e-4785-ba41-803489c9619f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Кестенің диаграммалық кескіні берілген: сүтқоректілер — 4, құстар — 8,6, бауырымен жорғалаушылар — 6, қосмекенділер — 3,4, балықтар — 20, барлығы — 42. Балықтарға сәйкес келетін бөліктің градустық өлшемі қандай?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "83466168-d4b6-455c-9b54-a510be96cb6f",
+            "text": "134°",
+            "is_correct": false
+          },
+          {
+            "id": "20e97b8d-eff0-49a0-a952-c416f1094e73",
+            "text": "171°",
+            "is_correct": true
+          },
+          {
+            "id": "ade40d1a-923b-4bfa-85e4-f7b39fa1f9b4",
+            "text": "162°",
+            "is_correct": false
+          },
+          {
+            "id": "f22f5fc1-512b-44ae-92b2-66ba183e28dd",
+            "text": "150°",
+            "is_correct": false
+          },
+          {
+            "id": "ec41d224-4bd8-438a-90cc-1d9f6cf09c1d",
+            "text": "195°",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "20e97b8d-eff0-49a0-a952-c416f1094e73"
+        ]
+      },
+      {
+        "question_id": "7aff2077-f8f4-4e91-ab50-aca0742f0727",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Суретте неше тікт4ртбурыш бар екенін аныктау керек: [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/91fe01c7-6b00-409c-aca9-307803792b43.png]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "532f2297-25d9-4901-9348-0ec1beaf742f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Суретте неше тікт4ртбурыш бар екенін аныктау керек:"
+            },
+            "position": 1
+          },
+          {
+            "id": "895708ae-2339-4561-b904-58614ecad15f",
+            "type": "IMAGE",
+            "payload": {
+              "url": "media/5ad2267888a748d096f52b77e4741086.png",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/91fe01c7-6b00-409c-aca9-307803792b43.png"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "028528b8-5705-438d-8a25-e44288740ae6",
+            "text": "5",
+            "is_correct": false
+          },
+          {
+            "id": "4ff77bf5-d8fa-48ef-a04d-87c6b68db45a",
+            "text": "4",
+            "is_correct": false
+          },
+          {
+            "id": "234f120c-38e1-479f-9007-ca87d193126e",
+            "text": "9",
+            "is_correct": true
+          },
+          {
+            "id": "13128566-60ed-467a-b8a2-35de936fd86c",
+            "text": "8",
+            "is_correct": false
+          },
+          {
+            "id": "250a434e-4fa4-41f2-9c7e-a34ef7eb8cd7",
+            "text": "10",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "234f120c-38e1-479f-9007-ca87d193126e"
+        ]
+      },
+      {
+        "question_id": "a108070d-2584-4fa8-875f-64cdd0aebe39",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Суретте неше тіктөртбұрыш бар екенін анықтау керек: [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/19266925-9ba0-4cf1-b5a7-a9c097288ac6.png]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ddfa8c77-9aa9-49f7-868f-7409792af393",
+            "type": "TEXT",
+            "payload": {
+              "text": "Суретте неше тіктөртбұрыш бар екенін анықтау керек:"
+            },
+            "position": 1
+          },
+          {
+            "id": "a784c4df-b6df-4b42-9bbf-562b1fb41e6a",
+            "type": "IMAGE",
+            "payload": {
+              "url": "media/58470379d0024edda9e970380597046a.png",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/19266925-9ba0-4cf1-b5a7-a9c097288ac6.png"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "437fc9a8-f556-4efe-97fd-d6db6e259eea",
+            "text": "19",
+            "is_correct": false
+          },
+          {
+            "id": "19e411ba-70af-49d1-b6ec-cbb172ad1581",
+            "text": "8",
+            "is_correct": false
+          },
+          {
+            "id": "598565f2-ce35-44a9-8f01-2c5dd77d608a",
+            "text": "24",
+            "is_correct": false
+          },
+          {
+            "id": "60419a92-3625-459d-b7a5-09158fd6a066",
+            "text": "20",
+            "is_correct": true
+          },
+          {
+            "id": "383a1878-11d6-4531-8d4e-6a595d4fa68d",
+            "text": "12",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "60419a92-3625-459d-b7a5-09158fd6a066"
+        ]
+      },
+      {
+        "question_id": "51d5fb4b-d051-4bb0-8835-3866b843a408",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Трактор A убирает 1/5 тонны снега ежедневно. Трактор B собирает в 5 раз больше снега, чем трактор A, но в 2 раза меньше, чем трактор C. Сколько снега ежедневно собирает трактор C?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e7cf779b-c783-4c4c-8a01-b04f07dd11fc",
+            "type": "TEXT",
+            "payload": {
+              "text": "Трактор A убирает 1/5 тонны снега ежедневно. Трактор B собирает в 5 раз больше снега, чем трактор A, но в 2 раза меньше, чем трактор C. Сколько снега ежедневно собирает трактор C?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cdb75f93-127d-493c-885d-63398fbb278d",
+            "text": "200 кг",
+            "is_correct": false
+          },
+          {
+            "id": "f022f27a-b722-48e6-ba5b-a0525a0ca596",
+            "text": "400 кг",
+            "is_correct": false
+          },
+          {
+            "id": "e2144483-2de6-4a8d-a506-7cac7859198c",
+            "text": "1 тонну",
+            "is_correct": false
+          },
+          {
+            "id": "6940787b-1197-482a-9404-7dc42b10be23",
+            "text": "300 кг",
+            "is_correct": false
+          },
+          {
+            "id": "7809809d-b4ca-4747-ad29-4f5b66ff96f6",
+            "text": "2 тонны",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "7809809d-b4ca-4747-ad29-4f5b66ff96f6"
+        ]
+      },
+      {
+        "question_id": "4b68859a-38a7-4b99-a218-0094261357c0",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Вставьте пропущенное слово: «В среднем, обычный житель Земли за всю свою [...] проходит расстояние, достаточное, чтобы трижды обогнуть Землю».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "901125b5-b543-42d6-8008-8255e3cf3491",
+            "type": "TEXT",
+            "payload": {
+              "text": "Вставьте пропущенное слово: «В среднем, обычный житель Земли за всю свою [...] проходит расстояние, достаточное, чтобы трижды обогнуть Землю»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "80861985-aad3-4141-90ba-693070a4236c",
+            "text": "мысль",
+            "is_correct": false
+          },
+          {
+            "id": "62250d2d-6284-4ab4-8764-5d3d5309df86",
+            "text": "жизнь",
+            "is_correct": true
+          },
+          {
+            "id": "b8d13c0b-1c8f-44ef-9807-22c87f405038",
+            "text": "неделю",
+            "is_correct": false
+          },
+          {
+            "id": "409fa442-d0fd-4e20-887d-987094f6e689",
+            "text": "игру",
+            "is_correct": false
+          },
+          {
+            "id": "b6174ed0-12d0-482b-ab4e-8fd3b714a96c",
+            "text": "работу",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "62250d2d-6284-4ab4-8764-5d3d5309df86"
+        ]
+      }
+    ]
+  }
+}

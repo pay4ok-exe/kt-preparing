@@ -1,0 +1,3761 @@
+{
+  "variant_id": "angl_tgo_v08",
+  "title": "Английский + ТГО — Вариант 8",
+  "total_count": 40,
+  "attempt_id": "adde359d-a38c-49bb-8231-314e6f6ad861",
+  "questions": [
+    {
+      "question_id": "002fbbe6-15a9-403c-8ce4-5f39ed313ae7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is the main idea of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ae297628-1476-469e-8666-1da13f2391e8",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is the main idea of the audio?"
+          },
+          "position": 1
+        },
+        {
+          "id": "75f7245d-876b-4d3b-8a9c-7fdb7a1d2e4c",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "aa48b10f-7ee5-44bb-a915-3d11777f45d1",
+          "text": "Success always means becoming rich.",
+          "is_correct": false
+        },
+        {
+          "id": "5e139e82-be07-46af-a2bb-c82c2149f2c2",
+          "text": "Success depends only on wearing the right clothes.",
+          "is_correct": false
+        },
+        {
+          "id": "c0b5c763-f7e5-447f-8c50-8b270f9ad3e0",
+          "text": "Success can mean different things and requires self-knowledge, planning, and hard work.",
+          "is_correct": true
+        },
+        {
+          "id": "37800f1d-0090-4718-9e95-4a3422324437",
+          "text": "Success is mostly about luck.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c0b5c763-f7e5-447f-8c50-8b270f9ad3e0"
+      ]
+    },
+    {
+      "question_id": "f6cc1ab8-b622-4dc2-9c38-d67b87b7d9ba",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "According to the audio, what may help someone succeed in a traditional corporate environment? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "39d8a776-8fe6-46ec-8dc5-594b790fb89b",
+          "type": "TEXT",
+          "payload": {
+            "text": "According to the audio, what may help someone succeed in a traditional corporate environment?"
+          },
+          "position": 1
+        },
+        {
+          "id": "393656ac-3c38-42e1-abf8-166827afba01",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "204eb0cd-0eda-4274-aa44-34bb8e593b7a",
+          "text": "Wearing the latest creative fashions.",
+          "is_correct": false
+        },
+        {
+          "id": "fd798433-a467-420d-9aa6-2e090488c5c3",
+          "text": "Wearing business clothing like a suit.",
+          "is_correct": true
+        },
+        {
+          "id": "973d909e-959c-4d4a-a427-20144ebb480f",
+          "text": "Avoiding all planning.",
+          "is_correct": false
+        },
+        {
+          "id": "9487784d-8e03-4cb9-8e13-5be4ef8d5da9",
+          "text": "Writing a book overnight.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "fd798433-a467-420d-9aa6-2e090488c5c3"
+      ]
+    },
+    {
+      "question_id": "9c7a4bec-2139-48cf-b880-a8787b202654",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does the expression “dress for success” mean in the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "edcdebbc-3e28-4473-b4e6-cfd66f0a6e8d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does the expression “dress for success” mean in the audio?"
+          },
+          "position": 1
+        },
+        {
+          "id": "553ba5d0-e219-4a64-9005-f5ed9014cb49",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "858a53f5-b406-4358-b82f-affa413e80cd",
+          "text": "Wear the most expensive clothes possible.",
+          "is_correct": false
+        },
+        {
+          "id": "aa217ffb-8e78-4141-8c90-bf5d362403ce",
+          "text": "Dress only for comfort.",
+          "is_correct": false
+        },
+        {
+          "id": "d83357fe-eaf4-45dd-ac36-014d1f1e21b5",
+          "text": "Dress in a way that matches your professional goals.",
+          "is_correct": true
+        },
+        {
+          "id": "050633d5-aba3-4e75-888e-ddbc7a16d976",
+          "text": "Wear the same clothes every day.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d83357fe-eaf4-45dd-ac36-014d1f1e21b5"
+      ]
+    },
+    {
+      "question_id": "9fee682a-f114-4fdf-94bc-834dfa0f9c21",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is an “overnight success”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "74257c74-41b6-44e6-af23-b40ab3fe69cd",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is an “overnight success”?"
+          },
+          "position": 1
+        },
+        {
+          "id": "b5891e46-7c7d-42c5-90f4-0b905f2f5ccd",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d678af03-f899-4d20-b581-dccb46876abe",
+          "text": "Someone who succeeds only while working at night.",
+          "is_correct": false
+        },
+        {
+          "id": "ecdf7ab4-3291-4de9-8186-f783a3f5fbeb",
+          "text": "Someone who becomes successful because of good clothes.",
+          "is_correct": false
+        },
+        {
+          "id": "504ea72a-0aa0-427b-a8d9-7e79cb9dc71c",
+          "text": "Someone who seems to become successful very suddenly.",
+          "is_correct": true
+        },
+        {
+          "id": "fd75ac81-a6f6-42f3-82f1-b76d99a7df4d",
+          "text": "Someone who plans every step carefully.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "504ea72a-0aa0-427b-a8d9-7e79cb9dc71c"
+      ]
+    },
+    {
+      "question_id": "024cba00-3ddf-485a-9f93-2c0597c99740",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does the audio say people often do not see? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ade7209d-3236-4963-af64-213354172414",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does the audio say people often do not see?"
+          },
+          "position": 1
+        },
+        {
+          "id": "a44ba1da-5b6e-463d-97e5-a799f0b798b0",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "c853c772-7280-454b-bdc1-1e7578af8024",
+          "text": "The final result of a successful project.",
+          "is_correct": false
+        },
+        {
+          "id": "d4442c96-c502-4d9d-91b8-ca4f8a8690c4",
+          "text": "The hard work behind a successful project.",
+          "is_correct": true
+        },
+        {
+          "id": "4790633b-7b58-4ef8-9f15-9fa49be72613",
+          "text": "The clothes people wear at work.",
+          "is_correct": false
+        },
+        {
+          "id": "839ad7b6-5e66-49e0-b510-10b1fa270eb6",
+          "text": "The road on a map.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d4442c96-c502-4d9d-91b8-ca4f8a8690c4"
+      ]
+    },
+    {
+      "question_id": "d5291f03-9093-46ad-a95a-e8b9afc42cb7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “if you fail to plan, you plan to fail” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "f27a7602-21c3-45c0-8c55-a311b1ba208e",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “if you fail to plan, you plan to fail” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "1170fa4d-79e9-4ed8-8130-407841bfaba5",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "8debcd8b-2ee2-4bde-aa22-9049b99d0c8a",
+          "text": "Planning is useless if you are talented.",
+          "is_correct": false
+        },
+        {
+          "id": "9cc67bb5-6f26-4e2d-87fe-2c3039263453",
+          "text": "Failure is always part of success.",
+          "is_correct": false
+        },
+        {
+          "id": "3f0f96e3-0404-4d26-bddb-c23aff4fc066",
+          "text": "Without a plan, you are more likely to fail.",
+          "is_correct": true
+        },
+        {
+          "id": "32474e0c-9bea-48d2-9174-6af37f9ec75a",
+          "text": "A plan guarantees success.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3f0f96e3-0404-4d26-bddb-c23aff4fc066"
+      ]
+    },
+    {
+      "question_id": "f77fc7a6-b208-4b3b-998e-ec6cd5f57844",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does the expression “roads are paved with gold” suggest? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "7eebc44c-bb83-42ab-ac3f-1d337a5ba476",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does the expression “roads are paved with gold” suggest?"
+          },
+          "position": 1
+        },
+        {
+          "id": "3554ee42-5c84-41e8-b8d0-91a39b9dedb9",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "ec0cb2ab-0c74-4d81-b6bf-5bbff4503484",
+          "text": "A road is physically covered with gold.",
+          "is_correct": false
+        },
+        {
+          "id": "10d65006-8021-4124-aa63-f98197237215",
+          "text": "A place is dangerous and difficult to reach.",
+          "is_correct": false
+        },
+        {
+          "id": "4b411db6-7d85-42a3-b70e-f13339bc69f2",
+          "text": "Success or financial wealth is easy to find there.",
+          "is_correct": true
+        },
+        {
+          "id": "fcd080a2-9542-4540-8acb-9c05223dc6d9",
+          "text": "Success is impossible without money.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4b411db6-7d85-42a3-b70e-f13339bc69f2"
+      ]
+    },
+    {
+      "question_id": "ee218028-b282-4220-8ac0-1467bdcc801f",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why can failures be part of the road to success? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "60ec751d-a426-4c65-9013-c07a3b183225",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why can failures be part of the road to success?"
+          },
+          "position": 1
+        },
+        {
+          "id": "18a5e821-393a-41eb-b754-74e015a2b7d2",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "a22b90ed-9c12-454b-b4f7-13704125966e",
+          "text": "Failures always stop people from succeeding.",
+          "is_correct": false
+        },
+        {
+          "id": "d50fbea6-eb30-4a18-995d-1b3bf9bfb819",
+          "text": "Failures make people famous overnight.",
+          "is_correct": false
+        },
+        {
+          "id": "8a41cc28-e9fd-4c17-8c30-0f90f7e0c649",
+          "text": "People can learn from failures and use them to succeed.",
+          "is_correct": true
+        },
+        {
+          "id": "0a9509f2-227d-4792-a5f2-19a7ac043d3b",
+          "text": "Failures are more important than hard work.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8a41cc28-e9fd-4c17-8c30-0f90f7e0c649"
+      ]
+    },
+    {
+      "question_id": "b3098bf5-8ec3-482e-a582-8c6d6e510b0a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Which expression means that someone is doing very well? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ea8f627c-3a34-40bf-9bb9-5d6b8985f661",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which expression means that someone is doing very well?"
+          },
+          "position": 1
+        },
+        {
+          "id": "09367f75-a051-43a3-afd8-8f2e327bc25d",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "084977a7-aa4e-4416-a557-764d8760aef8",
+          "text": "You are riding high.",
+          "is_correct": true
+        },
+        {
+          "id": "843dd121-0da7-43ff-b443-8d6c1f61ee30",
+          "text": "You are killing it.",
+          "is_correct": true
+        },
+        {
+          "id": "c35806e7-a75c-415a-8f13-c11d272dc572",
+          "text": "You are golden.",
+          "is_correct": true
+        },
+        {
+          "id": "e0cfa2e4-c61f-4c53-80e8-69141292fd74",
+          "text": "You fail to plan.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "084977a7-aa4e-4416-a557-764d8760aef8",
+        "843dd121-0da7-43ff-b443-8d6c1f61ee30",
+        "c35806e7-a75c-415a-8f13-c11d272dc572"
+      ]
+    },
+    {
+      "question_id": "995c5670-3da2-4049-aa88-aea2ff9e33be",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does it mean to become “a victim of your own success”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "93fa7877-ba62-4272-8ddf-2d87a070845d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does it mean to become “a victim of your own success”?"
+          },
+          "position": 1
+        },
+        {
+          "id": "00195351-ece4-4608-bdb0-b973a2fefdd6",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d5b62944-6831-4874-bcd6-d02d61e51be4",
+          "text": "You failed because you were not successful enough.",
+          "is_correct": false
+        },
+        {
+          "id": "f9adce6a-dcf6-4dd8-a395-8b2575ee8fa1",
+          "text": "You became successful only by luck.",
+          "is_correct": false
+        },
+        {
+          "id": "1262fe09-cc05-42ee-b26d-7b278dfb7318",
+          "text": "You start having problems because of your success.",
+          "is_correct": true
+        },
+        {
+          "id": "fd1b39e9-6897-46aa-b147-6b0487790bc3",
+          "text": "You lost your job because of failure.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1262fe09-cc05-42ee-b26d-7b278dfb7318"
+      ]
+    },
+    {
+      "question_id": "258d1a38-a384-4f9e-9332-db127afe5f97",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct phrase: Napping on the beach never gets boring for Alice and ...",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "02eb1664-8299-492d-8e46-ba50c71e3b76",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct phrase: Napping on the beach never gets boring for Alice and ..."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "61f55501-528a-4b51-bec4-e2eaecd53413",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "id": "1db852ea-d7be-44ee-9ef9-9f5022c9447c",
+          "text": "me",
+          "is_correct": true
+        },
+        {
+          "id": "679b07c2-17e6-44be-9ab2-2ccd9ebf6797",
+          "text": "my",
+          "is_correct": false
+        },
+        {
+          "id": "32d9717d-ebc3-4dc2-8df3-1217e6ece809",
+          "text": "mine",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1db852ea-d7be-44ee-9ef9-9f5022c9447c"
+      ]
+    },
+    {
+      "question_id": "d1de71a3-9d9b-4ead-a819-662398326532",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct phrase: I am going to the comedy club with Yolanda and ...",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "a871c1e8-4f2e-439e-b2b8-2863a8eef563",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct phrase: I am going to the comedy club with Yolanda and ..."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "29ea38c6-6962-4aa0-a05b-31fff46e8ed3",
+          "text": "she",
+          "is_correct": false
+        },
+        {
+          "id": "1cf19d86-9989-49c8-96bd-c1b14b553f56",
+          "text": "her",
+          "is_correct": true
+        },
+        {
+          "id": "b564331f-1edd-4fe6-9c71-353f2f0fceec",
+          "text": "hers",
+          "is_correct": false
+        },
+        {
+          "id": "17f74a19-676d-4244-972b-9326249e80a1",
+          "text": "herself",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1cf19d86-9989-49c8-96bd-c1b14b553f56"
+      ]
+    },
+    {
+      "question_id": "e0b31bdc-ef15-4364-af8b-5048617200ed",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "69c5306e-1641-4780-a851-68f45b2930be",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e16a8866-bbbe-4bac-8de6-87eb7932d242",
+          "text": "The cooking instructor taught she and I a lot.",
+          "is_correct": false
+        },
+        {
+          "id": "27f9d31b-38ad-4b3a-9a0a-42c14b0f5c00",
+          "text": "The cooking instructor taught her and I a lot.",
+          "is_correct": false
+        },
+        {
+          "id": "225a0582-a45f-4c55-8a8e-9226d387edf0",
+          "text": "The cooking instructor taught her and me a lot.",
+          "is_correct": true
+        },
+        {
+          "id": "d9e92b88-c5a3-4432-87d9-b1b048098461",
+          "text": "The cooking instructor taught hers and mine a lot.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "225a0582-a45f-4c55-8a8e-9226d387edf0"
+      ]
+    },
+    {
+      "question_id": "efaff7ed-43a4-4c6c-982b-63e5ebefdab6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct possessive adjective: When Jackie enrolled in high school, ... siblings encouraged him to get involved in sports.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b34fa256-7d93-4890-b275-b854721424bc",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct possessive adjective: When Jackie enrolled in high school, ... siblings encouraged him to get involved in sports."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c47c316c-df57-4916-93d7-654c3eb5960a",
+          "text": "his",
+          "is_correct": true
+        },
+        {
+          "id": "6ed6bd58-6ded-4764-a9d0-e03c6e96d96c",
+          "text": "her",
+          "is_correct": false
+        },
+        {
+          "id": "04cab585-3103-4fb0-bc14-7ba0fca5d15b",
+          "text": "its",
+          "is_correct": false
+        },
+        {
+          "id": "ea3bdd33-8442-4f71-a9e8-ae764c6b87f8",
+          "text": "their",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c47c316c-df57-4916-93d7-654c3eb5960a"
+      ]
+    },
+    {
+      "question_id": "8217f365-f59b-46cb-a233-2077b504c95e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct possessive adjective: Jackie’s mother moved ... children to California.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9fbc585c-ddc2-448e-88bf-cebd87e8873f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct possessive adjective: Jackie’s mother moved ... children to California."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bf32958b-a22d-4052-a124-aac2303afccc",
+          "text": "his",
+          "is_correct": false
+        },
+        {
+          "id": "c83f78d8-230d-40e2-8559-28ed2066cc28",
+          "text": "her",
+          "is_correct": true
+        },
+        {
+          "id": "aca4c0f5-2b41-4ec9-83df-be90a2b38949",
+          "text": "its",
+          "is_correct": false
+        },
+        {
+          "id": "fca8ddd1-eb0c-4105-8ddc-9c0218ffb345",
+          "text": "their",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c83f78d8-230d-40e2-8559-28ed2066cc28"
+      ]
+    },
+    {
+      "question_id": "8f314fe5-ab06-481d-939e-eb37f013e504",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct possessive adjective: While the Dodgers have moved from Brooklyn to Los Angeles, ... team colors have not changed.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "b9091454-c656-45b0-9813-3018eb11e297",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct possessive adjective: While the Dodgers have moved from Brooklyn to Los Angeles, ... team colors have not changed."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "17f88818-a3b4-4e5e-991f-9ccc906771f2",
+          "text": "his",
+          "is_correct": false
+        },
+        {
+          "id": "f14c0462-c369-4114-b27f-9a1d808a19d8",
+          "text": "her",
+          "is_correct": false
+        },
+        {
+          "id": "76df0830-4743-4cec-876c-a5a6c885826f",
+          "text": "its",
+          "is_correct": true
+        },
+        {
+          "id": "1de7fa5b-2a8f-42cb-bedc-a9f381e14a16",
+          "text": "their",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "76df0830-4743-4cec-876c-a5a6c885826f"
+      ]
+    },
+    {
+      "question_id": "96a804b9-3070-41d4-a5d1-8d122adc012a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct possessive adjective: Some players were physically and verbally violent. ... actions injured Jackie’s leg.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "76ea1ec4-afdb-4fc9-83d8-551181849781",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct possessive adjective: Some players were physically and verbally violent. ... actions injured Jackie’s leg."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "683d79e0-c882-4ce2-a4ca-5fb0ba3ba65f",
+          "text": "his",
+          "is_correct": false
+        },
+        {
+          "id": "ee7259d8-e2ec-4a21-bee1-8610cecd1eb9",
+          "text": "her",
+          "is_correct": false
+        },
+        {
+          "id": "283d25f2-41a2-4aaa-8410-f4eac6f26844",
+          "text": "its",
+          "is_correct": false
+        },
+        {
+          "id": "1fd34910-1c6e-4b37-bd45-0ff58cd73f25",
+          "text": "their",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "1fd34910-1c6e-4b37-bd45-0ff58cd73f25"
+      ]
+    },
+    {
+      "question_id": "b56c264a-913b-42de-9072-6d537c4b7c23",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct possessive pronouns: This is my book. Your book is over there.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e2d778c1-37d6-4841-a021-d6deb090570a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct possessive pronouns: This is my book. Your book is over there."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "36a6a143-d6e9-4e62-8210-8cd99800ea85",
+          "text": "This is mine. Yours is over there.",
+          "is_correct": true
+        },
+        {
+          "id": "5c1acdd3-63ca-4886-b245-2935a2064257",
+          "text": "This is my. Your is over there.",
+          "is_correct": false
+        },
+        {
+          "id": "a77a6ee4-4176-4f56-96b0-242c097dae2e",
+          "text": "This is me. You is over there.",
+          "is_correct": false
+        },
+        {
+          "id": "c97f767e-eba0-4617-9766-31d01c0ff3b7",
+          "text": "This is mine. Your is over there.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "36a6a143-d6e9-4e62-8210-8cd99800ea85"
+      ]
+    },
+    {
+      "question_id": "d530a2e6-b7d3-4d54-8bb9-bd4249e13472",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct possessive pronouns: His pen is blue. Her pen is purple.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "bb73d89c-f79f-47e9-99b6-780b83d00189",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct possessive pronouns: His pen is blue. Her pen is purple."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3f85e2db-2ed4-420c-8864-03b45def8d14",
+          "text": "His pen is blue. Her is purple.",
+          "is_correct": false
+        },
+        {
+          "id": "9c1b88de-310d-4df2-a89a-e65cd1e6b5ad",
+          "text": "His is blue. Hers is purple.",
+          "is_correct": true
+        },
+        {
+          "id": "5455e1fe-6da9-497d-850f-ab5f17d329c6",
+          "text": "Him is blue. Her is purple.",
+          "is_correct": false
+        },
+        {
+          "id": "6df633ad-0179-44e8-9fba-b0e16b516271",
+          "text": "He is blue. She is purple.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9c1b88de-310d-4df2-a89a-e65cd1e6b5ad"
+      ]
+    },
+    {
+      "question_id": "3bd6fa11-49ac-441e-acc2-66a692e47940",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct words: I think you have ... pencil. ... pencil is over there. It’s next to ... backpack.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "d0a66b08-f001-44a1-ae5d-56a9a00250bb",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct words: I think you have ... pencil. ... pencil is over there. It’s next to ... backpack."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f8fcb074-247c-48f2-968a-9898255c12d4",
+          "text": "my / Your / his",
+          "is_correct": true
+        },
+        {
+          "id": "0119fb6a-72ad-49fd-b756-3b48496849ec",
+          "text": "mine / Yours / he",
+          "is_correct": false
+        },
+        {
+          "id": "915e9a11-9e8b-4b8e-9dcf-513a2bbd887c",
+          "text": "me / You / him",
+          "is_correct": false
+        },
+        {
+          "id": "78876a50-2fa1-4502-831a-bceb58947acb",
+          "text": "my / Yours / he",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f8fcb074-247c-48f2-968a-9898255c12d4"
+      ]
+    },
+    {
+      "question_id": "60f405bf-8388-4a9f-badb-060184241dff",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. Valentine’s Day. In the United States, Valentine’s Day is celebrated on February 14. Officially, the holiday is connected with the achievements of Saint Valentine, a Roman saint from the third century. However, most people in America do not usually celebrate the day through religious ceremonies. Instead, they often use the holiday as a time to show affection to a boyfriend, girlfriend, husband, wife, or someone they would like to have a romantic relationship with. Many people celebrate by giving presents, going out for a special meal, or showing love in other personal ways. Common gifts on Valentine’s Day include chocolates, flowers, and greeting cards. The colours most often associated with the holiday are red and pink. Not everyone celebrates the day romantically; many people spend it with friends or family members. Holidays similar to Valentine’s Day are celebrated in different countries around the world at different times of the year. In the United States, most people know about the holiday, but it is not a federal holiday. This means that people do not officially get a day off work for Valentine’s Day. When is Valentine’s Day celebrated in the United States?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "3c8a538e-6302-4376-99be-cf19b1d7882e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. Valentine’s Day. In the United States, Valentine’s Day is celebrated on February 14. Officially, the holiday is connected with the achievements of Saint Valentine, a Roman saint from the third century. However, most people in America do not usually celebrate the day through religious ceremonies. Instead, they often use the holiday as a time to show affection to a boyfriend, girlfriend, husband, wife, or someone they would like to have a romantic relationship with. Many people celebrate by giving presents, going out for a special meal, or showing love in other personal ways. Common gifts on Valentine’s Day include chocolates, flowers, and greeting cards. The colours most often associated with the holiday are red and pink. Not everyone celebrates the day romantically; many people spend it with friends or family members. Holidays similar to Valentine’s Day are celebrated in different countries around the world at different times of the year. In the United States, most people know about the holiday, but it is not a federal holiday. This means that people do not officially get a day off work for Valentine’s Day. When is Valentine’s Day celebrated in the United States?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "76b4bfaa-4b89-474a-8e01-200b1215372b",
+          "text": "February 1",
+          "is_correct": false
+        },
+        {
+          "id": "75845622-f850-4c15-ae0d-b931d948bdb7",
+          "text": "February 14",
+          "is_correct": true
+        },
+        {
+          "id": "258995a8-13ef-4e98-a089-601e8437270d",
+          "text": "during the whole month of February",
+          "is_correct": false
+        },
+        {
+          "id": "a9f647eb-1b5c-4e36-a717-43192b808366",
+          "text": "in March",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "75845622-f850-4c15-ae0d-b931d948bdb7"
+      ]
+    },
+    {
+      "question_id": "24fee8f7-ff06-4cc0-9291-0cdf7ca13976",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What is Valentine’s Day officially connected with?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ba964e6f-c2f8-4f51-bad9-0ce509d39a46",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is Valentine’s Day officially connected with?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b4cfa4b7-6762-4420-ac83-aeb756c7c783",
+          "text": "the achievements of Saint Valentine",
+          "is_correct": true
+        },
+        {
+          "id": "2859e914-8449-4eaa-8c53-7e47f240ce9a",
+          "text": "love in every historical period",
+          "is_correct": false
+        },
+        {
+          "id": "714c82ef-0efa-4ad9-8b90-9e026ccfaca5",
+          "text": "the enjoyment of receiving presents",
+          "is_correct": false
+        },
+        {
+          "id": "2e2d7fe8-6dc8-421f-b879-5493a862f7c2",
+          "text": "none of the answers",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b4cfa4b7-6762-4420-ac83-aeb756c7c783"
+      ]
+    },
+    {
+      "question_id": "7c6c4de8-a8ff-4906-bcd8-11c19b4a2ae7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What gifts are often given on Valentine’s Day?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "dc36c0ad-ff99-498c-8d01-5f13a4e008b6",
+          "type": "TEXT",
+          "payload": {
+            "text": "What gifts are often given on Valentine’s Day?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cf74afaa-c80f-4af5-a8c0-9192aca5e42b",
+          "text": "chocolates",
+          "is_correct": false
+        },
+        {
+          "id": "6ea88b80-101d-48a2-83bc-d5b46c0e3df2",
+          "text": "flowers",
+          "is_correct": false
+        },
+        {
+          "id": "9bc1e6aa-cb1b-458a-ab62-02bdbe9e8136",
+          "text": "greeting cards",
+          "is_correct": false
+        },
+        {
+          "id": "ebd20cfb-5866-4ca4-aac5-ce3890588d34",
+          "text": "all of the above",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "ebd20cfb-5866-4ca4-aac5-ce3890588d34"
+      ]
+    },
+    {
+      "question_id": "e6bde9b8-80e8-43b7-b3b3-1eea222e3a78",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Where are different versions of Valentine’s Day celebrated?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "79ecd9ab-b149-4a53-9743-73e7f373ddb2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where are different versions of Valentine’s Day celebrated?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "195a95bc-6833-447d-ba32-7de85c2993a7",
+          "text": "only in Europe and South America",
+          "is_correct": false
+        },
+        {
+          "id": "e64001a4-eba2-4b01-a49c-507762cee3c2",
+          "text": "only in Oceania and Western Europe",
+          "is_correct": false
+        },
+        {
+          "id": "eac06c99-7d91-4d99-9543-1cf629165e4a",
+          "text": "around the world",
+          "is_correct": true
+        },
+        {
+          "id": "d7637184-a3f2-4deb-882b-2980147789ed",
+          "text": "only in the United Kingdom",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "eac06c99-7d91-4d99-9543-1cf629165e4a"
+      ]
+    },
+    {
+      "question_id": "ceb5bf7b-7236-4a07-b914-1c74b9e0c983",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which colour is strongly associated with Valentine’s Day?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b9881036-e839-4fce-a148-1f35a491ecee",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which colour is strongly associated with Valentine’s Day?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b70a53e1-da21-4ef6-bbd1-e3b49575d461",
+          "text": "red",
+          "is_correct": true
+        },
+        {
+          "id": "c2f8188e-cc60-4f9a-b2d2-94bf7e217059",
+          "text": "green",
+          "is_correct": false
+        },
+        {
+          "id": "e95c2bc3-fafe-40d4-ac88-aaa6781ed0bb",
+          "text": "yellow",
+          "is_correct": false
+        },
+        {
+          "id": "fab31b2e-51f0-4fc4-9995-c7909fa1d3f3",
+          "text": "purple",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b70a53e1-da21-4ef6-bbd1-e3b49575d461"
+      ]
+    },
+    {
+      "question_id": "53d178a7-95a6-4f78-8ed6-94746d9a0829",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Who usually celebrates Valentine’s Day with romantic behaviour in the United States?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "702f719a-5e9d-4186-b077-11a2c4a2784e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Who usually celebrates Valentine’s Day with romantic behaviour in the United States?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3549dfe0-27c9-48ea-926e-e0aeec05cab8",
+          "text": "Chinese people",
+          "is_correct": false
+        },
+        {
+          "id": "bc5c5da4-17dc-45bd-bf7b-f61b9779ed17",
+          "text": "Americans",
+          "is_correct": true
+        },
+        {
+          "id": "fdfea953-51e7-4340-8fc2-0f0f70ab404a",
+          "text": "people honoring Saint Valentine only",
+          "is_correct": false
+        },
+        {
+          "id": "019eafdc-0ed0-4b09-a4bd-eec7dd225dca",
+          "text": "ancient Romans",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bc5c5da4-17dc-45bd-bf7b-f61b9779ed17"
+      ]
+    },
+    {
+      "question_id": "1f06306c-12b9-4ca8-afb3-f8bc70a7f592",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Who was Saint Valentine according to the text?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a6dd718c-0b78-4b16-8b7e-14d82be0276d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Who was Saint Valentine according to the text?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7c9d9902-7d40-482b-854b-e3857e56f34d",
+          "text": "a Roman saint from the third century",
+          "is_correct": true
+        },
+        {
+          "id": "d716f80c-2e06-4082-88eb-e1ea97894f30",
+          "text": "the name of the holiday itself",
+          "is_correct": false
+        },
+        {
+          "id": "04358891-ce46-4e45-9c55-ae1efdc35bd0",
+          "text": "a Roman city",
+          "is_correct": false
+        },
+        {
+          "id": "4090931c-ad50-4f3d-85e9-a14717561e9c",
+          "text": "Saint Patrick",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7c9d9902-7d40-482b-854b-e3857e56f34d"
+      ]
+    },
+    {
+      "question_id": "0b737e0f-30c7-4a1f-91c7-684906624711",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Many people spend Valentine’s Day with their _____.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "60dab9ec-ce3a-4c10-983b-5b27aa05304b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Many people spend Valentine’s Day with their _____."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8ab66d8a-76bb-4be7-9a64-aae685a3542d",
+          "text": "family members",
+          "is_correct": true
+        },
+        {
+          "id": "9eadeb2d-b4b9-428f-a7ca-44b2c6091ded",
+          "text": "nobody",
+          "is_correct": false
+        },
+        {
+          "id": "e4571c79-3177-4e45-8508-5bca7b00207d",
+          "text": "Christmas tree",
+          "is_correct": false
+        },
+        {
+          "id": "999a1c3f-3684-47fc-95c7-b61f2ab65104",
+          "text": "television only",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8ab66d8a-76bb-4be7-9a64-aae685a3542d"
+      ]
+    },
+    {
+      "question_id": "8f49a7c8-62ca-4235-bf7e-d464c76b26ac",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Is Valentine’s Day a federal holiday in the United States?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "9558314d-bfe8-4fb5-afb2-956757ce850a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Is Valentine’s Day a federal holiday in the United States?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "63771b54-563f-4d3b-838f-1ad68113e678",
+          "text": "No, it is not federally recognized",
+          "is_correct": true
+        },
+        {
+          "id": "43d6f3de-623a-4f66-b3d4-372f4617f3e4",
+          "text": "Yes, everyone gets a day off work",
+          "is_correct": false
+        },
+        {
+          "id": "bc2b1815-22a4-47b8-82ec-5d7555392b43",
+          "text": "Yes, but only students celebrate it",
+          "is_correct": false
+        },
+        {
+          "id": "de5f5130-b45f-4328-b7c5-2e959d3d7a6b",
+          "text": "No, because nobody knows about it",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "63771b54-563f-4d3b-838f-1ad68113e678"
+      ]
+    },
+    {
+      "question_id": "48a2c5cb-aca9-4ba4-94e3-7411f5ac80f1",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What do many people do to show affection on Valentine’s Day?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4f01997f-8839-49ec-800e-777a039c3d20",
+          "type": "TEXT",
+          "payload": {
+            "text": "What do many people do to show affection on Valentine’s Day?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1a70409a-cdf7-498d-9b62-3225b1fbf3e8",
+          "text": "give gifts or have special dinners",
+          "is_correct": true
+        },
+        {
+          "id": "864ae653-39e8-4633-8a22-edd18dcc69f3",
+          "text": "close all schools for a week",
+          "is_correct": false
+        },
+        {
+          "id": "fe7a2c53-2a57-459e-8817-134e7f40d923",
+          "text": "decorate a Christmas tree",
+          "is_correct": false
+        },
+        {
+          "id": "694a29aa-1f4e-44d9-9f3d-6fafc7bf6e69",
+          "text": "travel only to Rome",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1a70409a-cdf7-498d-9b62-3225b1fbf3e8"
+      ]
+    },
+    {
+      "question_id": "133935f2-b748-4a29-970e-5c789d8ed72b",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Выберите верное определение категории «пафос».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e1f93db2-a7b8-4667-a185-1c10e5512a38",
+          "type": "TEXT",
+          "payload": {
+            "text": "Выберите верное определение категории «пафос»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c3f66520-04c5-4e33-90fe-8e2521d64bc9",
+          "text": "положение, которое ритор должен аргументировать",
+          "is_correct": false
+        },
+        {
+          "id": "e91946cc-5a03-4ea7-8999-4948c96ee922",
+          "text": "правила речевого поведения деловых людей",
+          "is_correct": false
+        },
+        {
+          "id": "e6364080-1922-4a2b-9169-f476d37fd842",
+          "text": "направленность эмоций, воли и разума на достижение результата речи",
+          "is_correct": true
+        },
+        {
+          "id": "376ecb22-9f0f-467a-b10d-9e9e7ea6c33f",
+          "text": "совокупность этических правил и условий ведения речи",
+          "is_correct": false
+        },
+        {
+          "id": "18dc869b-eb69-4ffc-b5ee-c91ee14e179b",
+          "text": "ложное утверждение, имеющее якобы правильную форму",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e6364080-1922-4a2b-9169-f476d37fd842"
+      ]
+    },
+    {
+      "question_id": "5987be69-1bb8-4b05-8781-58ccfe244919",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Цицерон формулировал этапы работы над риторически грамотным текстом: найти, что сказать; расположить по порядку; придать словесную форму; запомнить; произнести. Выберите верное определение этапа «инвенция».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b6e9da0e-de8b-484f-af6b-d77968242214",
+          "type": "TEXT",
+          "payload": {
+            "text": "Цицерон формулировал этапы работы над риторически грамотным текстом: найти, что сказать; расположить по порядку; придать словесную форму; запомнить; произнести. Выберите верное определение этапа «инвенция»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1cc78870-04ed-4ab7-bfd3-fa3741e1c56d",
+          "text": "отбор содержания из источников для будущего выступления",
+          "is_correct": true
+        },
+        {
+          "id": "0dec1232-f461-4e2c-8168-2d6aa8d14f16",
+          "text": "словесное выражение отобранного и скомпонованного материала",
+          "is_correct": false
+        },
+        {
+          "id": "3f52c3f2-6efe-4e70-8d4e-4afeb3c5a2d4",
+          "text": "расположение отобранного материала",
+          "is_correct": false
+        },
+        {
+          "id": "d997e516-ce36-4dfd-b2b1-1217477e3926",
+          "text": "авторское разыгрывание речи на публике",
+          "is_correct": false
+        },
+        {
+          "id": "a2614bb7-54bb-464c-a33f-7e9cfaf3e2c8",
+          "text": "запоминание основных положений текста речи",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1cc78870-04ed-4ab7-bfd3-fa3741e1c56d"
+      ]
+    },
+    {
+      "question_id": "ee886ae9-bf64-4511-81e8-088044f09c6f",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Выберите верное определение этапа «диспозиция».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a500a45a-3be7-45ec-814a-9faf444e8460",
+          "type": "TEXT",
+          "payload": {
+            "text": "Выберите верное определение этапа «диспозиция»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1bfb2a93-7f99-4e0f-a83f-2fdc61e92c93",
+          "text": "словесное выражение отобранного и скомпонованного материала",
+          "is_correct": false
+        },
+        {
+          "id": "7ab347bc-ab47-48db-b9db-0daaf03f2b91",
+          "text": "отбор содержания из источников для будущего выступления",
+          "is_correct": false
+        },
+        {
+          "id": "357323e6-84ab-4a63-99eb-af83c00434d6",
+          "text": "расположение отобранного материала",
+          "is_correct": true
+        },
+        {
+          "id": "d2dd2799-4800-4984-bb98-afed610179e9",
+          "text": "запоминание основных положений текста речи",
+          "is_correct": false
+        },
+        {
+          "id": "a0e20415-54cc-4d41-90b9-98e0e5abe9ee",
+          "text": "авторское разыгрывание речи на публике",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "357323e6-84ab-4a63-99eb-af83c00434d6"
+      ]
+    },
+    {
+      "question_id": "a6fcc5bb-3c88-452b-91d0-7254439e6b30",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что наиболее общего между ними.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f8255c1e-046b-4c20-9412-45c32bbfb97a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что наиболее общего между ними."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "9181c2e5-9525-431d-a408-55617bc9d6aa",
+          "text": "Акцент поставлен на роли целеполагания, результата в экономической жизни человека",
+          "is_correct": true
+        },
+        {
+          "id": "99ad07d2-df97-456e-971f-118af5b54737",
+          "text": "Общее то, что речь идет о сущности «экономического человека»",
+          "is_correct": false
+        },
+        {
+          "id": "e76f4355-e903-4e63-a0d5-09b314525fe3",
+          "text": "Общее то, что прямо или косвенно речь идет о богатстве как цели",
+          "is_correct": false
+        },
+        {
+          "id": "6a82adbe-db82-4ecc-8ec7-715e1576c7d0",
+          "text": "Акцент поставлен на том, что политическая экономия изучает поведение человека",
+          "is_correct": false
+        },
+        {
+          "id": "ffb52d0d-c85a-4318-b32f-ee8a6a2193b0",
+          "text": "Акцент поставлен на полезности богатства как цели в экономике",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9181c2e5-9525-431d-a408-55617bc9d6aa"
+      ]
+    },
+    {
+      "question_id": "a0d7b247-1496-417b-ad8b-44a00782fc8e",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что кардинально их отличает.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "da2b4c34-d26c-485f-bd9d-3ddfb01026d3",
+          "type": "TEXT",
+          "payload": {
+            "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что кардинально их отличает."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4c1d14e0-c57c-4e3d-a374-d9b03952616f",
+          "text": "У Милля речь о политэкономии как науке о человеке, стремящемся к богатству, а у Вебера акцент на возможности научного исследования соответствия средств поставленной экономической цели",
+          "is_correct": true
+        },
+        {
+          "id": "52156e20-d54f-4ef1-815f-cb50d760fc22",
+          "text": "Кардинальное отличие состоит в том, что у Милля речь идет о богатстве как благе, а у Вебера — о ценностях и роли средств их достижения",
+          "is_correct": false
+        },
+        {
+          "id": "76b360de-3188-451f-b753-5db5f3d654e0",
+          "text": "Милль писал конкретно о политической экономии как науке, а Вебер упоминает в общем виде некое «научное исследование»",
+          "is_correct": false
+        },
+        {
+          "id": "4fdb4eae-0274-4bf5-adbe-bae3dd730fd3",
+          "text": "Кардинальное отличие состоит в том, что у Милля речь идет о сущности «экономического человека», а у Вебера — о целях и ценностях",
+          "is_correct": false
+        },
+        {
+          "id": "d131f594-d485-4bda-a39b-2c6634e073e6",
+          "text": "У Милля акцент на том, что политическая экономия изучает поведение человека, а у Вебера научное исследование изначально телеономично",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4c1d14e0-c57c-4e3d-a374-d9b03952616f"
+      ]
+    },
+    {
+      "question_id": "ef628990-91b9-4980-860c-78895897ca53",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "x + y = 1 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "3e688a16-73f7-4b3b-b40e-43f8d08b752a",
+          "type": "TEXT",
+          "payload": {
+            "text": "x + y = 1 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3be17bf6-051d-4e79-a3d4-0a062478768b",
+          "text": "(3; −2)",
+          "is_correct": false
+        },
+        {
+          "id": "3e432b47-cf0d-4c2e-8268-99b2b7bcc9c8",
+          "text": "(1; 0)",
+          "is_correct": true
+        },
+        {
+          "id": "6f4bc028-cef2-4dc3-a7bc-7876f4855c62",
+          "text": "(5; −4)",
+          "is_correct": false
+        },
+        {
+          "id": "3bff2fe2-e788-4971-93d0-8c0511f4fa75",
+          "text": "(−1; 1)",
+          "is_correct": false
+        },
+        {
+          "id": "06e2e3ef-3150-4494-8c50-31d2a0b4ddf6",
+          "text": "(3; −3)",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3e432b47-cf0d-4c2e-8268-99b2b7bcc9c8"
+      ]
+    },
+    {
+      "question_id": "ede684e3-8cf3-4a54-b94c-00d9c4868141",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e838ae7a-a000-467d-88fd-3a4c151f1d3c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d1211dec-ebc4-4e80-9f51-751cb63f9580",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "id": "956afd3c-f4f2-495c-a662-754ee6ddbddb",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "id": "4cd837bf-c0d4-4e38-849b-86e66aaf3d88",
+          "text": "48",
+          "is_correct": false
+        },
+        {
+          "id": "1baef968-2f41-4856-9b14-84df3165d075",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "id": "83f08b56-3695-4b80-a31b-c71adab74dd3",
+          "text": "28",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "956afd3c-f4f2-495c-a662-754ee6ddbddb"
+      ]
+    },
+    {
+      "question_id": "1a6fbb9c-faf2-426e-ba15-50714c333c95",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b9439632-8c3c-44e6-9bd8-28f6d054066f",
+          "type": "TEXT",
+          "payload": {
+            "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "9c6898ab-1ec7-49b6-9827-f0ba5c6525fe",
+          "text": "Функция барлық нақты x мәндері үшін анықталған",
+          "is_correct": false
+        },
+        {
+          "id": "5cd7217b-fe08-4923-9c36-6413eff41a08",
+          "text": "Функция кемімелі",
+          "is_correct": false
+        },
+        {
+          "id": "d1e45b87-bc86-4891-a5f7-07b571c23ff9",
+          "text": "График (0; 1) нүктесінен өтеді",
+          "is_correct": false
+        },
+        {
+          "id": "7c858e6e-5713-4095-8667-be805104094c",
+          "text": "График (1; 0) және (2; 1) нүктелерінен өтеді",
+          "is_correct": true
+        },
+        {
+          "id": "bd3e6d89-9f0e-4d66-a7d2-7c32c0ecaa27",
+          "text": "График y осін қиып өтеді",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7c858e6e-5713-4095-8667-be805104094c"
+      ]
+    },
+    {
+      "question_id": "0fbec97d-6ee3-429d-9f85-62ed03817c97",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Температура воздуха в мае 20°. В июне на 5° больше, чем в мае. В октябре меньше всего. В июле на 6° больше, чем в июне. Сколько градусов в июле?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "863d72fc-4d12-4eae-8f45-f655fed133cf",
+          "type": "TEXT",
+          "payload": {
+            "text": "Температура воздуха в мае 20°. В июне на 5° больше, чем в мае. В октябре меньше всего. В июле на 6° больше, чем в июне. Сколько градусов в июле?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2eae3200-b8a8-4db5-a0b7-45eafe88a573",
+          "text": "19°",
+          "is_correct": false
+        },
+        {
+          "id": "4ecf8c97-c0e6-4dd9-9c88-37e342b250b1",
+          "text": "25°",
+          "is_correct": false
+        },
+        {
+          "id": "ea336698-2609-4e95-83ae-c3e1ae2a5e11",
+          "text": "18°",
+          "is_correct": false
+        },
+        {
+          "id": "d8e688d8-3310-41b7-82b5-c96095874747",
+          "text": "31°",
+          "is_correct": true
+        },
+        {
+          "id": "8ef636f0-bdf5-4d94-81de-1c0e4b9223a9",
+          "text": "15°",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d8e688d8-3310-41b7-82b5-c96095874747"
+      ]
+    },
+    {
+      "question_id": "1a3c6ac1-e0c1-47d5-909e-7c317d70d4af",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Запишите наибольшее целое значение a, если 14,3 < a < 17,2.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f524ebdf-f292-4628-8c04-94f2367ddc6c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Запишите наибольшее целое значение a, если 14,3 < a < 17,2."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "dddd39bf-b222-43d3-a934-8ab8a960ab7b",
+          "text": "17",
+          "is_correct": true
+        },
+        {
+          "id": "29a8eb8e-9ce6-446b-8933-aeb143da380c",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "id": "ef26ab1a-6a3f-4f5b-9b7c-99fbe3686fe2",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "id": "f19fd004-142c-49db-a8fb-4ce857180e49",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "id": "8438a834-a17a-46fc-8a6e-f4b0a3c9e68f",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "dddd39bf-b222-43d3-a934-8ab8a960ab7b"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 33,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "002fbbe6-15a9-403c-8ce4-5f39ed313ae7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is the main idea of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "ae297628-1476-469e-8666-1da13f2391e8",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is the main idea of the audio?"
+            },
+            "position": 1
+          },
+          {
+            "id": "75f7245d-876b-4d3b-8a9c-7fdb7a1d2e4c",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "aa48b10f-7ee5-44bb-a915-3d11777f45d1",
+            "text": "Success always means becoming rich.",
+            "is_correct": false
+          },
+          {
+            "id": "5e139e82-be07-46af-a2bb-c82c2149f2c2",
+            "text": "Success depends only on wearing the right clothes.",
+            "is_correct": false
+          },
+          {
+            "id": "c0b5c763-f7e5-447f-8c50-8b270f9ad3e0",
+            "text": "Success can mean different things and requires self-knowledge, planning, and hard work.",
+            "is_correct": true
+          },
+          {
+            "id": "37800f1d-0090-4718-9e95-4a3422324437",
+            "text": "Success is mostly about luck.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c0b5c763-f7e5-447f-8c50-8b270f9ad3e0"
+        ]
+      },
+      {
+        "question_id": "f6cc1ab8-b622-4dc2-9c38-d67b87b7d9ba",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "According to the audio, what may help someone succeed in a traditional corporate environment? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "39d8a776-8fe6-46ec-8dc5-594b790fb89b",
+            "type": "TEXT",
+            "payload": {
+              "text": "According to the audio, what may help someone succeed in a traditional corporate environment?"
+            },
+            "position": 1
+          },
+          {
+            "id": "393656ac-3c38-42e1-abf8-166827afba01",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "204eb0cd-0eda-4274-aa44-34bb8e593b7a",
+            "text": "Wearing the latest creative fashions.",
+            "is_correct": false
+          },
+          {
+            "id": "fd798433-a467-420d-9aa6-2e090488c5c3",
+            "text": "Wearing business clothing like a suit.",
+            "is_correct": true
+          },
+          {
+            "id": "973d909e-959c-4d4a-a427-20144ebb480f",
+            "text": "Avoiding all planning.",
+            "is_correct": false
+          },
+          {
+            "id": "9487784d-8e03-4cb9-8e13-5be4ef8d5da9",
+            "text": "Writing a book overnight.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "fd798433-a467-420d-9aa6-2e090488c5c3"
+        ]
+      },
+      {
+        "question_id": "9c7a4bec-2139-48cf-b880-a8787b202654",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does the expression “dress for success” mean in the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "edcdebbc-3e28-4473-b4e6-cfd66f0a6e8d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does the expression “dress for success” mean in the audio?"
+            },
+            "position": 1
+          },
+          {
+            "id": "553ba5d0-e219-4a64-9005-f5ed9014cb49",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "858a53f5-b406-4358-b82f-affa413e80cd",
+            "text": "Wear the most expensive clothes possible.",
+            "is_correct": false
+          },
+          {
+            "id": "aa217ffb-8e78-4141-8c90-bf5d362403ce",
+            "text": "Dress only for comfort.",
+            "is_correct": false
+          },
+          {
+            "id": "d83357fe-eaf4-45dd-ac36-014d1f1e21b5",
+            "text": "Dress in a way that matches your professional goals.",
+            "is_correct": true
+          },
+          {
+            "id": "050633d5-aba3-4e75-888e-ddbc7a16d976",
+            "text": "Wear the same clothes every day.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d83357fe-eaf4-45dd-ac36-014d1f1e21b5"
+        ]
+      },
+      {
+        "question_id": "9fee682a-f114-4fdf-94bc-834dfa0f9c21",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is an “overnight success”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "74257c74-41b6-44e6-af23-b40ab3fe69cd",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is an “overnight success”?"
+            },
+            "position": 1
+          },
+          {
+            "id": "b5891e46-7c7d-42c5-90f4-0b905f2f5ccd",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d678af03-f899-4d20-b581-dccb46876abe",
+            "text": "Someone who succeeds only while working at night.",
+            "is_correct": false
+          },
+          {
+            "id": "ecdf7ab4-3291-4de9-8186-f783a3f5fbeb",
+            "text": "Someone who becomes successful because of good clothes.",
+            "is_correct": false
+          },
+          {
+            "id": "504ea72a-0aa0-427b-a8d9-7e79cb9dc71c",
+            "text": "Someone who seems to become successful very suddenly.",
+            "is_correct": true
+          },
+          {
+            "id": "fd75ac81-a6f6-42f3-82f1-b76d99a7df4d",
+            "text": "Someone who plans every step carefully.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "504ea72a-0aa0-427b-a8d9-7e79cb9dc71c"
+        ]
+      },
+      {
+        "question_id": "024cba00-3ddf-485a-9f93-2c0597c99740",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does the audio say people often do not see? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "ade7209d-3236-4963-af64-213354172414",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does the audio say people often do not see?"
+            },
+            "position": 1
+          },
+          {
+            "id": "a44ba1da-5b6e-463d-97e5-a799f0b798b0",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "c853c772-7280-454b-bdc1-1e7578af8024",
+            "text": "The final result of a successful project.",
+            "is_correct": false
+          },
+          {
+            "id": "d4442c96-c502-4d9d-91b8-ca4f8a8690c4",
+            "text": "The hard work behind a successful project.",
+            "is_correct": true
+          },
+          {
+            "id": "4790633b-7b58-4ef8-9f15-9fa49be72613",
+            "text": "The clothes people wear at work.",
+            "is_correct": false
+          },
+          {
+            "id": "839ad7b6-5e66-49e0-b510-10b1fa270eb6",
+            "text": "The road on a map.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d4442c96-c502-4d9d-91b8-ca4f8a8690c4"
+        ]
+      },
+      {
+        "question_id": "d5291f03-9093-46ad-a95a-e8b9afc42cb7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “if you fail to plan, you plan to fail” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "f27a7602-21c3-45c0-8c55-a311b1ba208e",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “if you fail to plan, you plan to fail” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "1170fa4d-79e9-4ed8-8130-407841bfaba5",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "8debcd8b-2ee2-4bde-aa22-9049b99d0c8a",
+            "text": "Planning is useless if you are talented.",
+            "is_correct": false
+          },
+          {
+            "id": "9cc67bb5-6f26-4e2d-87fe-2c3039263453",
+            "text": "Failure is always part of success.",
+            "is_correct": false
+          },
+          {
+            "id": "3f0f96e3-0404-4d26-bddb-c23aff4fc066",
+            "text": "Without a plan, you are more likely to fail.",
+            "is_correct": true
+          },
+          {
+            "id": "32474e0c-9bea-48d2-9174-6af37f9ec75a",
+            "text": "A plan guarantees success.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3f0f96e3-0404-4d26-bddb-c23aff4fc066"
+        ]
+      },
+      {
+        "question_id": "f77fc7a6-b208-4b3b-998e-ec6cd5f57844",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does the expression “roads are paved with gold” suggest? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "7eebc44c-bb83-42ab-ac3f-1d337a5ba476",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does the expression “roads are paved with gold” suggest?"
+            },
+            "position": 1
+          },
+          {
+            "id": "3554ee42-5c84-41e8-b8d0-91a39b9dedb9",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "ec0cb2ab-0c74-4d81-b6bf-5bbff4503484",
+            "text": "A road is physically covered with gold.",
+            "is_correct": false
+          },
+          {
+            "id": "10d65006-8021-4124-aa63-f98197237215",
+            "text": "A place is dangerous and difficult to reach.",
+            "is_correct": false
+          },
+          {
+            "id": "4b411db6-7d85-42a3-b70e-f13339bc69f2",
+            "text": "Success or financial wealth is easy to find there.",
+            "is_correct": true
+          },
+          {
+            "id": "fcd080a2-9542-4540-8acb-9c05223dc6d9",
+            "text": "Success is impossible without money.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4b411db6-7d85-42a3-b70e-f13339bc69f2"
+        ]
+      },
+      {
+        "question_id": "ee218028-b282-4220-8ac0-1467bdcc801f",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why can failures be part of the road to success? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "60ec751d-a426-4c65-9013-c07a3b183225",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why can failures be part of the road to success?"
+            },
+            "position": 1
+          },
+          {
+            "id": "18a5e821-393a-41eb-b754-74e015a2b7d2",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "a22b90ed-9c12-454b-b4f7-13704125966e",
+            "text": "Failures always stop people from succeeding.",
+            "is_correct": false
+          },
+          {
+            "id": "d50fbea6-eb30-4a18-995d-1b3bf9bfb819",
+            "text": "Failures make people famous overnight.",
+            "is_correct": false
+          },
+          {
+            "id": "8a41cc28-e9fd-4c17-8c30-0f90f7e0c649",
+            "text": "People can learn from failures and use them to succeed.",
+            "is_correct": true
+          },
+          {
+            "id": "0a9509f2-227d-4792-a5f2-19a7ac043d3b",
+            "text": "Failures are more important than hard work.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8a41cc28-e9fd-4c17-8c30-0f90f7e0c649"
+        ]
+      },
+      {
+        "question_id": "b3098bf5-8ec3-482e-a582-8c6d6e510b0a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Which expression means that someone is doing very well? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "multiple_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "ea8f627c-3a34-40bf-9bb9-5d6b8985f661",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which expression means that someone is doing very well?"
+            },
+            "position": 1
+          },
+          {
+            "id": "09367f75-a051-43a3-afd8-8f2e327bc25d",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "084977a7-aa4e-4416-a557-764d8760aef8",
+            "text": "You are riding high.",
+            "is_correct": true
+          },
+          {
+            "id": "843dd121-0da7-43ff-b443-8d6c1f61ee30",
+            "text": "You are killing it.",
+            "is_correct": true
+          },
+          {
+            "id": "c35806e7-a75c-415a-8f13-c11d272dc572",
+            "text": "You are golden.",
+            "is_correct": true
+          },
+          {
+            "id": "e0cfa2e4-c61f-4c53-80e8-69141292fd74",
+            "text": "You fail to plan.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "084977a7-aa4e-4416-a557-764d8760aef8",
+          "843dd121-0da7-43ff-b443-8d6c1f61ee30",
+          "c35806e7-a75c-415a-8f13-c11d272dc572"
+        ]
+      },
+      {
+        "question_id": "995c5670-3da2-4049-aa88-aea2ff9e33be",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does it mean to become “a victim of your own success”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "93fa7877-ba62-4272-8ddf-2d87a070845d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does it mean to become “a victim of your own success”?"
+            },
+            "position": 1
+          },
+          {
+            "id": "00195351-ece4-4608-bdb0-b973a2fefdd6",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/1a44a9b238eb4944aea57a3dc9442b22.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/36dad1ce-254b-490a-94cf-e785029ce92a.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d5b62944-6831-4874-bcd6-d02d61e51be4",
+            "text": "You failed because you were not successful enough.",
+            "is_correct": false
+          },
+          {
+            "id": "f9adce6a-dcf6-4dd8-a395-8b2575ee8fa1",
+            "text": "You became successful only by luck.",
+            "is_correct": false
+          },
+          {
+            "id": "1262fe09-cc05-42ee-b26d-7b278dfb7318",
+            "text": "You start having problems because of your success.",
+            "is_correct": true
+          },
+          {
+            "id": "fd1b39e9-6897-46aa-b147-6b0487790bc3",
+            "text": "You lost your job because of failure.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1262fe09-cc05-42ee-b26d-7b278dfb7318"
+        ]
+      },
+      {
+        "question_id": "258d1a38-a384-4f9e-9332-db127afe5f97",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct phrase: Napping on the beach never gets boring for Alice and ...",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "02eb1664-8299-492d-8e46-ba50c71e3b76",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct phrase: Napping on the beach never gets boring for Alice and ..."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "61f55501-528a-4b51-bec4-e2eaecd53413",
+            "text": "I",
+            "is_correct": false
+          },
+          {
+            "id": "1db852ea-d7be-44ee-9ef9-9f5022c9447c",
+            "text": "me",
+            "is_correct": true
+          },
+          {
+            "id": "679b07c2-17e6-44be-9ab2-2ccd9ebf6797",
+            "text": "my",
+            "is_correct": false
+          },
+          {
+            "id": "32d9717d-ebc3-4dc2-8df3-1217e6ece809",
+            "text": "mine",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1db852ea-d7be-44ee-9ef9-9f5022c9447c"
+        ]
+      },
+      {
+        "question_id": "d1de71a3-9d9b-4ead-a819-662398326532",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct phrase: I am going to the comedy club with Yolanda and ...",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "a871c1e8-4f2e-439e-b2b8-2863a8eef563",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct phrase: I am going to the comedy club with Yolanda and ..."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "29ea38c6-6962-4aa0-a05b-31fff46e8ed3",
+            "text": "she",
+            "is_correct": false
+          },
+          {
+            "id": "1cf19d86-9989-49c8-96bd-c1b14b553f56",
+            "text": "her",
+            "is_correct": true
+          },
+          {
+            "id": "b564331f-1edd-4fe6-9c71-353f2f0fceec",
+            "text": "hers",
+            "is_correct": false
+          },
+          {
+            "id": "17f74a19-676d-4244-972b-9326249e80a1",
+            "text": "herself",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1cf19d86-9989-49c8-96bd-c1b14b553f56"
+        ]
+      },
+      {
+        "question_id": "e0b31bdc-ef15-4364-af8b-5048617200ed",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "69c5306e-1641-4780-a851-68f45b2930be",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e16a8866-bbbe-4bac-8de6-87eb7932d242",
+            "text": "The cooking instructor taught she and I a lot.",
+            "is_correct": false
+          },
+          {
+            "id": "27f9d31b-38ad-4b3a-9a0a-42c14b0f5c00",
+            "text": "The cooking instructor taught her and I a lot.",
+            "is_correct": false
+          },
+          {
+            "id": "225a0582-a45f-4c55-8a8e-9226d387edf0",
+            "text": "The cooking instructor taught her and me a lot.",
+            "is_correct": true
+          },
+          {
+            "id": "d9e92b88-c5a3-4432-87d9-b1b048098461",
+            "text": "The cooking instructor taught hers and mine a lot.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "225a0582-a45f-4c55-8a8e-9226d387edf0"
+        ]
+      },
+      {
+        "question_id": "efaff7ed-43a4-4c6c-982b-63e5ebefdab6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct possessive adjective: When Jackie enrolled in high school, ... siblings encouraged him to get involved in sports.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b34fa256-7d93-4890-b275-b854721424bc",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct possessive adjective: When Jackie enrolled in high school, ... siblings encouraged him to get involved in sports."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c47c316c-df57-4916-93d7-654c3eb5960a",
+            "text": "his",
+            "is_correct": true
+          },
+          {
+            "id": "6ed6bd58-6ded-4764-a9d0-e03c6e96d96c",
+            "text": "her",
+            "is_correct": false
+          },
+          {
+            "id": "04cab585-3103-4fb0-bc14-7ba0fca5d15b",
+            "text": "its",
+            "is_correct": false
+          },
+          {
+            "id": "ea3bdd33-8442-4f71-a9e8-ae764c6b87f8",
+            "text": "their",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c47c316c-df57-4916-93d7-654c3eb5960a"
+        ]
+      },
+      {
+        "question_id": "8217f365-f59b-46cb-a233-2077b504c95e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct possessive adjective: Jackie’s mother moved ... children to California.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9fbc585c-ddc2-448e-88bf-cebd87e8873f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct possessive adjective: Jackie’s mother moved ... children to California."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bf32958b-a22d-4052-a124-aac2303afccc",
+            "text": "his",
+            "is_correct": false
+          },
+          {
+            "id": "c83f78d8-230d-40e2-8559-28ed2066cc28",
+            "text": "her",
+            "is_correct": true
+          },
+          {
+            "id": "aca4c0f5-2b41-4ec9-83df-be90a2b38949",
+            "text": "its",
+            "is_correct": false
+          },
+          {
+            "id": "fca8ddd1-eb0c-4105-8ddc-9c0218ffb345",
+            "text": "their",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c83f78d8-230d-40e2-8559-28ed2066cc28"
+        ]
+      },
+      {
+        "question_id": "8f314fe5-ab06-481d-939e-eb37f013e504",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct possessive adjective: While the Dodgers have moved from Brooklyn to Los Angeles, ... team colors have not changed.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "b9091454-c656-45b0-9813-3018eb11e297",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct possessive adjective: While the Dodgers have moved from Brooklyn to Los Angeles, ... team colors have not changed."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "17f88818-a3b4-4e5e-991f-9ccc906771f2",
+            "text": "his",
+            "is_correct": false
+          },
+          {
+            "id": "f14c0462-c369-4114-b27f-9a1d808a19d8",
+            "text": "her",
+            "is_correct": false
+          },
+          {
+            "id": "76df0830-4743-4cec-876c-a5a6c885826f",
+            "text": "its",
+            "is_correct": true
+          },
+          {
+            "id": "1de7fa5b-2a8f-42cb-bedc-a9f381e14a16",
+            "text": "their",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "76df0830-4743-4cec-876c-a5a6c885826f"
+        ]
+      },
+      {
+        "question_id": "96a804b9-3070-41d4-a5d1-8d122adc012a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct possessive adjective: Some players were physically and verbally violent. ... actions injured Jackie’s leg.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "76ea1ec4-afdb-4fc9-83d8-551181849781",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct possessive adjective: Some players were physically and verbally violent. ... actions injured Jackie’s leg."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "683d79e0-c882-4ce2-a4ca-5fb0ba3ba65f",
+            "text": "his",
+            "is_correct": false
+          },
+          {
+            "id": "ee7259d8-e2ec-4a21-bee1-8610cecd1eb9",
+            "text": "her",
+            "is_correct": false
+          },
+          {
+            "id": "283d25f2-41a2-4aaa-8410-f4eac6f26844",
+            "text": "its",
+            "is_correct": false
+          },
+          {
+            "id": "1fd34910-1c6e-4b37-bd45-0ff58cd73f25",
+            "text": "their",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "1fd34910-1c6e-4b37-bd45-0ff58cd73f25"
+        ]
+      },
+      {
+        "question_id": "b56c264a-913b-42de-9072-6d537c4b7c23",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct possessive pronouns: This is my book. Your book is over there.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e2d778c1-37d6-4841-a021-d6deb090570a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct possessive pronouns: This is my book. Your book is over there."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "36a6a143-d6e9-4e62-8210-8cd99800ea85",
+            "text": "This is mine. Yours is over there.",
+            "is_correct": true
+          },
+          {
+            "id": "5c1acdd3-63ca-4886-b245-2935a2064257",
+            "text": "This is my. Your is over there.",
+            "is_correct": false
+          },
+          {
+            "id": "a77a6ee4-4176-4f56-96b0-242c097dae2e",
+            "text": "This is me. You is over there.",
+            "is_correct": false
+          },
+          {
+            "id": "c97f767e-eba0-4617-9766-31d01c0ff3b7",
+            "text": "This is mine. Your is over there.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "36a6a143-d6e9-4e62-8210-8cd99800ea85"
+        ]
+      },
+      {
+        "question_id": "d530a2e6-b7d3-4d54-8bb9-bd4249e13472",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct possessive pronouns: His pen is blue. Her pen is purple.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "bb73d89c-f79f-47e9-99b6-780b83d00189",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct possessive pronouns: His pen is blue. Her pen is purple."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3f85e2db-2ed4-420c-8864-03b45def8d14",
+            "text": "His pen is blue. Her is purple.",
+            "is_correct": false
+          },
+          {
+            "id": "9c1b88de-310d-4df2-a89a-e65cd1e6b5ad",
+            "text": "His is blue. Hers is purple.",
+            "is_correct": true
+          },
+          {
+            "id": "5455e1fe-6da9-497d-850f-ab5f17d329c6",
+            "text": "Him is blue. Her is purple.",
+            "is_correct": false
+          },
+          {
+            "id": "6df633ad-0179-44e8-9fba-b0e16b516271",
+            "text": "He is blue. She is purple.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9c1b88de-310d-4df2-a89a-e65cd1e6b5ad"
+        ]
+      },
+      {
+        "question_id": "3bd6fa11-49ac-441e-acc2-66a692e47940",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct words: I think you have ... pencil. ... pencil is over there. It’s next to ... backpack.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "d0a66b08-f001-44a1-ae5d-56a9a00250bb",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct words: I think you have ... pencil. ... pencil is over there. It’s next to ... backpack."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f8fcb074-247c-48f2-968a-9898255c12d4",
+            "text": "my / Your / his",
+            "is_correct": true
+          },
+          {
+            "id": "0119fb6a-72ad-49fd-b756-3b48496849ec",
+            "text": "mine / Yours / he",
+            "is_correct": false
+          },
+          {
+            "id": "915e9a11-9e8b-4b8e-9dcf-513a2bbd887c",
+            "text": "me / You / him",
+            "is_correct": false
+          },
+          {
+            "id": "78876a50-2fa1-4502-831a-bceb58947acb",
+            "text": "my / Yours / he",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f8fcb074-247c-48f2-968a-9898255c12d4"
+        ]
+      },
+      {
+        "question_id": "60f405bf-8388-4a9f-badb-060184241dff",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. Valentine’s Day. In the United States, Valentine’s Day is celebrated on February 14. Officially, the holiday is connected with the achievements of Saint Valentine, a Roman saint from the third century. However, most people in America do not usually celebrate the day through religious ceremonies. Instead, they often use the holiday as a time to show affection to a boyfriend, girlfriend, husband, wife, or someone they would like to have a romantic relationship with. Many people celebrate by giving presents, going out for a special meal, or showing love in other personal ways. Common gifts on Valentine’s Day include chocolates, flowers, and greeting cards. The colours most often associated with the holiday are red and pink. Not everyone celebrates the day romantically; many people spend it with friends or family members. Holidays similar to Valentine’s Day are celebrated in different countries around the world at different times of the year. In the United States, most people know about the holiday, but it is not a federal holiday. This means that people do not officially get a day off work for Valentine’s Day. When is Valentine’s Day celebrated in the United States?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "3c8a538e-6302-4376-99be-cf19b1d7882e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. Valentine’s Day. In the United States, Valentine’s Day is celebrated on February 14. Officially, the holiday is connected with the achievements of Saint Valentine, a Roman saint from the third century. However, most people in America do not usually celebrate the day through religious ceremonies. Instead, they often use the holiday as a time to show affection to a boyfriend, girlfriend, husband, wife, or someone they would like to have a romantic relationship with. Many people celebrate by giving presents, going out for a special meal, or showing love in other personal ways. Common gifts on Valentine’s Day include chocolates, flowers, and greeting cards. The colours most often associated with the holiday are red and pink. Not everyone celebrates the day romantically; many people spend it with friends or family members. Holidays similar to Valentine’s Day are celebrated in different countries around the world at different times of the year. In the United States, most people know about the holiday, but it is not a federal holiday. This means that people do not officially get a day off work for Valentine’s Day. When is Valentine’s Day celebrated in the United States?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "76b4bfaa-4b89-474a-8e01-200b1215372b",
+            "text": "February 1",
+            "is_correct": false
+          },
+          {
+            "id": "75845622-f850-4c15-ae0d-b931d948bdb7",
+            "text": "February 14",
+            "is_correct": true
+          },
+          {
+            "id": "258995a8-13ef-4e98-a089-601e8437270d",
+            "text": "during the whole month of February",
+            "is_correct": false
+          },
+          {
+            "id": "a9f647eb-1b5c-4e36-a717-43192b808366",
+            "text": "in March",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "75845622-f850-4c15-ae0d-b931d948bdb7"
+        ]
+      },
+      {
+        "question_id": "24fee8f7-ff06-4cc0-9291-0cdf7ca13976",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What is Valentine’s Day officially connected with?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ba964e6f-c2f8-4f51-bad9-0ce509d39a46",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is Valentine’s Day officially connected with?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b4cfa4b7-6762-4420-ac83-aeb756c7c783",
+            "text": "the achievements of Saint Valentine",
+            "is_correct": true
+          },
+          {
+            "id": "2859e914-8449-4eaa-8c53-7e47f240ce9a",
+            "text": "love in every historical period",
+            "is_correct": false
+          },
+          {
+            "id": "714c82ef-0efa-4ad9-8b90-9e026ccfaca5",
+            "text": "the enjoyment of receiving presents",
+            "is_correct": false
+          },
+          {
+            "id": "2e2d7fe8-6dc8-421f-b879-5493a862f7c2",
+            "text": "none of the answers",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b4cfa4b7-6762-4420-ac83-aeb756c7c783"
+        ]
+      },
+      {
+        "question_id": "7c6c4de8-a8ff-4906-bcd8-11c19b4a2ae7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What gifts are often given on Valentine’s Day?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "dc36c0ad-ff99-498c-8d01-5f13a4e008b6",
+            "type": "TEXT",
+            "payload": {
+              "text": "What gifts are often given on Valentine’s Day?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cf74afaa-c80f-4af5-a8c0-9192aca5e42b",
+            "text": "chocolates",
+            "is_correct": false
+          },
+          {
+            "id": "6ea88b80-101d-48a2-83bc-d5b46c0e3df2",
+            "text": "flowers",
+            "is_correct": false
+          },
+          {
+            "id": "9bc1e6aa-cb1b-458a-ab62-02bdbe9e8136",
+            "text": "greeting cards",
+            "is_correct": false
+          },
+          {
+            "id": "ebd20cfb-5866-4ca4-aac5-ce3890588d34",
+            "text": "all of the above",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "ebd20cfb-5866-4ca4-aac5-ce3890588d34"
+        ]
+      },
+      {
+        "question_id": "e6bde9b8-80e8-43b7-b3b3-1eea222e3a78",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Where are different versions of Valentine’s Day celebrated?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "79ecd9ab-b149-4a53-9743-73e7f373ddb2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where are different versions of Valentine’s Day celebrated?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "195a95bc-6833-447d-ba32-7de85c2993a7",
+            "text": "only in Europe and South America",
+            "is_correct": false
+          },
+          {
+            "id": "e64001a4-eba2-4b01-a49c-507762cee3c2",
+            "text": "only in Oceania and Western Europe",
+            "is_correct": false
+          },
+          {
+            "id": "eac06c99-7d91-4d99-9543-1cf629165e4a",
+            "text": "around the world",
+            "is_correct": true
+          },
+          {
+            "id": "d7637184-a3f2-4deb-882b-2980147789ed",
+            "text": "only in the United Kingdom",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "eac06c99-7d91-4d99-9543-1cf629165e4a"
+        ]
+      },
+      {
+        "question_id": "ceb5bf7b-7236-4a07-b914-1c74b9e0c983",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which colour is strongly associated with Valentine’s Day?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b9881036-e839-4fce-a148-1f35a491ecee",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which colour is strongly associated with Valentine’s Day?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b70a53e1-da21-4ef6-bbd1-e3b49575d461",
+            "text": "red",
+            "is_correct": true
+          },
+          {
+            "id": "c2f8188e-cc60-4f9a-b2d2-94bf7e217059",
+            "text": "green",
+            "is_correct": false
+          },
+          {
+            "id": "e95c2bc3-fafe-40d4-ac88-aaa6781ed0bb",
+            "text": "yellow",
+            "is_correct": false
+          },
+          {
+            "id": "fab31b2e-51f0-4fc4-9995-c7909fa1d3f3",
+            "text": "purple",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b70a53e1-da21-4ef6-bbd1-e3b49575d461"
+        ]
+      },
+      {
+        "question_id": "53d178a7-95a6-4f78-8ed6-94746d9a0829",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Who usually celebrates Valentine’s Day with romantic behaviour in the United States?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "702f719a-5e9d-4186-b077-11a2c4a2784e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Who usually celebrates Valentine’s Day with romantic behaviour in the United States?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3549dfe0-27c9-48ea-926e-e0aeec05cab8",
+            "text": "Chinese people",
+            "is_correct": false
+          },
+          {
+            "id": "bc5c5da4-17dc-45bd-bf7b-f61b9779ed17",
+            "text": "Americans",
+            "is_correct": true
+          },
+          {
+            "id": "fdfea953-51e7-4340-8fc2-0f0f70ab404a",
+            "text": "people honoring Saint Valentine only",
+            "is_correct": false
+          },
+          {
+            "id": "019eafdc-0ed0-4b09-a4bd-eec7dd225dca",
+            "text": "ancient Romans",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bc5c5da4-17dc-45bd-bf7b-f61b9779ed17"
+        ]
+      },
+      {
+        "question_id": "1f06306c-12b9-4ca8-afb3-f8bc70a7f592",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Who was Saint Valentine according to the text?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a6dd718c-0b78-4b16-8b7e-14d82be0276d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Who was Saint Valentine according to the text?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7c9d9902-7d40-482b-854b-e3857e56f34d",
+            "text": "a Roman saint from the third century",
+            "is_correct": true
+          },
+          {
+            "id": "d716f80c-2e06-4082-88eb-e1ea97894f30",
+            "text": "the name of the holiday itself",
+            "is_correct": false
+          },
+          {
+            "id": "04358891-ce46-4e45-9c55-ae1efdc35bd0",
+            "text": "a Roman city",
+            "is_correct": false
+          },
+          {
+            "id": "4090931c-ad50-4f3d-85e9-a14717561e9c",
+            "text": "Saint Patrick",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7c9d9902-7d40-482b-854b-e3857e56f34d"
+        ]
+      },
+      {
+        "question_id": "0b737e0f-30c7-4a1f-91c7-684906624711",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Many people spend Valentine’s Day with their _____.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "60dab9ec-ce3a-4c10-983b-5b27aa05304b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Many people spend Valentine’s Day with their _____."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8ab66d8a-76bb-4be7-9a64-aae685a3542d",
+            "text": "family members",
+            "is_correct": true
+          },
+          {
+            "id": "9eadeb2d-b4b9-428f-a7ca-44b2c6091ded",
+            "text": "nobody",
+            "is_correct": false
+          },
+          {
+            "id": "e4571c79-3177-4e45-8508-5bca7b00207d",
+            "text": "Christmas tree",
+            "is_correct": false
+          },
+          {
+            "id": "999a1c3f-3684-47fc-95c7-b61f2ab65104",
+            "text": "television only",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8ab66d8a-76bb-4be7-9a64-aae685a3542d"
+        ]
+      },
+      {
+        "question_id": "8f49a7c8-62ca-4235-bf7e-d464c76b26ac",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Is Valentine’s Day a federal holiday in the United States?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "9558314d-bfe8-4fb5-afb2-956757ce850a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Is Valentine’s Day a federal holiday in the United States?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "63771b54-563f-4d3b-838f-1ad68113e678",
+            "text": "No, it is not federally recognized",
+            "is_correct": true
+          },
+          {
+            "id": "43d6f3de-623a-4f66-b3d4-372f4617f3e4",
+            "text": "Yes, everyone gets a day off work",
+            "is_correct": false
+          },
+          {
+            "id": "bc2b1815-22a4-47b8-82ec-5d7555392b43",
+            "text": "Yes, but only students celebrate it",
+            "is_correct": false
+          },
+          {
+            "id": "de5f5130-b45f-4328-b7c5-2e959d3d7a6b",
+            "text": "No, because nobody knows about it",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "63771b54-563f-4d3b-838f-1ad68113e678"
+        ]
+      },
+      {
+        "question_id": "48a2c5cb-aca9-4ba4-94e3-7411f5ac80f1",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What do many people do to show affection on Valentine’s Day?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4f01997f-8839-49ec-800e-777a039c3d20",
+            "type": "TEXT",
+            "payload": {
+              "text": "What do many people do to show affection on Valentine’s Day?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1a70409a-cdf7-498d-9b62-3225b1fbf3e8",
+            "text": "give gifts or have special dinners",
+            "is_correct": true
+          },
+          {
+            "id": "864ae653-39e8-4633-8a22-edd18dcc69f3",
+            "text": "close all schools for a week",
+            "is_correct": false
+          },
+          {
+            "id": "fe7a2c53-2a57-459e-8817-134e7f40d923",
+            "text": "decorate a Christmas tree",
+            "is_correct": false
+          },
+          {
+            "id": "694a29aa-1f4e-44d9-9f3d-6fafc7bf6e69",
+            "text": "travel only to Rome",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1a70409a-cdf7-498d-9b62-3225b1fbf3e8"
+        ]
+      },
+      {
+        "question_id": "133935f2-b748-4a29-970e-5c789d8ed72b",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Выберите верное определение категории «пафос».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e1f93db2-a7b8-4667-a185-1c10e5512a38",
+            "type": "TEXT",
+            "payload": {
+              "text": "Выберите верное определение категории «пафос»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c3f66520-04c5-4e33-90fe-8e2521d64bc9",
+            "text": "положение, которое ритор должен аргументировать",
+            "is_correct": false
+          },
+          {
+            "id": "e91946cc-5a03-4ea7-8999-4948c96ee922",
+            "text": "правила речевого поведения деловых людей",
+            "is_correct": false
+          },
+          {
+            "id": "e6364080-1922-4a2b-9169-f476d37fd842",
+            "text": "направленность эмоций, воли и разума на достижение результата речи",
+            "is_correct": true
+          },
+          {
+            "id": "376ecb22-9f0f-467a-b10d-9e9e7ea6c33f",
+            "text": "совокупность этических правил и условий ведения речи",
+            "is_correct": false
+          },
+          {
+            "id": "18dc869b-eb69-4ffc-b5ee-c91ee14e179b",
+            "text": "ложное утверждение, имеющее якобы правильную форму",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e6364080-1922-4a2b-9169-f476d37fd842"
+        ]
+      },
+      {
+        "question_id": "5987be69-1bb8-4b05-8781-58ccfe244919",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Цицерон формулировал этапы работы над риторически грамотным текстом: найти, что сказать; расположить по порядку; придать словесную форму; запомнить; произнести. Выберите верное определение этапа «инвенция».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b6e9da0e-de8b-484f-af6b-d77968242214",
+            "type": "TEXT",
+            "payload": {
+              "text": "Цицерон формулировал этапы работы над риторически грамотным текстом: найти, что сказать; расположить по порядку; придать словесную форму; запомнить; произнести. Выберите верное определение этапа «инвенция»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1cc78870-04ed-4ab7-bfd3-fa3741e1c56d",
+            "text": "отбор содержания из источников для будущего выступления",
+            "is_correct": true
+          },
+          {
+            "id": "0dec1232-f461-4e2c-8168-2d6aa8d14f16",
+            "text": "словесное выражение отобранного и скомпонованного материала",
+            "is_correct": false
+          },
+          {
+            "id": "3f52c3f2-6efe-4e70-8d4e-4afeb3c5a2d4",
+            "text": "расположение отобранного материала",
+            "is_correct": false
+          },
+          {
+            "id": "d997e516-ce36-4dfd-b2b1-1217477e3926",
+            "text": "авторское разыгрывание речи на публике",
+            "is_correct": false
+          },
+          {
+            "id": "a2614bb7-54bb-464c-a33f-7e9cfaf3e2c8",
+            "text": "запоминание основных положений текста речи",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1cc78870-04ed-4ab7-bfd3-fa3741e1c56d"
+        ]
+      },
+      {
+        "question_id": "ee886ae9-bf64-4511-81e8-088044f09c6f",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Выберите верное определение этапа «диспозиция».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a500a45a-3be7-45ec-814a-9faf444e8460",
+            "type": "TEXT",
+            "payload": {
+              "text": "Выберите верное определение этапа «диспозиция»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1bfb2a93-7f99-4e0f-a83f-2fdc61e92c93",
+            "text": "словесное выражение отобранного и скомпонованного материала",
+            "is_correct": false
+          },
+          {
+            "id": "7ab347bc-ab47-48db-b9db-0daaf03f2b91",
+            "text": "отбор содержания из источников для будущего выступления",
+            "is_correct": false
+          },
+          {
+            "id": "357323e6-84ab-4a63-99eb-af83c00434d6",
+            "text": "расположение отобранного материала",
+            "is_correct": true
+          },
+          {
+            "id": "d2dd2799-4800-4984-bb98-afed610179e9",
+            "text": "запоминание основных положений текста речи",
+            "is_correct": false
+          },
+          {
+            "id": "a0e20415-54cc-4d41-90b9-98e0e5abe9ee",
+            "text": "авторское разыгрывание речи на публике",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "357323e6-84ab-4a63-99eb-af83c00434d6"
+        ]
+      },
+      {
+        "question_id": "a6fcc5bb-3c88-452b-91d0-7254439e6b30",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что наиболее общего между ними.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f8255c1e-046b-4c20-9412-45c32bbfb97a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что наиболее общего между ними."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "9181c2e5-9525-431d-a408-55617bc9d6aa",
+            "text": "Акцент поставлен на роли целеполагания, результата в экономической жизни человека",
+            "is_correct": true
+          },
+          {
+            "id": "99ad07d2-df97-456e-971f-118af5b54737",
+            "text": "Общее то, что речь идет о сущности «экономического человека»",
+            "is_correct": false
+          },
+          {
+            "id": "e76f4355-e903-4e63-a0d5-09b314525fe3",
+            "text": "Общее то, что прямо или косвенно речь идет о богатстве как цели",
+            "is_correct": false
+          },
+          {
+            "id": "6a82adbe-db82-4ecc-8ec7-715e1576c7d0",
+            "text": "Акцент поставлен на том, что политическая экономия изучает поведение человека",
+            "is_correct": false
+          },
+          {
+            "id": "ffb52d0d-c85a-4318-b32f-ee8a6a2193b0",
+            "text": "Акцент поставлен на полезности богатства как цели в экономике",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9181c2e5-9525-431d-a408-55617bc9d6aa"
+        ]
+      },
+      {
+        "question_id": "a0d7b247-1496-417b-ad8b-44a00782fc8e",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что кардинально их отличает.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "da2b4c34-d26c-485f-bd9d-3ddfb01026d3",
+            "type": "TEXT",
+            "payload": {
+              "text": "Джон С. Милль писал, что политическая экономия касается человека как существа, желающего обладать богатством и способного судить о сравнительной полезности средств. Макс Вебер писал, что осмысленные человеческие действия связаны с категориями «цели» и «средства», а научному исследованию доступна проблема соответствия средств поставленной цели.\n\nСравните эти два суждения и определите, что кардинально их отличает."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4c1d14e0-c57c-4e3d-a374-d9b03952616f",
+            "text": "У Милля речь о политэкономии как науке о человеке, стремящемся к богатству, а у Вебера акцент на возможности научного исследования соответствия средств поставленной экономической цели",
+            "is_correct": true
+          },
+          {
+            "id": "52156e20-d54f-4ef1-815f-cb50d760fc22",
+            "text": "Кардинальное отличие состоит в том, что у Милля речь идет о богатстве как благе, а у Вебера — о ценностях и роли средств их достижения",
+            "is_correct": false
+          },
+          {
+            "id": "76b360de-3188-451f-b753-5db5f3d654e0",
+            "text": "Милль писал конкретно о политической экономии как науке, а Вебер упоминает в общем виде некое «научное исследование»",
+            "is_correct": false
+          },
+          {
+            "id": "4fdb4eae-0274-4bf5-adbe-bae3dd730fd3",
+            "text": "Кардинальное отличие состоит в том, что у Милля речь идет о сущности «экономического человека», а у Вебера — о целях и ценностях",
+            "is_correct": false
+          },
+          {
+            "id": "d131f594-d485-4bda-a39b-2c6634e073e6",
+            "text": "У Милля акцент на том, что политическая экономия изучает поведение человека, а у Вебера научное исследование изначально телеономично",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4c1d14e0-c57c-4e3d-a374-d9b03952616f"
+        ]
+      },
+      {
+        "question_id": "ef628990-91b9-4980-860c-78895897ca53",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "x + y = 1 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "3e688a16-73f7-4b3b-b40e-43f8d08b752a",
+            "type": "TEXT",
+            "payload": {
+              "text": "x + y = 1 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3be17bf6-051d-4e79-a3d4-0a062478768b",
+            "text": "(3; −2)",
+            "is_correct": false
+          },
+          {
+            "id": "3e432b47-cf0d-4c2e-8268-99b2b7bcc9c8",
+            "text": "(1; 0)",
+            "is_correct": true
+          },
+          {
+            "id": "6f4bc028-cef2-4dc3-a7bc-7876f4855c62",
+            "text": "(5; −4)",
+            "is_correct": false
+          },
+          {
+            "id": "3bff2fe2-e788-4971-93d0-8c0511f4fa75",
+            "text": "(−1; 1)",
+            "is_correct": false
+          },
+          {
+            "id": "06e2e3ef-3150-4494-8c50-31d2a0b4ddf6",
+            "text": "(3; −3)",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3e432b47-cf0d-4c2e-8268-99b2b7bcc9c8"
+        ]
+      },
+      {
+        "question_id": "ede684e3-8cf3-4a54-b94c-00d9c4868141",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e838ae7a-a000-467d-88fd-3a4c151f1d3c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d1211dec-ebc4-4e80-9f51-751cb63f9580",
+            "text": "30",
+            "is_correct": false
+          },
+          {
+            "id": "956afd3c-f4f2-495c-a662-754ee6ddbddb",
+            "text": "24",
+            "is_correct": true
+          },
+          {
+            "id": "4cd837bf-c0d4-4e38-849b-86e66aaf3d88",
+            "text": "48",
+            "is_correct": false
+          },
+          {
+            "id": "1baef968-2f41-4856-9b14-84df3165d075",
+            "text": "14",
+            "is_correct": false
+          },
+          {
+            "id": "83f08b56-3695-4b80-a31b-c71adab74dd3",
+            "text": "28",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "956afd3c-f4f2-495c-a662-754ee6ddbddb"
+        ]
+      },
+      {
+        "question_id": "1a6fbb9c-faf2-426e-ba15-50714c333c95",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b9439632-8c3c-44e6-9bd8-28f6d054066f",
+            "type": "TEXT",
+            "payload": {
+              "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "9c6898ab-1ec7-49b6-9827-f0ba5c6525fe",
+            "text": "Функция барлық нақты x мәндері үшін анықталған",
+            "is_correct": false
+          },
+          {
+            "id": "5cd7217b-fe08-4923-9c36-6413eff41a08",
+            "text": "Функция кемімелі",
+            "is_correct": false
+          },
+          {
+            "id": "d1e45b87-bc86-4891-a5f7-07b571c23ff9",
+            "text": "График (0; 1) нүктесінен өтеді",
+            "is_correct": false
+          },
+          {
+            "id": "7c858e6e-5713-4095-8667-be805104094c",
+            "text": "График (1; 0) және (2; 1) нүктелерінен өтеді",
+            "is_correct": true
+          },
+          {
+            "id": "bd3e6d89-9f0e-4d66-a7d2-7c32c0ecaa27",
+            "text": "График y осін қиып өтеді",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7c858e6e-5713-4095-8667-be805104094c"
+        ]
+      },
+      {
+        "question_id": "0fbec97d-6ee3-429d-9f85-62ed03817c97",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Температура воздуха в мае 20°. В июне на 5° больше, чем в мае. В октябре меньше всего. В июле на 6° больше, чем в июне. Сколько градусов в июле?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "863d72fc-4d12-4eae-8f45-f655fed133cf",
+            "type": "TEXT",
+            "payload": {
+              "text": "Температура воздуха в мае 20°. В июне на 5° больше, чем в мае. В октябре меньше всего. В июле на 6° больше, чем в июне. Сколько градусов в июле?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2eae3200-b8a8-4db5-a0b7-45eafe88a573",
+            "text": "19°",
+            "is_correct": false
+          },
+          {
+            "id": "4ecf8c97-c0e6-4dd9-9c88-37e342b250b1",
+            "text": "25°",
+            "is_correct": false
+          },
+          {
+            "id": "ea336698-2609-4e95-83ae-c3e1ae2a5e11",
+            "text": "18°",
+            "is_correct": false
+          },
+          {
+            "id": "d8e688d8-3310-41b7-82b5-c96095874747",
+            "text": "31°",
+            "is_correct": true
+          },
+          {
+            "id": "8ef636f0-bdf5-4d94-81de-1c0e4b9223a9",
+            "text": "15°",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d8e688d8-3310-41b7-82b5-c96095874747"
+        ]
+      },
+      {
+        "question_id": "1a3c6ac1-e0c1-47d5-909e-7c317d70d4af",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Запишите наибольшее целое значение a, если 14,3 < a < 17,2.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f524ebdf-f292-4628-8c04-94f2367ddc6c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Запишите наибольшее целое значение a, если 14,3 < a < 17,2."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "dddd39bf-b222-43d3-a934-8ab8a960ab7b",
+            "text": "17",
+            "is_correct": true
+          },
+          {
+            "id": "29a8eb8e-9ce6-446b-8933-aeb143da380c",
+            "text": "15",
+            "is_correct": false
+          },
+          {
+            "id": "ef26ab1a-6a3f-4f5b-9b7c-99fbe3686fe2",
+            "text": "14",
+            "is_correct": false
+          },
+          {
+            "id": "f19fd004-142c-49db-a8fb-4ce857180e49",
+            "text": "11",
+            "is_correct": false
+          },
+          {
+            "id": "8438a834-a17a-46fc-8a6e-f4b0a3c9e68f",
+            "text": "18",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "dddd39bf-b222-43d3-a934-8ab8a960ab7b"
+        ]
+      }
+    ]
+  }
+}

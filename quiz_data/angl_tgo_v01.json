@@ -1,0 +1,3767 @@
+{
+  "variant_id": "angl_tgo_v01",
+  "title": "Английский + ТГО — Вариант 1",
+  "total_count": 40,
+  "attempt_id": "96fefb46-7bfd-450f-9319-97607023ce5c",
+  "questions": [
+    {
+      "question_id": "e7eafea3-e74b-4cd6-921b-2c2ad7be7558",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Ms. Weaver want Anna to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "09592180-2e18-4518-9bc4-12ef88ae06cd",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Ms. Weaver want Anna to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "5e0bd814-880b-4ee7-aac2-eb8c65a45574",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "8df06c96-de34-4434-b760-06582e2744a7",
+          "text": "Report traffic from a helicopter.",
+          "is_correct": false
+        },
+        {
+          "id": "1db2394d-b520-4722-ac39-1dbf286fffd6",
+          "text": "Manage assignments at The Studio.",
+          "is_correct": false
+        },
+        {
+          "id": "19642f79-6fee-451c-a9c8-4041dac398db",
+          "text": "Put The Studio's new team together.",
+          "is_correct": false
+        },
+        {
+          "id": "7c8e21e5-0007-451a-a5f5-ddd26ba04876",
+          "text": "Return to hosting and reporting.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "7c8e21e5-0007-451a-a5f5-ddd26ba04876"
+      ]
+    },
+    {
+      "question_id": "d5547cc6-dd29-46f5-80c6-9d49aa86be56",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ffc7dc43-f05e-43bc-a3a7-ae0c953b9b33",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"?"
+          },
+          "position": 1
+        },
+        {
+          "id": "82660da3-f0d8-4770-bcea-3b9b66e310dc",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "70d2cd06-9119-4342-a615-7fccc9397701",
+          "text": "Throw the want ads up in the air.",
+          "is_correct": false
+        },
+        {
+          "id": "9b8ad042-f8d0-48d1-88bc-65972c3c8f0e",
+          "text": "Put the want ads in the garbage.",
+          "is_correct": true
+        },
+        {
+          "id": "2912322a-a551-4e1b-b40f-25253a435ecd",
+          "text": "Call someone from the want ads.",
+          "is_correct": false
+        },
+        {
+          "id": "69e708a4-5383-4730-89ce-11c3ff89ba2e",
+          "text": "Give the want ads to someone else.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9b8ad042-f8d0-48d1-88bc-65972c3c8f0e"
+      ]
+    },
+    {
+      "question_id": "3dee02e2-e652-47fb-8497-b609a0d502e6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna want Pete to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8ef94dd5-0daa-4422-8e81-6863a7fd8420",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna want Pete to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "9ca4ff7e-cf26-4275-ab48-9a44dc27194e",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d777d30f-efa2-46a4-af65-629857c89cdf",
+          "text": "Go to an interview at her job.",
+          "is_correct": true
+        },
+        {
+          "id": "5109e08e-b64a-49d3-9153-8fe550aef378",
+          "text": "Find someone to host a talk show.",
+          "is_correct": false
+        },
+        {
+          "id": "73e0cdf9-584a-4721-b63f-ed2ecf9f3fb7",
+          "text": "Stop asking so many questions.",
+          "is_correct": false
+        },
+        {
+          "id": "20f1e1a3-d2e7-4d2e-b7b5-2b6f85950a15",
+          "text": "Meet her at her boss's house.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d777d30f-efa2-46a4-af65-629857c89cdf"
+      ]
+    },
+    {
+      "question_id": "fedf379a-e1d5-41b7-9b6f-7c0f9d001cff",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What did Pete do last year? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "0fec90f3-49ea-4ad4-a028-2347797556b3",
+          "type": "TEXT",
+          "payload": {
+            "text": "What did Pete do last year?"
+          },
+          "position": 1
+        },
+        {
+          "id": "6ae26ee2-ff09-4839-8a49-5d73d08560bd",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d98f9445-124d-4569-a254-b115db2ebc85",
+          "text": "Tried to build a cabin in the woods.",
+          "is_correct": false
+        },
+        {
+          "id": "6a45e8cd-9f27-462b-bc16-4a584ecbcc81",
+          "text": "Tried to become more of a people person.",
+          "is_correct": false
+        },
+        {
+          "id": "75afb733-53c1-4bed-8de4-d9773d662bac",
+          "text": "Stayed in a cabin alone and wrote a book.",
+          "is_correct": true
+        },
+        {
+          "id": "8efc3942-953f-45bc-ab7e-6d2e4ec9ee16",
+          "text": "Talked about the work that he is proud of.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "75afb733-53c1-4bed-8de4-d9773d662bac"
+      ]
+    },
+    {
+      "question_id": "5e1eb96d-d6a0-4d2e-b88c-4f847af6b92c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Ms. Weaver choose Anna for hosting and reporting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "31872b21-0643-4d45-8921-7ae768581785",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Ms. Weaver choose Anna for hosting and reporting?"
+          },
+          "position": 1
+        },
+        {
+          "id": "5b69cd2c-77eb-4a89-ba73-4e2617fa4df0",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "83ef492b-1dca-45bb-93e6-70cfcf903cff",
+          "text": "Anna knows how to fly a helicopter.",
+          "is_correct": false
+        },
+        {
+          "id": "f8645605-20ef-454e-b119-00d75159d22e",
+          "text": "Anna is good at asking questions.",
+          "is_correct": true
+        },
+        {
+          "id": "f5348fd4-b85f-4d0f-b4c7-894957c4a434",
+          "text": "Anna wants to work alone.",
+          "is_correct": false
+        },
+        {
+          "id": "33622871-3dee-4509-8e46-268cefcc463b",
+          "text": "Anna has written a book.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f8645605-20ef-454e-b119-00d75159d22e"
+      ]
+    },
+    {
+      "question_id": "2130eba0-a414-4776-a116-c2c08bae8891",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What kind of person does Ms. Weaver want Anna to team up with? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "7f264149-2180-40ca-8711-482f7eb3e3ac",
+          "type": "TEXT",
+          "payload": {
+            "text": "What kind of person does Ms. Weaver want Anna to team up with?"
+          },
+          "position": 1
+        },
+        {
+          "id": "b68f42c2-a3f9-4a6a-b72b-06b310dbdda7",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "80258c13-7074-492c-8e7f-07dd12d2cc3e",
+          "text": "Someone exactly like Anna.",
+          "is_correct": false
+        },
+        {
+          "id": "e4633323-be9b-47c7-b357-b01a9d62cea3",
+          "text": "Someone who is more cheerful than Anna.",
+          "is_correct": false
+        },
+        {
+          "id": "2d958694-486b-4fa3-9604-cb419c866cd8",
+          "text": "Someone very different from Anna.",
+          "is_correct": true
+        },
+        {
+          "id": "de172523-8620-45ab-ad6f-c0070ea7a34d",
+          "text": "Someone who already works as a reporter.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2d958694-486b-4fa3-9604-cb419c866cd8"
+      ]
+    },
+    {
+      "question_id": "1cfde3af-6a0d-4344-9188-149e370fa566",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "How does Ms. Weaver describe Anna? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "e5b468f6-818d-4584-a655-af6423c98c0d",
+          "type": "TEXT",
+          "payload": {
+            "text": "How does Ms. Weaver describe Anna?"
+          },
+          "position": 1
+        },
+        {
+          "id": "a383cd91-09b9-4b6d-9e4d-087699ae54da",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "dac89a5e-14d4-4e72-a733-0e44909050f5",
+          "text": "Quiet and serious.",
+          "is_correct": false
+        },
+        {
+          "id": "37b7da11-e572-4ec4-b1bc-8cd8857bc073",
+          "text": "Grumpy and not good with people.",
+          "is_correct": false
+        },
+        {
+          "id": "341878dc-b5fe-4c20-a638-0376a95d9765",
+          "text": "Cheerful and a people person.",
+          "is_correct": true
+        },
+        {
+          "id": "1f2f1b8f-b5a5-4411-9af6-c7391742fba2",
+          "text": "Busy and tired.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "341878dc-b5fe-4c20-a638-0376a95d9765"
+      ]
+    },
+    {
+      "question_id": "e1fd7d50-564d-4f9b-994a-da50b8c527b6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why is Pete looking at want ads? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c872e664-5915-4c0c-b503-a0a1f2919e38",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why is Pete looking at want ads?"
+          },
+          "position": 1
+        },
+        {
+          "id": "50043e55-727f-456a-888a-10ec3713d35e",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "48caa6cb-7118-4a54-a6c6-5466eb9c532a",
+          "text": "He wants to buy a new house.",
+          "is_correct": false
+        },
+        {
+          "id": "7d7eb4e0-b22a-4263-bf0c-c07fe8aa76ea",
+          "text": "He is preparing a TV report.",
+          "is_correct": false
+        },
+        {
+          "id": "dcf0cd68-137a-425b-9620-dbae85406576",
+          "text": "He is looking for work.",
+          "is_correct": true
+        },
+        {
+          "id": "f96ae2d1-5508-46ab-98ad-280e0b61a45e",
+          "text": "He is helping Anna find a job.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "dcf0cd68-137a-425b-9620-dbae85406576"
+      ]
+    },
+    {
+      "question_id": "17b24978-3fca-47e8-82ac-962d17353bd7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Ms. Weaver want to find out during Pete's interview? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "e01fa989-5c15-4978-8716-d284942c25ba",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Ms. Weaver want to find out during Pete's interview?"
+          },
+          "position": 1
+        },
+        {
+          "id": "500a4952-c29c-4a2e-be49-3638a5921fb3",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "fbde69f7-e533-4ee1-8225-89fca49bd7f4",
+          "text": "If Pete can fly a helicopter.",
+          "is_correct": false
+        },
+        {
+          "id": "4bd3616e-03f8-4e12-8b1b-7c4d2c0a3f78",
+          "text": "If Pete knows Anna well.",
+          "is_correct": false
+        },
+        {
+          "id": "7afc192f-4d58-429c-bcd3-b5ac7b720509",
+          "text": "If Pete has the skills for the job.",
+          "is_correct": true
+        },
+        {
+          "id": "61d1dc51-99de-4091-be1c-e6f36aa2e5f7",
+          "text": "If Pete can finish a crossword puzzle.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7afc192f-4d58-429c-bcd3-b5ac7b720509"
+      ]
+    },
+    {
+      "question_id": "9324f5f5-2fce-4a5c-8ce0-213dc49b5aa9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Pete get the job? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "d0099364-6a87-4b44-912a-f78ddba17f3d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Pete get the job?"
+          },
+          "position": 1
+        },
+        {
+          "id": "dadc2869-de61-405b-ad60-9e73b065ecdd",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "50667150-989d-4045-baf9-f6a2fd70df23",
+          "text": "Because he is very cheerful.",
+          "is_correct": false
+        },
+        {
+          "id": "549648c6-8787-4899-947f-2b89143ebe3a",
+          "text": "Because he is exactly like Anna.",
+          "is_correct": false
+        },
+        {
+          "id": "3be44f7d-9358-4cca-8ceb-15fe21fdff1d",
+          "text": "Because he talks to people all the time.",
+          "is_correct": false
+        },
+        {
+          "id": "81f72a80-38db-4265-950f-68e6b6d3297f",
+          "text": "Because he is grumpy and different from Anna.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "81f72a80-38db-4265-950f-68e6b6d3297f"
+      ]
+    },
+    {
+      "question_id": "9baf181e-820b-4464-b3fa-7f58dcb8d854",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct comparative and superlative forms of “busy”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "796beaf6-0f2d-4ab3-9be2-718553cc328e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct comparative and superlative forms of “busy”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ad9c0f16-093e-41c8-acfc-14826ba585b9",
+          "text": "busy, more busy, most busy",
+          "is_correct": false
+        },
+        {
+          "id": "5dd4292c-3c6c-46e3-b2f9-149231b96486",
+          "text": "busy, busier, busiest",
+          "is_correct": true
+        },
+        {
+          "id": "162c0e59-84fc-4111-b840-632f75229e83",
+          "text": "busy, busyer, busyest",
+          "is_correct": false
+        },
+        {
+          "id": "976071f9-84b4-4bc3-8bb6-3dbfc72eafe8",
+          "text": "busy, more busier, most busiest",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5dd4292c-3c6c-46e3-b2f9-149231b96486"
+      ]
+    },
+    {
+      "question_id": "bffb761f-c68f-4aa4-b285-94550793b2f9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct comparative and superlative forms of “comfortable”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c8cce20c-3f67-4655-8e8b-9987b01be025",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct comparative and superlative forms of “comfortable”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3289957c-4095-4dc4-adfb-508eff0e4007",
+          "text": "comfortable, comfortabler, comfortablest",
+          "is_correct": false
+        },
+        {
+          "id": "8e6b079f-d08c-4014-bec9-8594445c8a3a",
+          "text": "comfortable, more comfortable, most comfortable",
+          "is_correct": true
+        },
+        {
+          "id": "cdc953d2-8d04-47b2-b388-1ddc9cdbd309",
+          "text": "comfortable, more comfortabler, most comfortablest",
+          "is_correct": false
+        },
+        {
+          "id": "a00aa647-30e5-48bc-a7fc-6f1786c6269f",
+          "text": "comfortable, comfortableer, comfortableest",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8e6b079f-d08c-4014-bec9-8594445c8a3a"
+      ]
+    },
+    {
+      "question_id": "d9935796-1783-41bf-9d06-d05415c41f48",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct comparative and superlative forms of “nice”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b6b702ae-40ab-4e8b-885f-86e0165a4fa6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct comparative and superlative forms of “nice”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2cb02d10-4b85-4905-ad2a-930db55b16ad",
+          "text": "nice, niceer, niceest",
+          "is_correct": false
+        },
+        {
+          "id": "2bc80382-7293-4448-b988-abd3c12aa922",
+          "text": "nice, nicer, nicest",
+          "is_correct": true
+        },
+        {
+          "id": "becb1986-b944-4fbd-9d8e-75efdb32bd9d",
+          "text": "nice, more nice, most nice",
+          "is_correct": false
+        },
+        {
+          "id": "4db5098a-e6fc-446e-879a-cedfc4838683",
+          "text": "nice, nicier, niciest",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2bc80382-7293-4448-b988-abd3c12aa922"
+      ]
+    },
+    {
+      "question_id": "6a5201e7-1784-4efe-aba3-a88979aba02e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct comparative and superlative forms of “fit”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e2b9e163-98a0-48ac-bf0d-31f3be5c05d1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct comparative and superlative forms of “fit”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "37453080-6dfc-4e24-bed1-7b0bd95702c6",
+          "text": "fit, fiter, fitest",
+          "is_correct": false
+        },
+        {
+          "id": "320a830e-4efe-4ebc-8853-673dd3887d48",
+          "text": "fit, fitter, fittest",
+          "is_correct": true
+        },
+        {
+          "id": "c2933718-e1cf-4ec8-9513-7ff5246f1de6",
+          "text": "fit, more fit, most fit",
+          "is_correct": false
+        },
+        {
+          "id": "ce1ea360-d32d-43d8-8641-07b988fcb46e",
+          "text": "fit, fitier, fitiest",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "320a830e-4efe-4ebc-8853-673dd3887d48"
+      ]
+    },
+    {
+      "question_id": "3d57ef65-77ee-40d9-a3f8-9ffdb0bcf9d3",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct comparative and superlative forms of “good”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "09293620-e5c4-4426-b6ac-9b92076b77a1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct comparative and superlative forms of “good”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c1ac7b4c-1a78-4d03-b38e-8d469842c686",
+          "text": "good, gooder, goodest",
+          "is_correct": false
+        },
+        {
+          "id": "fb54522b-6564-49f9-b47f-bd9c5c29b409",
+          "text": "good, more good, most good",
+          "is_correct": false
+        },
+        {
+          "id": "eca83ba7-d633-4789-baa2-7883727f2729",
+          "text": "good, better, best",
+          "is_correct": true
+        },
+        {
+          "id": "40cdf641-4acf-4d82-8519-5d165ecde221",
+          "text": "good, goodier, goodiest",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "eca83ba7-d633-4789-baa2-7883727f2729"
+      ]
+    },
+    {
+      "question_id": "7316bd84-a944-4790-bae4-b0c41f232101",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Which adjective is non-gradable and normally cannot be compared?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "05431e43-d5bc-45ce-ac8b-028da2615b5e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which adjective is non-gradable and normally cannot be compared?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a66063c6-5edd-4dac-aff0-ab9f357d18f9",
+          "text": "wet",
+          "is_correct": false
+        },
+        {
+          "id": "3d47a74a-d0b5-4c95-8b71-3d3661a0618d",
+          "text": "kind",
+          "is_correct": false
+        },
+        {
+          "id": "6701da43-1c18-4f71-91cc-0886614107af",
+          "text": "extinct",
+          "is_correct": true
+        },
+        {
+          "id": "48d9d772-117d-4890-8bae-da04f40445c3",
+          "text": "successful",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6701da43-1c18-4f71-91cc-0886614107af"
+      ]
+    },
+    {
+      "question_id": "37cd5f4c-5af5-42fc-ab36-316cc800194e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "54e00a2c-9b5a-41aa-91cb-3f9b30f72540",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e371dbcc-094c-48dc-8ea5-948c802b5865",
+          "text": "Vegetables are more cheap than fast food.",
+          "is_correct": false
+        },
+        {
+          "id": "75f115c1-0d29-4008-9d7f-f9cfd0cdb5ef",
+          "text": "Vegetables are cheaper than fast food.",
+          "is_correct": true
+        },
+        {
+          "id": "9d4dce70-a255-4707-a1aa-0d9cc8c79363",
+          "text": "Vegetables are cheapest than fast food.",
+          "is_correct": false
+        },
+        {
+          "id": "f9118caa-4635-4067-8424-8363545cc9f9",
+          "text": "Vegetables are cheap than fast food.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "75f115c1-0d29-4008-9d7f-f9cfd0cdb5ef"
+      ]
+    },
+    {
+      "question_id": "a2d90861-a251-4c00-b019-cf96eb43ec6f",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "462d7afa-4bbc-467f-8e97-3142edc22ac2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "925303d4-2c70-486e-b54b-430683ab15ee",
+          "text": "Convenience stores are expensiver than supermarkets.",
+          "is_correct": false
+        },
+        {
+          "id": "57fbf2ff-c8b0-4e78-86ec-0c4e57fb8fad",
+          "text": "Convenience stores are more expensive than supermarkets.",
+          "is_correct": true
+        },
+        {
+          "id": "7b9af2c9-9635-4fbc-8870-3759495783c1",
+          "text": "Convenience stores are most expensive than supermarkets.",
+          "is_correct": false
+        },
+        {
+          "id": "c1200530-e065-42fc-8236-11693943255c",
+          "text": "Convenience stores are more expensiver than supermarkets.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "57fbf2ff-c8b0-4e78-86ec-0c4e57fb8fad"
+      ]
+    },
+    {
+      "question_id": "58731598-4206-422f-ac01-ac1e090d0ca8",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct superlative sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "e5f64ee8-be94-4481-8904-cedcb5ae2484",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct superlative sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7d8a8f0c-d3d7-4024-bb37-816d2977ffc9",
+          "text": "This is most obvious solution.",
+          "is_correct": false
+        },
+        {
+          "id": "c4565164-5b9a-4511-9895-445302d97c11",
+          "text": "This is the obviousest solution.",
+          "is_correct": false
+        },
+        {
+          "id": "1dd3f8c4-944a-44cd-b257-9f8417b76e12",
+          "text": "This is one of the most obvious solutions.",
+          "is_correct": true
+        },
+        {
+          "id": "fd166360-95a5-4daf-8c79-3062b0e098c8",
+          "text": "This is one of the more obvious solution.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1dd3f8c4-944a-44cd-b257-9f8417b76e12"
+      ]
+    },
+    {
+      "question_id": "d28fe84a-71ed-4de4-bba3-43b3d6666cd6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct comparative question.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "22c4bb8d-b96d-4853-9c07-b4a71f9ce1c8",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct comparative question."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cd05f75c-db0a-4769-a253-04c5040a307e",
+          "text": "Which sport is dangerous, skateboarding or volleyball?",
+          "is_correct": false
+        },
+        {
+          "id": "0cc5b4fa-2b1b-499f-84c0-49f0dc2304b3",
+          "text": "Which sport is more dangerous, skateboarding or volleyball?",
+          "is_correct": true
+        },
+        {
+          "id": "626d36c6-8de6-43f1-aac9-a8b50e578432",
+          "text": "Which sport is the most dangerous than volleyball?",
+          "is_correct": false
+        },
+        {
+          "id": "efa89f80-7ee6-4fa5-8458-5b3ac086a733",
+          "text": "Which sport more dangerous is, skateboarding or volleyball?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0cc5b4fa-2b1b-499f-84c0-49f0dc2304b3"
+      ]
+    },
+    {
+      "question_id": "3953b7e7-818a-42a1-905a-78d8e3a8d55a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the rewritten passage and choose the correct answer. The lands of England, Scotland, Wales, and Ireland were traditionally grouped under the name “the British Isles.” This expression is still used in geography, although it should be used carefully. The peoples living on these islands were rarely fully united either in politics or in culture. Attempts to bring them together began as early as the twelfth century, but they shared one monarch only in 1603. A full political union was not completed until 1801, and it lasted for only 120 years. One of the earliest serious efforts to create unity was made by the Norman ruler Edward I near the end of the thirteenth century. He was successful in Wales, where large Norman castles were constructed and local lords protected the border. To show his control over Wales, Edward I gave his eldest son the title Prince of Wales in 1301. Since that time, this title has usually been given to the eldest son of the ruling monarch. In Ireland, however, Norman settlement did not spread much farther than Dublin and several towns on the coast. In Scotland, Edward’s campaign ended in failure. Scotland was not firmly drawn into England’s sphere until the time of Elizabeth. Its dependence on England was finally secured through diplomacy in 1603. That same year, a powerful Irish rebellion was defeated, and James I, ruling the three kingdoms, could call himself King of Great Britain. Still, the union was weak and fell apart during the following reign. A later major step toward unification came with the Act of Union with Scotland in 1707. While that agreement was being discussed, the Irish House of Commons asked for a similar union, but the English government refused to examine the request. The union between Britain and Ireland happened almost a hundred years later, in 1801. By then, the Irish Parliament was unwilling, so the British government used large-scale bribery to make the union happen. According to the passage, how is the expression “British Isles” still used today?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "3cdfc8fc-9740-4c1b-85fa-4f3ea2e5ae5b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the rewritten passage and choose the correct answer. The lands of England, Scotland, Wales, and Ireland were traditionally grouped under the name “the British Isles.” This expression is still used in geography, although it should be used carefully. The peoples living on these islands were rarely fully united either in politics or in culture. Attempts to bring them together began as early as the twelfth century, but they shared one monarch only in 1603. A full political union was not completed until 1801, and it lasted for only 120 years. One of the earliest serious efforts to create unity was made by the Norman ruler Edward I near the end of the thirteenth century. He was successful in Wales, where large Norman castles were constructed and local lords protected the border. To show his control over Wales, Edward I gave his eldest son the title Prince of Wales in 1301. Since that time, this title has usually been given to the eldest son of the ruling monarch. In Ireland, however, Norman settlement did not spread much farther than Dublin and several towns on the coast. In Scotland, Edward’s campaign ended in failure. Scotland was not firmly drawn into England’s sphere until the time of Elizabeth. Its dependence on England was finally secured through diplomacy in 1603. That same year, a powerful Irish rebellion was defeated, and James I, ruling the three kingdoms, could call himself King of Great Britain. Still, the union was weak and fell apart during the following reign. A later major step toward unification came with the Act of Union with Scotland in 1707. While that agreement was being discussed, the Irish House of Commons asked for a similar union, but the English government refused to examine the request. The union between Britain and Ireland happened almost a hundred years later, in 1801. By then, the Irish Parliament was unwilling, so the British government used large-scale bribery to make the union happen. According to the passage, how is the expression “British Isles” still used today?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2330cd6b-9b61-498c-929b-7d01481e8164",
+          "text": "People no longer use it in any context",
+          "is_correct": false
+        },
+        {
+          "id": "d7a9887c-4063-48c6-b57b-3b07592bc57e",
+          "text": "It is used only as a political title",
+          "is_correct": false
+        },
+        {
+          "id": "a72241f6-bcd6-4923-8f0b-b100cc92f926",
+          "text": "It is used only for Ireland",
+          "is_correct": false
+        },
+        {
+          "id": "db866e0a-09c0-4252-a3cb-1c7cb0ff6066",
+          "text": "It is still used as a geographical term",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "db866e0a-09c0-4252-a3cb-1c7cb0ff6066"
+      ]
+    },
+    {
+      "question_id": "cf369a18-131e-4139-b729-a025c28ab7d5",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Who made one of the earliest serious attempts to unite these lands?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "49362329-afdf-40cd-addb-0ca70008ca13",
+          "type": "TEXT",
+          "payload": {
+            "text": "Who made one of the earliest serious attempts to unite these lands?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b8f9819c-77d2-4eb7-ba88-cec15f3344de",
+          "text": "Edward I",
+          "is_correct": true
+        },
+        {
+          "id": "40e00e12-88bb-4d1c-a783-9117b7b0681d",
+          "text": "Elizabeth",
+          "is_correct": false
+        },
+        {
+          "id": "1bd727de-c486-4c24-bdac-b4dc5c455f95",
+          "text": "James I",
+          "is_correct": false
+        },
+        {
+          "id": "bb230634-0392-4ec9-9e12-f0f1e987f2c9",
+          "text": "The eldest son of the monarch",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b8f9819c-77d2-4eb7-ba88-cec15f3344de"
+      ]
+    },
+    {
+      "question_id": "416fe891-22e5-4186-8949-8362c3d50e97",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "In which year did the Act of Union with Scotland mark a major step toward unification?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c50a13a5-4a5c-4e76-b7e8-c05a6254282f",
+          "type": "TEXT",
+          "payload": {
+            "text": "In which year did the Act of Union with Scotland mark a major step toward unification?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e3c35fdf-1f72-495d-85c0-1a92cce449d3",
+          "text": "1707",
+          "is_correct": true
+        },
+        {
+          "id": "588157a7-f008-4766-bbfe-7b593f45e7af",
+          "text": "1801",
+          "is_correct": false
+        },
+        {
+          "id": "6c8bfbb4-1f7f-42b1-8963-f3d93bc72067",
+          "text": "1301",
+          "is_correct": false
+        },
+        {
+          "id": "75cc4f7d-d5b1-4f4e-8db1-6812e86a4680",
+          "text": "1603",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e3c35fdf-1f72-495d-85c0-1a92cce449d3"
+      ]
+    },
+    {
+      "question_id": "840f1b00-2a38-47e8-babe-53e67b3f824d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Edward I is described in the passage as which kind of ruler?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "90a63e9a-b0bd-4776-937b-7f886638aa3b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Edward I is described in the passage as which kind of ruler?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e753e02f-a675-41da-a18e-f55d0a3875d3",
+          "text": "An Irish king",
+          "is_correct": false
+        },
+        {
+          "id": "4b26b929-7e40-48cf-b799-b10391ed631a",
+          "text": "A Norman king",
+          "is_correct": true
+        },
+        {
+          "id": "56bdcbad-f911-4c56-a339-00861ab45acf",
+          "text": "King of Great Britain",
+          "is_correct": false
+        },
+        {
+          "id": "2a440bc1-fea2-4a49-a8fc-1dd4dc7c71a7",
+          "text": "A Scottish prince",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4b26b929-7e40-48cf-b799-b10391ed631a"
+      ]
+    },
+    {
+      "question_id": "d1022472-f2c1-49e8-9e52-3b25d88da57d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "When was Scotland’s dependence on England secured through diplomacy?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6e4f811b-a879-4720-a16b-c5582f69af01",
+          "type": "TEXT",
+          "payload": {
+            "text": "When was Scotland’s dependence on England secured through diplomacy?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5b417a2d-e88e-4da8-8833-4331e9bfc25a",
+          "text": "1707",
+          "is_correct": false
+        },
+        {
+          "id": "7c5698f5-6a3c-45aa-a1ab-002d6378b365",
+          "text": "1801",
+          "is_correct": false
+        },
+        {
+          "id": "ab21c6e4-1357-431f-92a4-e55c364af96e",
+          "text": "1301",
+          "is_correct": false
+        },
+        {
+          "id": "12402123-0051-4d76-9c53-d83701d0f8ce",
+          "text": "1603",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "12402123-0051-4d76-9c53-d83701d0f8ce"
+      ]
+    },
+    {
+      "question_id": "d6808554-81d1-4791-aa42-4a4b632efc83",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which union was finally achieved in 1801?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b1c8e2b2-a769-43bf-b502-3fdbd1b661a2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which union was finally achieved in 1801?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "15de9074-e428-447a-8681-a3b6b0dddf3e",
+          "text": "The union of Britain with Ireland",
+          "is_correct": true
+        },
+        {
+          "id": "1c1c3f13-81c1-4954-941f-cc657e2d0862",
+          "text": "The union of Britain with Scotland",
+          "is_correct": false
+        },
+        {
+          "id": "618fb036-b9d4-4cca-9043-1923c4d74946",
+          "text": "The union of the USA with Britain",
+          "is_correct": false
+        },
+        {
+          "id": "a499afa5-0faf-4c17-b25d-89bf23a924b6",
+          "text": "The union of Ireland with Scotland",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "15de9074-e428-447a-8681-a3b6b0dddf3e"
+      ]
+    },
+    {
+      "question_id": "56614861-bdf5-486e-94f0-1234bf39b101",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "According to the passage, Norman settlement in Ireland did not go much farther than which city and the coastal towns?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "bd229edb-74b6-4bc4-b22e-b4de95f3cd5a",
+          "type": "TEXT",
+          "payload": {
+            "text": "According to the passage, Norman settlement in Ireland did not go much farther than which city and the coastal towns?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "517db3b9-a56a-4be5-a2c2-b7643d9cee19",
+          "text": "Belfast",
+          "is_correct": false
+        },
+        {
+          "id": "01609ddd-f473-49d4-8563-6f686698c54d",
+          "text": "Dublin",
+          "is_correct": true
+        },
+        {
+          "id": "f0f7204a-5017-4f22-aa74-92bb3ffbc4e8",
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "id": "4596e3c2-660f-4f3e-867c-01965bf849c9",
+          "text": "Cardiff",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "01609ddd-f473-49d4-8563-6f686698c54d"
+      ]
+    },
+    {
+      "question_id": "b6d5a9b0-86ce-4d64-8f0f-e6ae70dc55d8",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "In what year was the complete political union finally created?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "44532aba-3438-4e98-8c14-a9c527bc57f9",
+          "type": "TEXT",
+          "payload": {
+            "text": "In what year was the complete political union finally created?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "eead1c93-6afd-43ec-ad58-929d18161761",
+          "text": "1707",
+          "is_correct": false
+        },
+        {
+          "id": "acc1560a-c65d-4c7d-9289-22a5a57018eb",
+          "text": "1801",
+          "is_correct": true
+        },
+        {
+          "id": "909b6d5d-0f58-43b3-be54-80ef6c7c15db",
+          "text": "1303",
+          "is_correct": false
+        },
+        {
+          "id": "6dda2bbf-96cb-4184-83a9-9d6f4f710650",
+          "text": "1603",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "acc1560a-c65d-4c7d-9289-22a5a57018eb"
+      ]
+    },
+    {
+      "question_id": "55efd579-c720-4b5c-b80d-a107f7827531",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which title did Edward I give to his eldest son in 1301?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b456b9ab-66f9-432b-9392-6d6210c8de66",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which title did Edward I give to his eldest son in 1301?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3bbbfea8-ca71-42bf-94ae-e452929031f0",
+          "text": "King of Scotland",
+          "is_correct": false
+        },
+        {
+          "id": "c998a875-17a9-4510-bd1a-c7119dd27d35",
+          "text": "Lord of Dublin",
+          "is_correct": false
+        },
+        {
+          "id": "419038ab-6159-4f04-a9de-ba80c030cfe9",
+          "text": "Prince of Wales",
+          "is_correct": true
+        },
+        {
+          "id": "c4831ed4-219c-4ffa-aa37-7ecd3e177336",
+          "text": "King of Ireland",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "419038ab-6159-4f04-a9de-ba80c030cfe9"
+      ]
+    },
+    {
+      "question_id": "90c7c000-76e3-42be-9cf5-ba99b140067d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which ruler could call himself King of Great Britain after the events of 1603?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "b758cb98-6657-4db3-8635-7de78b481b4a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which ruler could call himself King of Great Britain after the events of 1603?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a865c4bb-05a6-4bb4-9c5c-6aaf8c2be349",
+          "text": "Edward I",
+          "is_correct": false
+        },
+        {
+          "id": "12433498-be1d-4d28-8dc9-a1b939c5e93f",
+          "text": "James I",
+          "is_correct": true
+        },
+        {
+          "id": "0cca0961-f7cb-4917-ac41-2ee274cd2277",
+          "text": "Elizabeth",
+          "is_correct": false
+        },
+        {
+          "id": "872fab20-271c-4c48-a07e-6b1864094bf1",
+          "text": "The Prince of Wales",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "12433498-be1d-4d28-8dc9-a1b939c5e93f"
+      ]
+    },
+    {
+      "question_id": "42bd14ab-dfdd-48fb-a459-16f09aa53a77",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Городская агломерация (конурбация) — группа близко расположенных и тесно связанных между собой городов. Именно такие города, как Большой Лондон и Большой Париж, образуют единое целое благодаря экономическим и культурно-бытовым связям, общим крупным инженерным сооружениям, транспорту, водоснабжению. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5b23b7a0-a06d-491d-b100-04a78322b6ca",
+          "type": "TEXT",
+          "payload": {
+            "text": "Городская агломерация (конурбация) — группа близко расположенных и тесно связанных между собой городов. Именно такие города, как Большой Лондон и Большой Париж, образуют единое целое благодаря экономическим и культурно-бытовым связям, общим крупным инженерным сооружениям, транспорту, водоснабжению. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "927f31cd-8b07-42ad-91df-181fa5705be5",
+          "text": "вводная информация",
+          "is_correct": false
+        },
+        {
+          "id": "3cf02049-a8b6-4f7e-9cc2-7b31b199f2ed",
+          "text": "дублирующая",
+          "is_correct": false
+        },
+        {
+          "id": "7a9d42d3-1072-49bf-b34d-32952699a18c",
+          "text": "резюмирующая",
+          "is_correct": false
+        },
+        {
+          "id": "a50ed072-ce8c-4438-a1d0-90710133a5cc",
+          "text": "аргументирующая",
+          "is_correct": false
+        },
+        {
+          "id": "cf11f141-f2be-4b5b-8009-8b8d524b995a",
+          "text": "конкретизирующая",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "cf11f141-f2be-4b5b-8009-8b8d524b995a"
+      ]
+    },
+    {
+      "question_id": "568f67f7-34ad-4168-8247-3436887de346",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Городской ветер — в больших городах ветер ведёт себя совсем не так, как в окружающих город сельских районах. К основным особенностям городского ветра относятся: скорость воздушных потоков на 30% ниже, чем на незастроенных пространствах; периоды безветренной погоды случаются на 1–20% чаще; иногда ветры могут достигать очень большой силы из-за создаваемого зданиями сквознякового эффекта. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "00b15ea2-d782-4e99-9026-76445213bbee",
+          "type": "TEXT",
+          "payload": {
+            "text": "Городской ветер — в больших городах ветер ведёт себя совсем не так, как в окружающих город сельских районах. К основным особенностям городского ветра относятся: скорость воздушных потоков на 30% ниже, чем на незастроенных пространствах; периоды безветренной погоды случаются на 1–20% чаще; иногда ветры могут достигать очень большой силы из-за создаваемого зданиями сквознякового эффекта. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1fe47858-cbd1-4319-8a6c-1ad614a93b55",
+          "text": "резюмирующая",
+          "is_correct": false
+        },
+        {
+          "id": "466b88f8-3625-4327-865e-e2a76f977222",
+          "text": "обобщающая",
+          "is_correct": false
+        },
+        {
+          "id": "d918ef90-06d7-4aef-8143-e20a48163deb",
+          "text": "аргументирующая",
+          "is_correct": false
+        },
+        {
+          "id": "7f795851-4b33-45b5-9544-78b3e34b0287",
+          "text": "дублирующая",
+          "is_correct": false
+        },
+        {
+          "id": "de69c505-9bf3-4619-90b1-8bd358d8044b",
+          "text": "детализирующая",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "de69c505-9bf3-4619-90b1-8bd358d8044b"
+      ]
+    },
+    {
+      "question_id": "d6a590aa-84b8-4b86-96c6-47afe4982f09",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Фридрих Энгельс писал: «Апелляция к морали и праву в научном отношении нисколько не подвигает нас вперед; в нравственном негодовании, как бы оно ни было справедливо, экономическая наука может усматривать не доказательство, а только […]».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "3992688e-fa97-42ac-99c1-1fa9b3d80908",
+          "type": "TEXT",
+          "payload": {
+            "text": "Фридрих Энгельс писал: «Апелляция к морали и праву в научном отношении нисколько не подвигает нас вперед; в нравственном негодовании, как бы оно ни было справедливо, экономическая наука может усматривать не доказательство, а только […]»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fd844564-c30e-4114-8085-992c85c2575b",
+          "text": "тезис",
+          "is_correct": false
+        },
+        {
+          "id": "f1dee8b5-62ee-4ae2-9479-3bdc00a8303a",
+          "text": "заблуждение",
+          "is_correct": false
+        },
+        {
+          "id": "4bc9abc3-10b9-4296-a3ff-3c7e12b1b00c",
+          "text": "аргумент",
+          "is_correct": false
+        },
+        {
+          "id": "d063d348-d46e-44a6-a5c6-aaffd5965129",
+          "text": "бессмыслицу",
+          "is_correct": false
+        },
+        {
+          "id": "4df101d7-1dfb-4e81-a8eb-3210f904eb94",
+          "text": "симптом",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "4df101d7-1dfb-4e81-a8eb-3210f904eb94"
+      ]
+    },
+    {
+      "question_id": "48e6fa3b-3a44-4655-bfa0-0582e80ed8ab",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "А.П. Чехов писал: «В человеке должно быть все прекрасно: и лицо, и одежда, и душа, и […]». \n\nВставьте слово, которое использовал писатель.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "71d24985-ad9b-49a9-af69-c716da32e455",
+          "type": "TEXT",
+          "payload": {
+            "text": "А.П. Чехов писал: «В человеке должно быть все прекрасно: и лицо, и одежда, и душа, и […]». \n\nВставьте слово, которое использовал писатель."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "dd98b1de-28fa-4495-9fbe-916a5957f97d",
+          "text": "ботинки",
+          "is_correct": false
+        },
+        {
+          "id": "d7bc7e2a-6097-49ff-aaaf-a6d980a66d40",
+          "text": "мечты",
+          "is_correct": false
+        },
+        {
+          "id": "a32589cc-45df-49b8-9b94-bbfd5c1cab14",
+          "text": "мысли",
+          "is_correct": true
+        },
+        {
+          "id": "aa5a3837-7983-4511-a974-5b78fdb43f2f",
+          "text": "воображение",
+          "is_correct": false
+        },
+        {
+          "id": "31734389-37d7-4328-8e7b-98b83f8f57b3",
+          "text": "прическа",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a32589cc-45df-49b8-9b94-bbfd5c1cab14"
+      ]
+    },
+    {
+      "question_id": "664e23e9-e0a3-49cd-a063-139b441c113f",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Карл Маркс писал: «Если человек трудится только для себя, он может, пожалуй, стать знаменитым ученым, великим мудрецом, превосходным поэтом, но никогда не сможет стать истинно совершенным и великим […]». \n\nВставьте слово по смыслу.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0d803eed-09b2-4357-bd90-f128c1ac7513",
+          "type": "TEXT",
+          "payload": {
+            "text": "Карл Маркс писал: «Если человек трудится только для себя, он может, пожалуй, стать знаменитым ученым, великим мудрецом, превосходным поэтом, но никогда не сможет стать истинно совершенным и великим […]». \n\nВставьте слово по смыслу."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8dcaa9ad-8f3b-4eb3-85fb-277b2c9d02de",
+          "text": "композитором",
+          "is_correct": false
+        },
+        {
+          "id": "0b360bc1-d466-46cb-b766-1dd847ce4d28",
+          "text": "космонавтом",
+          "is_correct": false
+        },
+        {
+          "id": "243e4d9b-a738-4a78-b5c7-105b5c704cff",
+          "text": "экономистом",
+          "is_correct": false
+        },
+        {
+          "id": "8feb939c-477d-4424-a405-65e48d293573",
+          "text": "человеком",
+          "is_correct": true
+        },
+        {
+          "id": "33b05402-941b-45fc-b87a-c6cec3241b7b",
+          "text": "философом",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8feb939c-477d-4424-a405-65e48d293573"
+      ]
+    },
+    {
+      "question_id": "9832b407-7308-48f5-9a76-9753e0cc9722",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6559b3a1-c6fa-48d3-8ea2-dd224d51e26a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "59b482cf-bbbc-493b-990d-4f973338f0e7",
+          "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+          "is_correct": false
+        },
+        {
+          "id": "c91db6a1-bf8e-402f-91c7-6e07486d753a",
+          "text": "A < B",
+          "is_correct": true
+        },
+        {
+          "id": "6caa700f-a10f-46df-a30a-6a78acc8fedb",
+          "text": "A = B",
+          "is_correct": false
+        },
+        {
+          "id": "5a485fe8-1f3d-475f-b131-42c6959ca16b",
+          "text": "B < A",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c91db6a1-bf8e-402f-91c7-6e07486d753a"
+      ]
+    },
+    {
+      "question_id": "f0605b20-0b19-4960-b7bb-9e3d863dc705",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "071ec70f-a5e9-4dbc-aaf5-94bb30f2b623",
+          "type": "TEXT",
+          "payload": {
+            "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d5773ab2-d311-4e15-b2ff-32f69178e3fe",
+          "text": "(1; 0)",
+          "is_correct": false
+        },
+        {
+          "id": "4fbeb1d7-5f8e-44a6-8173-56e5c1c710a3",
+          "text": "(0; −1)",
+          "is_correct": true
+        },
+        {
+          "id": "abaa98b5-ae5b-4b74-b18c-a5583002a92d",
+          "text": "(3; −3)",
+          "is_correct": false
+        },
+        {
+          "id": "0ea18355-43a0-4dde-ae7c-bbfbcaf4226f",
+          "text": "(5; −4)",
+          "is_correct": false
+        },
+        {
+          "id": "41b46d93-d48a-44d5-8a69-29175cc65cc7",
+          "text": "(4; 5)",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4fbeb1d7-5f8e-44a6-8173-56e5c1c710a3"
+      ]
+    },
+    {
+      "question_id": "558856f0-ae7c-478e-8e19-7a55170b1dff",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b82696e1-2a11-4f09-a290-7ab0673e46b7",
+          "type": "TEXT",
+          "payload": {
+            "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d9a8df33-f11d-4b48-bc7c-265b4b9bae5f",
+          "text": "1 жыл 3 ай",
+          "is_correct": false
+        },
+        {
+          "id": "bac3cf5c-989f-4c84-9745-35872d46f969",
+          "text": "4 жыл",
+          "is_correct": true
+        },
+        {
+          "id": "985b36c6-274e-492a-ada9-30f0848f72f9",
+          "text": "6 жыл",
+          "is_correct": false
+        },
+        {
+          "id": "e95d3418-371d-4cc3-b5c8-3f3cf374aa74",
+          "text": "5,5 жыл",
+          "is_correct": false
+        },
+        {
+          "id": "ece7c301-7c41-45da-9dc2-fcee3274cf7d",
+          "text": "3 жыл",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bac3cf5c-989f-4c84-9745-35872d46f969"
+      ]
+    },
+    {
+      "question_id": "c4481fad-5757-46ea-a148-e01aae93ec1f",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Пассажир спустился бегом по движущемуся эскалатору метро за 15 с. В следующий раз он спустился вниз в том же темпе, но по неподвижному эскалатору за 24 с. Найдите, за сколько секунд спустился бы пассажир, стоя на ступеньке движущегося эскалатора.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "b7abf280-d27c-4215-bd1c-bb5434b96514",
+          "type": "TEXT",
+          "payload": {
+            "text": "Пассажир спустился бегом по движущемуся эскалатору метро за 15 с. В следующий раз он спустился вниз в том же темпе, но по неподвижному эскалатору за 24 с. Найдите, за сколько секунд спустился бы пассажир, стоя на ступеньке движущегося эскалатора."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4d86e6dc-d2ac-4761-945f-5e12ea981fa5",
+          "text": "за 40 с",
+          "is_correct": true
+        },
+        {
+          "id": "cef017ec-34a6-4060-a585-45335a19b889",
+          "text": "за 20 с",
+          "is_correct": false
+        },
+        {
+          "id": "14200f25-6d33-4e0e-9659-ff97656c609b",
+          "text": "за 45 с",
+          "is_correct": false
+        },
+        {
+          "id": "f1e8dcef-e8c0-4fc3-9c48-1ca9a617604c",
+          "text": "за 30 с",
+          "is_correct": false
+        },
+        {
+          "id": "8d64bc39-7420-4f8e-9d5c-05e5defb61c7",
+          "text": "за 28 с",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4d86e6dc-d2ac-4761-945f-5e12ea981fa5"
+      ]
+    },
+    {
+      "question_id": "bb682e69-d8a7-4440-9e34-5444522c4aeb",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "12. На круговой диаграмме показано соотношение числа однокомнатных (I), двухкомнатных (II) и трехкомнатных (III) квартир в 320-квартирном доме (в процентах). Других квартир нет. Определить количество однокомнатных квартир в доме. [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/34447c2a-290b-40a6-b378-19916a843431.png]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c8f9503f-57ba-4056-991e-44b7aeba8a8e",
+          "type": "TEXT",
+          "payload": {
+            "text": "12. На круговой диаграмме показано соотношение числа однокомнатных (I), двухкомнатных (II) и трехкомнатных (III) квартир в 320-квартирном доме (в процентах). Других квартир нет. Определить количество однокомнатных квартир в доме."
+          },
+          "position": 1
+        },
+        {
+          "id": "95b3f48e-e401-4661-8569-bee39fafdaef",
+          "type": "IMAGE",
+          "payload": {
+            "url": "media/60f7566407fc43309a63f1d0ae38fae7.png",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/34447c2a-290b-40a6-b378-19916a843431.png"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "98a81fe5-e5bc-43cc-83a8-9cd13010e09d",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "id": "3b23c4e8-3169-454e-beb1-5e8423bf02ea",
+          "text": "40",
+          "is_correct": true
+        },
+        {
+          "id": "8eec7465-e493-4931-a081-93ae07723191",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "id": "bc01fed0-a33e-433e-aec4-2764f4e40c0a",
+          "text": "65",
+          "is_correct": false
+        },
+        {
+          "id": "9166b92c-0d5b-4e04-be71-f74698ae3142",
+          "text": "80",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3b23c4e8-3169-454e-beb1-5e8423bf02ea"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 13,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "e7eafea3-e74b-4cd6-921b-2c2ad7be7558",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Ms. Weaver want Anna to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "09592180-2e18-4518-9bc4-12ef88ae06cd",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Ms. Weaver want Anna to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "5e0bd814-880b-4ee7-aac2-eb8c65a45574",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "8df06c96-de34-4434-b760-06582e2744a7",
+            "text": "Report traffic from a helicopter.",
+            "is_correct": false
+          },
+          {
+            "id": "1db2394d-b520-4722-ac39-1dbf286fffd6",
+            "text": "Manage assignments at The Studio.",
+            "is_correct": false
+          },
+          {
+            "id": "19642f79-6fee-451c-a9c8-4041dac398db",
+            "text": "Put The Studio's new team together.",
+            "is_correct": false
+          },
+          {
+            "id": "7c8e21e5-0007-451a-a5f5-ddd26ba04876",
+            "text": "Return to hosting and reporting.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "7c8e21e5-0007-451a-a5f5-ddd26ba04876"
+        ]
+      },
+      {
+        "question_id": "d5547cc6-dd29-46f5-80c6-9d49aa86be56",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "ffc7dc43-f05e-43bc-a3a7-ae0c953b9b33",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"?"
+            },
+            "position": 1
+          },
+          {
+            "id": "82660da3-f0d8-4770-bcea-3b9b66e310dc",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "70d2cd06-9119-4342-a615-7fccc9397701",
+            "text": "Throw the want ads up in the air.",
+            "is_correct": false
+          },
+          {
+            "id": "9b8ad042-f8d0-48d1-88bc-65972c3c8f0e",
+            "text": "Put the want ads in the garbage.",
+            "is_correct": true
+          },
+          {
+            "id": "2912322a-a551-4e1b-b40f-25253a435ecd",
+            "text": "Call someone from the want ads.",
+            "is_correct": false
+          },
+          {
+            "id": "69e708a4-5383-4730-89ce-11c3ff89ba2e",
+            "text": "Give the want ads to someone else.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9b8ad042-f8d0-48d1-88bc-65972c3c8f0e"
+        ]
+      },
+      {
+        "question_id": "3dee02e2-e652-47fb-8497-b609a0d502e6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna want Pete to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "8ef94dd5-0daa-4422-8e81-6863a7fd8420",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna want Pete to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "9ca4ff7e-cf26-4275-ab48-9a44dc27194e",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d777d30f-efa2-46a4-af65-629857c89cdf",
+            "text": "Go to an interview at her job.",
+            "is_correct": true
+          },
+          {
+            "id": "5109e08e-b64a-49d3-9153-8fe550aef378",
+            "text": "Find someone to host a talk show.",
+            "is_correct": false
+          },
+          {
+            "id": "73e0cdf9-584a-4721-b63f-ed2ecf9f3fb7",
+            "text": "Stop asking so many questions.",
+            "is_correct": false
+          },
+          {
+            "id": "20f1e1a3-d2e7-4d2e-b7b5-2b6f85950a15",
+            "text": "Meet her at her boss's house.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d777d30f-efa2-46a4-af65-629857c89cdf"
+        ]
+      },
+      {
+        "question_id": "fedf379a-e1d5-41b7-9b6f-7c0f9d001cff",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What did Pete do last year? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "0fec90f3-49ea-4ad4-a028-2347797556b3",
+            "type": "TEXT",
+            "payload": {
+              "text": "What did Pete do last year?"
+            },
+            "position": 1
+          },
+          {
+            "id": "6ae26ee2-ff09-4839-8a49-5d73d08560bd",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d98f9445-124d-4569-a254-b115db2ebc85",
+            "text": "Tried to build a cabin in the woods.",
+            "is_correct": false
+          },
+          {
+            "id": "6a45e8cd-9f27-462b-bc16-4a584ecbcc81",
+            "text": "Tried to become more of a people person.",
+            "is_correct": false
+          },
+          {
+            "id": "75afb733-53c1-4bed-8de4-d9773d662bac",
+            "text": "Stayed in a cabin alone and wrote a book.",
+            "is_correct": true
+          },
+          {
+            "id": "8efc3942-953f-45bc-ab7e-6d2e4ec9ee16",
+            "text": "Talked about the work that he is proud of.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "75afb733-53c1-4bed-8de4-d9773d662bac"
+        ]
+      },
+      {
+        "question_id": "5e1eb96d-d6a0-4d2e-b88c-4f847af6b92c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Ms. Weaver choose Anna for hosting and reporting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "31872b21-0643-4d45-8921-7ae768581785",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Ms. Weaver choose Anna for hosting and reporting?"
+            },
+            "position": 1
+          },
+          {
+            "id": "5b69cd2c-77eb-4a89-ba73-4e2617fa4df0",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "83ef492b-1dca-45bb-93e6-70cfcf903cff",
+            "text": "Anna knows how to fly a helicopter.",
+            "is_correct": false
+          },
+          {
+            "id": "f8645605-20ef-454e-b119-00d75159d22e",
+            "text": "Anna is good at asking questions.",
+            "is_correct": true
+          },
+          {
+            "id": "f5348fd4-b85f-4d0f-b4c7-894957c4a434",
+            "text": "Anna wants to work alone.",
+            "is_correct": false
+          },
+          {
+            "id": "33622871-3dee-4509-8e46-268cefcc463b",
+            "text": "Anna has written a book.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f8645605-20ef-454e-b119-00d75159d22e"
+        ]
+      },
+      {
+        "question_id": "2130eba0-a414-4776-a116-c2c08bae8891",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What kind of person does Ms. Weaver want Anna to team up with? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "7f264149-2180-40ca-8711-482f7eb3e3ac",
+            "type": "TEXT",
+            "payload": {
+              "text": "What kind of person does Ms. Weaver want Anna to team up with?"
+            },
+            "position": 1
+          },
+          {
+            "id": "b68f42c2-a3f9-4a6a-b72b-06b310dbdda7",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "80258c13-7074-492c-8e7f-07dd12d2cc3e",
+            "text": "Someone exactly like Anna.",
+            "is_correct": false
+          },
+          {
+            "id": "e4633323-be9b-47c7-b357-b01a9d62cea3",
+            "text": "Someone who is more cheerful than Anna.",
+            "is_correct": false
+          },
+          {
+            "id": "2d958694-486b-4fa3-9604-cb419c866cd8",
+            "text": "Someone very different from Anna.",
+            "is_correct": true
+          },
+          {
+            "id": "de172523-8620-45ab-ad6f-c0070ea7a34d",
+            "text": "Someone who already works as a reporter.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2d958694-486b-4fa3-9604-cb419c866cd8"
+        ]
+      },
+      {
+        "question_id": "1cfde3af-6a0d-4344-9188-149e370fa566",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "How does Ms. Weaver describe Anna? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "e5b468f6-818d-4584-a655-af6423c98c0d",
+            "type": "TEXT",
+            "payload": {
+              "text": "How does Ms. Weaver describe Anna?"
+            },
+            "position": 1
+          },
+          {
+            "id": "a383cd91-09b9-4b6d-9e4d-087699ae54da",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "dac89a5e-14d4-4e72-a733-0e44909050f5",
+            "text": "Quiet and serious.",
+            "is_correct": false
+          },
+          {
+            "id": "37b7da11-e572-4ec4-b1bc-8cd8857bc073",
+            "text": "Grumpy and not good with people.",
+            "is_correct": false
+          },
+          {
+            "id": "341878dc-b5fe-4c20-a638-0376a95d9765",
+            "text": "Cheerful and a people person.",
+            "is_correct": true
+          },
+          {
+            "id": "1f2f1b8f-b5a5-4411-9af6-c7391742fba2",
+            "text": "Busy and tired.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "341878dc-b5fe-4c20-a638-0376a95d9765"
+        ]
+      },
+      {
+        "question_id": "e1fd7d50-564d-4f9b-994a-da50b8c527b6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why is Pete looking at want ads? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c872e664-5915-4c0c-b503-a0a1f2919e38",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why is Pete looking at want ads?"
+            },
+            "position": 1
+          },
+          {
+            "id": "50043e55-727f-456a-888a-10ec3713d35e",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "48caa6cb-7118-4a54-a6c6-5466eb9c532a",
+            "text": "He wants to buy a new house.",
+            "is_correct": false
+          },
+          {
+            "id": "7d7eb4e0-b22a-4263-bf0c-c07fe8aa76ea",
+            "text": "He is preparing a TV report.",
+            "is_correct": false
+          },
+          {
+            "id": "dcf0cd68-137a-425b-9620-dbae85406576",
+            "text": "He is looking for work.",
+            "is_correct": true
+          },
+          {
+            "id": "f96ae2d1-5508-46ab-98ad-280e0b61a45e",
+            "text": "He is helping Anna find a job.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "dcf0cd68-137a-425b-9620-dbae85406576"
+        ]
+      },
+      {
+        "question_id": "17b24978-3fca-47e8-82ac-962d17353bd7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Ms. Weaver want to find out during Pete's interview? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "e01fa989-5c15-4978-8716-d284942c25ba",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Ms. Weaver want to find out during Pete's interview?"
+            },
+            "position": 1
+          },
+          {
+            "id": "500a4952-c29c-4a2e-be49-3638a5921fb3",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "fbde69f7-e533-4ee1-8225-89fca49bd7f4",
+            "text": "If Pete can fly a helicopter.",
+            "is_correct": false
+          },
+          {
+            "id": "4bd3616e-03f8-4e12-8b1b-7c4d2c0a3f78",
+            "text": "If Pete knows Anna well.",
+            "is_correct": false
+          },
+          {
+            "id": "7afc192f-4d58-429c-bcd3-b5ac7b720509",
+            "text": "If Pete has the skills for the job.",
+            "is_correct": true
+          },
+          {
+            "id": "61d1dc51-99de-4091-be1c-e6f36aa2e5f7",
+            "text": "If Pete can finish a crossword puzzle.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7afc192f-4d58-429c-bcd3-b5ac7b720509"
+        ]
+      },
+      {
+        "question_id": "9324f5f5-2fce-4a5c-8ce0-213dc49b5aa9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Pete get the job? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "d0099364-6a87-4b44-912a-f78ddba17f3d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Pete get the job?"
+            },
+            "position": 1
+          },
+          {
+            "id": "dadc2869-de61-405b-ad60-9e73b065ecdd",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "50667150-989d-4045-baf9-f6a2fd70df23",
+            "text": "Because he is very cheerful.",
+            "is_correct": false
+          },
+          {
+            "id": "549648c6-8787-4899-947f-2b89143ebe3a",
+            "text": "Because he is exactly like Anna.",
+            "is_correct": false
+          },
+          {
+            "id": "3be44f7d-9358-4cca-8ceb-15fe21fdff1d",
+            "text": "Because he talks to people all the time.",
+            "is_correct": false
+          },
+          {
+            "id": "81f72a80-38db-4265-950f-68e6b6d3297f",
+            "text": "Because he is grumpy and different from Anna.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "81f72a80-38db-4265-950f-68e6b6d3297f"
+        ]
+      },
+      {
+        "question_id": "9baf181e-820b-4464-b3fa-7f58dcb8d854",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct comparative and superlative forms of “busy”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "796beaf6-0f2d-4ab3-9be2-718553cc328e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct comparative and superlative forms of “busy”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ad9c0f16-093e-41c8-acfc-14826ba585b9",
+            "text": "busy, more busy, most busy",
+            "is_correct": false
+          },
+          {
+            "id": "5dd4292c-3c6c-46e3-b2f9-149231b96486",
+            "text": "busy, busier, busiest",
+            "is_correct": true
+          },
+          {
+            "id": "162c0e59-84fc-4111-b840-632f75229e83",
+            "text": "busy, busyer, busyest",
+            "is_correct": false
+          },
+          {
+            "id": "976071f9-84b4-4bc3-8bb6-3dbfc72eafe8",
+            "text": "busy, more busier, most busiest",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5dd4292c-3c6c-46e3-b2f9-149231b96486"
+        ]
+      },
+      {
+        "question_id": "bffb761f-c68f-4aa4-b285-94550793b2f9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct comparative and superlative forms of “comfortable”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c8cce20c-3f67-4655-8e8b-9987b01be025",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct comparative and superlative forms of “comfortable”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3289957c-4095-4dc4-adfb-508eff0e4007",
+            "text": "comfortable, comfortabler, comfortablest",
+            "is_correct": false
+          },
+          {
+            "id": "8e6b079f-d08c-4014-bec9-8594445c8a3a",
+            "text": "comfortable, more comfortable, most comfortable",
+            "is_correct": true
+          },
+          {
+            "id": "cdc953d2-8d04-47b2-b388-1ddc9cdbd309",
+            "text": "comfortable, more comfortabler, most comfortablest",
+            "is_correct": false
+          },
+          {
+            "id": "a00aa647-30e5-48bc-a7fc-6f1786c6269f",
+            "text": "comfortable, comfortableer, comfortableest",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8e6b079f-d08c-4014-bec9-8594445c8a3a"
+        ]
+      },
+      {
+        "question_id": "d9935796-1783-41bf-9d06-d05415c41f48",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct comparative and superlative forms of “nice”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b6b702ae-40ab-4e8b-885f-86e0165a4fa6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct comparative and superlative forms of “nice”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2cb02d10-4b85-4905-ad2a-930db55b16ad",
+            "text": "nice, niceer, niceest",
+            "is_correct": false
+          },
+          {
+            "id": "2bc80382-7293-4448-b988-abd3c12aa922",
+            "text": "nice, nicer, nicest",
+            "is_correct": true
+          },
+          {
+            "id": "becb1986-b944-4fbd-9d8e-75efdb32bd9d",
+            "text": "nice, more nice, most nice",
+            "is_correct": false
+          },
+          {
+            "id": "4db5098a-e6fc-446e-879a-cedfc4838683",
+            "text": "nice, nicier, niciest",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2bc80382-7293-4448-b988-abd3c12aa922"
+        ]
+      },
+      {
+        "question_id": "6a5201e7-1784-4efe-aba3-a88979aba02e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct comparative and superlative forms of “fit”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e2b9e163-98a0-48ac-bf0d-31f3be5c05d1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct comparative and superlative forms of “fit”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "37453080-6dfc-4e24-bed1-7b0bd95702c6",
+            "text": "fit, fiter, fitest",
+            "is_correct": false
+          },
+          {
+            "id": "320a830e-4efe-4ebc-8853-673dd3887d48",
+            "text": "fit, fitter, fittest",
+            "is_correct": true
+          },
+          {
+            "id": "c2933718-e1cf-4ec8-9513-7ff5246f1de6",
+            "text": "fit, more fit, most fit",
+            "is_correct": false
+          },
+          {
+            "id": "ce1ea360-d32d-43d8-8641-07b988fcb46e",
+            "text": "fit, fitier, fitiest",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "320a830e-4efe-4ebc-8853-673dd3887d48"
+        ]
+      },
+      {
+        "question_id": "3d57ef65-77ee-40d9-a3f8-9ffdb0bcf9d3",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct comparative and superlative forms of “good”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "09293620-e5c4-4426-b6ac-9b92076b77a1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct comparative and superlative forms of “good”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c1ac7b4c-1a78-4d03-b38e-8d469842c686",
+            "text": "good, gooder, goodest",
+            "is_correct": false
+          },
+          {
+            "id": "fb54522b-6564-49f9-b47f-bd9c5c29b409",
+            "text": "good, more good, most good",
+            "is_correct": false
+          },
+          {
+            "id": "eca83ba7-d633-4789-baa2-7883727f2729",
+            "text": "good, better, best",
+            "is_correct": true
+          },
+          {
+            "id": "40cdf641-4acf-4d82-8519-5d165ecde221",
+            "text": "good, goodier, goodiest",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "eca83ba7-d633-4789-baa2-7883727f2729"
+        ]
+      },
+      {
+        "question_id": "7316bd84-a944-4790-bae4-b0c41f232101",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Which adjective is non-gradable and normally cannot be compared?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "05431e43-d5bc-45ce-ac8b-028da2615b5e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which adjective is non-gradable and normally cannot be compared?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a66063c6-5edd-4dac-aff0-ab9f357d18f9",
+            "text": "wet",
+            "is_correct": false
+          },
+          {
+            "id": "3d47a74a-d0b5-4c95-8b71-3d3661a0618d",
+            "text": "kind",
+            "is_correct": false
+          },
+          {
+            "id": "6701da43-1c18-4f71-91cc-0886614107af",
+            "text": "extinct",
+            "is_correct": true
+          },
+          {
+            "id": "48d9d772-117d-4890-8bae-da04f40445c3",
+            "text": "successful",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6701da43-1c18-4f71-91cc-0886614107af"
+        ]
+      },
+      {
+        "question_id": "37cd5f4c-5af5-42fc-ab36-316cc800194e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "54e00a2c-9b5a-41aa-91cb-3f9b30f72540",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e371dbcc-094c-48dc-8ea5-948c802b5865",
+            "text": "Vegetables are more cheap than fast food.",
+            "is_correct": false
+          },
+          {
+            "id": "75f115c1-0d29-4008-9d7f-f9cfd0cdb5ef",
+            "text": "Vegetables are cheaper than fast food.",
+            "is_correct": true
+          },
+          {
+            "id": "9d4dce70-a255-4707-a1aa-0d9cc8c79363",
+            "text": "Vegetables are cheapest than fast food.",
+            "is_correct": false
+          },
+          {
+            "id": "f9118caa-4635-4067-8424-8363545cc9f9",
+            "text": "Vegetables are cheap than fast food.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "75f115c1-0d29-4008-9d7f-f9cfd0cdb5ef"
+        ]
+      },
+      {
+        "question_id": "a2d90861-a251-4c00-b019-cf96eb43ec6f",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "462d7afa-4bbc-467f-8e97-3142edc22ac2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "925303d4-2c70-486e-b54b-430683ab15ee",
+            "text": "Convenience stores are expensiver than supermarkets.",
+            "is_correct": false
+          },
+          {
+            "id": "57fbf2ff-c8b0-4e78-86ec-0c4e57fb8fad",
+            "text": "Convenience stores are more expensive than supermarkets.",
+            "is_correct": true
+          },
+          {
+            "id": "7b9af2c9-9635-4fbc-8870-3759495783c1",
+            "text": "Convenience stores are most expensive than supermarkets.",
+            "is_correct": false
+          },
+          {
+            "id": "c1200530-e065-42fc-8236-11693943255c",
+            "text": "Convenience stores are more expensiver than supermarkets.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "57fbf2ff-c8b0-4e78-86ec-0c4e57fb8fad"
+        ]
+      },
+      {
+        "question_id": "58731598-4206-422f-ac01-ac1e090d0ca8",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct superlative sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "e5f64ee8-be94-4481-8904-cedcb5ae2484",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct superlative sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7d8a8f0c-d3d7-4024-bb37-816d2977ffc9",
+            "text": "This is most obvious solution.",
+            "is_correct": false
+          },
+          {
+            "id": "c4565164-5b9a-4511-9895-445302d97c11",
+            "text": "This is the obviousest solution.",
+            "is_correct": false
+          },
+          {
+            "id": "1dd3f8c4-944a-44cd-b257-9f8417b76e12",
+            "text": "This is one of the most obvious solutions.",
+            "is_correct": true
+          },
+          {
+            "id": "fd166360-95a5-4daf-8c79-3062b0e098c8",
+            "text": "This is one of the more obvious solution.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1dd3f8c4-944a-44cd-b257-9f8417b76e12"
+        ]
+      },
+      {
+        "question_id": "d28fe84a-71ed-4de4-bba3-43b3d6666cd6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct comparative question.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "22c4bb8d-b96d-4853-9c07-b4a71f9ce1c8",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct comparative question."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cd05f75c-db0a-4769-a253-04c5040a307e",
+            "text": "Which sport is dangerous, skateboarding or volleyball?",
+            "is_correct": false
+          },
+          {
+            "id": "0cc5b4fa-2b1b-499f-84c0-49f0dc2304b3",
+            "text": "Which sport is more dangerous, skateboarding or volleyball?",
+            "is_correct": true
+          },
+          {
+            "id": "626d36c6-8de6-43f1-aac9-a8b50e578432",
+            "text": "Which sport is the most dangerous than volleyball?",
+            "is_correct": false
+          },
+          {
+            "id": "efa89f80-7ee6-4fa5-8458-5b3ac086a733",
+            "text": "Which sport more dangerous is, skateboarding or volleyball?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0cc5b4fa-2b1b-499f-84c0-49f0dc2304b3"
+        ]
+      },
+      {
+        "question_id": "3953b7e7-818a-42a1-905a-78d8e3a8d55a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the rewritten passage and choose the correct answer. The lands of England, Scotland, Wales, and Ireland were traditionally grouped under the name “the British Isles.” This expression is still used in geography, although it should be used carefully. The peoples living on these islands were rarely fully united either in politics or in culture. Attempts to bring them together began as early as the twelfth century, but they shared one monarch only in 1603. A full political union was not completed until 1801, and it lasted for only 120 years. One of the earliest serious efforts to create unity was made by the Norman ruler Edward I near the end of the thirteenth century. He was successful in Wales, where large Norman castles were constructed and local lords protected the border. To show his control over Wales, Edward I gave his eldest son the title Prince of Wales in 1301. Since that time, this title has usually been given to the eldest son of the ruling monarch. In Ireland, however, Norman settlement did not spread much farther than Dublin and several towns on the coast. In Scotland, Edward’s campaign ended in failure. Scotland was not firmly drawn into England’s sphere until the time of Elizabeth. Its dependence on England was finally secured through diplomacy in 1603. That same year, a powerful Irish rebellion was defeated, and James I, ruling the three kingdoms, could call himself King of Great Britain. Still, the union was weak and fell apart during the following reign. A later major step toward unification came with the Act of Union with Scotland in 1707. While that agreement was being discussed, the Irish House of Commons asked for a similar union, but the English government refused to examine the request. The union between Britain and Ireland happened almost a hundred years later, in 1801. By then, the Irish Parliament was unwilling, so the British government used large-scale bribery to make the union happen. According to the passage, how is the expression “British Isles” still used today?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "3cdfc8fc-9740-4c1b-85fa-4f3ea2e5ae5b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the rewritten passage and choose the correct answer. The lands of England, Scotland, Wales, and Ireland were traditionally grouped under the name “the British Isles.” This expression is still used in geography, although it should be used carefully. The peoples living on these islands were rarely fully united either in politics or in culture. Attempts to bring them together began as early as the twelfth century, but they shared one monarch only in 1603. A full political union was not completed until 1801, and it lasted for only 120 years. One of the earliest serious efforts to create unity was made by the Norman ruler Edward I near the end of the thirteenth century. He was successful in Wales, where large Norman castles were constructed and local lords protected the border. To show his control over Wales, Edward I gave his eldest son the title Prince of Wales in 1301. Since that time, this title has usually been given to the eldest son of the ruling monarch. In Ireland, however, Norman settlement did not spread much farther than Dublin and several towns on the coast. In Scotland, Edward’s campaign ended in failure. Scotland was not firmly drawn into England’s sphere until the time of Elizabeth. Its dependence on England was finally secured through diplomacy in 1603. That same year, a powerful Irish rebellion was defeated, and James I, ruling the three kingdoms, could call himself King of Great Britain. Still, the union was weak and fell apart during the following reign. A later major step toward unification came with the Act of Union with Scotland in 1707. While that agreement was being discussed, the Irish House of Commons asked for a similar union, but the English government refused to examine the request. The union between Britain and Ireland happened almost a hundred years later, in 1801. By then, the Irish Parliament was unwilling, so the British government used large-scale bribery to make the union happen. According to the passage, how is the expression “British Isles” still used today?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2330cd6b-9b61-498c-929b-7d01481e8164",
+            "text": "People no longer use it in any context",
+            "is_correct": false
+          },
+          {
+            "id": "d7a9887c-4063-48c6-b57b-3b07592bc57e",
+            "text": "It is used only as a political title",
+            "is_correct": false
+          },
+          {
+            "id": "a72241f6-bcd6-4923-8f0b-b100cc92f926",
+            "text": "It is used only for Ireland",
+            "is_correct": false
+          },
+          {
+            "id": "db866e0a-09c0-4252-a3cb-1c7cb0ff6066",
+            "text": "It is still used as a geographical term",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "db866e0a-09c0-4252-a3cb-1c7cb0ff6066"
+        ]
+      },
+      {
+        "question_id": "cf369a18-131e-4139-b729-a025c28ab7d5",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Who made one of the earliest serious attempts to unite these lands?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "49362329-afdf-40cd-addb-0ca70008ca13",
+            "type": "TEXT",
+            "payload": {
+              "text": "Who made one of the earliest serious attempts to unite these lands?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b8f9819c-77d2-4eb7-ba88-cec15f3344de",
+            "text": "Edward I",
+            "is_correct": true
+          },
+          {
+            "id": "40e00e12-88bb-4d1c-a783-9117b7b0681d",
+            "text": "Elizabeth",
+            "is_correct": false
+          },
+          {
+            "id": "1bd727de-c486-4c24-bdac-b4dc5c455f95",
+            "text": "James I",
+            "is_correct": false
+          },
+          {
+            "id": "bb230634-0392-4ec9-9e12-f0f1e987f2c9",
+            "text": "The eldest son of the monarch",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b8f9819c-77d2-4eb7-ba88-cec15f3344de"
+        ]
+      },
+      {
+        "question_id": "416fe891-22e5-4186-8949-8362c3d50e97",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "In which year did the Act of Union with Scotland mark a major step toward unification?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c50a13a5-4a5c-4e76-b7e8-c05a6254282f",
+            "type": "TEXT",
+            "payload": {
+              "text": "In which year did the Act of Union with Scotland mark a major step toward unification?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e3c35fdf-1f72-495d-85c0-1a92cce449d3",
+            "text": "1707",
+            "is_correct": true
+          },
+          {
+            "id": "588157a7-f008-4766-bbfe-7b593f45e7af",
+            "text": "1801",
+            "is_correct": false
+          },
+          {
+            "id": "6c8bfbb4-1f7f-42b1-8963-f3d93bc72067",
+            "text": "1301",
+            "is_correct": false
+          },
+          {
+            "id": "75cc4f7d-d5b1-4f4e-8db1-6812e86a4680",
+            "text": "1603",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e3c35fdf-1f72-495d-85c0-1a92cce449d3"
+        ]
+      },
+      {
+        "question_id": "840f1b00-2a38-47e8-babe-53e67b3f824d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Edward I is described in the passage as which kind of ruler?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "90a63e9a-b0bd-4776-937b-7f886638aa3b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Edward I is described in the passage as which kind of ruler?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e753e02f-a675-41da-a18e-f55d0a3875d3",
+            "text": "An Irish king",
+            "is_correct": false
+          },
+          {
+            "id": "4b26b929-7e40-48cf-b799-b10391ed631a",
+            "text": "A Norman king",
+            "is_correct": true
+          },
+          {
+            "id": "56bdcbad-f911-4c56-a339-00861ab45acf",
+            "text": "King of Great Britain",
+            "is_correct": false
+          },
+          {
+            "id": "2a440bc1-fea2-4a49-a8fc-1dd4dc7c71a7",
+            "text": "A Scottish prince",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4b26b929-7e40-48cf-b799-b10391ed631a"
+        ]
+      },
+      {
+        "question_id": "d1022472-f2c1-49e8-9e52-3b25d88da57d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "When was Scotland’s dependence on England secured through diplomacy?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6e4f811b-a879-4720-a16b-c5582f69af01",
+            "type": "TEXT",
+            "payload": {
+              "text": "When was Scotland’s dependence on England secured through diplomacy?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5b417a2d-e88e-4da8-8833-4331e9bfc25a",
+            "text": "1707",
+            "is_correct": false
+          },
+          {
+            "id": "7c5698f5-6a3c-45aa-a1ab-002d6378b365",
+            "text": "1801",
+            "is_correct": false
+          },
+          {
+            "id": "ab21c6e4-1357-431f-92a4-e55c364af96e",
+            "text": "1301",
+            "is_correct": false
+          },
+          {
+            "id": "12402123-0051-4d76-9c53-d83701d0f8ce",
+            "text": "1603",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "12402123-0051-4d76-9c53-d83701d0f8ce"
+        ]
+      },
+      {
+        "question_id": "d6808554-81d1-4791-aa42-4a4b632efc83",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which union was finally achieved in 1801?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b1c8e2b2-a769-43bf-b502-3fdbd1b661a2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which union was finally achieved in 1801?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "15de9074-e428-447a-8681-a3b6b0dddf3e",
+            "text": "The union of Britain with Ireland",
+            "is_correct": true
+          },
+          {
+            "id": "1c1c3f13-81c1-4954-941f-cc657e2d0862",
+            "text": "The union of Britain with Scotland",
+            "is_correct": false
+          },
+          {
+            "id": "618fb036-b9d4-4cca-9043-1923c4d74946",
+            "text": "The union of the USA with Britain",
+            "is_correct": false
+          },
+          {
+            "id": "a499afa5-0faf-4c17-b25d-89bf23a924b6",
+            "text": "The union of Ireland with Scotland",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "15de9074-e428-447a-8681-a3b6b0dddf3e"
+        ]
+      },
+      {
+        "question_id": "56614861-bdf5-486e-94f0-1234bf39b101",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "According to the passage, Norman settlement in Ireland did not go much farther than which city and the coastal towns?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "bd229edb-74b6-4bc4-b22e-b4de95f3cd5a",
+            "type": "TEXT",
+            "payload": {
+              "text": "According to the passage, Norman settlement in Ireland did not go much farther than which city and the coastal towns?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "517db3b9-a56a-4be5-a2c2-b7643d9cee19",
+            "text": "Belfast",
+            "is_correct": false
+          },
+          {
+            "id": "01609ddd-f473-49d4-8563-6f686698c54d",
+            "text": "Dublin",
+            "is_correct": true
+          },
+          {
+            "id": "f0f7204a-5017-4f22-aa74-92bb3ffbc4e8",
+            "text": "London",
+            "is_correct": false
+          },
+          {
+            "id": "4596e3c2-660f-4f3e-867c-01965bf849c9",
+            "text": "Cardiff",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "01609ddd-f473-49d4-8563-6f686698c54d"
+        ]
+      },
+      {
+        "question_id": "b6d5a9b0-86ce-4d64-8f0f-e6ae70dc55d8",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "In what year was the complete political union finally created?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "44532aba-3438-4e98-8c14-a9c527bc57f9",
+            "type": "TEXT",
+            "payload": {
+              "text": "In what year was the complete political union finally created?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "eead1c93-6afd-43ec-ad58-929d18161761",
+            "text": "1707",
+            "is_correct": false
+          },
+          {
+            "id": "acc1560a-c65d-4c7d-9289-22a5a57018eb",
+            "text": "1801",
+            "is_correct": true
+          },
+          {
+            "id": "909b6d5d-0f58-43b3-be54-80ef6c7c15db",
+            "text": "1303",
+            "is_correct": false
+          },
+          {
+            "id": "6dda2bbf-96cb-4184-83a9-9d6f4f710650",
+            "text": "1603",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "acc1560a-c65d-4c7d-9289-22a5a57018eb"
+        ]
+      },
+      {
+        "question_id": "55efd579-c720-4b5c-b80d-a107f7827531",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which title did Edward I give to his eldest son in 1301?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b456b9ab-66f9-432b-9392-6d6210c8de66",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which title did Edward I give to his eldest son in 1301?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3bbbfea8-ca71-42bf-94ae-e452929031f0",
+            "text": "King of Scotland",
+            "is_correct": false
+          },
+          {
+            "id": "c998a875-17a9-4510-bd1a-c7119dd27d35",
+            "text": "Lord of Dublin",
+            "is_correct": false
+          },
+          {
+            "id": "419038ab-6159-4f04-a9de-ba80c030cfe9",
+            "text": "Prince of Wales",
+            "is_correct": true
+          },
+          {
+            "id": "c4831ed4-219c-4ffa-aa37-7ecd3e177336",
+            "text": "King of Ireland",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "419038ab-6159-4f04-a9de-ba80c030cfe9"
+        ]
+      },
+      {
+        "question_id": "90c7c000-76e3-42be-9cf5-ba99b140067d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which ruler could call himself King of Great Britain after the events of 1603?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "b758cb98-6657-4db3-8635-7de78b481b4a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which ruler could call himself King of Great Britain after the events of 1603?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a865c4bb-05a6-4bb4-9c5c-6aaf8c2be349",
+            "text": "Edward I",
+            "is_correct": false
+          },
+          {
+            "id": "12433498-be1d-4d28-8dc9-a1b939c5e93f",
+            "text": "James I",
+            "is_correct": true
+          },
+          {
+            "id": "0cca0961-f7cb-4917-ac41-2ee274cd2277",
+            "text": "Elizabeth",
+            "is_correct": false
+          },
+          {
+            "id": "872fab20-271c-4c48-a07e-6b1864094bf1",
+            "text": "The Prince of Wales",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "12433498-be1d-4d28-8dc9-a1b939c5e93f"
+        ]
+      },
+      {
+        "question_id": "42bd14ab-dfdd-48fb-a459-16f09aa53a77",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Городская агломерация (конурбация) — группа близко расположенных и тесно связанных между собой городов. Именно такие города, как Большой Лондон и Большой Париж, образуют единое целое благодаря экономическим и культурно-бытовым связям, общим крупным инженерным сооружениям, транспорту, водоснабжению. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5b23b7a0-a06d-491d-b100-04a78322b6ca",
+            "type": "TEXT",
+            "payload": {
+              "text": "Городская агломерация (конурбация) — группа близко расположенных и тесно связанных между собой городов. Именно такие города, как Большой Лондон и Большой Париж, образуют единое целое благодаря экономическим и культурно-бытовым связям, общим крупным инженерным сооружениям, транспорту, водоснабжению. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "927f31cd-8b07-42ad-91df-181fa5705be5",
+            "text": "вводная информация",
+            "is_correct": false
+          },
+          {
+            "id": "3cf02049-a8b6-4f7e-9cc2-7b31b199f2ed",
+            "text": "дублирующая",
+            "is_correct": false
+          },
+          {
+            "id": "7a9d42d3-1072-49bf-b34d-32952699a18c",
+            "text": "резюмирующая",
+            "is_correct": false
+          },
+          {
+            "id": "a50ed072-ce8c-4438-a1d0-90710133a5cc",
+            "text": "аргументирующая",
+            "is_correct": false
+          },
+          {
+            "id": "cf11f141-f2be-4b5b-8009-8b8d524b995a",
+            "text": "конкретизирующая",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "cf11f141-f2be-4b5b-8009-8b8d524b995a"
+        ]
+      },
+      {
+        "question_id": "568f67f7-34ad-4168-8247-3436887de346",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Городской ветер — в больших городах ветер ведёт себя совсем не так, как в окружающих город сельских районах. К основным особенностям городского ветра относятся: скорость воздушных потоков на 30% ниже, чем на незастроенных пространствах; периоды безветренной погоды случаются на 1–20% чаще; иногда ветры могут достигать очень большой силы из-за создаваемого зданиями сквознякового эффекта. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "00b15ea2-d782-4e99-9026-76445213bbee",
+            "type": "TEXT",
+            "payload": {
+              "text": "Городской ветер — в больших городах ветер ведёт себя совсем не так, как в окружающих город сельских районах. К основным особенностям городского ветра относятся: скорость воздушных потоков на 30% ниже, чем на незастроенных пространствах; периоды безветренной погоды случаются на 1–20% чаще; иногда ветры могут достигать очень большой силы из-за создаваемого зданиями сквознякового эффекта. \n\nНа основе анализа содержания текста определите вид информации, представленный во второй части текста."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1fe47858-cbd1-4319-8a6c-1ad614a93b55",
+            "text": "резюмирующая",
+            "is_correct": false
+          },
+          {
+            "id": "466b88f8-3625-4327-865e-e2a76f977222",
+            "text": "обобщающая",
+            "is_correct": false
+          },
+          {
+            "id": "d918ef90-06d7-4aef-8143-e20a48163deb",
+            "text": "аргументирующая",
+            "is_correct": false
+          },
+          {
+            "id": "7f795851-4b33-45b5-9544-78b3e34b0287",
+            "text": "дублирующая",
+            "is_correct": false
+          },
+          {
+            "id": "de69c505-9bf3-4619-90b1-8bd358d8044b",
+            "text": "детализирующая",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "de69c505-9bf3-4619-90b1-8bd358d8044b"
+        ]
+      },
+      {
+        "question_id": "d6a590aa-84b8-4b86-96c6-47afe4982f09",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Фридрих Энгельс писал: «Апелляция к морали и праву в научном отношении нисколько не подвигает нас вперед; в нравственном негодовании, как бы оно ни было справедливо, экономическая наука может усматривать не доказательство, а только […]».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "3992688e-fa97-42ac-99c1-1fa9b3d80908",
+            "type": "TEXT",
+            "payload": {
+              "text": "Фридрих Энгельс писал: «Апелляция к морали и праву в научном отношении нисколько не подвигает нас вперед; в нравственном негодовании, как бы оно ни было справедливо, экономическая наука может усматривать не доказательство, а только […]»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fd844564-c30e-4114-8085-992c85c2575b",
+            "text": "тезис",
+            "is_correct": false
+          },
+          {
+            "id": "f1dee8b5-62ee-4ae2-9479-3bdc00a8303a",
+            "text": "заблуждение",
+            "is_correct": false
+          },
+          {
+            "id": "4bc9abc3-10b9-4296-a3ff-3c7e12b1b00c",
+            "text": "аргумент",
+            "is_correct": false
+          },
+          {
+            "id": "d063d348-d46e-44a6-a5c6-aaffd5965129",
+            "text": "бессмыслицу",
+            "is_correct": false
+          },
+          {
+            "id": "4df101d7-1dfb-4e81-a8eb-3210f904eb94",
+            "text": "симптом",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "4df101d7-1dfb-4e81-a8eb-3210f904eb94"
+        ]
+      },
+      {
+        "question_id": "48e6fa3b-3a44-4655-bfa0-0582e80ed8ab",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "А.П. Чехов писал: «В человеке должно быть все прекрасно: и лицо, и одежда, и душа, и […]». \n\nВставьте слово, которое использовал писатель.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "71d24985-ad9b-49a9-af69-c716da32e455",
+            "type": "TEXT",
+            "payload": {
+              "text": "А.П. Чехов писал: «В человеке должно быть все прекрасно: и лицо, и одежда, и душа, и […]». \n\nВставьте слово, которое использовал писатель."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "dd98b1de-28fa-4495-9fbe-916a5957f97d",
+            "text": "ботинки",
+            "is_correct": false
+          },
+          {
+            "id": "d7bc7e2a-6097-49ff-aaaf-a6d980a66d40",
+            "text": "мечты",
+            "is_correct": false
+          },
+          {
+            "id": "a32589cc-45df-49b8-9b94-bbfd5c1cab14",
+            "text": "мысли",
+            "is_correct": true
+          },
+          {
+            "id": "aa5a3837-7983-4511-a974-5b78fdb43f2f",
+            "text": "воображение",
+            "is_correct": false
+          },
+          {
+            "id": "31734389-37d7-4328-8e7b-98b83f8f57b3",
+            "text": "прическа",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a32589cc-45df-49b8-9b94-bbfd5c1cab14"
+        ]
+      },
+      {
+        "question_id": "664e23e9-e0a3-49cd-a063-139b441c113f",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Карл Маркс писал: «Если человек трудится только для себя, он может, пожалуй, стать знаменитым ученым, великим мудрецом, превосходным поэтом, но никогда не сможет стать истинно совершенным и великим […]». \n\nВставьте слово по смыслу.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0d803eed-09b2-4357-bd90-f128c1ac7513",
+            "type": "TEXT",
+            "payload": {
+              "text": "Карл Маркс писал: «Если человек трудится только для себя, он может, пожалуй, стать знаменитым ученым, великим мудрецом, превосходным поэтом, но никогда не сможет стать истинно совершенным и великим […]». \n\nВставьте слово по смыслу."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8dcaa9ad-8f3b-4eb3-85fb-277b2c9d02de",
+            "text": "композитором",
+            "is_correct": false
+          },
+          {
+            "id": "0b360bc1-d466-46cb-b766-1dd847ce4d28",
+            "text": "космонавтом",
+            "is_correct": false
+          },
+          {
+            "id": "243e4d9b-a738-4a78-b5c7-105b5c704cff",
+            "text": "экономистом",
+            "is_correct": false
+          },
+          {
+            "id": "8feb939c-477d-4424-a405-65e48d293573",
+            "text": "человеком",
+            "is_correct": true
+          },
+          {
+            "id": "33b05402-941b-45fc-b87a-c6cec3241b7b",
+            "text": "философом",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8feb939c-477d-4424-a405-65e48d293573"
+        ]
+      },
+      {
+        "question_id": "9832b407-7308-48f5-9a76-9753e0cc9722",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6559b3a1-c6fa-48d3-8ea2-dd224d51e26a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "59b482cf-bbbc-493b-990d-4f973338f0e7",
+            "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+            "is_correct": false
+          },
+          {
+            "id": "c91db6a1-bf8e-402f-91c7-6e07486d753a",
+            "text": "A < B",
+            "is_correct": true
+          },
+          {
+            "id": "6caa700f-a10f-46df-a30a-6a78acc8fedb",
+            "text": "A = B",
+            "is_correct": false
+          },
+          {
+            "id": "5a485fe8-1f3d-475f-b131-42c6959ca16b",
+            "text": "B < A",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c91db6a1-bf8e-402f-91c7-6e07486d753a"
+        ]
+      },
+      {
+        "question_id": "f0605b20-0b19-4960-b7bb-9e3d863dc705",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "071ec70f-a5e9-4dbc-aaf5-94bb30f2b623",
+            "type": "TEXT",
+            "payload": {
+              "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d5773ab2-d311-4e15-b2ff-32f69178e3fe",
+            "text": "(1; 0)",
+            "is_correct": false
+          },
+          {
+            "id": "4fbeb1d7-5f8e-44a6-8173-56e5c1c710a3",
+            "text": "(0; −1)",
+            "is_correct": true
+          },
+          {
+            "id": "abaa98b5-ae5b-4b74-b18c-a5583002a92d",
+            "text": "(3; −3)",
+            "is_correct": false
+          },
+          {
+            "id": "0ea18355-43a0-4dde-ae7c-bbfbcaf4226f",
+            "text": "(5; −4)",
+            "is_correct": false
+          },
+          {
+            "id": "41b46d93-d48a-44d5-8a69-29175cc65cc7",
+            "text": "(4; 5)",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4fbeb1d7-5f8e-44a6-8173-56e5c1c710a3"
+        ]
+      },
+      {
+        "question_id": "558856f0-ae7c-478e-8e19-7a55170b1dff",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b82696e1-2a11-4f09-a290-7ab0673e46b7",
+            "type": "TEXT",
+            "payload": {
+              "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d9a8df33-f11d-4b48-bc7c-265b4b9bae5f",
+            "text": "1 жыл 3 ай",
+            "is_correct": false
+          },
+          {
+            "id": "bac3cf5c-989f-4c84-9745-35872d46f969",
+            "text": "4 жыл",
+            "is_correct": true
+          },
+          {
+            "id": "985b36c6-274e-492a-ada9-30f0848f72f9",
+            "text": "6 жыл",
+            "is_correct": false
+          },
+          {
+            "id": "e95d3418-371d-4cc3-b5c8-3f3cf374aa74",
+            "text": "5,5 жыл",
+            "is_correct": false
+          },
+          {
+            "id": "ece7c301-7c41-45da-9dc2-fcee3274cf7d",
+            "text": "3 жыл",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bac3cf5c-989f-4c84-9745-35872d46f969"
+        ]
+      },
+      {
+        "question_id": "c4481fad-5757-46ea-a148-e01aae93ec1f",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Пассажир спустился бегом по движущемуся эскалатору метро за 15 с. В следующий раз он спустился вниз в том же темпе, но по неподвижному эскалатору за 24 с. Найдите, за сколько секунд спустился бы пассажир, стоя на ступеньке движущегося эскалатора.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "b7abf280-d27c-4215-bd1c-bb5434b96514",
+            "type": "TEXT",
+            "payload": {
+              "text": "Пассажир спустился бегом по движущемуся эскалатору метро за 15 с. В следующий раз он спустился вниз в том же темпе, но по неподвижному эскалатору за 24 с. Найдите, за сколько секунд спустился бы пассажир, стоя на ступеньке движущегося эскалатора."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4d86e6dc-d2ac-4761-945f-5e12ea981fa5",
+            "text": "за 40 с",
+            "is_correct": true
+          },
+          {
+            "id": "cef017ec-34a6-4060-a585-45335a19b889",
+            "text": "за 20 с",
+            "is_correct": false
+          },
+          {
+            "id": "14200f25-6d33-4e0e-9659-ff97656c609b",
+            "text": "за 45 с",
+            "is_correct": false
+          },
+          {
+            "id": "f1e8dcef-e8c0-4fc3-9c48-1ca9a617604c",
+            "text": "за 30 с",
+            "is_correct": false
+          },
+          {
+            "id": "8d64bc39-7420-4f8e-9d5c-05e5defb61c7",
+            "text": "за 28 с",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4d86e6dc-d2ac-4761-945f-5e12ea981fa5"
+        ]
+      },
+      {
+        "question_id": "bb682e69-d8a7-4440-9e34-5444522c4aeb",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "12. На круговой диаграмме показано соотношение числа однокомнатных (I), двухкомнатных (II) и трехкомнатных (III) квартир в 320-квартирном доме (в процентах). Других квартир нет. Определить количество однокомнатных квартир в доме. [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/34447c2a-290b-40a6-b378-19916a843431.png]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c8f9503f-57ba-4056-991e-44b7aeba8a8e",
+            "type": "TEXT",
+            "payload": {
+              "text": "12. На круговой диаграмме показано соотношение числа однокомнатных (I), двухкомнатных (II) и трехкомнатных (III) квартир в 320-квартирном доме (в процентах). Других квартир нет. Определить количество однокомнатных квартир в доме."
+            },
+            "position": 1
+          },
+          {
+            "id": "95b3f48e-e401-4661-8569-bee39fafdaef",
+            "type": "IMAGE",
+            "payload": {
+              "url": "media/60f7566407fc43309a63f1d0ae38fae7.png",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/34447c2a-290b-40a6-b378-19916a843431.png"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "98a81fe5-e5bc-43cc-83a8-9cd13010e09d",
+            "text": "45",
+            "is_correct": false
+          },
+          {
+            "id": "3b23c4e8-3169-454e-beb1-5e8423bf02ea",
+            "text": "40",
+            "is_correct": true
+          },
+          {
+            "id": "8eec7465-e493-4931-a081-93ae07723191",
+            "text": "60",
+            "is_correct": false
+          },
+          {
+            "id": "bc01fed0-a33e-433e-aec4-2764f4e40c0a",
+            "text": "65",
+            "is_correct": false
+          },
+          {
+            "id": "9166b92c-0d5b-4e04-be71-f74698ae3142",
+            "text": "80",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3b23c4e8-3169-454e-beb1-5e8423bf02ea"
+        ]
+      }
+    ]
+  }
+}

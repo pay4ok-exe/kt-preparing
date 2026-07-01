@@ -1,0 +1,3771 @@
+{
+  "variant_id": "angl_tgo_v02",
+  "title": "Английский + ТГО — Вариант 2",
+  "total_count": 40,
+  "attempt_id": "b712b3fe-e2b7-4131-b3ce-806dae9dc315",
+  "questions": [
+    {
+      "question_id": "442a2d36-8135-438e-a039-c2fa92b95ba9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is the main topic of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "2de43d5a-4f22-48c3-b816-9f1686d3a2ff",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is the main topic of the audio?"
+          },
+          "position": 1
+        },
+        {
+          "id": "4275474f-e338-44d5-927f-2eca7c337193",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "cbbc397f-7fab-4959-8b57-2c8297ebac02",
+          "text": "How to remember your dreams.",
+          "is_correct": false
+        },
+        {
+          "id": "74694e97-47fc-4555-8724-c0c735c50dc2",
+          "text": "How to find your dream job.",
+          "is_correct": false
+        },
+        {
+          "id": "1b4080c3-1170-44cc-a85c-be3b703f4836",
+          "text": "English expressions with the word “dream.”",
+          "is_correct": true
+        },
+        {
+          "id": "645ed905-0c91-4044-9ecb-ece6662d7e6b",
+          "text": "How to travel to Italy.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1b4080c3-1170-44cc-a85c-be3b703f4836"
+      ]
+    },
+    {
+      "question_id": "b7465281-a96d-4717-8b77-3cbb2f0fda13",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “I wouldn’t dream of saying it” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c4f09e30-1ed9-4efe-98b0-cc18be1942ba",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “I wouldn’t dream of saying it” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "e5271217-bf90-4225-9bea-ef1312da7aa5",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "db935c53-e77c-4280-be6c-2579a1ea16c4",
+          "text": "I forgot to say it.",
+          "is_correct": false
+        },
+        {
+          "id": "e7055c7e-61bf-4547-970a-e2e066dba424",
+          "text": "I said it in a dream.",
+          "is_correct": false
+        },
+        {
+          "id": "87e8e4b0-7257-4ede-86c1-dda1d9534ccb",
+          "text": "I would never say it.",
+          "is_correct": true
+        },
+        {
+          "id": "4eb4e023-b4dd-4cf0-9845-2c389c2c7036",
+          "text": "I want to say it later.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "87e8e4b0-7257-4ede-86c1-dda1d9534ccb"
+      ]
+    },
+    {
+      "question_id": "4c97938c-4350-4c67-ad33-8a83b925a7ea",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does the expression “works like a dream” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2476d178-ca7d-40b5-8c43-b7cc8d399ceb",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does the expression “works like a dream” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "5b3da058-a2fb-4c7d-9e28-8f33a061cfdf",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "342c61ba-bab3-4cb8-94bd-6d242a1f9ebc",
+          "text": "It works only while you are sleeping.",
+          "is_correct": false
+        },
+        {
+          "id": "470bf58c-5042-4107-8105-0db4a0e4312e",
+          "text": "It works really well.",
+          "is_correct": true
+        },
+        {
+          "id": "69615954-56ac-4f3d-bbac-178bafeeab5d",
+          "text": "It is difficult to use.",
+          "is_correct": false
+        },
+        {
+          "id": "0d31cb8b-b4ed-4860-9f60-16d2752b994a",
+          "text": "It is imaginary.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "470bf58c-5042-4107-8105-0db4a0e4312e"
+      ]
+    },
+    {
+      "question_id": "f6cb0dd6-34e0-4db3-a0ff-051617bbbfff",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does the speaker say examples are useful when learning a language? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "f7e4bf44-5790-4dd4-a668-bdc76adfdefd",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does the speaker say examples are useful when learning a language?"
+          },
+          "position": 1
+        },
+        {
+          "id": "796b5b84-64be-4392-a228-9274e10dd756",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "319d041e-c51c-494d-813e-2c7608249dc8",
+          "text": "They make grammar unnecessary.",
+          "is_correct": false
+        },
+        {
+          "id": "4a6a56b5-e55d-40de-be14-4cee9f450c02",
+          "text": "They help people avoid conversations.",
+          "is_correct": false
+        },
+        {
+          "id": "18be04dd-b913-4688-b3a4-eccaa0ad8832",
+          "text": "They show how words and phrases are used correctly.",
+          "is_correct": true
+        },
+        {
+          "id": "69ca20dc-5358-49f4-b97f-2fb331dab26f",
+          "text": "They replace listening practice.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "18be04dd-b913-4688-b3a4-eccaa0ad8832"
+      ]
+    },
+    {
+      "question_id": "3a27a2a3-adc4-4e84-8ba7-6c46cd23c3a2",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What happens when “dream” is put before another word? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "3f63621c-8ece-413b-af08-8c65ddd1db92",
+          "type": "TEXT",
+          "payload": {
+            "text": "What happens when “dream” is put before another word?"
+          },
+          "position": 1
+        },
+        {
+          "id": "fd13ffb8-1b21-4ecb-9944-b8527125d794",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "4f40812c-0772-4b03-95d3-bd2570211245",
+          "text": "It makes the word negative.",
+          "is_correct": false
+        },
+        {
+          "id": "43a4f43a-dde7-480a-aeb4-c02f930f12df",
+          "text": "It means the thing is impossible.",
+          "is_correct": false
+        },
+        {
+          "id": "46e639a5-270d-446a-89b6-96918c8aa2ad",
+          "text": "It means that thing is the best choice for you.",
+          "is_correct": true
+        },
+        {
+          "id": "3ee11096-65b2-43f0-96e6-e174f3e23d55",
+          "text": "It means the thing happened while sleeping.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "46e639a5-270d-446a-89b6-96918c8aa2ad"
+      ]
+    },
+    {
+      "question_id": "68b35b20-2a7c-4fb5-bbe6-013d284f6233",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is a “dream job”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c73da31f-0096-46e0-87dc-53bd30570549",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is a “dream job”?"
+          },
+          "position": 1
+        },
+        {
+          "id": "b44e1f93-af78-48bf-9178-d32b80472edf",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "a881ffbd-a1ea-4276-8bdc-8f3898ef181a",
+          "text": "A job you do while sleeping.",
+          "is_correct": false
+        },
+        {
+          "id": "affaf9b8-b077-4b23-ba14-c19b2d2c296a",
+          "text": "A job you do not want.",
+          "is_correct": false
+        },
+        {
+          "id": "b34ca4dc-93f2-4311-b778-5ef6898a0e90",
+          "text": "A job that has everything you could want.",
+          "is_correct": true
+        },
+        {
+          "id": "0caf61a4-9c09-464b-a2c8-539d23b1b7a0",
+          "text": "A job that is impossible to get.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b34ca4dc-93f2-4311-b778-5ef6898a0e90"
+      ]
+    },
+    {
+      "question_id": "5459867f-684d-4012-bd61-434d8c1cc2cd",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “beyond your wildest dreams” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "4444a228-a8ea-45ed-ae78-6c3dc34b6925",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “beyond your wildest dreams” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "3ac3cab8-69ab-4956-a86f-e5320c6436e7",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "e2bf8c70-76be-4d90-9767-a754832eb292",
+          "text": "Something scary and dangerous.",
+          "is_correct": false
+        },
+        {
+          "id": "4bfa07da-c3f5-4b43-b842-f86ec2281c95",
+          "text": "Something you planned carefully.",
+          "is_correct": false
+        },
+        {
+          "id": "083f7530-06e9-4d55-9781-45b60882d845",
+          "text": "Something more amazing than you could imagine.",
+          "is_correct": true
+        },
+        {
+          "id": "521b863a-f1f3-4c34-a6d3-700f3b2f4dcf",
+          "text": "Something that happens every night.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "083f7530-06e9-4d55-9781-45b60882d845"
+      ]
+    },
+    {
+      "question_id": "af6d1638-5b39-4764-bfe8-b3186383dc02",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does the speaker mention her friend who loves birds? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "fdb6ecda-c12b-4ee3-8597-6296cd346df8",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does the speaker mention her friend who loves birds?"
+          },
+          "position": 1
+        },
+        {
+          "id": "5dd89d90-c22c-4320-8dd5-0d70e1c8cbda",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "9b5c596a-996c-4a89-9338-557642d9b24a",
+          "text": "To explain why birds are hard to study.",
+          "is_correct": false
+        },
+        {
+          "id": "b41f9d2f-ab93-4006-8bf7-d2439925fb09",
+          "text": "To show that rainforests are dangerous.",
+          "is_correct": false
+        },
+        {
+          "id": "d10c0c8c-9b40-4e81-810c-5f0bef8c7198",
+          "text": "To give an example of a dream vacation.",
+          "is_correct": true
+        },
+        {
+          "id": "d5385a44-7483-4d1c-80e4-75f72c305dbe",
+          "text": "To describe a bad trip.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d10c0c8c-9b40-4e81-810c-5f0bef8c7198"
+      ]
+    },
+    {
+      "question_id": "9dcb4dd4-f9db-4332-9f12-c7273c1c493f",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “what dreams are made of” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "1abceb8f-79b4-4e80-9452-695bfe695a92",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “what dreams are made of” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "dcc71292-7397-48d3-857a-cf60d0a44afa",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "2ec949e5-4706-4269-b224-0c2f27b61e78",
+          "text": "Something that is impossible to understand.",
+          "is_correct": false
+        },
+        {
+          "id": "afced7f8-8c77-4974-8325-61672e5bdf7b",
+          "text": "Something that happens only once.",
+          "is_correct": false
+        },
+        {
+          "id": "3c2d6fc4-3038-44a6-a7c1-348ffce6d1dd",
+          "text": "Something perfect that fulfills your wishes and desires.",
+          "is_correct": true
+        },
+        {
+          "id": "665b6740-a62d-4f55-9a98-89c9226ce584",
+          "text": "Something that makes you overconfident.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3c2d6fc4-3038-44a6-a7c1-348ffce6d1dd"
+      ]
+    },
+    {
+      "question_id": "5eda3c00-7995-493e-ad5a-92852d67c3fa",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Which expressions mean something is perfect or highly desired? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "80b05189-0424-41e6-8111-12e6e3156d6d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which expressions mean something is perfect or highly desired?"
+          },
+          "position": 1
+        },
+        {
+          "id": "98fc6dad-3dc8-46e7-a63e-e5df634c3e4c",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "ddd99d29-a9d1-4c64-a498-5c92fc75c418",
+          "text": "What dreams are made of.",
+          "is_correct": true
+        },
+        {
+          "id": "ae32ad2c-6a16-4b0d-a3a3-bfd4afb10810",
+          "text": "The stuff of dreams.",
+          "is_correct": true
+        },
+        {
+          "id": "92c7a8c0-dab6-40f1-ad4b-9e516c438fc3",
+          "text": "A dream come true.",
+          "is_correct": true
+        },
+        {
+          "id": "38f00f73-dc0d-4d34-8eb6-8fd01115409f",
+          "text": "I wouldn’t dream of it.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ddd99d29-a9d1-4c64-a498-5c92fc75c418",
+        "ae32ad2c-6a16-4b0d-a3a3-bfd4afb10810",
+        "92c7a8c0-dab6-40f1-ad4b-9e516c438fc3"
+      ]
+    },
+    {
+      "question_id": "bc802ecd-ee2a-44af-8276-6386a3a79d81",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct plural form of “child”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d58ce85a-1b1b-4808-984d-f61c0b7a7934",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct plural form of “child”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2efe4ba5-ca30-4191-aaa0-8d99ac949567",
+          "text": "childs",
+          "is_correct": false
+        },
+        {
+          "id": "4940acac-1cda-40d5-8616-122cf800033c",
+          "text": "childes",
+          "is_correct": false
+        },
+        {
+          "id": "73101981-8402-4cba-8deb-154cdb225113",
+          "text": "children",
+          "is_correct": true
+        },
+        {
+          "id": "2ac88360-0bd1-4799-b0d8-5a1bfdbfb2cc",
+          "text": "childrens",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "73101981-8402-4cba-8deb-154cdb225113"
+      ]
+    },
+    {
+      "question_id": "d83d3fee-8e94-4cce-bba7-be32dfed29fd",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct plural form of “family”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f597ca06-bb15-470a-b166-0e0840b57d93",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct plural form of “family”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8c97d749-e7f9-4213-8533-81cfd3062e93",
+          "text": "familys",
+          "is_correct": false
+        },
+        {
+          "id": "42afd212-2ed5-49b9-9e84-6f0d2dd2d155",
+          "text": "families",
+          "is_correct": true
+        },
+        {
+          "id": "0abd7567-9c73-43c0-89e7-54f622091fc6",
+          "text": "familyes",
+          "is_correct": false
+        },
+        {
+          "id": "5db04a7f-67cb-43d1-9256-2e28e4161d62",
+          "text": "familis",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "42afd212-2ed5-49b9-9e84-6f0d2dd2d155"
+      ]
+    },
+    {
+      "question_id": "f5a6ff35-0351-4ff9-9fd8-c688b328e2ad",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct plural form of “class”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "98e26302-9ae7-4994-be89-86ac57dc6290",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct plural form of “class”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "82df58ee-4319-4a08-9c2f-6198a9dbb939",
+          "text": "classs",
+          "is_correct": false
+        },
+        {
+          "id": "fdc6f9e5-fb75-4528-a776-7992ba63c724",
+          "text": "classes",
+          "is_correct": true
+        },
+        {
+          "id": "ea7212c6-e783-4afd-a2de-6c25b0efe928",
+          "text": "classies",
+          "is_correct": false
+        },
+        {
+          "id": "d9439607-029d-49cc-b262-e1b788d71b80",
+          "text": "class",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "fdc6f9e5-fb75-4528-a776-7992ba63c724"
+      ]
+    },
+    {
+      "question_id": "af37ff3e-aa42-438e-96d0-98a77490fb68",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct plural form of “person”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e9a79f83-f2a4-43c3-b744-04237c8dc8e9",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct plural form of “person”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a73c7b61-3933-4b62-9304-1f6988ac7209",
+          "text": "persons",
+          "is_correct": false
+        },
+        {
+          "id": "aab8bb4d-5a74-4b4e-b430-aafa1cdd9bbd",
+          "text": "persones",
+          "is_correct": false
+        },
+        {
+          "id": "6f52fd2a-f5e3-46aa-ae41-0a6b77a35184",
+          "text": "people",
+          "is_correct": true
+        },
+        {
+          "id": "7d5945a5-61d1-419f-ac52-fdd3db7e993b",
+          "text": "person",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6f52fd2a-f5e3-46aa-ae41-0a6b77a35184"
+      ]
+    },
+    {
+      "question_id": "50b04b2f-30e1-4b23-a7cd-e4baa379bfcc",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct type of noun: “information”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "fb56a1ca-7bdc-41de-a399-6b1e2e055071",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct type of noun: “information”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0272b5cf-89ce-4585-a26f-127715fdb659",
+          "text": "count noun",
+          "is_correct": false
+        },
+        {
+          "id": "29a96103-6541-47a6-9b05-5705b09ce52b",
+          "text": "noncount noun",
+          "is_correct": true
+        },
+        {
+          "id": "a295c65f-e770-4187-b60e-7a3a829ccfeb",
+          "text": "plural count noun only",
+          "is_correct": false
+        },
+        {
+          "id": "c779bcb2-1a76-4b3f-93d9-fe08f1388a55",
+          "text": "proper noun",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "29a96103-6541-47a6-9b05-5705b09ce52b"
+      ]
+    },
+    {
+      "question_id": "0c2f0001-4225-4201-b566-dd79da9e893a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct article: ... university",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "86bf502d-eae1-41a3-b8b7-b0c0a5043fdf",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct article: ... university"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "43dd0d9b-ba5d-45bf-921f-25c6510beb52",
+          "text": "a",
+          "is_correct": true
+        },
+        {
+          "id": "e1a4f451-def3-4b58-b36c-d9b5e79790ab",
+          "text": "an",
+          "is_correct": false
+        },
+        {
+          "id": "0b9276d1-d4c2-4800-84e8-3fb8b3f6ba51",
+          "text": "nothing",
+          "is_correct": false
+        },
+        {
+          "id": "e53e7d7e-9220-4a34-81ee-36b1d3d2d279",
+          "text": "the only possible answer is “some”",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "43dd0d9b-ba5d-45bf-921f-25c6510beb52"
+      ]
+    },
+    {
+      "question_id": "7a152e59-c83c-43ed-8dd4-7fae0e0b81b0",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct article: ... hour",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "50fab6aa-9318-42c9-a182-78f1bde96e2e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct article: ... hour"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "369471e1-63dd-4e06-8701-dbbf1192db14",
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "id": "1b54e47a-051f-4f78-8b5f-4a8e0c34983b",
+          "text": "an",
+          "is_correct": true
+        },
+        {
+          "id": "24081f42-7a46-4d9e-83d3-1604c5b30298",
+          "text": "nothing",
+          "is_correct": false
+        },
+        {
+          "id": "9be738c6-b8be-4aff-8d03-c14f2cc6f85d",
+          "text": "some",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1b54e47a-051f-4f78-8b5f-4a8e0c34983b"
+      ]
+    },
+    {
+      "question_id": "0c0b84e2-2124-4699-a30f-e61f214e70ed",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct article: ... information",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "abbc6398-0bfc-4e06-b29f-1a35b8151f0d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct article: ... information"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3907b48d-391e-4375-ae2e-f827a5e80910",
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "id": "235e6338-9c08-40ef-a68c-99fe10d67138",
+          "text": "an",
+          "is_correct": false
+        },
+        {
+          "id": "23ea47c5-3437-4eac-9adf-03f9b473a796",
+          "text": "nothing",
+          "is_correct": true
+        },
+        {
+          "id": "6738fbed-bebd-4163-8292-31383c8dafa3",
+          "text": "many",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "23ea47c5-3437-4eac-9adf-03f9b473a796"
+      ]
+    },
+    {
+      "question_id": "50533c2e-d220-43d3-b291-c9eab93a023c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with “some” or “any”: There aren’t ... stores for a few miles.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c60b5380-40db-4dd8-92e6-563d1583f63f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with “some” or “any”: There aren’t ... stores for a few miles."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "721cbb86-8df9-4bd4-93c7-ab0b2a6d52ea",
+          "text": "some",
+          "is_correct": false
+        },
+        {
+          "id": "5d26cdbc-078c-4d53-8c49-1b6d6c2482a0",
+          "text": "any",
+          "is_correct": true
+        },
+        {
+          "id": "dc511f2f-4617-4f82-b33c-5afd7bc80898",
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "id": "6b08d4a0-bfb9-49b1-928e-04699b01f501",
+          "text": "an",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5d26cdbc-078c-4d53-8c49-1b6d6c2482a0"
+      ]
+    },
+    {
+      "question_id": "12773807-cb41-40d7-b350-a3d81a33b0de",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with “some” or “any”: Could you bring ... more napkins?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "39b0cb29-95df-49fd-b4dc-419d465d9e5a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with “some” or “any”: Could you bring ... more napkins?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "32813fed-cf97-4ec8-822f-22423133c3e5",
+          "text": "some",
+          "is_correct": true
+        },
+        {
+          "id": "782174dc-2c82-44a7-8566-41020aba1056",
+          "text": "any",
+          "is_correct": false
+        },
+        {
+          "id": "b3ddbc52-f725-484e-8987-0ea05d5b5be7",
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "id": "fbe49041-cb81-46be-9883-c94c17a074ce",
+          "text": "an",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "32813fed-cf97-4ec8-822f-22423133c3e5"
+      ]
+    },
+    {
+      "question_id": "8313782c-547c-49a3-a0e9-57e802f59b30",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. John Lennon. John Winston Lennon was born in Liverpool in 1940. When he was only two years old, his father left the family. Two years later, when John was four, his mother also left, and John went to live with his aunt, Mimi Smith. At the age of sixteen, he started his first band. In 1957, Paul McCartney joined him, and later Paul’s friend George Harrison became the lead guitarist. Pete Best was the group’s first drummer, but after he left, Ringo Starr became the final member. The band became known as the Beatles. In 1960, the group spent four months in Hamburg, Germany. There, they played music for eight hours every night, and this period helped begin Beatlemania. After returning to England, John married Cynthia Powell in 1962. They had a son named Julian. The Beatles made many albums, but their final official concert took place at the end of 1966. In November of that same year, John met Yoko Ono, who later became his second wife. After the Beatles separated in 1970, each member of the band recorded solo albums. In 1971, John wrote “Imagine,” a song that is still famous today. In the 1970s, John moved to the United States. His second son, Sean, was born in 1975. John’s life ended on December 8, 1980, when Mark Chapman, a fan, shot him five times outside his apartment in New York. John Lennon was only forty years old. Where was John Winston Lennon born?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "58e9c79d-25a5-45b4-a43b-13874ce3cd67",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. John Lennon. John Winston Lennon was born in Liverpool in 1940. When he was only two years old, his father left the family. Two years later, when John was four, his mother also left, and John went to live with his aunt, Mimi Smith. At the age of sixteen, he started his first band. In 1957, Paul McCartney joined him, and later Paul’s friend George Harrison became the lead guitarist. Pete Best was the group’s first drummer, but after he left, Ringo Starr became the final member. The band became known as the Beatles. In 1960, the group spent four months in Hamburg, Germany. There, they played music for eight hours every night, and this period helped begin Beatlemania. After returning to England, John married Cynthia Powell in 1962. They had a son named Julian. The Beatles made many albums, but their final official concert took place at the end of 1966. In November of that same year, John met Yoko Ono, who later became his second wife. After the Beatles separated in 1970, each member of the band recorded solo albums. In 1971, John wrote “Imagine,” a song that is still famous today. In the 1970s, John moved to the United States. His second son, Sean, was born in 1975. John’s life ended on December 8, 1980, when Mark Chapman, a fan, shot him five times outside his apartment in New York. John Lennon was only forty years old. Where was John Winston Lennon born?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a437d3ee-ed64-4402-9afc-6a7bf648fe1c",
+          "text": "Liverpool",
+          "is_correct": true
+        },
+        {
+          "id": "2f288fd7-0b18-4486-b7b0-b1f25b0c63fc",
+          "text": "New York",
+          "is_correct": false
+        },
+        {
+          "id": "554754f7-43d7-40fd-8bc9-dd1449261eb3",
+          "text": "Hamburg",
+          "is_correct": false
+        },
+        {
+          "id": "325bd14d-cc71-44f1-aafa-2d7393dd19b5",
+          "text": "London",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a437d3ee-ed64-4402-9afc-6a7bf648fe1c"
+      ]
+    },
+    {
+      "question_id": "12625b7b-2a60-4d42-9d1e-a6719ea7ffe0",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Where did John Lennon live during the later years of his life?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4d8cb150-2505-4081-b7c6-9559e9b8a8c2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where did John Lennon live during the later years of his life?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "34bfe22d-2cc4-4e16-8bf7-360cca011fa6",
+          "text": "England",
+          "is_correct": false
+        },
+        {
+          "id": "f17f5b6d-87ac-4011-a69a-344a9aaab980",
+          "text": "Germany",
+          "is_correct": false
+        },
+        {
+          "id": "88e7b46e-544d-4727-9282-abfb69eba874",
+          "text": "the United States of America",
+          "is_correct": true
+        },
+        {
+          "id": "ffcd4389-8ca7-4163-a009-414980b91d0a",
+          "text": "Japan",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "88e7b46e-544d-4727-9282-abfb69eba874"
+      ]
+    },
+    {
+      "question_id": "ca622757-b3d5-4e19-9b24-de8bdfb2d87c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which famous song did John Lennon write in 1971?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7ce0910f-1b71-474c-81dc-a529ee992104",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which famous song did John Lennon write in 1971?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e4de1f34-e96b-4d81-9a08-92c213e4e3a5",
+          "text": "Stand By Me",
+          "is_correct": false
+        },
+        {
+          "id": "beca965e-d1bf-4c97-b697-2b596ce418ee",
+          "text": "Double Fantasy",
+          "is_correct": false
+        },
+        {
+          "id": "ebeaccc6-25e3-474a-9feb-ebf48ee841cc",
+          "text": "Beatles",
+          "is_correct": false
+        },
+        {
+          "id": "f1286998-472f-44ad-9db4-3d77f22d1e6b",
+          "text": "Imagine",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "f1286998-472f-44ad-9db4-3d77f22d1e6b"
+      ]
+    },
+    {
+      "question_id": "d90e5894-e2d5-4ad0-aeef-d82b55d027f0",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "When did the Beatles play their last official concert?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b03e9678-2485-49ac-a02b-d861d83e15fa",
+          "type": "TEXT",
+          "payload": {
+            "text": "When did the Beatles play their last official concert?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7fe03e76-5f63-4ef2-9421-a77f5a8e14e4",
+          "text": "in 1970",
+          "is_correct": false
+        },
+        {
+          "id": "bef525dc-15f8-42b1-9f13-698e842a5d43",
+          "text": "in 1966",
+          "is_correct": true
+        },
+        {
+          "id": "2afccc3e-4e24-42c8-8fe6-d079b1544ad2",
+          "text": "in 1980",
+          "is_correct": false
+        },
+        {
+          "id": "43f87790-ef07-40ae-aa9c-ee765790a81c",
+          "text": "in 1962",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bef525dc-15f8-42b1-9f13-698e842a5d43"
+      ]
+    },
+    {
+      "question_id": "0612fdc8-384c-41af-b24c-ac5f07c46d94",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What was the name of John Lennon’s famous band?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0507ab3a-ad27-4221-aee0-1a2a423a1bf2",
+          "type": "TEXT",
+          "payload": {
+            "text": "What was the name of John Lennon’s famous band?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "92240413-cf2d-496e-a2e4-b949a2788fd0",
+          "text": "the Beatles",
+          "is_correct": true
+        },
+        {
+          "id": "78104d20-1c4d-484e-896b-ccd065579885",
+          "text": "Star",
+          "is_correct": false
+        },
+        {
+          "id": "97b7600f-66be-45b5-83b5-52f40455ed1d",
+          "text": "Best",
+          "is_correct": false
+        },
+        {
+          "id": "e193ddf6-1729-49fb-9471-b09bc7235dd3",
+          "text": "John",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "92240413-cf2d-496e-a2e4-b949a2788fd0"
+      ]
+    },
+    {
+      "question_id": "84b7d19c-1475-4c3f-a7f6-b517266cedde",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Who was the first drummer before Ringo Starr joined the group?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "9e34df7e-50ee-4b89-856a-6789244304d2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Who was the first drummer before Ringo Starr joined the group?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "98be9a70-bcbb-4962-b9f0-c0ac5de47784",
+          "text": "Paul McCartney",
+          "is_correct": false
+        },
+        {
+          "id": "98af60d3-04f1-4118-89c2-0cf827cc830b",
+          "text": "Ringo Starr",
+          "is_correct": false
+        },
+        {
+          "id": "b861b7f3-a346-4093-9e39-603c1629c06a",
+          "text": "Pete Best",
+          "is_correct": true
+        },
+        {
+          "id": "bc151cfe-f388-4522-8d73-2ed1512def8d",
+          "text": "John Lennon",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b861b7f3-a346-4093-9e39-603c1629c06a"
+      ]
+    },
+    {
+      "question_id": "91baf414-5179-429c-a0c6-3d2334228397",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "In which year did John Lennon write “Imagine”?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "51e9866e-e8d7-4f90-b593-f89693787c5c",
+          "type": "TEXT",
+          "payload": {
+            "text": "In which year did John Lennon write “Imagine”?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b684e594-677d-4d73-94a1-5ab41a8b8430",
+          "text": "1970",
+          "is_correct": false
+        },
+        {
+          "id": "b2101243-27f2-454e-971c-c39010ca0609",
+          "text": "1971",
+          "is_correct": true
+        },
+        {
+          "id": "9c6269cb-8640-42d7-b620-7bfe93afd70b",
+          "text": "1975",
+          "is_correct": false
+        },
+        {
+          "id": "cdd93f11-070f-447f-983c-6384807e6c16",
+          "text": "1980",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b2101243-27f2-454e-971c-c39010ca0609"
+      ]
+    },
+    {
+      "question_id": "beda7e05-d828-48be-b3da-f716714f8b23",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What was John Lennon’s full name?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7210cc2f-4eeb-45e5-abe3-a0b3e9e699e7",
+          "type": "TEXT",
+          "payload": {
+            "text": "What was John Lennon’s full name?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4293d67b-5c06-427c-87af-33acadd7cd8b",
+          "text": "Jonathan Lennon",
+          "is_correct": false
+        },
+        {
+          "id": "f81a2ba5-826b-4d0d-9b22-bda1af269efc",
+          "text": "Johnny Lennon",
+          "is_correct": false
+        },
+        {
+          "id": "883722a6-fabf-4c17-ae03-091f671acdfc",
+          "text": "John Winston Lennon",
+          "is_correct": true
+        },
+        {
+          "id": "9061a021-7b92-4e6d-8692-a72151c40c91",
+          "text": "John Winston Lennon Jr.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "883722a6-fabf-4c17-ae03-091f671acdfc"
+      ]
+    },
+    {
+      "question_id": "f6ef8814-47bd-4bed-85a8-636c4289b12a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Who did John live with after both of his parents left?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "26c049e1-27c6-465a-9483-8f27348b3aa2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Who did John live with after both of his parents left?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "441e0004-d0bb-4279-8d16-193dcd4d26db",
+          "text": "his aunt Mimi Smith",
+          "is_correct": true
+        },
+        {
+          "id": "6a21f29a-59ec-49ea-b818-2f3d049428bb",
+          "text": "Paul McCartney",
+          "is_correct": false
+        },
+        {
+          "id": "64853b6d-800e-4e22-85bc-2744461f4f37",
+          "text": "Yoko Ono",
+          "is_correct": false
+        },
+        {
+          "id": "6642f4d8-0210-40c3-a032-e3d54439da75",
+          "text": "Mark Chapman",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "441e0004-d0bb-4279-8d16-193dcd4d26db"
+      ]
+    },
+    {
+      "question_id": "5ae44ac9-d8a5-46b4-9dbd-d495c9f6d9cd",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. Three BC Festivals. In British Columbia, different communities hold festivals to celebrate what makes their towns and cities special. One of these events is the Pacific Rim Whale Festival on Vancouver Island. Every year, around 20,000 grey whales pass along the west coast of the island. They travel from Mexico to the Arctic and then return, making a journey of about 16,000 kilometres. Each March, people living near Pacific Rim National Park celebrate this long whale migration. Because the whales swim close to the shore while moving north, people can watch them from the land or from boats. Another unusual event takes place on the east coast of Vancouver Island. It is the Nanaimo Bathtub Race. In this race, participants travel through the water in boats made from bathtubs. Nanaimo is known for having the oldest and most famous bathtub boat race in the world. The event began in 1967 as a funny local activity, but today the World Championship Bathtub Race is treated as a serious sport and attracts racers and visitors from many countries. Vancouver also has a well-known water festival called the Dragon Boat Festival. Dragon boat racing began in China more than two thousand years ago. It was introduced to Vancouver during Expo 86, the World’s Fair. The festival returned in 1989 as a celebration of the many cultures living together in the city. It begins with a ceremony that awakens the dragon and gives strength to the people and the boats. Each dragon boat has a dragon’s head at the front and a tail at the back. A team of about 20 people sits in the boat and paddles to the rhythm of a drummer, who sits at the front.\n\nHow old was John Lennon when his life ended?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "19b09519-d236-44b1-ae19-0f5f8c617f68",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. Three BC Festivals. In British Columbia, different communities hold festivals to celebrate what makes their towns and cities special. One of these events is the Pacific Rim Whale Festival on Vancouver Island. Every year, around 20,000 grey whales pass along the west coast of the island. They travel from Mexico to the Arctic and then return, making a journey of about 16,000 kilometres. Each March, people living near Pacific Rim National Park celebrate this long whale migration. Because the whales swim close to the shore while moving north, people can watch them from the land or from boats. Another unusual event takes place on the east coast of Vancouver Island. It is the Nanaimo Bathtub Race. In this race, participants travel through the water in boats made from bathtubs. Nanaimo is known for having the oldest and most famous bathtub boat race in the world. The event began in 1967 as a funny local activity, but today the World Championship Bathtub Race is treated as a serious sport and attracts racers and visitors from many countries. Vancouver also has a well-known water festival called the Dragon Boat Festival. Dragon boat racing began in China more than two thousand years ago. It was introduced to Vancouver during Expo 86, the World’s Fair. The festival returned in 1989 as a celebration of the many cultures living together in the city. It begins with a ceremony that awakens the dragon and gives strength to the people and the boats. Each dragon boat has a dragon’s head at the front and a tail at the back. A team of about 20 people sits in the boat and paddles to the rhythm of a drummer, who sits at the front.\n\nHow old was John Lennon when his life ended?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a55cb03f-47d4-48c4-8338-a50b746e7b1b",
+          "text": "thirty-six",
+          "is_correct": false
+        },
+        {
+          "id": "08f030e2-ee10-4a5a-a642-a2a2dc3aacef",
+          "text": "thirty-eight",
+          "is_correct": false
+        },
+        {
+          "id": "574e9ba4-11b6-4d19-989a-fcb6bf48f4a3",
+          "text": "thirty-nine",
+          "is_correct": false
+        },
+        {
+          "id": "ea20fba8-4c3a-440c-a601-d8015b2b489e",
+          "text": "forty",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "ea20fba8-4c3a-440c-a601-d8015b2b489e"
+      ]
+    },
+    {
+      "question_id": "19b5f37c-1a6b-4158-8ed7-2f6962a82cd7",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "В различных языках существуют названия власти и принципов её формирования, в которых присутствует производное от греческого слова «cratos» — «власть». \n\nКакой принцип формирования власти наиболее предпочтителен в современных условиях политико-правового развития Казахстана?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "60557b8e-b4e0-44a4-a053-65d868677a98",
+          "type": "TEXT",
+          "payload": {
+            "text": "В различных языках существуют названия власти и принципов её формирования, в которых присутствует производное от греческого слова «cratos» — «власть». \n\nКакой принцип формирования власти наиболее предпочтителен в современных условиях политико-правового развития Казахстана?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6b6a7d77-8dce-4cbf-9142-ffdf49e75cb8",
+          "text": "охлократия",
+          "is_correct": false
+        },
+        {
+          "id": "cc87fe9f-40e6-4264-aec6-196c5c79e6f9",
+          "text": "плутократия",
+          "is_correct": false
+        },
+        {
+          "id": "55edf78b-4aa1-4d94-a801-b91ba66ee634",
+          "text": "меритократия",
+          "is_correct": true
+        },
+        {
+          "id": "23cfcc49-6ad0-4f5a-82da-af385ed96b7f",
+          "text": "олигократия",
+          "is_correct": false
+        },
+        {
+          "id": "ba56c4c6-a046-4ef4-82f7-4a4309293a90",
+          "text": "аристократия",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "55edf78b-4aa1-4d94-a801-b91ba66ee634"
+      ]
+    },
+    {
+      "question_id": "a0e7da41-389b-44c7-b5d6-1655683937f4",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "«Государство … является одним из фундаментальных институтов, составляющих инфраструктуру жизнедеятельности человека как общественного существа. В основе государства лежит стремление к достижению стабильности внутреннего и внешнего мира, пронизывающее все человеческое бытие». \n\nКакой научный подход очевиден в цитате?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5cffc7f9-b4ac-445b-94ff-fef90de789a7",
+          "type": "TEXT",
+          "payload": {
+            "text": "«Государство … является одним из фундаментальных институтов, составляющих инфраструктуру жизнедеятельности человека как общественного существа. В основе государства лежит стремление к достижению стабильности внутреннего и внешнего мира, пронизывающее все человеческое бытие». \n\nКакой научный подход очевиден в цитате?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "19094402-ef00-4f52-a9cc-b084557a767d",
+          "text": "институционализм",
+          "is_correct": true
+        },
+        {
+          "id": "73efc391-5a74-4b51-94c0-070d4a73256c",
+          "text": "синергетика",
+          "is_correct": false
+        },
+        {
+          "id": "b18ab92c-3f2f-4936-9aa4-6c46349ecedd",
+          "text": "конституционализм",
+          "is_correct": false
+        },
+        {
+          "id": "a1e4f198-1a55-450a-bf47-35ad46c00b82",
+          "text": "структурализм",
+          "is_correct": false
+        },
+        {
+          "id": "b7ec568e-47ac-402f-8205-53d073fe0918",
+          "text": "социологизм",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "19094402-ef00-4f52-a9cc-b084557a767d"
+      ]
+    },
+    {
+      "question_id": "34e021ae-64a8-4c34-a21d-dc10f39f1af6",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Бухару-жырау принадлежат слова: «Не ввергай себя в бесконечные тяжбы за скот, за землю — скот может погибнуть, земля останется и после тебя. Довольствуйся посланным Богом, подумай о своем достоинстве». \n\nКакая аналогия наиболее уместна?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c29c0eea-649c-4192-ae4b-f56af018aa02",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бухару-жырау принадлежат слова: «Не ввергай себя в бесконечные тяжбы за скот, за землю — скот может погибнуть, земля останется и после тебя. Довольствуйся посланным Богом, подумай о своем достоинстве». \n\nКакая аналогия наиболее уместна?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0de77b70-bb6a-4113-bde7-c64fc57df894",
+          "text": "Знай и помни, что судиться порой бесполезно.",
+          "is_correct": false
+        },
+        {
+          "id": "3438c9b5-5871-4666-85c4-622ff540852f",
+          "text": "Знай и помни: Богу — Богово, кесарю — кесарево.",
+          "is_correct": false
+        },
+        {
+          "id": "28b1ef84-c2a7-4458-bb06-82e45ad55c12",
+          "text": "Знай и помни, что не хлебом единым живет человек.",
+          "is_correct": true
+        },
+        {
+          "id": "7233c18c-4e42-4e09-bf27-b96d5c3250af",
+          "text": "Знай и помни, что душа и плоть неотделимы.",
+          "is_correct": false
+        },
+        {
+          "id": "ab5a74f5-55ee-4f9f-b2a9-78d4ea6ee75e",
+          "text": "Знай и помни, какое наследство ты оставишь потомкам.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "28b1ef84-c2a7-4458-bb06-82e45ad55c12"
+      ]
+    },
+    {
+      "question_id": "f18bff33-bcff-476f-a653-02146a369442",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Государственная программа индустриально-инновационного развития Республики Казахстан (ГПИИР-2) теснейшим образом связана с общемировой тенденцией экономического развития. \n\nС чем связана современная глобальная тенденция в развитии экономики?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "914a8ce4-4fc3-432f-9a6f-9ad9f7556bae",
+          "type": "TEXT",
+          "payload": {
+            "text": "Государственная программа индустриально-инновационного развития Республики Казахстан (ГПИИР-2) теснейшим образом связана с общемировой тенденцией экономического развития. \n\nС чем связана современная глобальная тенденция в развитии экономики?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "184bc782-faa5-4a66-8fd4-dbf295c5ff14",
+          "text": "третий глобальный экономический вызов",
+          "is_correct": false
+        },
+        {
+          "id": "d2c89917-8301-4790-9965-caa15fec840a",
+          "text": "третья индустриальная революция",
+          "is_correct": true
+        },
+        {
+          "id": "209b2974-44f3-401f-8d5c-afabd6246da2",
+          "text": "третья индустриальная программа",
+          "is_correct": false
+        },
+        {
+          "id": "5652a444-a767-4981-8b5a-1ad10140eb37",
+          "text": "третья научно-техническая революция",
+          "is_correct": false
+        },
+        {
+          "id": "51b2d5fd-3ce5-45b5-8afc-794ada80b499",
+          "text": "третья промышленная волна",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d2c89917-8301-4790-9965-caa15fec840a"
+      ]
+    },
+    {
+      "question_id": "9f57830b-49f5-4a02-919c-88765c235188",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Среди важных этапов реализации программ и проектов, направленных на развитие духовной культуры в Казахстане, особенно выделяются те, которые имеют отношение к расширению знаний о духовном наследии казахского народа. \n\nКакая программа сыграла важную роль в освоении новых граней духовного наследия казахского народа?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "61a56349-c7ed-427d-84ed-0cd8442b5508",
+          "type": "TEXT",
+          "payload": {
+            "text": "Среди важных этапов реализации программ и проектов, направленных на развитие духовной культуры в Казахстане, особенно выделяются те, которые имеют отношение к расширению знаний о духовном наследии казахского народа. \n\nКакая программа сыграла важную роль в освоении новых граней духовного наследия казахского народа?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "766c2ed9-e112-45b5-8ab6-4ba8c22c01b4",
+          "text": "программа перевода казахского языка на латиницу",
+          "is_correct": false
+        },
+        {
+          "id": "a63d24e5-ab77-4da9-bde7-1818eda7aceb",
+          "text": "программа «Нұрлы жол»",
+          "is_correct": false
+        },
+        {
+          "id": "916d8c77-9e7b-4a91-80be-c90de446bf10",
+          "text": "программа «Духовное наследие»",
+          "is_correct": false
+        },
+        {
+          "id": "e98f8f12-7d30-47ec-85f8-b138d335baa4",
+          "text": "программа «Народ в потоке истории»",
+          "is_correct": true
+        },
+        {
+          "id": "0fee1373-1bdf-488a-8e2d-e1c40a654544",
+          "text": "программа в книге Н. Назарбаева «В потоке истории»",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e98f8f12-7d30-47ec-85f8-b138d335baa4"
+      ]
+    },
+    {
+      "question_id": "ca6c9b27-4330-47bb-be48-e93bfe9fd646",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Бір тіктөртбұрыш 4 бірдей тік бөлікке бөлінген. Осы суреттен барлығы неше тіктөртбұрыш алуға болады? [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/ac6b4b3e-d07c-4041-a25c-0a0e6a6d4e98.png]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "49cbb32b-fe47-4730-9d6c-19183b0221c5",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бір тіктөртбұрыш 4 бірдей тік бөлікке бөлінген. Осы суреттен барлығы неше тіктөртбұрыш алуға болады?"
+          },
+          "position": 1
+        },
+        {
+          "id": "87112bcc-ae7a-4487-9b9b-c84cdd1a2aa6",
+          "type": "IMAGE",
+          "payload": {
+            "url": "media/5460d8de4b504c4fa0e82f68ee463aa4.png",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/ac6b4b3e-d07c-4041-a25c-0a0e6a6d4e98.png"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "16bdfed9-b506-488c-8c0b-747cb15d773c",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "6a29820f-254f-4238-872d-630f8223b378",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "bb18cfa3-16f6-4ff4-b1ad-79bc2fc1dfdb",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "id": "99ba11ae-173a-4a43-b476-0a6b87ceeab9",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "25e15674-2f9e-4390-9918-ed7b3bcc4997",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bb18cfa3-16f6-4ff4-b1ad-79bc2fc1dfdb"
+      ]
+    },
+    {
+      "question_id": "d2206e54-21bc-4728-8993-879175d1a3c3",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Бір нүктеден шыққан 5 сәуле екі параллель кесіндімен қиылысады. Төбесі ортақ нүктеде, ал табаны осы параллель кесінділердің бірінде жатқан үшбұрыштар саны қанша?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d3367944-7c69-459e-a57c-6b11960262b6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бір нүктеден шыққан 5 сәуле екі параллель кесіндімен қиылысады. Төбесі ортақ нүктеде, ал табаны осы параллель кесінділердің бірінде жатқан үшбұрыштар саны қанша?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ed47d9b4-82d3-4e0a-be81-ed3c35a442c5",
+          "text": "19",
+          "is_correct": false
+        },
+        {
+          "id": "23bb6b7a-27c1-4fa5-9cca-302b039e5648",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "0cc12b56-efa1-45c7-b7ea-93cee6ba2588",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "id": "a70d61d4-a9e7-466e-8c44-e2c0d2461756",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "a37aa89b-bee3-4a77-b567-a79360e3dc5b",
+          "text": "24",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0cc12b56-efa1-45c7-b7ea-93cee6ba2588"
+      ]
+    },
+    {
+      "question_id": "f15ed190-ea2d-4921-9569-dae09eb34f88",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f661817d-dab8-4a58-9617-4b5ee52e0022",
+          "type": "TEXT",
+          "payload": {
+            "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "57e0bc44-c7b5-45f8-975d-e423e9b4df91",
+          "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+          "is_correct": true
+        },
+        {
+          "id": "e6004b4a-a39e-46ca-8f19-28418c008a8f",
+          "text": "A < B",
+          "is_correct": false
+        },
+        {
+          "id": "55a4ce06-dda9-4ca7-b0e4-cd01c79cddaa",
+          "text": "A = B",
+          "is_correct": false
+        },
+        {
+          "id": "261fac1c-41ae-4591-8eee-3943447c6c40",
+          "text": "B < A",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "57e0bc44-c7b5-45f8-975d-e423e9b4df91"
+      ]
+    },
+    {
+      "question_id": "4912b6bf-87f6-4c11-ad5f-ed752210bd04",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Решите неравенство: x² − 14x + 13 > 0.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a8e7f224-7cf8-470f-8f53-553cb3fc0471",
+          "type": "TEXT",
+          "payload": {
+            "text": "Решите неравенство: x² − 14x + 13 > 0."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b80b3471-1ae3-48d9-af3a-ec167943f85b",
+          "text": "x ∈ (−∞; 3) ∪ (15; +∞)",
+          "is_correct": false
+        },
+        {
+          "id": "1a9b3c42-71f1-4729-928c-9665edfa1390",
+          "text": "x ∈ (−∞; 0) ∪ (12; +∞)",
+          "is_correct": false
+        },
+        {
+          "id": "82f35812-e3b4-4ec7-8365-ce2f3785737e",
+          "text": "x ∈ (−∞; 2) ∪ (14; +∞)",
+          "is_correct": false
+        },
+        {
+          "id": "887cc7a7-4196-4635-8103-4f8b44ade9e6",
+          "text": "x ∈ (−∞; 1) ∪ (13; +∞)",
+          "is_correct": true
+        },
+        {
+          "id": "2830975b-dd19-4090-86b7-c788f84a1603",
+          "text": "Нет решения",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "887cc7a7-4196-4635-8103-4f8b44ade9e6"
+      ]
+    },
+    {
+      "question_id": "f266e3e1-4591-46cf-9782-ba2093e21ac4",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "В скольких максимально точках могут пересекаться три окружности?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0f56223e-d6b8-4fa0-bccf-d7a66552bcec",
+          "type": "TEXT",
+          "payload": {
+            "text": "В скольких максимально точках могут пересекаться три окружности?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b81bd8e8-14ec-430a-a6f5-ac3f4c427b75",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "a9f244b3-65e1-43f2-b1bc-81029e4f8c3d",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "0adc33e1-75d8-40d1-a11a-9fd015a22fee",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "c2d3eceb-10b4-4dfd-bd22-a33ef275b06a",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "f561d16b-f107-4fd2-b253-c428ec75beea",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "f561d16b-f107-4fd2-b253-c428ec75beea"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 18,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "442a2d36-8135-438e-a039-c2fa92b95ba9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is the main topic of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "2de43d5a-4f22-48c3-b816-9f1686d3a2ff",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is the main topic of the audio?"
+            },
+            "position": 1
+          },
+          {
+            "id": "4275474f-e338-44d5-927f-2eca7c337193",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "cbbc397f-7fab-4959-8b57-2c8297ebac02",
+            "text": "How to remember your dreams.",
+            "is_correct": false
+          },
+          {
+            "id": "74694e97-47fc-4555-8724-c0c735c50dc2",
+            "text": "How to find your dream job.",
+            "is_correct": false
+          },
+          {
+            "id": "1b4080c3-1170-44cc-a85c-be3b703f4836",
+            "text": "English expressions with the word “dream.”",
+            "is_correct": true
+          },
+          {
+            "id": "645ed905-0c91-4044-9ecb-ece6662d7e6b",
+            "text": "How to travel to Italy.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1b4080c3-1170-44cc-a85c-be3b703f4836"
+        ]
+      },
+      {
+        "question_id": "b7465281-a96d-4717-8b77-3cbb2f0fda13",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “I wouldn’t dream of saying it” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c4f09e30-1ed9-4efe-98b0-cc18be1942ba",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “I wouldn’t dream of saying it” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "e5271217-bf90-4225-9bea-ef1312da7aa5",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "db935c53-e77c-4280-be6c-2579a1ea16c4",
+            "text": "I forgot to say it.",
+            "is_correct": false
+          },
+          {
+            "id": "e7055c7e-61bf-4547-970a-e2e066dba424",
+            "text": "I said it in a dream.",
+            "is_correct": false
+          },
+          {
+            "id": "87e8e4b0-7257-4ede-86c1-dda1d9534ccb",
+            "text": "I would never say it.",
+            "is_correct": true
+          },
+          {
+            "id": "4eb4e023-b4dd-4cf0-9845-2c389c2c7036",
+            "text": "I want to say it later.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "87e8e4b0-7257-4ede-86c1-dda1d9534ccb"
+        ]
+      },
+      {
+        "question_id": "4c97938c-4350-4c67-ad33-8a83b925a7ea",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does the expression “works like a dream” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2476d178-ca7d-40b5-8c43-b7cc8d399ceb",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does the expression “works like a dream” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "5b3da058-a2fb-4c7d-9e28-8f33a061cfdf",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "342c61ba-bab3-4cb8-94bd-6d242a1f9ebc",
+            "text": "It works only while you are sleeping.",
+            "is_correct": false
+          },
+          {
+            "id": "470bf58c-5042-4107-8105-0db4a0e4312e",
+            "text": "It works really well.",
+            "is_correct": true
+          },
+          {
+            "id": "69615954-56ac-4f3d-bbac-178bafeeab5d",
+            "text": "It is difficult to use.",
+            "is_correct": false
+          },
+          {
+            "id": "0d31cb8b-b4ed-4860-9f60-16d2752b994a",
+            "text": "It is imaginary.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "470bf58c-5042-4107-8105-0db4a0e4312e"
+        ]
+      },
+      {
+        "question_id": "f6cb0dd6-34e0-4db3-a0ff-051617bbbfff",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does the speaker say examples are useful when learning a language? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "f7e4bf44-5790-4dd4-a668-bdc76adfdefd",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does the speaker say examples are useful when learning a language?"
+            },
+            "position": 1
+          },
+          {
+            "id": "796b5b84-64be-4392-a228-9274e10dd756",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "319d041e-c51c-494d-813e-2c7608249dc8",
+            "text": "They make grammar unnecessary.",
+            "is_correct": false
+          },
+          {
+            "id": "4a6a56b5-e55d-40de-be14-4cee9f450c02",
+            "text": "They help people avoid conversations.",
+            "is_correct": false
+          },
+          {
+            "id": "18be04dd-b913-4688-b3a4-eccaa0ad8832",
+            "text": "They show how words and phrases are used correctly.",
+            "is_correct": true
+          },
+          {
+            "id": "69ca20dc-5358-49f4-b97f-2fb331dab26f",
+            "text": "They replace listening practice.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "18be04dd-b913-4688-b3a4-eccaa0ad8832"
+        ]
+      },
+      {
+        "question_id": "3a27a2a3-adc4-4e84-8ba7-6c46cd23c3a2",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What happens when “dream” is put before another word? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "3f63621c-8ece-413b-af08-8c65ddd1db92",
+            "type": "TEXT",
+            "payload": {
+              "text": "What happens when “dream” is put before another word?"
+            },
+            "position": 1
+          },
+          {
+            "id": "fd13ffb8-1b21-4ecb-9944-b8527125d794",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "4f40812c-0772-4b03-95d3-bd2570211245",
+            "text": "It makes the word negative.",
+            "is_correct": false
+          },
+          {
+            "id": "43a4f43a-dde7-480a-aeb4-c02f930f12df",
+            "text": "It means the thing is impossible.",
+            "is_correct": false
+          },
+          {
+            "id": "46e639a5-270d-446a-89b6-96918c8aa2ad",
+            "text": "It means that thing is the best choice for you.",
+            "is_correct": true
+          },
+          {
+            "id": "3ee11096-65b2-43f0-96e6-e174f3e23d55",
+            "text": "It means the thing happened while sleeping.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "46e639a5-270d-446a-89b6-96918c8aa2ad"
+        ]
+      },
+      {
+        "question_id": "68b35b20-2a7c-4fb5-bbe6-013d284f6233",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is a “dream job”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c73da31f-0096-46e0-87dc-53bd30570549",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is a “dream job”?"
+            },
+            "position": 1
+          },
+          {
+            "id": "b44e1f93-af78-48bf-9178-d32b80472edf",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "a881ffbd-a1ea-4276-8bdc-8f3898ef181a",
+            "text": "A job you do while sleeping.",
+            "is_correct": false
+          },
+          {
+            "id": "affaf9b8-b077-4b23-ba14-c19b2d2c296a",
+            "text": "A job you do not want.",
+            "is_correct": false
+          },
+          {
+            "id": "b34ca4dc-93f2-4311-b778-5ef6898a0e90",
+            "text": "A job that has everything you could want.",
+            "is_correct": true
+          },
+          {
+            "id": "0caf61a4-9c09-464b-a2c8-539d23b1b7a0",
+            "text": "A job that is impossible to get.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b34ca4dc-93f2-4311-b778-5ef6898a0e90"
+        ]
+      },
+      {
+        "question_id": "5459867f-684d-4012-bd61-434d8c1cc2cd",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “beyond your wildest dreams” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "4444a228-a8ea-45ed-ae78-6c3dc34b6925",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “beyond your wildest dreams” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "3ac3cab8-69ab-4956-a86f-e5320c6436e7",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "e2bf8c70-76be-4d90-9767-a754832eb292",
+            "text": "Something scary and dangerous.",
+            "is_correct": false
+          },
+          {
+            "id": "4bfa07da-c3f5-4b43-b842-f86ec2281c95",
+            "text": "Something you planned carefully.",
+            "is_correct": false
+          },
+          {
+            "id": "083f7530-06e9-4d55-9781-45b60882d845",
+            "text": "Something more amazing than you could imagine.",
+            "is_correct": true
+          },
+          {
+            "id": "521b863a-f1f3-4c34-a6d3-700f3b2f4dcf",
+            "text": "Something that happens every night.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "083f7530-06e9-4d55-9781-45b60882d845"
+        ]
+      },
+      {
+        "question_id": "af6d1638-5b39-4764-bfe8-b3186383dc02",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does the speaker mention her friend who loves birds? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "fdb6ecda-c12b-4ee3-8597-6296cd346df8",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does the speaker mention her friend who loves birds?"
+            },
+            "position": 1
+          },
+          {
+            "id": "5dd89d90-c22c-4320-8dd5-0d70e1c8cbda",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "9b5c596a-996c-4a89-9338-557642d9b24a",
+            "text": "To explain why birds are hard to study.",
+            "is_correct": false
+          },
+          {
+            "id": "b41f9d2f-ab93-4006-8bf7-d2439925fb09",
+            "text": "To show that rainforests are dangerous.",
+            "is_correct": false
+          },
+          {
+            "id": "d10c0c8c-9b40-4e81-810c-5f0bef8c7198",
+            "text": "To give an example of a dream vacation.",
+            "is_correct": true
+          },
+          {
+            "id": "d5385a44-7483-4d1c-80e4-75f72c305dbe",
+            "text": "To describe a bad trip.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d10c0c8c-9b40-4e81-810c-5f0bef8c7198"
+        ]
+      },
+      {
+        "question_id": "9dcb4dd4-f9db-4332-9f12-c7273c1c493f",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “what dreams are made of” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "1abceb8f-79b4-4e80-9452-695bfe695a92",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “what dreams are made of” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "dcc71292-7397-48d3-857a-cf60d0a44afa",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "2ec949e5-4706-4269-b224-0c2f27b61e78",
+            "text": "Something that is impossible to understand.",
+            "is_correct": false
+          },
+          {
+            "id": "afced7f8-8c77-4974-8325-61672e5bdf7b",
+            "text": "Something that happens only once.",
+            "is_correct": false
+          },
+          {
+            "id": "3c2d6fc4-3038-44a6-a7c1-348ffce6d1dd",
+            "text": "Something perfect that fulfills your wishes and desires.",
+            "is_correct": true
+          },
+          {
+            "id": "665b6740-a62d-4f55-9a98-89c9226ce584",
+            "text": "Something that makes you overconfident.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3c2d6fc4-3038-44a6-a7c1-348ffce6d1dd"
+        ]
+      },
+      {
+        "question_id": "5eda3c00-7995-493e-ad5a-92852d67c3fa",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Which expressions mean something is perfect or highly desired? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3]",
+        "type": "multiple_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "80b05189-0424-41e6-8111-12e6e3156d6d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which expressions mean something is perfect or highly desired?"
+            },
+            "position": 1
+          },
+          {
+            "id": "98fc6dad-3dc8-46e7-a63e-e5df634c3e4c",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/7a81317f3ba847e4bee54950e46bce21.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/910a2115-de74-486c-93b0-b8515da410a2.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "ddd99d29-a9d1-4c64-a498-5c92fc75c418",
+            "text": "What dreams are made of.",
+            "is_correct": true
+          },
+          {
+            "id": "ae32ad2c-6a16-4b0d-a3a3-bfd4afb10810",
+            "text": "The stuff of dreams.",
+            "is_correct": true
+          },
+          {
+            "id": "92c7a8c0-dab6-40f1-ad4b-9e516c438fc3",
+            "text": "A dream come true.",
+            "is_correct": true
+          },
+          {
+            "id": "38f00f73-dc0d-4d34-8eb6-8fd01115409f",
+            "text": "I wouldn’t dream of it.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ddd99d29-a9d1-4c64-a498-5c92fc75c418",
+          "ae32ad2c-6a16-4b0d-a3a3-bfd4afb10810",
+          "92c7a8c0-dab6-40f1-ad4b-9e516c438fc3"
+        ]
+      },
+      {
+        "question_id": "bc802ecd-ee2a-44af-8276-6386a3a79d81",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct plural form of “child”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d58ce85a-1b1b-4808-984d-f61c0b7a7934",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct plural form of “child”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2efe4ba5-ca30-4191-aaa0-8d99ac949567",
+            "text": "childs",
+            "is_correct": false
+          },
+          {
+            "id": "4940acac-1cda-40d5-8616-122cf800033c",
+            "text": "childes",
+            "is_correct": false
+          },
+          {
+            "id": "73101981-8402-4cba-8deb-154cdb225113",
+            "text": "children",
+            "is_correct": true
+          },
+          {
+            "id": "2ac88360-0bd1-4799-b0d8-5a1bfdbfb2cc",
+            "text": "childrens",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "73101981-8402-4cba-8deb-154cdb225113"
+        ]
+      },
+      {
+        "question_id": "d83d3fee-8e94-4cce-bba7-be32dfed29fd",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct plural form of “family”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f597ca06-bb15-470a-b166-0e0840b57d93",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct plural form of “family”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8c97d749-e7f9-4213-8533-81cfd3062e93",
+            "text": "familys",
+            "is_correct": false
+          },
+          {
+            "id": "42afd212-2ed5-49b9-9e84-6f0d2dd2d155",
+            "text": "families",
+            "is_correct": true
+          },
+          {
+            "id": "0abd7567-9c73-43c0-89e7-54f622091fc6",
+            "text": "familyes",
+            "is_correct": false
+          },
+          {
+            "id": "5db04a7f-67cb-43d1-9256-2e28e4161d62",
+            "text": "familis",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "42afd212-2ed5-49b9-9e84-6f0d2dd2d155"
+        ]
+      },
+      {
+        "question_id": "f5a6ff35-0351-4ff9-9fd8-c688b328e2ad",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct plural form of “class”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "98e26302-9ae7-4994-be89-86ac57dc6290",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct plural form of “class”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "82df58ee-4319-4a08-9c2f-6198a9dbb939",
+            "text": "classs",
+            "is_correct": false
+          },
+          {
+            "id": "fdc6f9e5-fb75-4528-a776-7992ba63c724",
+            "text": "classes",
+            "is_correct": true
+          },
+          {
+            "id": "ea7212c6-e783-4afd-a2de-6c25b0efe928",
+            "text": "classies",
+            "is_correct": false
+          },
+          {
+            "id": "d9439607-029d-49cc-b262-e1b788d71b80",
+            "text": "class",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "fdc6f9e5-fb75-4528-a776-7992ba63c724"
+        ]
+      },
+      {
+        "question_id": "af37ff3e-aa42-438e-96d0-98a77490fb68",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct plural form of “person”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e9a79f83-f2a4-43c3-b744-04237c8dc8e9",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct plural form of “person”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a73c7b61-3933-4b62-9304-1f6988ac7209",
+            "text": "persons",
+            "is_correct": false
+          },
+          {
+            "id": "aab8bb4d-5a74-4b4e-b430-aafa1cdd9bbd",
+            "text": "persones",
+            "is_correct": false
+          },
+          {
+            "id": "6f52fd2a-f5e3-46aa-ae41-0a6b77a35184",
+            "text": "people",
+            "is_correct": true
+          },
+          {
+            "id": "7d5945a5-61d1-419f-ac52-fdd3db7e993b",
+            "text": "person",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6f52fd2a-f5e3-46aa-ae41-0a6b77a35184"
+        ]
+      },
+      {
+        "question_id": "50b04b2f-30e1-4b23-a7cd-e4baa379bfcc",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct type of noun: “information”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "fb56a1ca-7bdc-41de-a399-6b1e2e055071",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct type of noun: “information”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0272b5cf-89ce-4585-a26f-127715fdb659",
+            "text": "count noun",
+            "is_correct": false
+          },
+          {
+            "id": "29a96103-6541-47a6-9b05-5705b09ce52b",
+            "text": "noncount noun",
+            "is_correct": true
+          },
+          {
+            "id": "a295c65f-e770-4187-b60e-7a3a829ccfeb",
+            "text": "plural count noun only",
+            "is_correct": false
+          },
+          {
+            "id": "c779bcb2-1a76-4b3f-93d9-fe08f1388a55",
+            "text": "proper noun",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "29a96103-6541-47a6-9b05-5705b09ce52b"
+        ]
+      },
+      {
+        "question_id": "0c2f0001-4225-4201-b566-dd79da9e893a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct article: ... university",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "86bf502d-eae1-41a3-b8b7-b0c0a5043fdf",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct article: ... university"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "43dd0d9b-ba5d-45bf-921f-25c6510beb52",
+            "text": "a",
+            "is_correct": true
+          },
+          {
+            "id": "e1a4f451-def3-4b58-b36c-d9b5e79790ab",
+            "text": "an",
+            "is_correct": false
+          },
+          {
+            "id": "0b9276d1-d4c2-4800-84e8-3fb8b3f6ba51",
+            "text": "nothing",
+            "is_correct": false
+          },
+          {
+            "id": "e53e7d7e-9220-4a34-81ee-36b1d3d2d279",
+            "text": "the only possible answer is “some”",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "43dd0d9b-ba5d-45bf-921f-25c6510beb52"
+        ]
+      },
+      {
+        "question_id": "7a152e59-c83c-43ed-8dd4-7fae0e0b81b0",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct article: ... hour",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "50fab6aa-9318-42c9-a182-78f1bde96e2e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct article: ... hour"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "369471e1-63dd-4e06-8701-dbbf1192db14",
+            "text": "a",
+            "is_correct": false
+          },
+          {
+            "id": "1b54e47a-051f-4f78-8b5f-4a8e0c34983b",
+            "text": "an",
+            "is_correct": true
+          },
+          {
+            "id": "24081f42-7a46-4d9e-83d3-1604c5b30298",
+            "text": "nothing",
+            "is_correct": false
+          },
+          {
+            "id": "9be738c6-b8be-4aff-8d03-c14f2cc6f85d",
+            "text": "some",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1b54e47a-051f-4f78-8b5f-4a8e0c34983b"
+        ]
+      },
+      {
+        "question_id": "0c0b84e2-2124-4699-a30f-e61f214e70ed",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct article: ... information",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "abbc6398-0bfc-4e06-b29f-1a35b8151f0d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct article: ... information"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3907b48d-391e-4375-ae2e-f827a5e80910",
+            "text": "a",
+            "is_correct": false
+          },
+          {
+            "id": "235e6338-9c08-40ef-a68c-99fe10d67138",
+            "text": "an",
+            "is_correct": false
+          },
+          {
+            "id": "23ea47c5-3437-4eac-9adf-03f9b473a796",
+            "text": "nothing",
+            "is_correct": true
+          },
+          {
+            "id": "6738fbed-bebd-4163-8292-31383c8dafa3",
+            "text": "many",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "23ea47c5-3437-4eac-9adf-03f9b473a796"
+        ]
+      },
+      {
+        "question_id": "50533c2e-d220-43d3-b291-c9eab93a023c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with “some” or “any”: There aren’t ... stores for a few miles.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c60b5380-40db-4dd8-92e6-563d1583f63f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with “some” or “any”: There aren’t ... stores for a few miles."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "721cbb86-8df9-4bd4-93c7-ab0b2a6d52ea",
+            "text": "some",
+            "is_correct": false
+          },
+          {
+            "id": "5d26cdbc-078c-4d53-8c49-1b6d6c2482a0",
+            "text": "any",
+            "is_correct": true
+          },
+          {
+            "id": "dc511f2f-4617-4f82-b33c-5afd7bc80898",
+            "text": "a",
+            "is_correct": false
+          },
+          {
+            "id": "6b08d4a0-bfb9-49b1-928e-04699b01f501",
+            "text": "an",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5d26cdbc-078c-4d53-8c49-1b6d6c2482a0"
+        ]
+      },
+      {
+        "question_id": "12773807-cb41-40d7-b350-a3d81a33b0de",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with “some” or “any”: Could you bring ... more napkins?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "39b0cb29-95df-49fd-b4dc-419d465d9e5a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with “some” or “any”: Could you bring ... more napkins?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "32813fed-cf97-4ec8-822f-22423133c3e5",
+            "text": "some",
+            "is_correct": true
+          },
+          {
+            "id": "782174dc-2c82-44a7-8566-41020aba1056",
+            "text": "any",
+            "is_correct": false
+          },
+          {
+            "id": "b3ddbc52-f725-484e-8987-0ea05d5b5be7",
+            "text": "a",
+            "is_correct": false
+          },
+          {
+            "id": "fbe49041-cb81-46be-9883-c94c17a074ce",
+            "text": "an",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "32813fed-cf97-4ec8-822f-22423133c3e5"
+        ]
+      },
+      {
+        "question_id": "8313782c-547c-49a3-a0e9-57e802f59b30",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. John Lennon. John Winston Lennon was born in Liverpool in 1940. When he was only two years old, his father left the family. Two years later, when John was four, his mother also left, and John went to live with his aunt, Mimi Smith. At the age of sixteen, he started his first band. In 1957, Paul McCartney joined him, and later Paul’s friend George Harrison became the lead guitarist. Pete Best was the group’s first drummer, but after he left, Ringo Starr became the final member. The band became known as the Beatles. In 1960, the group spent four months in Hamburg, Germany. There, they played music for eight hours every night, and this period helped begin Beatlemania. After returning to England, John married Cynthia Powell in 1962. They had a son named Julian. The Beatles made many albums, but their final official concert took place at the end of 1966. In November of that same year, John met Yoko Ono, who later became his second wife. After the Beatles separated in 1970, each member of the band recorded solo albums. In 1971, John wrote “Imagine,” a song that is still famous today. In the 1970s, John moved to the United States. His second son, Sean, was born in 1975. John’s life ended on December 8, 1980, when Mark Chapman, a fan, shot him five times outside his apartment in New York. John Lennon was only forty years old. Where was John Winston Lennon born?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "58e9c79d-25a5-45b4-a43b-13874ce3cd67",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. John Lennon. John Winston Lennon was born in Liverpool in 1940. When he was only two years old, his father left the family. Two years later, when John was four, his mother also left, and John went to live with his aunt, Mimi Smith. At the age of sixteen, he started his first band. In 1957, Paul McCartney joined him, and later Paul’s friend George Harrison became the lead guitarist. Pete Best was the group’s first drummer, but after he left, Ringo Starr became the final member. The band became known as the Beatles. In 1960, the group spent four months in Hamburg, Germany. There, they played music for eight hours every night, and this period helped begin Beatlemania. After returning to England, John married Cynthia Powell in 1962. They had a son named Julian. The Beatles made many albums, but their final official concert took place at the end of 1966. In November of that same year, John met Yoko Ono, who later became his second wife. After the Beatles separated in 1970, each member of the band recorded solo albums. In 1971, John wrote “Imagine,” a song that is still famous today. In the 1970s, John moved to the United States. His second son, Sean, was born in 1975. John’s life ended on December 8, 1980, when Mark Chapman, a fan, shot him five times outside his apartment in New York. John Lennon was only forty years old. Where was John Winston Lennon born?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a437d3ee-ed64-4402-9afc-6a7bf648fe1c",
+            "text": "Liverpool",
+            "is_correct": true
+          },
+          {
+            "id": "2f288fd7-0b18-4486-b7b0-b1f25b0c63fc",
+            "text": "New York",
+            "is_correct": false
+          },
+          {
+            "id": "554754f7-43d7-40fd-8bc9-dd1449261eb3",
+            "text": "Hamburg",
+            "is_correct": false
+          },
+          {
+            "id": "325bd14d-cc71-44f1-aafa-2d7393dd19b5",
+            "text": "London",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a437d3ee-ed64-4402-9afc-6a7bf648fe1c"
+        ]
+      },
+      {
+        "question_id": "12625b7b-2a60-4d42-9d1e-a6719ea7ffe0",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Where did John Lennon live during the later years of his life?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4d8cb150-2505-4081-b7c6-9559e9b8a8c2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where did John Lennon live during the later years of his life?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "34bfe22d-2cc4-4e16-8bf7-360cca011fa6",
+            "text": "England",
+            "is_correct": false
+          },
+          {
+            "id": "f17f5b6d-87ac-4011-a69a-344a9aaab980",
+            "text": "Germany",
+            "is_correct": false
+          },
+          {
+            "id": "88e7b46e-544d-4727-9282-abfb69eba874",
+            "text": "the United States of America",
+            "is_correct": true
+          },
+          {
+            "id": "ffcd4389-8ca7-4163-a009-414980b91d0a",
+            "text": "Japan",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "88e7b46e-544d-4727-9282-abfb69eba874"
+        ]
+      },
+      {
+        "question_id": "ca622757-b3d5-4e19-9b24-de8bdfb2d87c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which famous song did John Lennon write in 1971?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7ce0910f-1b71-474c-81dc-a529ee992104",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which famous song did John Lennon write in 1971?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e4de1f34-e96b-4d81-9a08-92c213e4e3a5",
+            "text": "Stand By Me",
+            "is_correct": false
+          },
+          {
+            "id": "beca965e-d1bf-4c97-b697-2b596ce418ee",
+            "text": "Double Fantasy",
+            "is_correct": false
+          },
+          {
+            "id": "ebeaccc6-25e3-474a-9feb-ebf48ee841cc",
+            "text": "Beatles",
+            "is_correct": false
+          },
+          {
+            "id": "f1286998-472f-44ad-9db4-3d77f22d1e6b",
+            "text": "Imagine",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "f1286998-472f-44ad-9db4-3d77f22d1e6b"
+        ]
+      },
+      {
+        "question_id": "d90e5894-e2d5-4ad0-aeef-d82b55d027f0",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "When did the Beatles play their last official concert?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b03e9678-2485-49ac-a02b-d861d83e15fa",
+            "type": "TEXT",
+            "payload": {
+              "text": "When did the Beatles play their last official concert?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7fe03e76-5f63-4ef2-9421-a77f5a8e14e4",
+            "text": "in 1970",
+            "is_correct": false
+          },
+          {
+            "id": "bef525dc-15f8-42b1-9f13-698e842a5d43",
+            "text": "in 1966",
+            "is_correct": true
+          },
+          {
+            "id": "2afccc3e-4e24-42c8-8fe6-d079b1544ad2",
+            "text": "in 1980",
+            "is_correct": false
+          },
+          {
+            "id": "43f87790-ef07-40ae-aa9c-ee765790a81c",
+            "text": "in 1962",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bef525dc-15f8-42b1-9f13-698e842a5d43"
+        ]
+      },
+      {
+        "question_id": "0612fdc8-384c-41af-b24c-ac5f07c46d94",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What was the name of John Lennon’s famous band?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0507ab3a-ad27-4221-aee0-1a2a423a1bf2",
+            "type": "TEXT",
+            "payload": {
+              "text": "What was the name of John Lennon’s famous band?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "92240413-cf2d-496e-a2e4-b949a2788fd0",
+            "text": "the Beatles",
+            "is_correct": true
+          },
+          {
+            "id": "78104d20-1c4d-484e-896b-ccd065579885",
+            "text": "Star",
+            "is_correct": false
+          },
+          {
+            "id": "97b7600f-66be-45b5-83b5-52f40455ed1d",
+            "text": "Best",
+            "is_correct": false
+          },
+          {
+            "id": "e193ddf6-1729-49fb-9471-b09bc7235dd3",
+            "text": "John",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "92240413-cf2d-496e-a2e4-b949a2788fd0"
+        ]
+      },
+      {
+        "question_id": "84b7d19c-1475-4c3f-a7f6-b517266cedde",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Who was the first drummer before Ringo Starr joined the group?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "9e34df7e-50ee-4b89-856a-6789244304d2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Who was the first drummer before Ringo Starr joined the group?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "98be9a70-bcbb-4962-b9f0-c0ac5de47784",
+            "text": "Paul McCartney",
+            "is_correct": false
+          },
+          {
+            "id": "98af60d3-04f1-4118-89c2-0cf827cc830b",
+            "text": "Ringo Starr",
+            "is_correct": false
+          },
+          {
+            "id": "b861b7f3-a346-4093-9e39-603c1629c06a",
+            "text": "Pete Best",
+            "is_correct": true
+          },
+          {
+            "id": "bc151cfe-f388-4522-8d73-2ed1512def8d",
+            "text": "John Lennon",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b861b7f3-a346-4093-9e39-603c1629c06a"
+        ]
+      },
+      {
+        "question_id": "91baf414-5179-429c-a0c6-3d2334228397",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "In which year did John Lennon write “Imagine”?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "51e9866e-e8d7-4f90-b593-f89693787c5c",
+            "type": "TEXT",
+            "payload": {
+              "text": "In which year did John Lennon write “Imagine”?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b684e594-677d-4d73-94a1-5ab41a8b8430",
+            "text": "1970",
+            "is_correct": false
+          },
+          {
+            "id": "b2101243-27f2-454e-971c-c39010ca0609",
+            "text": "1971",
+            "is_correct": true
+          },
+          {
+            "id": "9c6269cb-8640-42d7-b620-7bfe93afd70b",
+            "text": "1975",
+            "is_correct": false
+          },
+          {
+            "id": "cdd93f11-070f-447f-983c-6384807e6c16",
+            "text": "1980",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b2101243-27f2-454e-971c-c39010ca0609"
+        ]
+      },
+      {
+        "question_id": "beda7e05-d828-48be-b3da-f716714f8b23",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What was John Lennon’s full name?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7210cc2f-4eeb-45e5-abe3-a0b3e9e699e7",
+            "type": "TEXT",
+            "payload": {
+              "text": "What was John Lennon’s full name?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4293d67b-5c06-427c-87af-33acadd7cd8b",
+            "text": "Jonathan Lennon",
+            "is_correct": false
+          },
+          {
+            "id": "f81a2ba5-826b-4d0d-9b22-bda1af269efc",
+            "text": "Johnny Lennon",
+            "is_correct": false
+          },
+          {
+            "id": "883722a6-fabf-4c17-ae03-091f671acdfc",
+            "text": "John Winston Lennon",
+            "is_correct": true
+          },
+          {
+            "id": "9061a021-7b92-4e6d-8692-a72151c40c91",
+            "text": "John Winston Lennon Jr.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "883722a6-fabf-4c17-ae03-091f671acdfc"
+        ]
+      },
+      {
+        "question_id": "f6ef8814-47bd-4bed-85a8-636c4289b12a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Who did John live with after both of his parents left?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "26c049e1-27c6-465a-9483-8f27348b3aa2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Who did John live with after both of his parents left?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "441e0004-d0bb-4279-8d16-193dcd4d26db",
+            "text": "his aunt Mimi Smith",
+            "is_correct": true
+          },
+          {
+            "id": "6a21f29a-59ec-49ea-b818-2f3d049428bb",
+            "text": "Paul McCartney",
+            "is_correct": false
+          },
+          {
+            "id": "64853b6d-800e-4e22-85bc-2744461f4f37",
+            "text": "Yoko Ono",
+            "is_correct": false
+          },
+          {
+            "id": "6642f4d8-0210-40c3-a032-e3d54439da75",
+            "text": "Mark Chapman",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "441e0004-d0bb-4279-8d16-193dcd4d26db"
+        ]
+      },
+      {
+        "question_id": "5ae44ac9-d8a5-46b4-9dbd-d495c9f6d9cd",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. Three BC Festivals. In British Columbia, different communities hold festivals to celebrate what makes their towns and cities special. One of these events is the Pacific Rim Whale Festival on Vancouver Island. Every year, around 20,000 grey whales pass along the west coast of the island. They travel from Mexico to the Arctic and then return, making a journey of about 16,000 kilometres. Each March, people living near Pacific Rim National Park celebrate this long whale migration. Because the whales swim close to the shore while moving north, people can watch them from the land or from boats. Another unusual event takes place on the east coast of Vancouver Island. It is the Nanaimo Bathtub Race. In this race, participants travel through the water in boats made from bathtubs. Nanaimo is known for having the oldest and most famous bathtub boat race in the world. The event began in 1967 as a funny local activity, but today the World Championship Bathtub Race is treated as a serious sport and attracts racers and visitors from many countries. Vancouver also has a well-known water festival called the Dragon Boat Festival. Dragon boat racing began in China more than two thousand years ago. It was introduced to Vancouver during Expo 86, the World’s Fair. The festival returned in 1989 as a celebration of the many cultures living together in the city. It begins with a ceremony that awakens the dragon and gives strength to the people and the boats. Each dragon boat has a dragon’s head at the front and a tail at the back. A team of about 20 people sits in the boat and paddles to the rhythm of a drummer, who sits at the front.\n\nHow old was John Lennon when his life ended?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "19b09519-d236-44b1-ae19-0f5f8c617f68",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. Three BC Festivals. In British Columbia, different communities hold festivals to celebrate what makes their towns and cities special. One of these events is the Pacific Rim Whale Festival on Vancouver Island. Every year, around 20,000 grey whales pass along the west coast of the island. They travel from Mexico to the Arctic and then return, making a journey of about 16,000 kilometres. Each March, people living near Pacific Rim National Park celebrate this long whale migration. Because the whales swim close to the shore while moving north, people can watch them from the land or from boats. Another unusual event takes place on the east coast of Vancouver Island. It is the Nanaimo Bathtub Race. In this race, participants travel through the water in boats made from bathtubs. Nanaimo is known for having the oldest and most famous bathtub boat race in the world. The event began in 1967 as a funny local activity, but today the World Championship Bathtub Race is treated as a serious sport and attracts racers and visitors from many countries. Vancouver also has a well-known water festival called the Dragon Boat Festival. Dragon boat racing began in China more than two thousand years ago. It was introduced to Vancouver during Expo 86, the World’s Fair. The festival returned in 1989 as a celebration of the many cultures living together in the city. It begins with a ceremony that awakens the dragon and gives strength to the people and the boats. Each dragon boat has a dragon’s head at the front and a tail at the back. A team of about 20 people sits in the boat and paddles to the rhythm of a drummer, who sits at the front.\n\nHow old was John Lennon when his life ended?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a55cb03f-47d4-48c4-8338-a50b746e7b1b",
+            "text": "thirty-six",
+            "is_correct": false
+          },
+          {
+            "id": "08f030e2-ee10-4a5a-a642-a2a2dc3aacef",
+            "text": "thirty-eight",
+            "is_correct": false
+          },
+          {
+            "id": "574e9ba4-11b6-4d19-989a-fcb6bf48f4a3",
+            "text": "thirty-nine",
+            "is_correct": false
+          },
+          {
+            "id": "ea20fba8-4c3a-440c-a601-d8015b2b489e",
+            "text": "forty",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "ea20fba8-4c3a-440c-a601-d8015b2b489e"
+        ]
+      },
+      {
+        "question_id": "19b5f37c-1a6b-4158-8ed7-2f6962a82cd7",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "В различных языках существуют названия власти и принципов её формирования, в которых присутствует производное от греческого слова «cratos» — «власть». \n\nКакой принцип формирования власти наиболее предпочтителен в современных условиях политико-правового развития Казахстана?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "60557b8e-b4e0-44a4-a053-65d868677a98",
+            "type": "TEXT",
+            "payload": {
+              "text": "В различных языках существуют названия власти и принципов её формирования, в которых присутствует производное от греческого слова «cratos» — «власть». \n\nКакой принцип формирования власти наиболее предпочтителен в современных условиях политико-правового развития Казахстана?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6b6a7d77-8dce-4cbf-9142-ffdf49e75cb8",
+            "text": "охлократия",
+            "is_correct": false
+          },
+          {
+            "id": "cc87fe9f-40e6-4264-aec6-196c5c79e6f9",
+            "text": "плутократия",
+            "is_correct": false
+          },
+          {
+            "id": "55edf78b-4aa1-4d94-a801-b91ba66ee634",
+            "text": "меритократия",
+            "is_correct": true
+          },
+          {
+            "id": "23cfcc49-6ad0-4f5a-82da-af385ed96b7f",
+            "text": "олигократия",
+            "is_correct": false
+          },
+          {
+            "id": "ba56c4c6-a046-4ef4-82f7-4a4309293a90",
+            "text": "аристократия",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "55edf78b-4aa1-4d94-a801-b91ba66ee634"
+        ]
+      },
+      {
+        "question_id": "a0e7da41-389b-44c7-b5d6-1655683937f4",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "«Государство … является одним из фундаментальных институтов, составляющих инфраструктуру жизнедеятельности человека как общественного существа. В основе государства лежит стремление к достижению стабильности внутреннего и внешнего мира, пронизывающее все человеческое бытие». \n\nКакой научный подход очевиден в цитате?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5cffc7f9-b4ac-445b-94ff-fef90de789a7",
+            "type": "TEXT",
+            "payload": {
+              "text": "«Государство … является одним из фундаментальных институтов, составляющих инфраструктуру жизнедеятельности человека как общественного существа. В основе государства лежит стремление к достижению стабильности внутреннего и внешнего мира, пронизывающее все человеческое бытие». \n\nКакой научный подход очевиден в цитате?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "19094402-ef00-4f52-a9cc-b084557a767d",
+            "text": "институционализм",
+            "is_correct": true
+          },
+          {
+            "id": "73efc391-5a74-4b51-94c0-070d4a73256c",
+            "text": "синергетика",
+            "is_correct": false
+          },
+          {
+            "id": "b18ab92c-3f2f-4936-9aa4-6c46349ecedd",
+            "text": "конституционализм",
+            "is_correct": false
+          },
+          {
+            "id": "a1e4f198-1a55-450a-bf47-35ad46c00b82",
+            "text": "структурализм",
+            "is_correct": false
+          },
+          {
+            "id": "b7ec568e-47ac-402f-8205-53d073fe0918",
+            "text": "социологизм",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "19094402-ef00-4f52-a9cc-b084557a767d"
+        ]
+      },
+      {
+        "question_id": "34e021ae-64a8-4c34-a21d-dc10f39f1af6",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Бухару-жырау принадлежат слова: «Не ввергай себя в бесконечные тяжбы за скот, за землю — скот может погибнуть, земля останется и после тебя. Довольствуйся посланным Богом, подумай о своем достоинстве». \n\nКакая аналогия наиболее уместна?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c29c0eea-649c-4192-ae4b-f56af018aa02",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бухару-жырау принадлежат слова: «Не ввергай себя в бесконечные тяжбы за скот, за землю — скот может погибнуть, земля останется и после тебя. Довольствуйся посланным Богом, подумай о своем достоинстве». \n\nКакая аналогия наиболее уместна?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0de77b70-bb6a-4113-bde7-c64fc57df894",
+            "text": "Знай и помни, что судиться порой бесполезно.",
+            "is_correct": false
+          },
+          {
+            "id": "3438c9b5-5871-4666-85c4-622ff540852f",
+            "text": "Знай и помни: Богу — Богово, кесарю — кесарево.",
+            "is_correct": false
+          },
+          {
+            "id": "28b1ef84-c2a7-4458-bb06-82e45ad55c12",
+            "text": "Знай и помни, что не хлебом единым живет человек.",
+            "is_correct": true
+          },
+          {
+            "id": "7233c18c-4e42-4e09-bf27-b96d5c3250af",
+            "text": "Знай и помни, что душа и плоть неотделимы.",
+            "is_correct": false
+          },
+          {
+            "id": "ab5a74f5-55ee-4f9f-b2a9-78d4ea6ee75e",
+            "text": "Знай и помни, какое наследство ты оставишь потомкам.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "28b1ef84-c2a7-4458-bb06-82e45ad55c12"
+        ]
+      },
+      {
+        "question_id": "f18bff33-bcff-476f-a653-02146a369442",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Государственная программа индустриально-инновационного развития Республики Казахстан (ГПИИР-2) теснейшим образом связана с общемировой тенденцией экономического развития. \n\nС чем связана современная глобальная тенденция в развитии экономики?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "914a8ce4-4fc3-432f-9a6f-9ad9f7556bae",
+            "type": "TEXT",
+            "payload": {
+              "text": "Государственная программа индустриально-инновационного развития Республики Казахстан (ГПИИР-2) теснейшим образом связана с общемировой тенденцией экономического развития. \n\nС чем связана современная глобальная тенденция в развитии экономики?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "184bc782-faa5-4a66-8fd4-dbf295c5ff14",
+            "text": "третий глобальный экономический вызов",
+            "is_correct": false
+          },
+          {
+            "id": "d2c89917-8301-4790-9965-caa15fec840a",
+            "text": "третья индустриальная революция",
+            "is_correct": true
+          },
+          {
+            "id": "209b2974-44f3-401f-8d5c-afabd6246da2",
+            "text": "третья индустриальная программа",
+            "is_correct": false
+          },
+          {
+            "id": "5652a444-a767-4981-8b5a-1ad10140eb37",
+            "text": "третья научно-техническая революция",
+            "is_correct": false
+          },
+          {
+            "id": "51b2d5fd-3ce5-45b5-8afc-794ada80b499",
+            "text": "третья промышленная волна",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d2c89917-8301-4790-9965-caa15fec840a"
+        ]
+      },
+      {
+        "question_id": "9f57830b-49f5-4a02-919c-88765c235188",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Среди важных этапов реализации программ и проектов, направленных на развитие духовной культуры в Казахстане, особенно выделяются те, которые имеют отношение к расширению знаний о духовном наследии казахского народа. \n\nКакая программа сыграла важную роль в освоении новых граней духовного наследия казахского народа?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "61a56349-c7ed-427d-84ed-0cd8442b5508",
+            "type": "TEXT",
+            "payload": {
+              "text": "Среди важных этапов реализации программ и проектов, направленных на развитие духовной культуры в Казахстане, особенно выделяются те, которые имеют отношение к расширению знаний о духовном наследии казахского народа. \n\nКакая программа сыграла важную роль в освоении новых граней духовного наследия казахского народа?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "766c2ed9-e112-45b5-8ab6-4ba8c22c01b4",
+            "text": "программа перевода казахского языка на латиницу",
+            "is_correct": false
+          },
+          {
+            "id": "a63d24e5-ab77-4da9-bde7-1818eda7aceb",
+            "text": "программа «Нұрлы жол»",
+            "is_correct": false
+          },
+          {
+            "id": "916d8c77-9e7b-4a91-80be-c90de446bf10",
+            "text": "программа «Духовное наследие»",
+            "is_correct": false
+          },
+          {
+            "id": "e98f8f12-7d30-47ec-85f8-b138d335baa4",
+            "text": "программа «Народ в потоке истории»",
+            "is_correct": true
+          },
+          {
+            "id": "0fee1373-1bdf-488a-8e2d-e1c40a654544",
+            "text": "программа в книге Н. Назарбаева «В потоке истории»",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e98f8f12-7d30-47ec-85f8-b138d335baa4"
+        ]
+      },
+      {
+        "question_id": "ca6c9b27-4330-47bb-be48-e93bfe9fd646",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Бір тіктөртбұрыш 4 бірдей тік бөлікке бөлінген. Осы суреттен барлығы неше тіктөртбұрыш алуға болады? [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/ac6b4b3e-d07c-4041-a25c-0a0e6a6d4e98.png]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "49cbb32b-fe47-4730-9d6c-19183b0221c5",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бір тіктөртбұрыш 4 бірдей тік бөлікке бөлінген. Осы суреттен барлығы неше тіктөртбұрыш алуға болады?"
+            },
+            "position": 1
+          },
+          {
+            "id": "87112bcc-ae7a-4487-9b9b-c84cdd1a2aa6",
+            "type": "IMAGE",
+            "payload": {
+              "url": "media/5460d8de4b504c4fa0e82f68ee463aa4.png",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/ac6b4b3e-d07c-4041-a25c-0a0e6a6d4e98.png"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "16bdfed9-b506-488c-8c0b-747cb15d773c",
+            "text": "4",
+            "is_correct": false
+          },
+          {
+            "id": "6a29820f-254f-4238-872d-630f8223b378",
+            "text": "9",
+            "is_correct": false
+          },
+          {
+            "id": "bb18cfa3-16f6-4ff4-b1ad-79bc2fc1dfdb",
+            "text": "10",
+            "is_correct": true
+          },
+          {
+            "id": "99ba11ae-173a-4a43-b476-0a6b87ceeab9",
+            "text": "5",
+            "is_correct": false
+          },
+          {
+            "id": "25e15674-2f9e-4390-9918-ed7b3bcc4997",
+            "text": "8",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bb18cfa3-16f6-4ff4-b1ad-79bc2fc1dfdb"
+        ]
+      },
+      {
+        "question_id": "d2206e54-21bc-4728-8993-879175d1a3c3",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Бір нүктеден шыққан 5 сәуле екі параллель кесіндімен қиылысады. Төбесі ортақ нүктеде, ал табаны осы параллель кесінділердің бірінде жатқан үшбұрыштар саны қанша?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d3367944-7c69-459e-a57c-6b11960262b6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бір нүктеден шыққан 5 сәуле екі параллель кесіндімен қиылысады. Төбесі ортақ нүктеде, ал табаны осы параллель кесінділердің бірінде жатқан үшбұрыштар саны қанша?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ed47d9b4-82d3-4e0a-be81-ed3c35a442c5",
+            "text": "19",
+            "is_correct": false
+          },
+          {
+            "id": "23bb6b7a-27c1-4fa5-9cca-302b039e5648",
+            "text": "12",
+            "is_correct": false
+          },
+          {
+            "id": "0cc12b56-efa1-45c7-b7ea-93cee6ba2588",
+            "text": "20",
+            "is_correct": true
+          },
+          {
+            "id": "a70d61d4-a9e7-466e-8c44-e2c0d2461756",
+            "text": "8",
+            "is_correct": false
+          },
+          {
+            "id": "a37aa89b-bee3-4a77-b567-a79360e3dc5b",
+            "text": "24",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0cc12b56-efa1-45c7-b7ea-93cee6ba2588"
+        ]
+      },
+      {
+        "question_id": "f15ed190-ea2d-4921-9569-dae09eb34f88",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f661817d-dab8-4a58-9617-4b5ee52e0022",
+            "type": "TEXT",
+            "payload": {
+              "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "57e0bc44-c7b5-45f8-975d-e423e9b4df91",
+            "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+            "is_correct": true
+          },
+          {
+            "id": "e6004b4a-a39e-46ca-8f19-28418c008a8f",
+            "text": "A < B",
+            "is_correct": false
+          },
+          {
+            "id": "55a4ce06-dda9-4ca7-b0e4-cd01c79cddaa",
+            "text": "A = B",
+            "is_correct": false
+          },
+          {
+            "id": "261fac1c-41ae-4591-8eee-3943447c6c40",
+            "text": "B < A",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "57e0bc44-c7b5-45f8-975d-e423e9b4df91"
+        ]
+      },
+      {
+        "question_id": "4912b6bf-87f6-4c11-ad5f-ed752210bd04",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Решите неравенство: x² − 14x + 13 > 0.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a8e7f224-7cf8-470f-8f53-553cb3fc0471",
+            "type": "TEXT",
+            "payload": {
+              "text": "Решите неравенство: x² − 14x + 13 > 0."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b80b3471-1ae3-48d9-af3a-ec167943f85b",
+            "text": "x ∈ (−∞; 3) ∪ (15; +∞)",
+            "is_correct": false
+          },
+          {
+            "id": "1a9b3c42-71f1-4729-928c-9665edfa1390",
+            "text": "x ∈ (−∞; 0) ∪ (12; +∞)",
+            "is_correct": false
+          },
+          {
+            "id": "82f35812-e3b4-4ec7-8365-ce2f3785737e",
+            "text": "x ∈ (−∞; 2) ∪ (14; +∞)",
+            "is_correct": false
+          },
+          {
+            "id": "887cc7a7-4196-4635-8103-4f8b44ade9e6",
+            "text": "x ∈ (−∞; 1) ∪ (13; +∞)",
+            "is_correct": true
+          },
+          {
+            "id": "2830975b-dd19-4090-86b7-c788f84a1603",
+            "text": "Нет решения",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "887cc7a7-4196-4635-8103-4f8b44ade9e6"
+        ]
+      },
+      {
+        "question_id": "f266e3e1-4591-46cf-9782-ba2093e21ac4",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "В скольких максимально точках могут пересекаться три окружности?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0f56223e-d6b8-4fa0-bccf-d7a66552bcec",
+            "type": "TEXT",
+            "payload": {
+              "text": "В скольких максимально точках могут пересекаться три окружности?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b81bd8e8-14ec-430a-a6f5-ac3f4c427b75",
+            "text": "7",
+            "is_correct": false
+          },
+          {
+            "id": "a9f244b3-65e1-43f2-b1bc-81029e4f8c3d",
+            "text": "4",
+            "is_correct": false
+          },
+          {
+            "id": "0adc33e1-75d8-40d1-a11a-9fd015a22fee",
+            "text": "5",
+            "is_correct": false
+          },
+          {
+            "id": "c2d3eceb-10b4-4dfd-bd22-a33ef275b06a",
+            "text": "3",
+            "is_correct": false
+          },
+          {
+            "id": "f561d16b-f107-4fd2-b253-c428ec75beea",
+            "text": "6",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "f561d16b-f107-4fd2-b253-c428ec75beea"
+        ]
+      }
+    ]
+  }
+}

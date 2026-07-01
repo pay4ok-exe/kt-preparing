@@ -1,0 +1,3737 @@
+{
+  "variant_id": "angl_tgo_v06",
+  "title": "Английский + ТГО — Вариант 6",
+  "total_count": 40,
+  "attempt_id": "935b5f98-694c-48e9-87ff-b11e5d4f6312",
+  "questions": [
+    {
+      "question_id": "8a549d5d-c4f2-4a97-8148-a41aab977724",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does the travel agent want to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ebad46a7-668c-4603-8e42-d60ed8e7f1af",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does the travel agent want to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "43b1bf9f-5370-4170-ad63-7d551650759f",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "90db7034-bdaf-4e1b-89cc-7ce379c64891",
+          "text": "He wants to help Anna save money on a vacation.",
+          "is_correct": false
+        },
+        {
+          "id": "85071b17-2eb9-4460-b4fb-4eedf4a8a023",
+          "text": "The agent wants to send Anna to another travel agency.",
+          "is_correct": false
+        },
+        {
+          "id": "4f90c205-e8e7-4e86-9631-37666080508d",
+          "text": "He wants to sell Anna the most expensive vacation.",
+          "is_correct": true
+        },
+        {
+          "id": "65374c05-7da2-4997-94ec-ec9b2072d36b",
+          "text": "The agent wants Anna to work at the travel agency.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4f90c205-e8e7-4e86-9631-37666080508d"
+      ]
+    },
+    {
+      "question_id": "61906529-b986-4b5b-ad77-67736c3b9b3e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Which vacation has a higher price? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "201eccec-06da-470b-af66-d4b54dd30458",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which vacation has a higher price?"
+          },
+          "position": 1
+        },
+        {
+          "id": "2fa36356-f2c9-4637-a7f0-d7c517f39c2e",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "f3ce949f-cbcf-47cb-99c9-e5a8270d0bcd",
+          "text": "The Deep Sea Adventure is more expensive than the Mountain Getaway.",
+          "is_correct": true
+        },
+        {
+          "id": "9bd4c30b-2b9c-44db-a325-303040e24f74",
+          "text": "Both the Mountain Getaway and the Deep Sea Adventure have the same cost.",
+          "is_correct": false
+        },
+        {
+          "id": "e82e0f69-06fc-4ce6-9d7a-ea1815efd0d5",
+          "text": "The Mountain Getaway is more expensive than the Deep Sea Adventure.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f3ce949f-cbcf-47cb-99c9-e5a8270d0bcd"
+      ]
+    },
+    {
+      "question_id": "1918c70a-a3fc-4f48-b2e2-b744f0f360c2",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does the travel agent want Anna to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "fe5fb05a-ed75-440e-9b09-dff203c94b1d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does the travel agent want Anna to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "be7aa905-0485-4eac-9b73-ede1824f217a",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "e1f703b9-d822-4afa-8d49-52bfdf2b979e",
+          "text": "He wants her help with fixing his computer.",
+          "is_correct": false
+        },
+        {
+          "id": "554539c9-657f-4d99-812c-3199596ca2ae",
+          "text": "The agent wants her to stay and see some new vacation technology.",
+          "is_correct": true
+        },
+        {
+          "id": "31bf8077-f551-44ce-8a56-f7b5ad715b2b",
+          "text": "He wants her to stop being afraid of animals.",
+          "is_correct": false
+        },
+        {
+          "id": "49b8df09-f4f5-4347-bbe7-6d4d07ba574d",
+          "text": "The agent wants her to give him better ideas for her vacation.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "554539c9-657f-4d99-812c-3199596ca2ae"
+      ]
+    },
+    {
+      "question_id": "7a0c145a-87a3-4702-8b30-1f7aeaa17715",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna like to do when she travels? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "1d3788e8-6871-4cef-bf0d-c94302935996",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna like to do when she travels?"
+          },
+          "position": 1
+        },
+        {
+          "id": "e0b709ef-a31f-42e5-a2c3-46a8e49c6586",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "8601b912-1bb0-4dda-b858-f987705fdb4c",
+          "text": "Take a bike tour.",
+          "is_correct": false
+        },
+        {
+          "id": "9d3629a4-6833-43f6-a8f2-18bb2fb4c457",
+          "text": "Go in a helicopter.",
+          "is_correct": false
+        },
+        {
+          "id": "048eb8cf-32bc-4f27-bf00-02e6e214f913",
+          "text": "Ride horses.",
+          "is_correct": false
+        },
+        {
+          "id": "1afc8c33-7e63-44c0-88bb-e209ceed0a11",
+          "text": "Travel by train.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "1afc8c33-7e63-44c0-88bb-e209ceed0a11"
+      ]
+    },
+    {
+      "question_id": "6f232595-9917-472b-9036-9a97419d3ce5",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna tell the travel agent to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "e3f4ac6b-5f56-4a69-a675-dbc33a891330",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna tell the travel agent to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "06faf0fb-d037-48b2-a6d3-9913f6b7a390",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "2517d399-b2ab-4df1-87f0-340d40502588",
+          "text": "She wants him to take the priciest vacation.",
+          "is_correct": true
+        },
+        {
+          "id": "08399f01-f8cd-42df-afdb-8fbed7345759",
+          "text": "Anna says he should go on a campout with her.",
+          "is_correct": false
+        },
+        {
+          "id": "577d0eb4-af57-4552-b92d-b7d9b7c30e2b",
+          "text": "Anna says he should fix the Travel Max 2000.",
+          "is_correct": false
+        },
+        {
+          "id": "23f90887-423b-424f-b012-5b2e3ef87f81",
+          "text": "Anna wants him to cry about the machine.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2517d399-b2ab-4df1-87f0-340d40502588"
+      ]
+    },
+    {
+      "question_id": "e3dc5540-663d-4293-b1cf-cd8a351b61f9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Anna say she needs a vacation? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2fcb87cf-3d7c-402b-a43e-4716b0db0d06",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Anna say she needs a vacation?"
+          },
+          "position": 1
+        },
+        {
+          "id": "027ce52b-e6de-4e30-b207-33c27b3b5721",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "f534ed36-2709-4e22-aaff-241a0721cf7e",
+          "text": "She wants to work at a travel agency.",
+          "is_correct": false
+        },
+        {
+          "id": "7adb4d88-7635-4c7a-953c-5524720d381e",
+          "text": "She imagines a beach vacation and thinks it is better than where she is.",
+          "is_correct": true
+        },
+        {
+          "id": "1ec49ce1-eaaa-4a32-9c33-d89f8985addf",
+          "text": "She wants to travel with Professor Bot.",
+          "is_correct": false
+        },
+        {
+          "id": "b4ff6043-15ab-43b8-a9b5-3ea24f51883c",
+          "text": "She wants to sell vacations.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7adb4d88-7635-4c7a-953c-5524720d381e"
+      ]
+    },
+    {
+      "question_id": "36a2bab3-a86b-470c-9d44-1a1fe4d789c9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Professor Bot not want a beach vacation? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "8a7fd7e9-0556-43bf-8502-ade5994ed713",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Professor Bot not want a beach vacation?"
+          },
+          "position": 1
+        },
+        {
+          "id": "4dc1d86c-de12-406b-bb1a-d120db123c0d",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "cc07c285-df35-4904-ac38-3702856ce6fd",
+          "text": "He is afraid of sharks.",
+          "is_correct": false
+        },
+        {
+          "id": "05dc5996-3a56-400a-8164-fb7afcf5d3f2",
+          "text": "He thinks beaches are too expensive.",
+          "is_correct": false
+        },
+        {
+          "id": "609f6edf-8e96-4109-89de-91393c835b7c",
+          "text": "Sand is not good for robots.",
+          "is_correct": true
+        },
+        {
+          "id": "381b3e5d-da03-40cb-8870-b08fc673825a",
+          "text": "He wants to go to the mountains.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "609f6edf-8e96-4109-89de-91393c835b7c"
+      ]
+    },
+    {
+      "question_id": "19b57754-9ffa-4a3e-bedd-d42fb87266b6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Anna not want the Mountain Getaway? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "03d5b12e-7bfc-4660-a7dd-e564f2e46a9e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Anna not want the Mountain Getaway?"
+          },
+          "position": 1
+        },
+        {
+          "id": "90542f21-6b8f-47fe-aad5-09e014d5239b",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "421ded2e-abce-4564-9d5e-f46e3697fc48",
+          "text": "It is too cheap.",
+          "is_correct": false
+        },
+        {
+          "id": "8cdbce52-ec2f-4f1b-b7a2-f08b064b2c63",
+          "text": "It has too many animals.",
+          "is_correct": false
+        },
+        {
+          "id": "6b135c77-d055-4266-8335-adf6fe71440e",
+          "text": "She is afraid of high places.",
+          "is_correct": true
+        },
+        {
+          "id": "ab7c5694-50ca-4aa2-8e43-a5c42c181555",
+          "text": "She does not like mountains because they are cold.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6b135c77-d055-4266-8335-adf6fe71440e"
+      ]
+    },
+    {
+      "question_id": "0b3e6764-7abf-436e-a6f6-f14e1135cf44",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What animals does Dan mention for the Safari Camp Out? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "94903a18-34a8-452f-9557-a5baa5f0c175",
+          "type": "TEXT",
+          "payload": {
+            "text": "What animals does Dan mention for the Safari Camp Out?"
+          },
+          "position": 1
+        },
+        {
+          "id": "5fc8789c-5596-4edd-875c-ca243602cb07",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "f9b9418a-9b3f-401a-8be5-72cac87fa74f",
+          "text": "Sharks, dolphins, and whales.",
+          "is_correct": false
+        },
+        {
+          "id": "d6cdb3f7-778d-41ce-8cc0-85d0ea74a8ff",
+          "text": "Horses, camels, and birds.",
+          "is_correct": false
+        },
+        {
+          "id": "5f17aae2-bc69-428b-9492-afe3744976ca",
+          "text": "Elephants, giraffes, and lions.",
+          "is_correct": true
+        },
+        {
+          "id": "60a51b7e-a477-4c01-800b-47b33557574e",
+          "text": "Dogs, cats, and rabbits.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5f17aae2-bc69-428b-9492-afe3744976ca"
+      ]
+    },
+    {
+      "question_id": "5fcf05ec-59a1-4cd7-b94e-93275c07fa76",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What happens to the Travel Max 2000? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "481d894e-45b3-46e9-bc81-018daff6b701",
+          "type": "TEXT",
+          "payload": {
+            "text": "What happens to the Travel Max 2000?"
+          },
+          "position": 1
+        },
+        {
+          "id": "7495d990-949b-459f-8e3d-908d90706b5c",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "f59c33e4-8a8b-4fa0-9f17-5d61ec215ba8",
+          "text": "It becomes the best vacation machine.",
+          "is_correct": false
+        },
+        {
+          "id": "2af4ed96-8257-4cc1-8ddb-f505e0ac4f0a",
+          "text": "It helps Anna choose a beach vacation.",
+          "is_correct": false
+        },
+        {
+          "id": "fb00855c-5e0a-4d95-95ef-2fcf29000cb2",
+          "text": "It gives Anna a free vacation.",
+          "is_correct": false
+        },
+        {
+          "id": "d4e10d9d-37f7-4e5a-a9f6-6651a037c06e",
+          "text": "It catches fire and stops working.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "d4e10d9d-37f7-4e5a-a9f6-6651a037c06e"
+      ]
+    },
+    {
+      "question_id": "55496f65-379f-41fb-b18f-8bb8f0da27a4",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Sabrina and Hannah ... snow.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a2065379-d017-4d99-acbf-237a0af33ced",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Sabrina and Hannah ... snow."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1ce3c4bf-1b65-4a00-8edb-ffe3c8371506",
+          "text": "has never seen",
+          "is_correct": false
+        },
+        {
+          "id": "921440e7-df52-441b-a7ad-2ba49a55c294",
+          "text": "have never seen",
+          "is_correct": true
+        },
+        {
+          "id": "f8aeebf3-8cc4-42a9-9baf-01c7a3636265",
+          "text": "have never saw",
+          "is_correct": false
+        },
+        {
+          "id": "655a96f1-430f-4944-a58a-a57fed359155",
+          "text": "never have see",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "921440e7-df52-441b-a7ad-2ba49a55c294"
+      ]
+    },
+    {
+      "question_id": "c71788b8-b730-4885-b2e1-206d7940b332",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: Michael ... his teachers.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "413d13f4-de82-4273-bf45-e51c37c5264e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: Michael ... his teachers."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "715bfaa4-2fe0-4fb1-81c0-415512dee434",
+          "text": "have already met",
+          "is_correct": false
+        },
+        {
+          "id": "a63a53d4-d8fa-4b11-8509-624fcf9fbc07",
+          "text": "has already met",
+          "is_correct": true
+        },
+        {
+          "id": "85912d68-2863-40ea-a069-77c6669874e1",
+          "text": "has already meet",
+          "is_correct": false
+        },
+        {
+          "id": "ae6b31ae-31bf-4137-891b-5225a6060d86",
+          "text": "already met has",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a63a53d4-d8fa-4b11-8509-624fcf9fbc07"
+      ]
+    },
+    {
+      "question_id": "a9d9de0a-9c32-4c66-ba3e-593cc9be816b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect form: The computers ... problems since they were updated last week.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "0857498e-3ad5-42aa-b9f1-a5c836ed9923",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect form: The computers ... problems since they were updated last week."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e643d7ca-bc84-4968-9ad7-08f918e56e9e",
+          "text": "has had",
+          "is_correct": false
+        },
+        {
+          "id": "67f71111-8af6-4d71-8bb4-9a679ede5376",
+          "text": "have had",
+          "is_correct": true
+        },
+        {
+          "id": "bef16496-f97f-478f-8295-44f3e33d74e3",
+          "text": "had",
+          "is_correct": false
+        },
+        {
+          "id": "3742d287-9434-4c81-9bbe-b1ef05aa02f1",
+          "text": "have have",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "67f71111-8af6-4d71-8bb4-9a679ede5376"
+      ]
+    },
+    {
+      "question_id": "6e0b7f55-8c0d-4ca0-8b8e-a544463d633d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Present Perfect passive form: The problem ... resolved because a help ticket ... submitted.",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "50048622-d4bb-493b-9a28-25f8e39ca9bb",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Present Perfect passive form: The problem ... resolved because a help ticket ... submitted."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "69d95cb3-ce50-4baa-af2c-e14c07f6375c",
+          "text": "has not resolved / has not submitted",
+          "is_correct": false
+        },
+        {
+          "id": "5815dd7b-dbdc-404c-9687-e7b4a1aeac34",
+          "text": "have not been resolved / have not been submitted",
+          "is_correct": false
+        },
+        {
+          "id": "1c313cb1-27db-458b-9910-6682de507f5c",
+          "text": "has not been resolved / has not been submitted",
+          "is_correct": true
+        },
+        {
+          "id": "f5c43c2a-1cf3-4329-8a40-92d10bd83878",
+          "text": "did not resolve / did not submit",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1c313cb1-27db-458b-9910-6682de507f5c"
+      ]
+    },
+    {
+      "question_id": "49b8d37a-d437-4d08-993b-66a68661ccbe",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Present Perfect yes/no question: The students have studied grammar for three weeks.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c5e895cc-4fbb-4eee-824b-a90027195402",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Present Perfect yes/no question: The students have studied grammar for three weeks."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "99c9397f-90a0-42d7-b23a-1efed2e39222",
+          "text": "Did the students have studied grammar for three weeks?",
+          "is_correct": false
+        },
+        {
+          "id": "4c9a8e85-89d5-41ba-9218-ece4ae59b264",
+          "text": "Have the students studied grammar for three weeks?",
+          "is_correct": true
+        },
+        {
+          "id": "3e67949c-db43-4db2-a46f-8b4969b2a4ae",
+          "text": "Has the students studied grammar for three weeks?",
+          "is_correct": false
+        },
+        {
+          "id": "e51f7d54-6cdd-4116-bd0f-c34541c57444",
+          "text": "Have the students study grammar for three weeks?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4c9a8e85-89d5-41ba-9218-ece4ae59b264"
+      ]
+    },
+    {
+      "question_id": "a1ffefd9-2919-4bde-8cca-5e77d6e41cbc",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Present Perfect yes/no question: The class has already begun.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "bc73a919-4b07-44c6-b541-867f30aaa1d4",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Present Perfect yes/no question: The class has already begun."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c11812ce-bc4c-4182-97ee-74ab933ea475",
+          "text": "Have the class already begun?",
+          "is_correct": false
+        },
+        {
+          "id": "becea404-06f7-4c60-a61c-f49fcf2654ab",
+          "text": "Has the class already begun?",
+          "is_correct": true
+        },
+        {
+          "id": "81f00590-5f31-465f-83d5-b3dbcc038148",
+          "text": "Did the class already begun?",
+          "is_correct": false
+        },
+        {
+          "id": "84ff5c38-f2d0-4dc4-9a8b-b1f4a0732b50",
+          "text": "Has the class already began?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "becea404-06f7-4c60-a61c-f49fcf2654ab"
+      ]
+    },
+    {
+      "question_id": "c0df4e75-ce05-4196-9a12-f48bee006fa7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct short answer: Have you eaten raw fish?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4dc75053-8086-4cde-955e-fa52b49ead07",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct short answer: Have you eaten raw fish?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5b847df3-0d93-4431-a38f-4c34b2ce498c",
+          "text": "No, I didn’t.",
+          "is_correct": false
+        },
+        {
+          "id": "e4ce6d58-b658-483c-bf67-d62168df3ef3",
+          "text": "No, I haven’t.",
+          "is_correct": true
+        },
+        {
+          "id": "545a0d25-1f22-41d0-8819-84e5958c9f7c",
+          "text": "No, I wasn’t.",
+          "is_correct": false
+        },
+        {
+          "id": "315b9979-debe-43a3-b5d9-ac62ea02c84e",
+          "text": "No, I don’t.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e4ce6d58-b658-483c-bf67-d62168df3ef3"
+      ]
+    },
+    {
+      "question_id": "30c48ac4-ea73-4b10-b89a-0fb4520c9b52",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Present Perfect information question.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "8821284e-a661-4c65-80cb-273e8e1b7590",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Present Perfect information question."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fd7ce689-31c9-489a-9702-3e19604255d4",
+          "text": "How long did you known him?",
+          "is_correct": false
+        },
+        {
+          "id": "ae25239e-881d-42cb-b82f-542a2809e4c3",
+          "text": "How long have you knew him?",
+          "is_correct": false
+        },
+        {
+          "id": "30c82876-7d6c-4b25-9fb2-8b95f61a1a11",
+          "text": "How long have you known him?",
+          "is_correct": true
+        },
+        {
+          "id": "e10ce933-e779-4925-8160-47023a55b8d0",
+          "text": "How long you have known him?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "30c82876-7d6c-4b25-9fb2-8b95f61a1a11"
+      ]
+    },
+    {
+      "question_id": "7ab86dd9-1b47-446b-a7ba-d464a2d9e447",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct tense: Marley ... more than 4,000 books. She’s still collecting more.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "f4d28e4b-731d-4b4b-92ba-31cd5b078da1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct tense: Marley ... more than 4,000 books. She’s still collecting more."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8757e51c-0f5d-443d-921d-5dc4f490d627",
+          "text": "collected",
+          "is_correct": false
+        },
+        {
+          "id": "273e4abf-2578-45d4-9463-0d454ef765f1",
+          "text": "has collected",
+          "is_correct": true
+        },
+        {
+          "id": "24a4f6bd-db6f-4d0e-9f13-9ea230efc742",
+          "text": "had collected",
+          "is_correct": false
+        },
+        {
+          "id": "c4587bea-5224-4268-af3f-f734d01fa801",
+          "text": "was collecting",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "273e4abf-2578-45d4-9463-0d454ef765f1"
+      ]
+    },
+    {
+      "question_id": "469fd9e9-24b3-4a6c-9384-d4f234f3766b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct tense: During her campaign, Marley ... with teachers and librarians.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c5518db7-efb1-4745-b205-c24ba9fcb263",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct tense: During her campaign, Marley ... with teachers and librarians."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b9b1dd14-1835-4cad-abd0-0595bb1d6f0d",
+          "text": "talked",
+          "is_correct": true
+        },
+        {
+          "id": "4eee91db-7aa1-43b4-8f8e-c56eddabbc0a",
+          "text": "has talked",
+          "is_correct": false
+        },
+        {
+          "id": "d4f4f8d9-e0e2-46db-9c65-30f2ececf741",
+          "text": "has talking",
+          "is_correct": false
+        },
+        {
+          "id": "de92a005-4b08-4374-99d6-3bfb166e7c59",
+          "text": "have talked",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "b9b1dd14-1835-4cad-abd0-0595bb1d6f0d"
+      ]
+    },
+    {
+      "question_id": "5c1f5a0b-c2e8-4f73-afb6-be506338ffb0",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. September 11, 2001. September 11, 2001, became one of the darkest moments in the history of the United States. The terrorist suicide attacks of that day were even compared to a second Pearl Harbor. On that terrible day, planes were flown into the World Trade Center in New York and into the Pentagon. It was the deadliest attack ever carried out on American soil, and thousands of people lost their lives suddenly. The attacks involved four coordinated plane hijackings: two planes left from Boston, one from Newark, and one from Dulles International Airport near Washington. The crashes happened one after another within about ninety minutes. Responsibility for the attacks was linked to Osama Bin Laden, a Saudi millionaire living outside his country. He had already been accused in the United States of organizing the bombings of two American embassies in Africa in 1998. At the time, he was believed to be hiding in Afghanistan with support from the Taliban, an Islamic organization in Afghanistan. The first attack happened at 8:51 a.m., when one hijacked plane struck the first tower of the World Trade Center, one of New York’s most powerful symbols. Sirens sounded across the city as emergency vehicles moved toward the burning building. Some workers trapped inside the skyscraper could be seen falling from the windows. It was a horrifying scene. Soon after 9 a.m., another plane hit the second tower. This changed the way New York and the country thought about their own safety. The plane tore through the building and left a huge burning hole. Around 10:30 in the morning, the upper part of the second tower collapsed. A few minutes later, the other tower also fell. The terrible moment was recorded on video and shown many times on television. At 9:28 a.m., while news of the two attacks was spreading through New York’s busy phone lines, a third hijacked plane crashed into the Pentagon, the center of the American military system and one of the most heavily protected buildings in the world. The building continued burning for more than six hours after the crash. Finally, shortly after 10 a.m., the fourth hijacked aircraft crashed southwest of Pittsburgh with 45 passengers and crew on board. No one survived. Some government sources suggested that the crash may have happened after a pilot fought with one of the terrorists. The attacks shocked the whole country. People across the United States felt grief, disbelief, confusion, and fear. In total, 266 people were on the four planes. The explosions also killed more than 200 firefighters and about 100 police officers and emergency workers. The number of victims at the World Trade Center and the Pentagon was horrific. When did the event called a “second Pearl Harbor” happen?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f473298e-56f3-49c5-95bc-eed595b60674",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. September 11, 2001. September 11, 2001, became one of the darkest moments in the history of the United States. The terrorist suicide attacks of that day were even compared to a second Pearl Harbor. On that terrible day, planes were flown into the World Trade Center in New York and into the Pentagon. It was the deadliest attack ever carried out on American soil, and thousands of people lost their lives suddenly. The attacks involved four coordinated plane hijackings: two planes left from Boston, one from Newark, and one from Dulles International Airport near Washington. The crashes happened one after another within about ninety minutes. Responsibility for the attacks was linked to Osama Bin Laden, a Saudi millionaire living outside his country. He had already been accused in the United States of organizing the bombings of two American embassies in Africa in 1998. At the time, he was believed to be hiding in Afghanistan with support from the Taliban, an Islamic organization in Afghanistan. The first attack happened at 8:51 a.m., when one hijacked plane struck the first tower of the World Trade Center, one of New York’s most powerful symbols. Sirens sounded across the city as emergency vehicles moved toward the burning building. Some workers trapped inside the skyscraper could be seen falling from the windows. It was a horrifying scene. Soon after 9 a.m., another plane hit the second tower. This changed the way New York and the country thought about their own safety. The plane tore through the building and left a huge burning hole. Around 10:30 in the morning, the upper part of the second tower collapsed. A few minutes later, the other tower also fell. The terrible moment was recorded on video and shown many times on television. At 9:28 a.m., while news of the two attacks was spreading through New York’s busy phone lines, a third hijacked plane crashed into the Pentagon, the center of the American military system and one of the most heavily protected buildings in the world. The building continued burning for more than six hours after the crash. Finally, shortly after 10 a.m., the fourth hijacked aircraft crashed southwest of Pittsburgh with 45 passengers and crew on board. No one survived. Some government sources suggested that the crash may have happened after a pilot fought with one of the terrorists. The attacks shocked the whole country. People across the United States felt grief, disbelief, confusion, and fear. In total, 266 people were on the four planes. The explosions also killed more than 200 firefighters and about 100 police officers and emergency workers. The number of victims at the World Trade Center and the Pentagon was horrific. When did the event called a “second Pearl Harbor” happen?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2754d59e-d1e7-4faf-8178-f0751527d46e",
+          "text": "September 11, 2001",
+          "is_correct": true
+        },
+        {
+          "id": "e8365469-e456-419d-8702-13b9a59c1834",
+          "text": "October 11, 2001",
+          "is_correct": false
+        },
+        {
+          "id": "5073d07c-4dff-41da-8738-772fff380681",
+          "text": "September 21, 2001",
+          "is_correct": false
+        },
+        {
+          "id": "15e287bf-63e8-41e5-81a4-1b60f5a4a2dc",
+          "text": "September 11, 2011",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2754d59e-d1e7-4faf-8178-f0751527d46e"
+      ]
+    },
+    {
+      "question_id": "2a9377ef-e7d3-4602-a15e-b55cf8785423",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "How many lives were suddenly lost according to the text?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f343b673-b92c-4d5c-92fb-143ac8f4f174",
+          "type": "TEXT",
+          "payload": {
+            "text": "How many lives were suddenly lost according to the text?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ad425ec2-9a6f-4636-8ee3-213d82f7da06",
+          "text": "hundreds",
+          "is_correct": false
+        },
+        {
+          "id": "e6e6b00c-187b-489c-ac02-a30e08937f6c",
+          "text": "thousands",
+          "is_correct": true
+        },
+        {
+          "id": "958dbdae-0cf5-4018-bb86-9fa826f887cc",
+          "text": "millions",
+          "is_correct": false
+        },
+        {
+          "id": "956bd629-5e5f-47de-b05d-4ad1e1ac549c",
+          "text": "dozens",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e6e6b00c-187b-489c-ac02-a30e08937f6c"
+      ]
+    },
+    {
+      "question_id": "e4fe4e91-5539-4f1d-9dba-8abccdc1b3ce",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "How many planes were involved in the attacks that day?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "86120a79-9ac4-4b72-9568-1727c88fd7ca",
+          "type": "TEXT",
+          "payload": {
+            "text": "How many planes were involved in the attacks that day?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "986e12be-c080-4928-bab9-0681b43e9f35",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "id": "14f07100-4249-4a40-b29e-6a200ba87a99",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "id": "5a48c839-12b3-4c01-827b-23fd9b7885dc",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "c7d99d44-73dc-45d0-9998-0cb3d9d0d6fb",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "c7d99d44-73dc-45d0-9998-0cb3d9d0d6fb"
+      ]
+    },
+    {
+      "question_id": "858450cd-e572-47ed-a83a-d216cb820c28",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "The Taliban is described as an organization from which country?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5300ec96-9f3b-4f67-8451-617076039114",
+          "type": "TEXT",
+          "payload": {
+            "text": "The Taliban is described as an organization from which country?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c8f4ac0e-11dc-47ec-976a-f266bb6754bf",
+          "text": "the USA",
+          "is_correct": false
+        },
+        {
+          "id": "09003d1d-e9fd-4eab-8bc5-95b79b7660a4",
+          "text": "Afghanistan",
+          "is_correct": true
+        },
+        {
+          "id": "7b17fa35-6373-4e44-87a1-dcd292d45c8f",
+          "text": "Iran",
+          "is_correct": false
+        },
+        {
+          "id": "18f40890-f1bc-47a5-b1dc-50cbd269c66f",
+          "text": "Iraq",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "09003d1d-e9fd-4eab-8bc5-95b79b7660a4"
+      ]
+    },
+    {
+      "question_id": "f7ba19c8-8ba2-4bc1-88ce-a09322518f0b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "At what time did the top of the second World Trade Center tower collapse?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2cfe072e-866b-4d44-8a99-5cce28e5daa2",
+          "type": "TEXT",
+          "payload": {
+            "text": "At what time did the top of the second World Trade Center tower collapse?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d7cd6fe6-c015-491f-90be-52a6df4ae47f",
+          "text": "at 10:30 p.m.",
+          "is_correct": false
+        },
+        {
+          "id": "162bcba3-8177-4e48-8cae-7cc651a4eb89",
+          "text": "at 10:00 a.m.",
+          "is_correct": false
+        },
+        {
+          "id": "3a96016f-e9b5-4785-865c-a92f267ee7b3",
+          "text": "at 10:30 in the morning",
+          "is_correct": true
+        },
+        {
+          "id": "441db468-ab7a-476e-8949-956b221b364b",
+          "text": "at 10:30 in the evening",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3a96016f-e9b5-4785-865c-a92f267ee7b3"
+      ]
+    },
+    {
+      "question_id": "197a6898-a5dc-47cd-9fe4-823457428707",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which building is described as one of the most secure places in the United States?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "fa89408b-1bd5-46b4-a500-7e7b45f10198",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which building is described as one of the most secure places in the United States?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7b8164b4-ea2a-41f3-8e97-7d4d4c321158",
+          "text": "Dulles International Airport",
+          "is_correct": false
+        },
+        {
+          "id": "58569ebe-9b7b-441c-a357-3d68e0449b75",
+          "text": "the World Trade Center",
+          "is_correct": false
+        },
+        {
+          "id": "8c110872-4cc2-4493-806b-cdb3f1f3f370",
+          "text": "Pittsburgh",
+          "is_correct": false
+        },
+        {
+          "id": "4a33fcd5-b63c-40ab-a2d4-96bbe6e26b12",
+          "text": "the Pentagon",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "4a33fcd5-b63c-40ab-a2d4-96bbe6e26b12"
+      ]
+    },
+    {
+      "question_id": "762edc4a-8012-49e5-8bbe-06cab7a2a001",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Within what period did the plane crashes happen?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5a77bb6a-fb2f-4898-a141-ea123e1a890f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Within what period did the plane crashes happen?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f1974a5f-ad6f-45d6-8d0b-c00c8af5e875",
+          "text": "within 90 minutes",
+          "is_correct": true
+        },
+        {
+          "id": "204f3e74-03bf-491e-92a7-a15619d65dd3",
+          "text": "over two days",
+          "is_correct": false
+        },
+        {
+          "id": "a8903f9a-6bf0-4997-a676-bc465a4dd470",
+          "text": "all at exactly the same moment",
+          "is_correct": false
+        },
+        {
+          "id": "7af2e960-295f-42bc-9a24-5a9295b14e81",
+          "text": "during six hours",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f1974a5f-ad6f-45d6-8d0b-c00c8af5e875"
+      ]
+    },
+    {
+      "question_id": "826406d7-27ab-47e3-80af-8a943bad5439",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which statement about Osama Bin Laden is false according to the text?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "a1f5fc85-5dd4-4639-8f6c-757c4650d631",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which statement about Osama Bin Laden is false according to the text?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "69afb663-6f4d-426a-85b0-9d46f85396eb",
+          "text": "Osama Bin Laden was a Saudi millionaire",
+          "is_correct": false
+        },
+        {
+          "id": "f4da2a28-e1a6-420e-a0a5-7b8280156229",
+          "text": "Osama Bin Laden was believed to be hiding in Afghanistan",
+          "is_correct": false
+        },
+        {
+          "id": "9ed5e31a-6730-46d3-8f27-b081173e7e09",
+          "text": "Osama Bin Laden was connected with responsibility for the attacks",
+          "is_correct": false
+        },
+        {
+          "id": "065e6075-46d0-4a76-9761-764b8e7d2670",
+          "text": "Osama Bin Laden received help from the Afghan Islamic government",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "065e6075-46d0-4a76-9761-764b8e7d2670"
+      ]
+    },
+    {
+      "question_id": "5281ccd2-8213-4200-8442-8b0135bc14e7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "How many people were on board the fourth hijacked plane?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "993a2618-35e0-490e-893f-afc397086c9d",
+          "type": "TEXT",
+          "payload": {
+            "text": "How many people were on board the fourth hijacked plane?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "83c7f722-b608-43b7-a75a-5bd12801f10d",
+          "text": "45 passengers and crew",
+          "is_correct": true
+        },
+        {
+          "id": "4e63d2c8-012b-4451-ae58-b1fc8af14640",
+          "text": "266 passengers and crew",
+          "is_correct": false
+        },
+        {
+          "id": "0867213a-867d-407a-8705-bebf5725a0cf",
+          "text": "about 100 police officers",
+          "is_correct": false
+        },
+        {
+          "id": "8d309bdb-8c73-4b68-81b4-a766dd71ff4c",
+          "text": "more than 200 firefighters",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "83c7f722-b608-43b7-a75a-5bd12801f10d"
+      ]
+    },
+    {
+      "question_id": "3383348c-4daa-42ac-9a45-0f808e0369c6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What feelings spread across the United States after the attacks?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "6b7458b8-9ee3-48b9-8cb0-32ecbd92805a",
+          "type": "TEXT",
+          "payload": {
+            "text": "What feelings spread across the United States after the attacks?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d8b0065a-3f85-4bf8-9c38-8b9dd705bb51",
+          "text": "joy, pride, and excitement",
+          "is_correct": false
+        },
+        {
+          "id": "ffcc449e-41b4-46a0-b8ee-01239a9f42c0",
+          "text": "grief, disbelief, confusion, and shock",
+          "is_correct": true
+        },
+        {
+          "id": "c908e59c-01a9-4dc8-87c6-7ac25918e77f",
+          "text": "boredom and calmness",
+          "is_correct": false
+        },
+        {
+          "id": "ad982084-135d-4b5d-b26d-8440c04a30a1",
+          "text": "relief and celebration",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ffcc449e-41b4-46a0-b8ee-01239a9f42c0"
+      ]
+    },
+    {
+      "question_id": "6a477c80-88f6-431d-8f46-6cb591f9290e",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "В тексте о концепциях естествознания говорится, что ученые не могут «выдворять» из сферы научного познания аномальные объекты. История науки знает радикальные сдвиги при попытках объяснить аномальные явления. Ученый должен быть открыт новым, нетрадиционным, нестандартным поворотам мысли и объектам познания. Какую фундаментальную черту науки можно выделить?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "30ad890e-b800-4cf0-80b1-5529e2147149",
+          "type": "TEXT",
+          "payload": {
+            "text": "В тексте о концепциях естествознания говорится, что ученые не могут «выдворять» из сферы научного познания аномальные объекты. История науки знает радикальные сдвиги при попытках объяснить аномальные явления. Ученый должен быть открыт новым, нетрадиционным, нестандартным поворотам мысли и объектам познания. Какую фундаментальную черту науки можно выделить?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ea4523b0-5e0b-4a4a-aaad-0483650682b2",
+          "text": "Открытость науки как системы знания новому, нетрадиционному",
+          "is_correct": true
+        },
+        {
+          "id": "32b39a62-215a-4064-90cd-956a3cf1add1",
+          "text": "Качественные сдвиги в науке зависят от исследования аномалий",
+          "is_correct": false
+        },
+        {
+          "id": "82416663-2b13-4169-8e08-585b1cb0ba96",
+          "text": "История науки полна всяческих неожиданностей",
+          "is_correct": false
+        },
+        {
+          "id": "57784a0c-40bb-4926-b746-30f9db100660",
+          "text": "Нельзя науке забывать об «аномальных объектах»",
+          "is_correct": false
+        },
+        {
+          "id": "73741d80-c528-430d-8849-06f17564c161",
+          "text": "Радикальные изменения в науке — дело нетрадиционное",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ea4523b0-5e0b-4a4a-aaad-0483650682b2"
+      ]
+    },
+    {
+      "question_id": "a2d4ea25-ea01-479a-9e77-9d6e50133d42",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Шакарим писал: «Говорят, найди себе кумира для подражания. Кумиром для меня стал покойный Абай. Следуя ему, рано отстранился я от межродовой распри и унизительных междоусобиц, избрал путь истины и справедливости, занялся науками». О каком роде своих занятий говорит Шакарим?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "14cd25bc-8f56-40d8-8212-12aec45bcc24",
+          "type": "TEXT",
+          "payload": {
+            "text": "Шакарим писал: «Говорят, найди себе кумира для подражания. Кумиром для меня стал покойный Абай. Следуя ему, рано отстранился я от межродовой распри и унизительных междоусобиц, избрал путь истины и справедливости, занялся науками». О каком роде своих занятий говорит Шакарим?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0019bd68-e6a9-4931-b491-dbb296a39167",
+          "text": "Об абаеведении",
+          "is_correct": false
+        },
+        {
+          "id": "5e3af8d0-4973-498a-bd8e-0c219df5b2cb",
+          "text": "О самообразовании",
+          "is_correct": true
+        },
+        {
+          "id": "9233d260-d422-4c4c-90b2-92080138b5ba",
+          "text": "О научном поиске образца жизни",
+          "is_correct": false
+        },
+        {
+          "id": "8df3f5eb-5d13-4b09-bf6b-9a6b6345ce8f",
+          "text": "О самопознании",
+          "is_correct": false
+        },
+        {
+          "id": "3d4e44c2-ad12-46fa-8d76-ff57a6dbee3f",
+          "text": "О «социальном аскетизме»",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5e3af8d0-4973-498a-bd8e-0c219df5b2cb"
+      ]
+    },
+    {
+      "question_id": "b47534fc-e724-4b9f-90ef-5c3577ef6dc5",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Известно свидетельство о встрече Диогена Синопского с Платоном: «Однажды Платон увидел Диогена, промывавшего овощи, и сказал ему тихо, на ухо: “Если бы ты оказывал услугу Дионисию [тирану], то не промывал бы овощей”. На это Диоген ответил Платону также на ухо: “Если бы ты промывал овощи, то тебе не пришлось бы оказывать услуг тирану Дионисию”». Отметьте вариант, который наиболее полно отражает существо ситуации.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2ba3fa24-9282-48df-8f41-02418be58a4b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Известно свидетельство о встрече Диогена Синопского с Платоном: «Однажды Платон увидел Диогена, промывавшего овощи, и сказал ему тихо, на ухо: “Если бы ты оказывал услугу Дионисию [тирану], то не промывал бы овощей”. На это Диоген ответил Платону также на ухо: “Если бы ты промывал овощи, то тебе не пришлось бы оказывать услуг тирану Дионисию”». Отметьте вариант, который наиболее полно отражает существо ситуации."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8a4eb6f1-d88c-446a-81db-19bafe4b7b29",
+          "text": "Свобода личного выбора линии жизни, свобода как таковая",
+          "is_correct": true
+        },
+        {
+          "id": "b42e201a-0db3-4e7b-8016-a59b61a3248b",
+          "text": "Кинику Диогену с его философией не годится служить тирану",
+          "is_correct": false
+        },
+        {
+          "id": "e1630dba-3107-4363-95c1-f714a2d45039",
+          "text": "О служении — не служении тирану лучше говорить тихо, на ухо",
+          "is_correct": false
+        },
+        {
+          "id": "fdebc7e3-a8f6-4878-b123-bdbb0d85fa29",
+          "text": "Диоген придумал этот диалог, он не был знаком с Платоном",
+          "is_correct": false
+        },
+        {
+          "id": "2508360a-7aaa-42a3-9b01-b30f987ecf7a",
+          "text": "«Быть или не быть?» — как гамлетовский вопрос",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8a4eb6f1-d88c-446a-81db-19bafe4b7b29"
+      ]
+    },
+    {
+      "question_id": "df7ff5bb-33d5-4ccc-9a0e-d90f939278f4",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Мартин Хайдеггер пишет о Рейне: «Рейн теперь есть поставитель гидравлического напора благодаря существованию гидроэлектростанции». Далее он противопоставляет этому «Рейн», о котором говорит одноименный гимн Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "bdf9dfbd-aacf-4101-9fe9-54d844c8dd11",
+          "type": "TEXT",
+          "payload": {
+            "text": "Мартин Хайдеггер пишет о Рейне: «Рейн теперь есть поставитель гидравлического напора благодаря существованию гидроэлектростанции». Далее он противопоставляет этому «Рейн», о котором говорит одноименный гимн Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fc398b93-2ff9-4c81-bf96-5592a01f8425",
+          "text": "Между возможностями использования природной силы реки Рейн",
+          "is_correct": false
+        },
+        {
+          "id": "788f362d-cff2-4c69-9709-6e6158de6bea",
+          "text": "Между задачами промышленного производства и поэзии, искусства",
+          "is_correct": false
+        },
+        {
+          "id": "ccc2df93-2671-403e-a0b1-601e4ab9c62d",
+          "text": "Между «производственным» и поэтическим восприятием природного феномена",
+          "is_correct": true
+        },
+        {
+          "id": "4fd8b7a7-3ddb-44c0-80ea-10c70fc10eb8",
+          "text": "О контрасте между словоупотреблением в XIX и XX веках",
+          "is_correct": false
+        },
+        {
+          "id": "e4d9039f-83cf-4ba0-b7b3-f44207f1773c",
+          "text": "Между обликами ландшафта до и после установления ГЭС на Рейне",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ccc2df93-2671-403e-a0b1-601e4ab9c62d"
+      ]
+    },
+    {
+      "question_id": "ffc436c7-9232-4929-b752-0908c8789f76",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Гегель писал: «Философствование без системы не может иметь в себе ничего научного... Всякое содержание получает оправдание лишь как момент целого...». Он же утверждал: «Каждая часть философии есть философское целое, замкнутый в себе круг...». Что прямо или неявно критикует Гегель в этих суждениях?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b44211be-b7f9-417e-ab99-d97251414189",
+          "type": "TEXT",
+          "payload": {
+            "text": "Гегель писал: «Философствование без системы не может иметь в себе ничего научного... Всякое содержание получает оправдание лишь как момент целого...». Он же утверждал: «Каждая часть философии есть философское целое, замкнутый в себе круг...». Что прямо или неявно критикует Гегель в этих суждениях?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f89119e3-3531-40a0-a2ae-3c894b46c61c",
+          "text": "Отсутствие системности и целостности в философии",
+          "is_correct": false
+        },
+        {
+          "id": "5c0e82d2-1298-4de9-8f4c-af38a149446d",
+          "text": "Ненаучность замкнутых частей философии",
+          "is_correct": false
+        },
+        {
+          "id": "527c287d-6e5b-46ad-87f7-9dde9d9a6e33",
+          "text": "Нарушение целостности философского знания",
+          "is_correct": false
+        },
+        {
+          "id": "3e0a0239-7ebc-4f0a-bb9a-ba85dfe60992",
+          "text": "Бессистемность в философии как признак ее ненаучности",
+          "is_correct": true
+        },
+        {
+          "id": "fd1ebd70-adfc-46ab-8899-b9bbef74c03e",
+          "text": "Гегель здесь ничего не подвергает явной или неявной критике",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3e0a0239-7ebc-4f0a-bb9a-ba85dfe60992"
+      ]
+    },
+    {
+      "question_id": "716bd17f-c35a-4de2-b3c3-95c26d27ffc8",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7b4ce3e5-14ae-4ca0-95d5-6e07142ce321",
+          "type": "TEXT",
+          "payload": {
+            "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "67e47a6b-85a7-4fea-9931-f1d92e461dca",
+          "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+          "is_correct": false
+        },
+        {
+          "id": "9a0fd7e1-70f4-47c6-9035-1bdff077afdc",
+          "text": "A < B",
+          "is_correct": true
+        },
+        {
+          "id": "d5783fd6-c4aa-4ba8-9866-403221a00411",
+          "text": "A = B",
+          "is_correct": false
+        },
+        {
+          "id": "854d546a-d845-4ab7-81f5-a7229a5398ff",
+          "text": "B < A",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9a0fd7e1-70f4-47c6-9035-1bdff077afdc"
+      ]
+    },
+    {
+      "question_id": "f3a4a729-3541-4f9b-af1c-6b400a36508c",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "1ddb4f19-0db4-4179-b31f-67e42fb3fc1b",
+          "type": "TEXT",
+          "payload": {
+            "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "9303d8e7-7d1d-4747-a4ab-c108ba71df0d",
+          "text": "(1; 0)",
+          "is_correct": false
+        },
+        {
+          "id": "67e22412-b149-4eee-96b9-2330c89fe995",
+          "text": "(0; −1)",
+          "is_correct": true
+        },
+        {
+          "id": "35b11658-89c0-492c-967a-1d44fb52835f",
+          "text": "(3; −3)",
+          "is_correct": false
+        },
+        {
+          "id": "a4d512a1-ceb8-48a6-8629-6fa198343dd6",
+          "text": "(5; −4)",
+          "is_correct": false
+        },
+        {
+          "id": "33bf95f2-dbdb-4bcb-a201-7dee538e388f",
+          "text": "(4; 5)",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "67e22412-b149-4eee-96b9-2330c89fe995"
+      ]
+    },
+    {
+      "question_id": "6b3c4092-8125-4001-b402-3d8b4e9cb900",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6cde5583-c3b1-48ca-ad8a-1f58972a9333",
+          "type": "TEXT",
+          "payload": {
+            "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d6e1cb8e-fe03-41c5-90ae-b31edfcd6b00",
+          "text": "1 жыл 3 ай",
+          "is_correct": false
+        },
+        {
+          "id": "d2c7ecca-6e58-4f62-b247-10e4019dbb55",
+          "text": "4 жыл",
+          "is_correct": true
+        },
+        {
+          "id": "46d0f62a-a3fc-4ad1-9c60-e26d8c077608",
+          "text": "6 жыл",
+          "is_correct": false
+        },
+        {
+          "id": "b5d2c627-03a1-4e10-8b26-80500a1c0f6e",
+          "text": "5,5 жыл",
+          "is_correct": false
+        },
+        {
+          "id": "aadd598d-2a63-4ecd-8ec7-acd64afb225c",
+          "text": "3 жыл",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d2c7ecca-6e58-4f62-b247-10e4019dbb55"
+      ]
+    },
+    {
+      "question_id": "c374d7ce-01d9-4493-bbce-a8c31c0db424",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Дано уравнение: x · 6,05 = 10. Корень уравнения лежит в двойном неравенстве. Выберите верный интервал.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "910325ac-765c-4663-9028-64cd6fa8bcb8",
+          "type": "TEXT",
+          "payload": {
+            "text": "Дано уравнение: x · 6,05 = 10. Корень уравнения лежит в двойном неравенстве. Выберите верный интервал."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5952f815-88cc-4d6d-a53f-9848f3f0f3dd",
+          "text": "1,67 < x < 2",
+          "is_correct": false
+        },
+        {
+          "id": "b3394feb-4d6f-4dad-a5f9-92b7160cc304",
+          "text": "1,6 < x < 1,2",
+          "is_correct": false
+        },
+        {
+          "id": "b0394dc1-1d40-4e2b-82cc-17a12b0fde0e",
+          "text": "1,7 < x < 2",
+          "is_correct": false
+        },
+        {
+          "id": "31569e20-3700-49b2-b4f7-689a00736dca",
+          "text": "1,5 < x < 2",
+          "is_correct": true
+        },
+        {
+          "id": "e5073126-0b18-4166-bed9-2274be374f4a",
+          "text": "1,68 < x < 2",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "31569e20-3700-49b2-b4f7-689a00736dca"
+      ]
+    },
+    {
+      "question_id": "ee75dd7f-6390-4f80-adf6-7bf7def7a7f5",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Сравните две величины.Величина A: −x³ / x\nВеличина B: (−x)²",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "01b6f12d-7847-4c4d-ab41-b737364e6063",
+          "type": "TEXT",
+          "payload": {
+            "text": "Сравните две величины.Величина A: −x³ / x\nВеличина B: (−x)²"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2995f14e-16ab-4568-9f23-2bc9effb9763",
+          "text": "Ни больше ни меньше",
+          "is_correct": false
+        },
+        {
+          "id": "f8db7032-5a86-42bb-b577-ffe6931c4b62",
+          "text": "Величины равны",
+          "is_correct": false
+        },
+        {
+          "id": "2615a161-d1e8-4643-b9bd-bb6dcd72316c",
+          "text": "По данной информации невозможно определить отношение величин",
+          "is_correct": false
+        },
+        {
+          "id": "a894ff01-710c-4ebe-add0-f3f3cec97653",
+          "text": "Величина B больше",
+          "is_correct": true
+        },
+        {
+          "id": "c529393f-a53f-48d0-9e1b-0c32f91a3819",
+          "text": "Величина A больше",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a894ff01-710c-4ebe-add0-f3f3cec97653"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 20,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "8a549d5d-c4f2-4a97-8148-a41aab977724",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does the travel agent want to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ebad46a7-668c-4603-8e42-d60ed8e7f1af",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does the travel agent want to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "43b1bf9f-5370-4170-ad63-7d551650759f",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "90db7034-bdaf-4e1b-89cc-7ce379c64891",
+            "text": "He wants to help Anna save money on a vacation.",
+            "is_correct": false
+          },
+          {
+            "id": "85071b17-2eb9-4460-b4fb-4eedf4a8a023",
+            "text": "The agent wants to send Anna to another travel agency.",
+            "is_correct": false
+          },
+          {
+            "id": "4f90c205-e8e7-4e86-9631-37666080508d",
+            "text": "He wants to sell Anna the most expensive vacation.",
+            "is_correct": true
+          },
+          {
+            "id": "65374c05-7da2-4997-94ec-ec9b2072d36b",
+            "text": "The agent wants Anna to work at the travel agency.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4f90c205-e8e7-4e86-9631-37666080508d"
+        ]
+      },
+      {
+        "question_id": "61906529-b986-4b5b-ad77-67736c3b9b3e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Which vacation has a higher price? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "201eccec-06da-470b-af66-d4b54dd30458",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which vacation has a higher price?"
+            },
+            "position": 1
+          },
+          {
+            "id": "2fa36356-f2c9-4637-a7f0-d7c517f39c2e",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "f3ce949f-cbcf-47cb-99c9-e5a8270d0bcd",
+            "text": "The Deep Sea Adventure is more expensive than the Mountain Getaway.",
+            "is_correct": true
+          },
+          {
+            "id": "9bd4c30b-2b9c-44db-a325-303040e24f74",
+            "text": "Both the Mountain Getaway and the Deep Sea Adventure have the same cost.",
+            "is_correct": false
+          },
+          {
+            "id": "e82e0f69-06fc-4ce6-9d7a-ea1815efd0d5",
+            "text": "The Mountain Getaway is more expensive than the Deep Sea Adventure.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f3ce949f-cbcf-47cb-99c9-e5a8270d0bcd"
+        ]
+      },
+      {
+        "question_id": "1918c70a-a3fc-4f48-b2e2-b744f0f360c2",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does the travel agent want Anna to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "fe5fb05a-ed75-440e-9b09-dff203c94b1d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does the travel agent want Anna to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "be7aa905-0485-4eac-9b73-ede1824f217a",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "e1f703b9-d822-4afa-8d49-52bfdf2b979e",
+            "text": "He wants her help with fixing his computer.",
+            "is_correct": false
+          },
+          {
+            "id": "554539c9-657f-4d99-812c-3199596ca2ae",
+            "text": "The agent wants her to stay and see some new vacation technology.",
+            "is_correct": true
+          },
+          {
+            "id": "31bf8077-f551-44ce-8a56-f7b5ad715b2b",
+            "text": "He wants her to stop being afraid of animals.",
+            "is_correct": false
+          },
+          {
+            "id": "49b8df09-f4f5-4347-bbe7-6d4d07ba574d",
+            "text": "The agent wants her to give him better ideas for her vacation.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "554539c9-657f-4d99-812c-3199596ca2ae"
+        ]
+      },
+      {
+        "question_id": "7a0c145a-87a3-4702-8b30-1f7aeaa17715",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna like to do when she travels? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "1d3788e8-6871-4cef-bf0d-c94302935996",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna like to do when she travels?"
+            },
+            "position": 1
+          },
+          {
+            "id": "e0b709ef-a31f-42e5-a2c3-46a8e49c6586",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "8601b912-1bb0-4dda-b858-f987705fdb4c",
+            "text": "Take a bike tour.",
+            "is_correct": false
+          },
+          {
+            "id": "9d3629a4-6833-43f6-a8f2-18bb2fb4c457",
+            "text": "Go in a helicopter.",
+            "is_correct": false
+          },
+          {
+            "id": "048eb8cf-32bc-4f27-bf00-02e6e214f913",
+            "text": "Ride horses.",
+            "is_correct": false
+          },
+          {
+            "id": "1afc8c33-7e63-44c0-88bb-e209ceed0a11",
+            "text": "Travel by train.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "1afc8c33-7e63-44c0-88bb-e209ceed0a11"
+        ]
+      },
+      {
+        "question_id": "6f232595-9917-472b-9036-9a97419d3ce5",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna tell the travel agent to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "e3f4ac6b-5f56-4a69-a675-dbc33a891330",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna tell the travel agent to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "06faf0fb-d037-48b2-a6d3-9913f6b7a390",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "2517d399-b2ab-4df1-87f0-340d40502588",
+            "text": "She wants him to take the priciest vacation.",
+            "is_correct": true
+          },
+          {
+            "id": "08399f01-f8cd-42df-afdb-8fbed7345759",
+            "text": "Anna says he should go on a campout with her.",
+            "is_correct": false
+          },
+          {
+            "id": "577d0eb4-af57-4552-b92d-b7d9b7c30e2b",
+            "text": "Anna says he should fix the Travel Max 2000.",
+            "is_correct": false
+          },
+          {
+            "id": "23f90887-423b-424f-b012-5b2e3ef87f81",
+            "text": "Anna wants him to cry about the machine.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2517d399-b2ab-4df1-87f0-340d40502588"
+        ]
+      },
+      {
+        "question_id": "e3dc5540-663d-4293-b1cf-cd8a351b61f9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Anna say she needs a vacation? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2fcb87cf-3d7c-402b-a43e-4716b0db0d06",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Anna say she needs a vacation?"
+            },
+            "position": 1
+          },
+          {
+            "id": "027ce52b-e6de-4e30-b207-33c27b3b5721",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "f534ed36-2709-4e22-aaff-241a0721cf7e",
+            "text": "She wants to work at a travel agency.",
+            "is_correct": false
+          },
+          {
+            "id": "7adb4d88-7635-4c7a-953c-5524720d381e",
+            "text": "She imagines a beach vacation and thinks it is better than where she is.",
+            "is_correct": true
+          },
+          {
+            "id": "1ec49ce1-eaaa-4a32-9c33-d89f8985addf",
+            "text": "She wants to travel with Professor Bot.",
+            "is_correct": false
+          },
+          {
+            "id": "b4ff6043-15ab-43b8-a9b5-3ea24f51883c",
+            "text": "She wants to sell vacations.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7adb4d88-7635-4c7a-953c-5524720d381e"
+        ]
+      },
+      {
+        "question_id": "36a2bab3-a86b-470c-9d44-1a1fe4d789c9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Professor Bot not want a beach vacation? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "8a7fd7e9-0556-43bf-8502-ade5994ed713",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Professor Bot not want a beach vacation?"
+            },
+            "position": 1
+          },
+          {
+            "id": "4dc1d86c-de12-406b-bb1a-d120db123c0d",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "cc07c285-df35-4904-ac38-3702856ce6fd",
+            "text": "He is afraid of sharks.",
+            "is_correct": false
+          },
+          {
+            "id": "05dc5996-3a56-400a-8164-fb7afcf5d3f2",
+            "text": "He thinks beaches are too expensive.",
+            "is_correct": false
+          },
+          {
+            "id": "609f6edf-8e96-4109-89de-91393c835b7c",
+            "text": "Sand is not good for robots.",
+            "is_correct": true
+          },
+          {
+            "id": "381b3e5d-da03-40cb-8870-b08fc673825a",
+            "text": "He wants to go to the mountains.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "609f6edf-8e96-4109-89de-91393c835b7c"
+        ]
+      },
+      {
+        "question_id": "19b57754-9ffa-4a3e-bedd-d42fb87266b6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Anna not want the Mountain Getaway? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "03d5b12e-7bfc-4660-a7dd-e564f2e46a9e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Anna not want the Mountain Getaway?"
+            },
+            "position": 1
+          },
+          {
+            "id": "90542f21-6b8f-47fe-aad5-09e014d5239b",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "421ded2e-abce-4564-9d5e-f46e3697fc48",
+            "text": "It is too cheap.",
+            "is_correct": false
+          },
+          {
+            "id": "8cdbce52-ec2f-4f1b-b7a2-f08b064b2c63",
+            "text": "It has too many animals.",
+            "is_correct": false
+          },
+          {
+            "id": "6b135c77-d055-4266-8335-adf6fe71440e",
+            "text": "She is afraid of high places.",
+            "is_correct": true
+          },
+          {
+            "id": "ab7c5694-50ca-4aa2-8e43-a5c42c181555",
+            "text": "She does not like mountains because they are cold.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6b135c77-d055-4266-8335-adf6fe71440e"
+        ]
+      },
+      {
+        "question_id": "0b3e6764-7abf-436e-a6f6-f14e1135cf44",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What animals does Dan mention for the Safari Camp Out? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "94903a18-34a8-452f-9557-a5baa5f0c175",
+            "type": "TEXT",
+            "payload": {
+              "text": "What animals does Dan mention for the Safari Camp Out?"
+            },
+            "position": 1
+          },
+          {
+            "id": "5fc8789c-5596-4edd-875c-ca243602cb07",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "f9b9418a-9b3f-401a-8be5-72cac87fa74f",
+            "text": "Sharks, dolphins, and whales.",
+            "is_correct": false
+          },
+          {
+            "id": "d6cdb3f7-778d-41ce-8cc0-85d0ea74a8ff",
+            "text": "Horses, camels, and birds.",
+            "is_correct": false
+          },
+          {
+            "id": "5f17aae2-bc69-428b-9492-afe3744976ca",
+            "text": "Elephants, giraffes, and lions.",
+            "is_correct": true
+          },
+          {
+            "id": "60a51b7e-a477-4c01-800b-47b33557574e",
+            "text": "Dogs, cats, and rabbits.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5f17aae2-bc69-428b-9492-afe3744976ca"
+        ]
+      },
+      {
+        "question_id": "5fcf05ec-59a1-4cd7-b94e-93275c07fa76",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What happens to the Travel Max 2000? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "481d894e-45b3-46e9-bc81-018daff6b701",
+            "type": "TEXT",
+            "payload": {
+              "text": "What happens to the Travel Max 2000?"
+            },
+            "position": 1
+          },
+          {
+            "id": "7495d990-949b-459f-8e3d-908d90706b5c",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/21ae4801aa644f5c973f5d77107828f9.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/5ffe3e00-9a2d-42bf-aafd-602711b88c35.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "f59c33e4-8a8b-4fa0-9f17-5d61ec215ba8",
+            "text": "It becomes the best vacation machine.",
+            "is_correct": false
+          },
+          {
+            "id": "2af4ed96-8257-4cc1-8ddb-f505e0ac4f0a",
+            "text": "It helps Anna choose a beach vacation.",
+            "is_correct": false
+          },
+          {
+            "id": "fb00855c-5e0a-4d95-95ef-2fcf29000cb2",
+            "text": "It gives Anna a free vacation.",
+            "is_correct": false
+          },
+          {
+            "id": "d4e10d9d-37f7-4e5a-a9f6-6651a037c06e",
+            "text": "It catches fire and stops working.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "d4e10d9d-37f7-4e5a-a9f6-6651a037c06e"
+        ]
+      },
+      {
+        "question_id": "55496f65-379f-41fb-b18f-8bb8f0da27a4",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Sabrina and Hannah ... snow.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a2065379-d017-4d99-acbf-237a0af33ced",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Sabrina and Hannah ... snow."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1ce3c4bf-1b65-4a00-8edb-ffe3c8371506",
+            "text": "has never seen",
+            "is_correct": false
+          },
+          {
+            "id": "921440e7-df52-441b-a7ad-2ba49a55c294",
+            "text": "have never seen",
+            "is_correct": true
+          },
+          {
+            "id": "f8aeebf3-8cc4-42a9-9baf-01c7a3636265",
+            "text": "have never saw",
+            "is_correct": false
+          },
+          {
+            "id": "655a96f1-430f-4944-a58a-a57fed359155",
+            "text": "never have see",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "921440e7-df52-441b-a7ad-2ba49a55c294"
+        ]
+      },
+      {
+        "question_id": "c71788b8-b730-4885-b2e1-206d7940b332",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: Michael ... his teachers.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "413d13f4-de82-4273-bf45-e51c37c5264e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: Michael ... his teachers."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "715bfaa4-2fe0-4fb1-81c0-415512dee434",
+            "text": "have already met",
+            "is_correct": false
+          },
+          {
+            "id": "a63a53d4-d8fa-4b11-8509-624fcf9fbc07",
+            "text": "has already met",
+            "is_correct": true
+          },
+          {
+            "id": "85912d68-2863-40ea-a069-77c6669874e1",
+            "text": "has already meet",
+            "is_correct": false
+          },
+          {
+            "id": "ae6b31ae-31bf-4137-891b-5225a6060d86",
+            "text": "already met has",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a63a53d4-d8fa-4b11-8509-624fcf9fbc07"
+        ]
+      },
+      {
+        "question_id": "a9d9de0a-9c32-4c66-ba3e-593cc9be816b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect form: The computers ... problems since they were updated last week.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "0857498e-3ad5-42aa-b9f1-a5c836ed9923",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect form: The computers ... problems since they were updated last week."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e643d7ca-bc84-4968-9ad7-08f918e56e9e",
+            "text": "has had",
+            "is_correct": false
+          },
+          {
+            "id": "67f71111-8af6-4d71-8bb4-9a679ede5376",
+            "text": "have had",
+            "is_correct": true
+          },
+          {
+            "id": "bef16496-f97f-478f-8295-44f3e33d74e3",
+            "text": "had",
+            "is_correct": false
+          },
+          {
+            "id": "3742d287-9434-4c81-9bbe-b1ef05aa02f1",
+            "text": "have have",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "67f71111-8af6-4d71-8bb4-9a679ede5376"
+        ]
+      },
+      {
+        "question_id": "6e0b7f55-8c0d-4ca0-8b8e-a544463d633d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Present Perfect passive form: The problem ... resolved because a help ticket ... submitted.",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "50048622-d4bb-493b-9a28-25f8e39ca9bb",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Present Perfect passive form: The problem ... resolved because a help ticket ... submitted."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "69d95cb3-ce50-4baa-af2c-e14c07f6375c",
+            "text": "has not resolved / has not submitted",
+            "is_correct": false
+          },
+          {
+            "id": "5815dd7b-dbdc-404c-9687-e7b4a1aeac34",
+            "text": "have not been resolved / have not been submitted",
+            "is_correct": false
+          },
+          {
+            "id": "1c313cb1-27db-458b-9910-6682de507f5c",
+            "text": "has not been resolved / has not been submitted",
+            "is_correct": true
+          },
+          {
+            "id": "f5c43c2a-1cf3-4329-8a40-92d10bd83878",
+            "text": "did not resolve / did not submit",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1c313cb1-27db-458b-9910-6682de507f5c"
+        ]
+      },
+      {
+        "question_id": "49b8d37a-d437-4d08-993b-66a68661ccbe",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Present Perfect yes/no question: The students have studied grammar for three weeks.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c5e895cc-4fbb-4eee-824b-a90027195402",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Present Perfect yes/no question: The students have studied grammar for three weeks."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "99c9397f-90a0-42d7-b23a-1efed2e39222",
+            "text": "Did the students have studied grammar for three weeks?",
+            "is_correct": false
+          },
+          {
+            "id": "4c9a8e85-89d5-41ba-9218-ece4ae59b264",
+            "text": "Have the students studied grammar for three weeks?",
+            "is_correct": true
+          },
+          {
+            "id": "3e67949c-db43-4db2-a46f-8b4969b2a4ae",
+            "text": "Has the students studied grammar for three weeks?",
+            "is_correct": false
+          },
+          {
+            "id": "e51f7d54-6cdd-4116-bd0f-c34541c57444",
+            "text": "Have the students study grammar for three weeks?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4c9a8e85-89d5-41ba-9218-ece4ae59b264"
+        ]
+      },
+      {
+        "question_id": "a1ffefd9-2919-4bde-8cca-5e77d6e41cbc",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Present Perfect yes/no question: The class has already begun.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "bc73a919-4b07-44c6-b541-867f30aaa1d4",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Present Perfect yes/no question: The class has already begun."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c11812ce-bc4c-4182-97ee-74ab933ea475",
+            "text": "Have the class already begun?",
+            "is_correct": false
+          },
+          {
+            "id": "becea404-06f7-4c60-a61c-f49fcf2654ab",
+            "text": "Has the class already begun?",
+            "is_correct": true
+          },
+          {
+            "id": "81f00590-5f31-465f-83d5-b3dbcc038148",
+            "text": "Did the class already begun?",
+            "is_correct": false
+          },
+          {
+            "id": "84ff5c38-f2d0-4dc4-9a8b-b1f4a0732b50",
+            "text": "Has the class already began?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "becea404-06f7-4c60-a61c-f49fcf2654ab"
+        ]
+      },
+      {
+        "question_id": "c0df4e75-ce05-4196-9a12-f48bee006fa7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct short answer: Have you eaten raw fish?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4dc75053-8086-4cde-955e-fa52b49ead07",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct short answer: Have you eaten raw fish?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5b847df3-0d93-4431-a38f-4c34b2ce498c",
+            "text": "No, I didn’t.",
+            "is_correct": false
+          },
+          {
+            "id": "e4ce6d58-b658-483c-bf67-d62168df3ef3",
+            "text": "No, I haven’t.",
+            "is_correct": true
+          },
+          {
+            "id": "545a0d25-1f22-41d0-8819-84e5958c9f7c",
+            "text": "No, I wasn’t.",
+            "is_correct": false
+          },
+          {
+            "id": "315b9979-debe-43a3-b5d9-ac62ea02c84e",
+            "text": "No, I don’t.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e4ce6d58-b658-483c-bf67-d62168df3ef3"
+        ]
+      },
+      {
+        "question_id": "30c48ac4-ea73-4b10-b89a-0fb4520c9b52",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Present Perfect information question.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "8821284e-a661-4c65-80cb-273e8e1b7590",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Present Perfect information question."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fd7ce689-31c9-489a-9702-3e19604255d4",
+            "text": "How long did you known him?",
+            "is_correct": false
+          },
+          {
+            "id": "ae25239e-881d-42cb-b82f-542a2809e4c3",
+            "text": "How long have you knew him?",
+            "is_correct": false
+          },
+          {
+            "id": "30c82876-7d6c-4b25-9fb2-8b95f61a1a11",
+            "text": "How long have you known him?",
+            "is_correct": true
+          },
+          {
+            "id": "e10ce933-e779-4925-8160-47023a55b8d0",
+            "text": "How long you have known him?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "30c82876-7d6c-4b25-9fb2-8b95f61a1a11"
+        ]
+      },
+      {
+        "question_id": "7ab86dd9-1b47-446b-a7ba-d464a2d9e447",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct tense: Marley ... more than 4,000 books. She’s still collecting more.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "f4d28e4b-731d-4b4b-92ba-31cd5b078da1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct tense: Marley ... more than 4,000 books. She’s still collecting more."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8757e51c-0f5d-443d-921d-5dc4f490d627",
+            "text": "collected",
+            "is_correct": false
+          },
+          {
+            "id": "273e4abf-2578-45d4-9463-0d454ef765f1",
+            "text": "has collected",
+            "is_correct": true
+          },
+          {
+            "id": "24a4f6bd-db6f-4d0e-9f13-9ea230efc742",
+            "text": "had collected",
+            "is_correct": false
+          },
+          {
+            "id": "c4587bea-5224-4268-af3f-f734d01fa801",
+            "text": "was collecting",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "273e4abf-2578-45d4-9463-0d454ef765f1"
+        ]
+      },
+      {
+        "question_id": "469fd9e9-24b3-4a6c-9384-d4f234f3766b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct tense: During her campaign, Marley ... with teachers and librarians.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c5518db7-efb1-4745-b205-c24ba9fcb263",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct tense: During her campaign, Marley ... with teachers and librarians."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b9b1dd14-1835-4cad-abd0-0595bb1d6f0d",
+            "text": "talked",
+            "is_correct": true
+          },
+          {
+            "id": "4eee91db-7aa1-43b4-8f8e-c56eddabbc0a",
+            "text": "has talked",
+            "is_correct": false
+          },
+          {
+            "id": "d4f4f8d9-e0e2-46db-9c65-30f2ececf741",
+            "text": "has talking",
+            "is_correct": false
+          },
+          {
+            "id": "de92a005-4b08-4374-99d6-3bfb166e7c59",
+            "text": "have talked",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "b9b1dd14-1835-4cad-abd0-0595bb1d6f0d"
+        ]
+      },
+      {
+        "question_id": "5c1f5a0b-c2e8-4f73-afb6-be506338ffb0",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. September 11, 2001. September 11, 2001, became one of the darkest moments in the history of the United States. The terrorist suicide attacks of that day were even compared to a second Pearl Harbor. On that terrible day, planes were flown into the World Trade Center in New York and into the Pentagon. It was the deadliest attack ever carried out on American soil, and thousands of people lost their lives suddenly. The attacks involved four coordinated plane hijackings: two planes left from Boston, one from Newark, and one from Dulles International Airport near Washington. The crashes happened one after another within about ninety minutes. Responsibility for the attacks was linked to Osama Bin Laden, a Saudi millionaire living outside his country. He had already been accused in the United States of organizing the bombings of two American embassies in Africa in 1998. At the time, he was believed to be hiding in Afghanistan with support from the Taliban, an Islamic organization in Afghanistan. The first attack happened at 8:51 a.m., when one hijacked plane struck the first tower of the World Trade Center, one of New York’s most powerful symbols. Sirens sounded across the city as emergency vehicles moved toward the burning building. Some workers trapped inside the skyscraper could be seen falling from the windows. It was a horrifying scene. Soon after 9 a.m., another plane hit the second tower. This changed the way New York and the country thought about their own safety. The plane tore through the building and left a huge burning hole. Around 10:30 in the morning, the upper part of the second tower collapsed. A few minutes later, the other tower also fell. The terrible moment was recorded on video and shown many times on television. At 9:28 a.m., while news of the two attacks was spreading through New York’s busy phone lines, a third hijacked plane crashed into the Pentagon, the center of the American military system and one of the most heavily protected buildings in the world. The building continued burning for more than six hours after the crash. Finally, shortly after 10 a.m., the fourth hijacked aircraft crashed southwest of Pittsburgh with 45 passengers and crew on board. No one survived. Some government sources suggested that the crash may have happened after a pilot fought with one of the terrorists. The attacks shocked the whole country. People across the United States felt grief, disbelief, confusion, and fear. In total, 266 people were on the four planes. The explosions also killed more than 200 firefighters and about 100 police officers and emergency workers. The number of victims at the World Trade Center and the Pentagon was horrific. When did the event called a “second Pearl Harbor” happen?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f473298e-56f3-49c5-95bc-eed595b60674",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. September 11, 2001. September 11, 2001, became one of the darkest moments in the history of the United States. The terrorist suicide attacks of that day were even compared to a second Pearl Harbor. On that terrible day, planes were flown into the World Trade Center in New York and into the Pentagon. It was the deadliest attack ever carried out on American soil, and thousands of people lost their lives suddenly. The attacks involved four coordinated plane hijackings: two planes left from Boston, one from Newark, and one from Dulles International Airport near Washington. The crashes happened one after another within about ninety minutes. Responsibility for the attacks was linked to Osama Bin Laden, a Saudi millionaire living outside his country. He had already been accused in the United States of organizing the bombings of two American embassies in Africa in 1998. At the time, he was believed to be hiding in Afghanistan with support from the Taliban, an Islamic organization in Afghanistan. The first attack happened at 8:51 a.m., when one hijacked plane struck the first tower of the World Trade Center, one of New York’s most powerful symbols. Sirens sounded across the city as emergency vehicles moved toward the burning building. Some workers trapped inside the skyscraper could be seen falling from the windows. It was a horrifying scene. Soon after 9 a.m., another plane hit the second tower. This changed the way New York and the country thought about their own safety. The plane tore through the building and left a huge burning hole. Around 10:30 in the morning, the upper part of the second tower collapsed. A few minutes later, the other tower also fell. The terrible moment was recorded on video and shown many times on television. At 9:28 a.m., while news of the two attacks was spreading through New York’s busy phone lines, a third hijacked plane crashed into the Pentagon, the center of the American military system and one of the most heavily protected buildings in the world. The building continued burning for more than six hours after the crash. Finally, shortly after 10 a.m., the fourth hijacked aircraft crashed southwest of Pittsburgh with 45 passengers and crew on board. No one survived. Some government sources suggested that the crash may have happened after a pilot fought with one of the terrorists. The attacks shocked the whole country. People across the United States felt grief, disbelief, confusion, and fear. In total, 266 people were on the four planes. The explosions also killed more than 200 firefighters and about 100 police officers and emergency workers. The number of victims at the World Trade Center and the Pentagon was horrific. When did the event called a “second Pearl Harbor” happen?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2754d59e-d1e7-4faf-8178-f0751527d46e",
+            "text": "September 11, 2001",
+            "is_correct": true
+          },
+          {
+            "id": "e8365469-e456-419d-8702-13b9a59c1834",
+            "text": "October 11, 2001",
+            "is_correct": false
+          },
+          {
+            "id": "5073d07c-4dff-41da-8738-772fff380681",
+            "text": "September 21, 2001",
+            "is_correct": false
+          },
+          {
+            "id": "15e287bf-63e8-41e5-81a4-1b60f5a4a2dc",
+            "text": "September 11, 2011",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2754d59e-d1e7-4faf-8178-f0751527d46e"
+        ]
+      },
+      {
+        "question_id": "2a9377ef-e7d3-4602-a15e-b55cf8785423",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "How many lives were suddenly lost according to the text?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f343b673-b92c-4d5c-92fb-143ac8f4f174",
+            "type": "TEXT",
+            "payload": {
+              "text": "How many lives were suddenly lost according to the text?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ad425ec2-9a6f-4636-8ee3-213d82f7da06",
+            "text": "hundreds",
+            "is_correct": false
+          },
+          {
+            "id": "e6e6b00c-187b-489c-ac02-a30e08937f6c",
+            "text": "thousands",
+            "is_correct": true
+          },
+          {
+            "id": "958dbdae-0cf5-4018-bb86-9fa826f887cc",
+            "text": "millions",
+            "is_correct": false
+          },
+          {
+            "id": "956bd629-5e5f-47de-b05d-4ad1e1ac549c",
+            "text": "dozens",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e6e6b00c-187b-489c-ac02-a30e08937f6c"
+        ]
+      },
+      {
+        "question_id": "e4fe4e91-5539-4f1d-9dba-8abccdc1b3ce",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "How many planes were involved in the attacks that day?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "86120a79-9ac4-4b72-9568-1727c88fd7ca",
+            "type": "TEXT",
+            "payload": {
+              "text": "How many planes were involved in the attacks that day?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "986e12be-c080-4928-bab9-0681b43e9f35",
+            "text": "1",
+            "is_correct": false
+          },
+          {
+            "id": "14f07100-4249-4a40-b29e-6a200ba87a99",
+            "text": "2",
+            "is_correct": false
+          },
+          {
+            "id": "5a48c839-12b3-4c01-827b-23fd9b7885dc",
+            "text": "3",
+            "is_correct": false
+          },
+          {
+            "id": "c7d99d44-73dc-45d0-9998-0cb3d9d0d6fb",
+            "text": "4",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "c7d99d44-73dc-45d0-9998-0cb3d9d0d6fb"
+        ]
+      },
+      {
+        "question_id": "858450cd-e572-47ed-a83a-d216cb820c28",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "The Taliban is described as an organization from which country?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5300ec96-9f3b-4f67-8451-617076039114",
+            "type": "TEXT",
+            "payload": {
+              "text": "The Taliban is described as an organization from which country?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c8f4ac0e-11dc-47ec-976a-f266bb6754bf",
+            "text": "the USA",
+            "is_correct": false
+          },
+          {
+            "id": "09003d1d-e9fd-4eab-8bc5-95b79b7660a4",
+            "text": "Afghanistan",
+            "is_correct": true
+          },
+          {
+            "id": "7b17fa35-6373-4e44-87a1-dcd292d45c8f",
+            "text": "Iran",
+            "is_correct": false
+          },
+          {
+            "id": "18f40890-f1bc-47a5-b1dc-50cbd269c66f",
+            "text": "Iraq",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "09003d1d-e9fd-4eab-8bc5-95b79b7660a4"
+        ]
+      },
+      {
+        "question_id": "f7ba19c8-8ba2-4bc1-88ce-a09322518f0b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "At what time did the top of the second World Trade Center tower collapse?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2cfe072e-866b-4d44-8a99-5cce28e5daa2",
+            "type": "TEXT",
+            "payload": {
+              "text": "At what time did the top of the second World Trade Center tower collapse?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d7cd6fe6-c015-491f-90be-52a6df4ae47f",
+            "text": "at 10:30 p.m.",
+            "is_correct": false
+          },
+          {
+            "id": "162bcba3-8177-4e48-8cae-7cc651a4eb89",
+            "text": "at 10:00 a.m.",
+            "is_correct": false
+          },
+          {
+            "id": "3a96016f-e9b5-4785-865c-a92f267ee7b3",
+            "text": "at 10:30 in the morning",
+            "is_correct": true
+          },
+          {
+            "id": "441db468-ab7a-476e-8949-956b221b364b",
+            "text": "at 10:30 in the evening",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3a96016f-e9b5-4785-865c-a92f267ee7b3"
+        ]
+      },
+      {
+        "question_id": "197a6898-a5dc-47cd-9fe4-823457428707",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which building is described as one of the most secure places in the United States?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "fa89408b-1bd5-46b4-a500-7e7b45f10198",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which building is described as one of the most secure places in the United States?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7b8164b4-ea2a-41f3-8e97-7d4d4c321158",
+            "text": "Dulles International Airport",
+            "is_correct": false
+          },
+          {
+            "id": "58569ebe-9b7b-441c-a357-3d68e0449b75",
+            "text": "the World Trade Center",
+            "is_correct": false
+          },
+          {
+            "id": "8c110872-4cc2-4493-806b-cdb3f1f3f370",
+            "text": "Pittsburgh",
+            "is_correct": false
+          },
+          {
+            "id": "4a33fcd5-b63c-40ab-a2d4-96bbe6e26b12",
+            "text": "the Pentagon",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "4a33fcd5-b63c-40ab-a2d4-96bbe6e26b12"
+        ]
+      },
+      {
+        "question_id": "762edc4a-8012-49e5-8bbe-06cab7a2a001",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Within what period did the plane crashes happen?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5a77bb6a-fb2f-4898-a141-ea123e1a890f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Within what period did the plane crashes happen?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f1974a5f-ad6f-45d6-8d0b-c00c8af5e875",
+            "text": "within 90 minutes",
+            "is_correct": true
+          },
+          {
+            "id": "204f3e74-03bf-491e-92a7-a15619d65dd3",
+            "text": "over two days",
+            "is_correct": false
+          },
+          {
+            "id": "a8903f9a-6bf0-4997-a676-bc465a4dd470",
+            "text": "all at exactly the same moment",
+            "is_correct": false
+          },
+          {
+            "id": "7af2e960-295f-42bc-9a24-5a9295b14e81",
+            "text": "during six hours",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f1974a5f-ad6f-45d6-8d0b-c00c8af5e875"
+        ]
+      },
+      {
+        "question_id": "826406d7-27ab-47e3-80af-8a943bad5439",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which statement about Osama Bin Laden is false according to the text?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "a1f5fc85-5dd4-4639-8f6c-757c4650d631",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which statement about Osama Bin Laden is false according to the text?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "69afb663-6f4d-426a-85b0-9d46f85396eb",
+            "text": "Osama Bin Laden was a Saudi millionaire",
+            "is_correct": false
+          },
+          {
+            "id": "f4da2a28-e1a6-420e-a0a5-7b8280156229",
+            "text": "Osama Bin Laden was believed to be hiding in Afghanistan",
+            "is_correct": false
+          },
+          {
+            "id": "9ed5e31a-6730-46d3-8f27-b081173e7e09",
+            "text": "Osama Bin Laden was connected with responsibility for the attacks",
+            "is_correct": false
+          },
+          {
+            "id": "065e6075-46d0-4a76-9761-764b8e7d2670",
+            "text": "Osama Bin Laden received help from the Afghan Islamic government",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "065e6075-46d0-4a76-9761-764b8e7d2670"
+        ]
+      },
+      {
+        "question_id": "5281ccd2-8213-4200-8442-8b0135bc14e7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "How many people were on board the fourth hijacked plane?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "993a2618-35e0-490e-893f-afc397086c9d",
+            "type": "TEXT",
+            "payload": {
+              "text": "How many people were on board the fourth hijacked plane?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "83c7f722-b608-43b7-a75a-5bd12801f10d",
+            "text": "45 passengers and crew",
+            "is_correct": true
+          },
+          {
+            "id": "4e63d2c8-012b-4451-ae58-b1fc8af14640",
+            "text": "266 passengers and crew",
+            "is_correct": false
+          },
+          {
+            "id": "0867213a-867d-407a-8705-bebf5725a0cf",
+            "text": "about 100 police officers",
+            "is_correct": false
+          },
+          {
+            "id": "8d309bdb-8c73-4b68-81b4-a766dd71ff4c",
+            "text": "more than 200 firefighters",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "83c7f722-b608-43b7-a75a-5bd12801f10d"
+        ]
+      },
+      {
+        "question_id": "3383348c-4daa-42ac-9a45-0f808e0369c6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What feelings spread across the United States after the attacks?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "6b7458b8-9ee3-48b9-8cb0-32ecbd92805a",
+            "type": "TEXT",
+            "payload": {
+              "text": "What feelings spread across the United States after the attacks?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d8b0065a-3f85-4bf8-9c38-8b9dd705bb51",
+            "text": "joy, pride, and excitement",
+            "is_correct": false
+          },
+          {
+            "id": "ffcc449e-41b4-46a0-b8ee-01239a9f42c0",
+            "text": "grief, disbelief, confusion, and shock",
+            "is_correct": true
+          },
+          {
+            "id": "c908e59c-01a9-4dc8-87c6-7ac25918e77f",
+            "text": "boredom and calmness",
+            "is_correct": false
+          },
+          {
+            "id": "ad982084-135d-4b5d-b26d-8440c04a30a1",
+            "text": "relief and celebration",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ffcc449e-41b4-46a0-b8ee-01239a9f42c0"
+        ]
+      },
+      {
+        "question_id": "6a477c80-88f6-431d-8f46-6cb591f9290e",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "В тексте о концепциях естествознания говорится, что ученые не могут «выдворять» из сферы научного познания аномальные объекты. История науки знает радикальные сдвиги при попытках объяснить аномальные явления. Ученый должен быть открыт новым, нетрадиционным, нестандартным поворотам мысли и объектам познания. Какую фундаментальную черту науки можно выделить?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "30ad890e-b800-4cf0-80b1-5529e2147149",
+            "type": "TEXT",
+            "payload": {
+              "text": "В тексте о концепциях естествознания говорится, что ученые не могут «выдворять» из сферы научного познания аномальные объекты. История науки знает радикальные сдвиги при попытках объяснить аномальные явления. Ученый должен быть открыт новым, нетрадиционным, нестандартным поворотам мысли и объектам познания. Какую фундаментальную черту науки можно выделить?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ea4523b0-5e0b-4a4a-aaad-0483650682b2",
+            "text": "Открытость науки как системы знания новому, нетрадиционному",
+            "is_correct": true
+          },
+          {
+            "id": "32b39a62-215a-4064-90cd-956a3cf1add1",
+            "text": "Качественные сдвиги в науке зависят от исследования аномалий",
+            "is_correct": false
+          },
+          {
+            "id": "82416663-2b13-4169-8e08-585b1cb0ba96",
+            "text": "История науки полна всяческих неожиданностей",
+            "is_correct": false
+          },
+          {
+            "id": "57784a0c-40bb-4926-b746-30f9db100660",
+            "text": "Нельзя науке забывать об «аномальных объектах»",
+            "is_correct": false
+          },
+          {
+            "id": "73741d80-c528-430d-8849-06f17564c161",
+            "text": "Радикальные изменения в науке — дело нетрадиционное",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ea4523b0-5e0b-4a4a-aaad-0483650682b2"
+        ]
+      },
+      {
+        "question_id": "a2d4ea25-ea01-479a-9e77-9d6e50133d42",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Шакарим писал: «Говорят, найди себе кумира для подражания. Кумиром для меня стал покойный Абай. Следуя ему, рано отстранился я от межродовой распри и унизительных междоусобиц, избрал путь истины и справедливости, занялся науками». О каком роде своих занятий говорит Шакарим?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "14cd25bc-8f56-40d8-8212-12aec45bcc24",
+            "type": "TEXT",
+            "payload": {
+              "text": "Шакарим писал: «Говорят, найди себе кумира для подражания. Кумиром для меня стал покойный Абай. Следуя ему, рано отстранился я от межродовой распри и унизительных междоусобиц, избрал путь истины и справедливости, занялся науками». О каком роде своих занятий говорит Шакарим?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0019bd68-e6a9-4931-b491-dbb296a39167",
+            "text": "Об абаеведении",
+            "is_correct": false
+          },
+          {
+            "id": "5e3af8d0-4973-498a-bd8e-0c219df5b2cb",
+            "text": "О самообразовании",
+            "is_correct": true
+          },
+          {
+            "id": "9233d260-d422-4c4c-90b2-92080138b5ba",
+            "text": "О научном поиске образца жизни",
+            "is_correct": false
+          },
+          {
+            "id": "8df3f5eb-5d13-4b09-bf6b-9a6b6345ce8f",
+            "text": "О самопознании",
+            "is_correct": false
+          },
+          {
+            "id": "3d4e44c2-ad12-46fa-8d76-ff57a6dbee3f",
+            "text": "О «социальном аскетизме»",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5e3af8d0-4973-498a-bd8e-0c219df5b2cb"
+        ]
+      },
+      {
+        "question_id": "b47534fc-e724-4b9f-90ef-5c3577ef6dc5",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Известно свидетельство о встрече Диогена Синопского с Платоном: «Однажды Платон увидел Диогена, промывавшего овощи, и сказал ему тихо, на ухо: “Если бы ты оказывал услугу Дионисию [тирану], то не промывал бы овощей”. На это Диоген ответил Платону также на ухо: “Если бы ты промывал овощи, то тебе не пришлось бы оказывать услуг тирану Дионисию”». Отметьте вариант, который наиболее полно отражает существо ситуации.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2ba3fa24-9282-48df-8f41-02418be58a4b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Известно свидетельство о встрече Диогена Синопского с Платоном: «Однажды Платон увидел Диогена, промывавшего овощи, и сказал ему тихо, на ухо: “Если бы ты оказывал услугу Дионисию [тирану], то не промывал бы овощей”. На это Диоген ответил Платону также на ухо: “Если бы ты промывал овощи, то тебе не пришлось бы оказывать услуг тирану Дионисию”». Отметьте вариант, который наиболее полно отражает существо ситуации."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8a4eb6f1-d88c-446a-81db-19bafe4b7b29",
+            "text": "Свобода личного выбора линии жизни, свобода как таковая",
+            "is_correct": true
+          },
+          {
+            "id": "b42e201a-0db3-4e7b-8016-a59b61a3248b",
+            "text": "Кинику Диогену с его философией не годится служить тирану",
+            "is_correct": false
+          },
+          {
+            "id": "e1630dba-3107-4363-95c1-f714a2d45039",
+            "text": "О служении — не служении тирану лучше говорить тихо, на ухо",
+            "is_correct": false
+          },
+          {
+            "id": "fdebc7e3-a8f6-4878-b123-bdbb0d85fa29",
+            "text": "Диоген придумал этот диалог, он не был знаком с Платоном",
+            "is_correct": false
+          },
+          {
+            "id": "2508360a-7aaa-42a3-9b01-b30f987ecf7a",
+            "text": "«Быть или не быть?» — как гамлетовский вопрос",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8a4eb6f1-d88c-446a-81db-19bafe4b7b29"
+        ]
+      },
+      {
+        "question_id": "df7ff5bb-33d5-4ccc-9a0e-d90f939278f4",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Мартин Хайдеггер пишет о Рейне: «Рейн теперь есть поставитель гидравлического напора благодаря существованию гидроэлектростанции». Далее он противопоставляет этому «Рейн», о котором говорит одноименный гимн Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "bdf9dfbd-aacf-4101-9fe9-54d844c8dd11",
+            "type": "TEXT",
+            "payload": {
+              "text": "Мартин Хайдеггер пишет о Рейне: «Рейн теперь есть поставитель гидравлического напора благодаря существованию гидроэлектростанции». Далее он противопоставляет этому «Рейн», о котором говорит одноименный гимн Фридриха Гёльдерлина. О контрасте между чем и чем говорит Хайдеггер?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fc398b93-2ff9-4c81-bf96-5592a01f8425",
+            "text": "Между возможностями использования природной силы реки Рейн",
+            "is_correct": false
+          },
+          {
+            "id": "788f362d-cff2-4c69-9709-6e6158de6bea",
+            "text": "Между задачами промышленного производства и поэзии, искусства",
+            "is_correct": false
+          },
+          {
+            "id": "ccc2df93-2671-403e-a0b1-601e4ab9c62d",
+            "text": "Между «производственным» и поэтическим восприятием природного феномена",
+            "is_correct": true
+          },
+          {
+            "id": "4fd8b7a7-3ddb-44c0-80ea-10c70fc10eb8",
+            "text": "О контрасте между словоупотреблением в XIX и XX веках",
+            "is_correct": false
+          },
+          {
+            "id": "e4d9039f-83cf-4ba0-b7b3-f44207f1773c",
+            "text": "Между обликами ландшафта до и после установления ГЭС на Рейне",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ccc2df93-2671-403e-a0b1-601e4ab9c62d"
+        ]
+      },
+      {
+        "question_id": "ffc436c7-9232-4929-b752-0908c8789f76",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Гегель писал: «Философствование без системы не может иметь в себе ничего научного... Всякое содержание получает оправдание лишь как момент целого...». Он же утверждал: «Каждая часть философии есть философское целое, замкнутый в себе круг...». Что прямо или неявно критикует Гегель в этих суждениях?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b44211be-b7f9-417e-ab99-d97251414189",
+            "type": "TEXT",
+            "payload": {
+              "text": "Гегель писал: «Философствование без системы не может иметь в себе ничего научного... Всякое содержание получает оправдание лишь как момент целого...». Он же утверждал: «Каждая часть философии есть философское целое, замкнутый в себе круг...». Что прямо или неявно критикует Гегель в этих суждениях?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f89119e3-3531-40a0-a2ae-3c894b46c61c",
+            "text": "Отсутствие системности и целостности в философии",
+            "is_correct": false
+          },
+          {
+            "id": "5c0e82d2-1298-4de9-8f4c-af38a149446d",
+            "text": "Ненаучность замкнутых частей философии",
+            "is_correct": false
+          },
+          {
+            "id": "527c287d-6e5b-46ad-87f7-9dde9d9a6e33",
+            "text": "Нарушение целостности философского знания",
+            "is_correct": false
+          },
+          {
+            "id": "3e0a0239-7ebc-4f0a-bb9a-ba85dfe60992",
+            "text": "Бессистемность в философии как признак ее ненаучности",
+            "is_correct": true
+          },
+          {
+            "id": "fd1ebd70-adfc-46ab-8899-b9bbef74c03e",
+            "text": "Гегель здесь ничего не подвергает явной или неявной критике",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3e0a0239-7ebc-4f0a-bb9a-ba85dfe60992"
+        ]
+      },
+      {
+        "question_id": "716bd17f-c35a-4de2-b3c3-95c26d27ffc8",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7b4ce3e5-14ae-4ca0-95d5-6e07142ce321",
+            "type": "TEXT",
+            "payload": {
+              "text": "Берілген 4 жауап нұсқасынан 1 дұрыс жауапты таңдау. a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = b. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "67e47a6b-85a7-4fea-9931-f1d92e461dca",
+            "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+            "is_correct": false
+          },
+          {
+            "id": "9a0fd7e1-70f4-47c6-9035-1bdff077afdc",
+            "text": "A < B",
+            "is_correct": true
+          },
+          {
+            "id": "d5783fd6-c4aa-4ba8-9866-403221a00411",
+            "text": "A = B",
+            "is_correct": false
+          },
+          {
+            "id": "854d546a-d845-4ab7-81f5-a7229a5398ff",
+            "text": "B < A",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9a0fd7e1-70f4-47c6-9035-1bdff077afdc"
+        ]
+      },
+      {
+        "question_id": "f3a4a729-3541-4f9b-af1c-6b400a36508c",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "1ddb4f19-0db4-4179-b31f-67e42fb3fc1b",
+            "type": "TEXT",
+            "payload": {
+              "text": "x − 2y = 2 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "9303d8e7-7d1d-4747-a4ab-c108ba71df0d",
+            "text": "(1; 0)",
+            "is_correct": false
+          },
+          {
+            "id": "67e22412-b149-4eee-96b9-2330c89fe995",
+            "text": "(0; −1)",
+            "is_correct": true
+          },
+          {
+            "id": "35b11658-89c0-492c-967a-1d44fb52835f",
+            "text": "(3; −3)",
+            "is_correct": false
+          },
+          {
+            "id": "a4d512a1-ceb8-48a6-8629-6fa198343dd6",
+            "text": "(5; −4)",
+            "is_correct": false
+          },
+          {
+            "id": "33bf95f2-dbdb-4bcb-a201-7dee538e388f",
+            "text": "(4; 5)",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "67e22412-b149-4eee-96b9-2330c89fe995"
+        ]
+      },
+      {
+        "question_id": "6b3c4092-8125-4001-b402-3d8b4e9cb900",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6cde5583-c3b1-48ca-ad8a-1f58972a9333",
+            "type": "TEXT",
+            "payload": {
+              "text": "Әкесі 60 жаста, ал ұлы 18 жаста. Бұдан неше жыл бұрын әкесі ұлынан 4 есе үлкен болғанын есептеңіз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d6e1cb8e-fe03-41c5-90ae-b31edfcd6b00",
+            "text": "1 жыл 3 ай",
+            "is_correct": false
+          },
+          {
+            "id": "d2c7ecca-6e58-4f62-b247-10e4019dbb55",
+            "text": "4 жыл",
+            "is_correct": true
+          },
+          {
+            "id": "46d0f62a-a3fc-4ad1-9c60-e26d8c077608",
+            "text": "6 жыл",
+            "is_correct": false
+          },
+          {
+            "id": "b5d2c627-03a1-4e10-8b26-80500a1c0f6e",
+            "text": "5,5 жыл",
+            "is_correct": false
+          },
+          {
+            "id": "aadd598d-2a63-4ecd-8ec7-acd64afb225c",
+            "text": "3 жыл",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d2c7ecca-6e58-4f62-b247-10e4019dbb55"
+        ]
+      },
+      {
+        "question_id": "c374d7ce-01d9-4493-bbce-a8c31c0db424",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Дано уравнение: x · 6,05 = 10. Корень уравнения лежит в двойном неравенстве. Выберите верный интервал.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "910325ac-765c-4663-9028-64cd6fa8bcb8",
+            "type": "TEXT",
+            "payload": {
+              "text": "Дано уравнение: x · 6,05 = 10. Корень уравнения лежит в двойном неравенстве. Выберите верный интервал."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5952f815-88cc-4d6d-a53f-9848f3f0f3dd",
+            "text": "1,67 < x < 2",
+            "is_correct": false
+          },
+          {
+            "id": "b3394feb-4d6f-4dad-a5f9-92b7160cc304",
+            "text": "1,6 < x < 1,2",
+            "is_correct": false
+          },
+          {
+            "id": "b0394dc1-1d40-4e2b-82cc-17a12b0fde0e",
+            "text": "1,7 < x < 2",
+            "is_correct": false
+          },
+          {
+            "id": "31569e20-3700-49b2-b4f7-689a00736dca",
+            "text": "1,5 < x < 2",
+            "is_correct": true
+          },
+          {
+            "id": "e5073126-0b18-4166-bed9-2274be374f4a",
+            "text": "1,68 < x < 2",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "31569e20-3700-49b2-b4f7-689a00736dca"
+        ]
+      },
+      {
+        "question_id": "ee75dd7f-6390-4f80-adf6-7bf7def7a7f5",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Сравните две величины.Величина A: −x³ / x\nВеличина B: (−x)²",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "01b6f12d-7847-4c4d-ab41-b737364e6063",
+            "type": "TEXT",
+            "payload": {
+              "text": "Сравните две величины.Величина A: −x³ / x\nВеличина B: (−x)²"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2995f14e-16ab-4568-9f23-2bc9effb9763",
+            "text": "Ни больше ни меньше",
+            "is_correct": false
+          },
+          {
+            "id": "f8db7032-5a86-42bb-b577-ffe6931c4b62",
+            "text": "Величины равны",
+            "is_correct": false
+          },
+          {
+            "id": "2615a161-d1e8-4643-b9bd-bb6dcd72316c",
+            "text": "По данной информации невозможно определить отношение величин",
+            "is_correct": false
+          },
+          {
+            "id": "a894ff01-710c-4ebe-add0-f3f3cec97653",
+            "text": "Величина B больше",
+            "is_correct": true
+          },
+          {
+            "id": "c529393f-a53f-48d0-9e1b-0c32f91a3819",
+            "text": "Величина A больше",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a894ff01-710c-4ebe-add0-f3f3cec97653"
+        ]
+      }
+    ]
+  }
+}

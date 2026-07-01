@@ -1,0 +1,3757 @@
+{
+  "variant_id": "angl_tgo_v03",
+  "title": "Английский + ТГО — Вариант 3",
+  "total_count": 40,
+  "attempt_id": "b6696bdc-3c7c-4264-88db-27e5ec3305d4",
+  "questions": [
+    {
+      "question_id": "24b5d381-6406-4a94-92b1-0e4fbb6edf91",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Jonathan think will happen in the meeting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f061dbc0-d856-4391-8f98-19479a7135e4",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Jonathan think will happen in the meeting?"
+          },
+          "position": 1
+        },
+        {
+          "id": "b8b789b9-f979-46ca-b1c2-fed20b2afba3",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "6851a79d-d154-4e87-894b-064eee552908",
+          "text": "Jonathan thinks the meeting is about Mark in Accounting.",
+          "is_correct": false
+        },
+        {
+          "id": "69cb13e5-1d24-41ee-ba69-b96bc5ea5dad",
+          "text": "He thinks the boss will tell people not to spread rumors.",
+          "is_correct": false
+        },
+        {
+          "id": "3b707665-8f22-4409-893c-fe5cb152fe93",
+          "text": "Jonathan thinks the meeting is about budget cuts.",
+          "is_correct": true
+        },
+        {
+          "id": "ff7a16b5-9788-48e8-a1e5-1587f203e3c7",
+          "text": "He thinks the staff will gossip about the email.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3b707665-8f22-4409-893c-fe5cb152fe93"
+      ]
+    },
+    {
+      "question_id": "aa2d0425-309c-47c0-a238-91243b624ad9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Kaveh think will happen after the budget cuts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "86ac617f-9ab5-4dc0-bd88-d22fa10a58d6",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Kaveh think will happen after the budget cuts?"
+          },
+          "position": 1
+        },
+        {
+          "id": "52df5ae6-8483-42e4-b467-7cc656b6013d",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "db1a40c0-1b2e-4546-ad15-824224d386dd",
+          "text": "Kaveh thinks that he will become a videographer.",
+          "is_correct": false
+        },
+        {
+          "id": "cc70a737-41de-4faa-9fbf-907d68f30ad5",
+          "text": "He thinks that Amelia will get another job.",
+          "is_correct": false
+        },
+        {
+          "id": "0aea0a4f-af36-4c7e-bcbd-b87f01cc3e9c",
+          "text": "Kaveh thinks that the studio will close.",
+          "is_correct": false
+        },
+        {
+          "id": "a0ea8949-0d0f-4b06-973b-bcb08be06016",
+          "text": "He thinks that people will lose their jobs.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "a0ea8949-0d0f-4b06-973b-bcb08be06016"
+      ]
+    },
+    {
+      "question_id": "94130d09-669c-48c8-b819-8aef97799161",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Ms. Weaver want to do at the meeting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a11e0748-3cf0-4899-9da2-d004e0102db2",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Ms. Weaver want to do at the meeting?"
+          },
+          "position": 1
+        },
+        {
+          "id": "ae38a5b6-f5c9-492f-a691-d058c8da0933",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "2a3f2008-e506-4ec9-929c-b33bb0e8cd34",
+          "text": "She wants to find out what they have been doing in their jobs.",
+          "is_correct": false
+        },
+        {
+          "id": "d08bea33-5146-4443-b0d8-f0b94a9f5e40",
+          "text": "Ms. Weaver wants to dance with Anna and the Studio team.",
+          "is_correct": false
+        },
+        {
+          "id": "e2e97dfa-fac4-456c-bc14-3a646bdcab5d",
+          "text": "She wants to praise the team and give them new assignments.",
+          "is_correct": true
+        },
+        {
+          "id": "e440137e-ba43-4925-9a20-e7161dca99ba",
+          "text": "Ms. Weaver wants to tell the team she is going to fire them.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e2e97dfa-fac4-456c-bc14-3a646bdcab5d"
+      ]
+    },
+    {
+      "question_id": "954cd2ec-286e-4592-9314-a7e55cc77c67",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Ms. Weaver say about the team? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4a7a67e4-c43c-4d6f-8301-751efabf9f1f",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Ms. Weaver say about the team?"
+          },
+          "position": 1
+        },
+        {
+          "id": "e2280516-a1ac-4ad3-a882-cf4cc26ed4cb",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "a07d71b0-012e-478a-bfcf-c00afd637d86",
+          "text": "They are doing a good job and getting new assignments.",
+          "is_correct": true
+        },
+        {
+          "id": "01c3401b-3f96-4512-bc02-d07335c08b2d",
+          "text": "Mark from Accounting is going to be part of their team.",
+          "is_correct": false
+        },
+        {
+          "id": "85eb593d-def1-47d1-ba9a-965b5b7f0075",
+          "text": "Everyone is going to lose their jobs.",
+          "is_correct": false
+        },
+        {
+          "id": "9dc9d873-b3c4-448a-8954-15ff78b3d1fd",
+          "text": "There will not be any budget cuts.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a07d71b0-012e-478a-bfcf-c00afd637d86"
+      ]
+    },
+    {
+      "question_id": "790b5e8a-bbda-462d-8d30-e17d0d8c3a72",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna first think the meeting might be about? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "04b770f2-d836-423f-954b-b3c30ba9a96a",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna first think the meeting might be about?"
+          },
+          "position": 1
+        },
+        {
+          "id": "240f35de-c28f-44bb-aa2f-4f96a25f590d",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "703778b8-729a-42d4-a657-a901abbd878a",
+          "text": "She thinks someone will lose their job.",
+          "is_correct": false
+        },
+        {
+          "id": "7f87e058-808d-48e2-8630-ba7461fcbf14",
+          "text": "She thinks they might all get raises.",
+          "is_correct": true
+        },
+        {
+          "id": "65672225-1269-496e-97e4-91f1ca022e54",
+          "text": "She thinks Mark will become the boss.",
+          "is_correct": false
+        },
+        {
+          "id": "7c29960d-a1b8-4cff-9d35-2d151d4e6e2f",
+          "text": "She thinks the studio will close.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7f87e058-808d-48e2-8630-ba7461fcbf14"
+      ]
+    },
+    {
+      "question_id": "eed505ec-e721-45c1-a725-7400da9b5430",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Who did Jonathan hear the news about budget cuts from? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "af5f4948-b7a2-4200-ab19-21d4d188d0af",
+          "type": "TEXT",
+          "payload": {
+            "text": "Who did Jonathan hear the news about budget cuts from?"
+          },
+          "position": 1
+        },
+        {
+          "id": "1a0b985e-0dec-4a3f-8caf-d88519742e9e",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "0fc34888-701f-4d56-8c0a-0d841a901d10",
+          "text": "Ms. Weaver.",
+          "is_correct": false
+        },
+        {
+          "id": "846fe087-872c-4bd4-8317-4d130d762fdc",
+          "text": "Amelia.",
+          "is_correct": false
+        },
+        {
+          "id": "0f4724ab-c0e2-44b9-8e33-b69d212a94d7",
+          "text": "Mark in Accounting.",
+          "is_correct": true
+        },
+        {
+          "id": "95441e4a-fe49-4f96-b86f-5aeb3438bd64",
+          "text": "Penelope.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0f4724ab-c0e2-44b9-8e33-b69d212a94d7"
+      ]
+    },
+    {
+      "question_id": "ce58a345-0675-4b8f-86a5-eac090db1713",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Anna say they should stop talking about budget cuts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "fa3bf3e4-ea34-4493-a703-d693dc901bb4",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Anna say they should stop talking about budget cuts?"
+          },
+          "position": 1
+        },
+        {
+          "id": "18e8f88e-6027-4cf8-a894-69903ca6b8fe",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "c749ef21-2ff9-4385-80a4-f73553adb448",
+          "text": "Because the meeting has already ended.",
+          "is_correct": false
+        },
+        {
+          "id": "d1827dd8-cea7-4533-bc0c-89d7cdcb1311",
+          "text": "Because she does not understand the email.",
+          "is_correct": false
+        },
+        {
+          "id": "1b28291c-900a-4b10-9d2f-9cbe54d4aa3f",
+          "text": "Because gossip can start rumors.",
+          "is_correct": true
+        },
+        {
+          "id": "5b228139-09e5-4e87-8682-454cae0c91dc",
+          "text": "Because Mark told her to stop.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1b28291c-900a-4b10-9d2f-9cbe54d4aa3f"
+      ]
+    },
+    {
+      "question_id": "729e1bbf-792b-40fa-ba9d-6c6da9488c2a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What job does Amelia not want to go back to? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "64c2c89c-518a-46c7-8e86-6cfd7ca5d8e7",
+          "type": "TEXT",
+          "payload": {
+            "text": "What job does Amelia not want to go back to?"
+          },
+          "position": 1
+        },
+        {
+          "id": "792843b6-6025-4253-8e7a-d63805ceefdf",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "f22150f5-8a24-4704-a9bc-7f67e6778842",
+          "text": "Reporter.",
+          "is_correct": false
+        },
+        {
+          "id": "31eeb637-1573-4faa-aa70-921c26b8ab11",
+          "text": "Teacher.",
+          "is_correct": false
+        },
+        {
+          "id": "de5f6040-a71c-49d4-8a78-7faf4c5700fb",
+          "text": "Detective.",
+          "is_correct": true
+        },
+        {
+          "id": "8b8abaf4-5d3f-4d8a-8936-6cfee684924e",
+          "text": "Accountant.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "de5f6040-a71c-49d4-8a78-7faf4c5700fb"
+      ]
+    },
+    {
+      "question_id": "f77313b7-6839-4224-9346-83cea3355dc9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Kaveh tell Penelope to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "bd6e9509-723c-41b4-a296-158a3c020b90",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Kaveh tell Penelope to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "15d0763a-073f-419d-ab1e-a105161408c8",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "b1bca135-0429-4004-b021-7fc994b5a05b",
+          "text": "Talk to Ms. Weaver.",
+          "is_correct": false
+        },
+        {
+          "id": "b6e68296-d4ca-4329-805e-204734db42b5",
+          "text": "Look for Mark in Accounting.",
+          "is_correct": false
+        },
+        {
+          "id": "73459e59-733e-4c42-8b49-b5b1ee63554c",
+          "text": "Update her résumé.",
+          "is_correct": true
+        },
+        {
+          "id": "c1e11044-4e65-40fd-9844-3a579287b680",
+          "text": "Leave the meeting early.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "73459e59-733e-4c42-8b49-b5b1ee63554c"
+      ]
+    },
+    {
+      "question_id": "9f8787cc-4dd9-4455-a436-574e01b4a5eb",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Who actually lost their job because of the budget cuts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "0a6c1afd-2be9-4218-9ef4-b11a4597cb90",
+          "type": "TEXT",
+          "payload": {
+            "text": "Who actually lost their job because of the budget cuts?"
+          },
+          "position": 1
+        },
+        {
+          "id": "b3ca5ee2-ccc5-4955-afb0-dca2a5e560af",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "8c0c1706-14d1-4797-9ab9-1e08a4f977e2",
+          "text": "Anna.",
+          "is_correct": false
+        },
+        {
+          "id": "f26a0af0-a998-4674-ac6b-0034738e8d77",
+          "text": "Kaveh.",
+          "is_correct": false
+        },
+        {
+          "id": "07137024-947f-49fb-a0b0-2c2c71a8a95c",
+          "text": "Amelia.",
+          "is_correct": false
+        },
+        {
+          "id": "b48a3ffc-b422-4d31-93de-dcffacea3ab5",
+          "text": "Mark in Accounting.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "b48a3ffc-b422-4d31-93de-dcffacea3ab5"
+      ]
+    },
+    {
+      "question_id": "4884d156-2877-49fe-bfda-abc9f8c11edc",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "495e32e4-d5d7-48ea-b467-6e30050df62d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "93e759ab-8bbc-4484-8191-5e567a6a3092",
+          "text": "James may call.",
+          "is_correct": true
+        },
+        {
+          "id": "30a762d2-1d9e-4162-a8ab-4658124cd511",
+          "text": "James may to call.",
+          "is_correct": false
+        },
+        {
+          "id": "c393ec74-dae8-4c13-940c-fcc3a401e8bc",
+          "text": "James may calling.",
+          "is_correct": false
+        },
+        {
+          "id": "d137608f-ffd7-4641-8173-6cbe38e37c08",
+          "text": "James may calls.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "93e759ab-8bbc-4484-8191-5e567a6a3092"
+      ]
+    },
+    {
+      "question_id": "92fde887-fb6e-4c76-b76c-39398b6e7094",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct yes/no question.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4d807f0a-365c-40be-bb2d-11010bd5a934",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct yes/no question."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b82d649a-3ea8-419c-9b7e-02acc179fcbb",
+          "text": "I should drive?",
+          "is_correct": false
+        },
+        {
+          "id": "8587414b-0e5e-484a-9f30-0b79ac88c695",
+          "text": "Should I drive?",
+          "is_correct": true
+        },
+        {
+          "id": "7bb33813-6017-46a7-b539-6d1f9c446ece",
+          "text": "Do I should drive?",
+          "is_correct": false
+        },
+        {
+          "id": "8da4a788-e97e-4024-9db6-14e56fa525a2",
+          "text": "Should I to drive?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8587414b-0e5e-484a-9f30-0b79ac88c695"
+      ]
+    },
+    {
+      "question_id": "2bda00a1-6cce-4b1b-bfd2-fc1cc4b5c1ea",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal: I ... lift this forty-pound box.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8d1fac6d-a375-49a1-a629-ea88f2341743",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal: I ... lift this forty-pound box."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3f9e68c4-897c-4416-8656-7cc255b410ae",
+          "text": "can",
+          "is_correct": true
+        },
+        {
+          "id": "195e1b52-504d-4ddc-88e3-814d52b0817c",
+          "text": "must",
+          "is_correct": false
+        },
+        {
+          "id": "51494d37-cb1c-493e-bc4e-5680bc9d7e20",
+          "text": "would",
+          "is_correct": false
+        },
+        {
+          "id": "436e1d24-3d24-4863-87d9-c030cc6d02fe",
+          "text": "may not",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3f9e68c4-897c-4416-8656-7cc255b410ae"
+      ]
+    },
+    {
+      "question_id": "244412e3-3f3d-4252-9753-e7175d3e3e02",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal: I ... beat you at chess when we were kids.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "cdb10f91-c9a4-45a3-9b28-43fdfb5c0322",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal: I ... beat you at chess when we were kids."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1f0bbff7-091a-4b5c-b422-26d3d0338d4a",
+          "text": "can",
+          "is_correct": false
+        },
+        {
+          "id": "2f83555c-f32c-4845-a679-fea5d59bfe92",
+          "text": "could",
+          "is_correct": true
+        },
+        {
+          "id": "c6181050-9d78-445e-b778-03559aef9ed1",
+          "text": "may",
+          "is_correct": false
+        },
+        {
+          "id": "49e513e0-292c-43b3-8789-f3a19fe7939f",
+          "text": "must",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2f83555c-f32c-4845-a679-fea5d59bfe92"
+      ]
+    },
+    {
+      "question_id": "0a6d4b5d-ebab-420a-99fc-026ac8957b41",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal for a polite request: ... you pass the handout to me, please?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ad303ef3-18f0-4997-82fe-c4d289ce7fa5",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal for a polite request: ... you pass the handout to me, please?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bc899226-2c13-4513-afde-a74f56dc03e6",
+          "text": "Must",
+          "is_correct": false
+        },
+        {
+          "id": "bc728d3d-7e55-49cb-b7e2-e184505465dc",
+          "text": "Could",
+          "is_correct": true
+        },
+        {
+          "id": "f3923637-c0e7-48e4-8ae1-9b58ce6e4ea3",
+          "text": "Should",
+          "is_correct": false
+        },
+        {
+          "id": "dc24eee2-d1ce-4ac8-93f8-84b50c5f63f7",
+          "text": "Might",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bc728d3d-7e55-49cb-b7e2-e184505465dc"
+      ]
+    },
+    {
+      "question_id": "f5b41482-e40f-4d0e-a64f-342bb89000c4",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal for asking permission: ... I attend the concert?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "68da8c55-1510-4aa4-a1f4-dea378c750cd",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal for asking permission: ... I attend the concert?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "024cffb1-8e91-412c-823f-b066bf946b5c",
+          "text": "Must",
+          "is_correct": false
+        },
+        {
+          "id": "a4779724-2fb0-4c67-9196-6da7c0675fde",
+          "text": "Would",
+          "is_correct": false
+        },
+        {
+          "id": "7b74b528-752d-4f10-81f0-6a54148aa05a",
+          "text": "May",
+          "is_correct": true
+        },
+        {
+          "id": "ceef3059-0663-4d6f-9a0b-64b4bba755d1",
+          "text": "Should",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7b74b528-752d-4f10-81f0-6a54148aa05a"
+      ]
+    },
+    {
+      "question_id": "ac5990c3-e84b-446d-9f77-7f2f12df4114",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal: I ... attend the concert, but I am not sure.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c4b21420-5b67-40b3-9606-b089e2c746c3",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal: I ... attend the concert, but I am not sure."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f685a4a7-eea2-4de2-9444-bc8ab1517f28",
+          "text": "must",
+          "is_correct": false
+        },
+        {
+          "id": "9d66b4f1-547f-4af3-8c9f-f40a5e90fb6f",
+          "text": "should",
+          "is_correct": false
+        },
+        {
+          "id": "efe3a16d-514c-47d0-8862-789a94a7e182",
+          "text": "might",
+          "is_correct": true
+        },
+        {
+          "id": "133f742c-8488-418b-8ad2-048417409292",
+          "text": "will",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "efe3a16d-514c-47d0-8862-789a94a7e182"
+      ]
+    },
+    {
+      "question_id": "cd76c039-05a5-4efd-925b-9d11a46f4bdc",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the sentence that shows strong inference.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "1ea16c32-788b-437f-9c17-9bfc0d0fc882",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the sentence that shows strong inference."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b866ba48-8e4c-452d-96af-9d517ea9d46f",
+          "text": "She is sick.",
+          "is_correct": false
+        },
+        {
+          "id": "116d6126-d18f-441a-b0bb-1941cebe005d",
+          "text": "She must be sick.",
+          "is_correct": true
+        },
+        {
+          "id": "5d00be5b-338e-4aa7-b8b7-62dac83d8669",
+          "text": "She might be sick.",
+          "is_correct": false
+        },
+        {
+          "id": "0f734211-c3cc-478f-9b19-61a182b1fb0c",
+          "text": "She could be sick.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "116d6126-d18f-441a-b0bb-1941cebe005d"
+      ]
+    },
+    {
+      "question_id": "a9c3077a-21ba-46df-9e5f-0e518be2605d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the sentence that shows a weaker possibility.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c8a38f8f-1470-4556-a447-a2473614e5d9",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the sentence that shows a weaker possibility."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b7de0a24-74b4-4610-9254-a48bb77b1406",
+          "text": "She is sick.",
+          "is_correct": false
+        },
+        {
+          "id": "d01d3f61-401b-41e9-86c1-515c9980505f",
+          "text": "She must be sick.",
+          "is_correct": false
+        },
+        {
+          "id": "eba475ec-37d6-475f-b652-11368f92f1d8",
+          "text": "She may be sick.",
+          "is_correct": true
+        },
+        {
+          "id": "9ee19be0-e06c-446c-9bfa-8cbf2ab97226",
+          "text": "She will be sick.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "eba475ec-37d6-475f-b652-11368f92f1d8"
+      ]
+    },
+    {
+      "question_id": "37add589-5258-48eb-a0d2-59b5fbe1cc5e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the best modal: According to my counselor, I ... take English 1A to graduate.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "43c18e5d-f212-4297-86e0-d1d687728d3f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the best modal: According to my counselor, I ... take English 1A to graduate."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "20157359-36dc-469b-82dc-cf97f5a640d5",
+          "text": "should",
+          "is_correct": false
+        },
+        {
+          "id": "44240c98-087d-4ea5-9c9c-1e56510c2ac9",
+          "text": "must",
+          "is_correct": true
+        },
+        {
+          "id": "fff19e70-237d-4902-8f59-f434fe1dbfdf",
+          "text": "might",
+          "is_correct": false
+        },
+        {
+          "id": "af74acc3-a9d0-45cd-a15c-c26a7d8d9032",
+          "text": "would",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "44240c98-087d-4ea5-9c9c-1e56510c2ac9"
+      ]
+    },
+    {
+      "question_id": "7fdc399a-6a78-4e10-8f4e-9359784c4eb9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the  text and choose the correct answer. My First English Class. Good afternoon, everyone, and welcome to this English language course. I will be your instructor, and my name is Lindsay Black. The spelling is L-I-N-D-S-A-Y Black. Before our lessons start, I want to give you some important details about the course. The classes will take place in the British Council building, in Room 13, which is on the first floor. After you go upstairs, turn left and you will see the room. We will meet two times a week, on Mondays and Wednesdays. Each lesson starts at 4:30 p.m. and continues for an hour and a half, so the class finishes at 6:00 p.m. If you need help or want to ask me something, you can come to my office hour. My office is 7B, on the second floor, and I am available there on Fridays at 6:00 p.m. The course begins next week, on March 13th, and it will finish on May 20th. You also need one textbook for this class. The title is British Life and Language Level 1 Student’s Book. Please visit the library and get your own copy. I do not want students to use photocopied versions of the book. That is all for now. I am happy to begin working with you. See you next Monday. What must students have for this English course?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5536a6c9-0967-42ac-9a75-395a5318fc1b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the  text and choose the correct answer. My First English Class. Good afternoon, everyone, and welcome to this English language course. I will be your instructor, and my name is Lindsay Black. The spelling is L-I-N-D-S-A-Y Black. Before our lessons start, I want to give you some important details about the course. The classes will take place in the British Council building, in Room 13, which is on the first floor. After you go upstairs, turn left and you will see the room. We will meet two times a week, on Mondays and Wednesdays. Each lesson starts at 4:30 p.m. and continues for an hour and a half, so the class finishes at 6:00 p.m. If you need help or want to ask me something, you can come to my office hour. My office is 7B, on the second floor, and I am available there on Fridays at 6:00 p.m. The course begins next week, on March 13th, and it will finish on May 20th. You also need one textbook for this class. The title is British Life and Language Level 1 Student’s Book. Please visit the library and get your own copy. I do not want students to use photocopied versions of the book. That is all for now. I am happy to begin working with you. See you next Monday. What must students have for this English course?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d6cbc89e-a3e6-41ec-b034-553141a10491",
+          "text": "a laptop",
+          "is_correct": false
+        },
+        {
+          "id": "f81ee346-5392-443f-8688-70e4d92cebc0",
+          "text": "an exercise notebook",
+          "is_correct": false
+        },
+        {
+          "id": "d4f9e158-311e-4535-85d7-1551227ec698",
+          "text": "a short note about the book",
+          "is_correct": false
+        },
+        {
+          "id": "91f349de-9aa8-4d59-9188-309642f3646a",
+          "text": "a copy of the textbook",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "91f349de-9aa8-4d59-9188-309642f3646a"
+      ]
+    },
+    {
+      "question_id": "6ab24a91-6437-477a-947a-5a4a96442d82",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What kind of material does the teacher refuse to accept?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "93ba326f-297d-4336-8437-eb2aac85d22e",
+          "type": "TEXT",
+          "payload": {
+            "text": "What kind of material does the teacher refuse to accept?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "760e9cf5-6f60-4ed6-9424-bb87c211c428",
+          "text": "photocopied versions of the textbook",
+          "is_correct": true
+        },
+        {
+          "id": "14ece1a0-7a15-4748-8474-aca6df17e6f9",
+          "text": "personal laptops",
+          "is_correct": false
+        },
+        {
+          "id": "87fb7096-cb3f-4497-86fe-ec876595aca9",
+          "text": "pictures with classmates",
+          "is_correct": false
+        },
+        {
+          "id": "2be70d9d-17e4-47eb-b6c4-f7f536650dc0",
+          "text": "ordinary notebooks",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "760e9cf5-6f60-4ed6-9424-bb87c211c428"
+      ]
+    },
+    {
+      "question_id": "ab7f00c1-1452-4fe1-885f-c4246fdfc9e8",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which textbook is required for the course?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9d419646-433f-4816-8b88-e1fcdb000ea0",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which textbook is required for the course?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0ef9b9c1-4856-4e7a-8f41-8ffeb6b7a62a",
+          "text": "British Life and Language Level 2 Teacher’s Book",
+          "is_correct": false
+        },
+        {
+          "id": "3d6c4f1a-2a3c-43d5-a71c-394ef929d4b2",
+          "text": "British Life and Language Level 2 Student’s Book",
+          "is_correct": false
+        },
+        {
+          "id": "06ae0b8d-03cc-436a-b702-de9d554d23fe",
+          "text": "British Life and Language Level 1 Student’s Book",
+          "is_correct": true
+        },
+        {
+          "id": "59498b73-af79-4cbc-9de8-6dee20a80124",
+          "text": "British Life and Language Level 1 Teacher’s Book",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "06ae0b8d-03cc-436a-b702-de9d554d23fe"
+      ]
+    },
+    {
+      "question_id": "2f4dd228-7175-46e6-88e8-d3aa793181c0",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "When does the course begin?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9ce22d5c-a75b-4e3a-9e76-c1648ed07c68",
+          "type": "TEXT",
+          "payload": {
+            "text": "When does the course begin?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bc343d83-17e9-4f0f-b52f-caf6b2646fe2",
+          "text": "on March 30th",
+          "is_correct": false
+        },
+        {
+          "id": "473e17f4-224d-4b27-913a-e6204f9b5445",
+          "text": "on May 20th",
+          "is_correct": false
+        },
+        {
+          "id": "2e68d8fd-a11f-4251-bf6d-2f2a7a47145c",
+          "text": "on May 12th",
+          "is_correct": false
+        },
+        {
+          "id": "7776b2b0-4e2c-4c0e-8eb4-e674f1876ebe",
+          "text": "on March 13th",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "7776b2b0-4e2c-4c0e-8eb4-e674f1876ebe"
+      ]
+    },
+    {
+      "question_id": "ac02ed74-cdbf-4f61-b2b6-718172934356",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "On which days are the English lessons held?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2b0db984-3c21-47b7-aac6-0d5115f689a4",
+          "type": "TEXT",
+          "payload": {
+            "text": "On which days are the English lessons held?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f541bd2b-1dc9-48ab-8615-c124a3e784a3",
+          "text": "Monday and Friday",
+          "is_correct": false
+        },
+        {
+          "id": "546c714a-8f22-4278-ac54-4760746b8ff5",
+          "text": "Monday and Tuesday",
+          "is_correct": false
+        },
+        {
+          "id": "19dee675-1db6-4ce6-b628-8d26f81f6bdf",
+          "text": "Monday and Thursday",
+          "is_correct": false
+        },
+        {
+          "id": "9934f633-9c47-4343-a4dc-5d7a9f037786",
+          "text": "Monday and Wednesday",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "9934f633-9c47-4343-a4dc-5d7a9f037786"
+      ]
+    },
+    {
+      "question_id": "a3c2942a-a7db-4f46-8fef-c24cc381ed7c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Where is Room 13 located?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "85660da8-e407-413d-a153-c24f6da6ec7d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where is Room 13 located?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "36ed7a44-ca39-4b38-9127-74057679e284",
+          "text": "on the uppermost floor",
+          "is_correct": false
+        },
+        {
+          "id": "82272371-aa80-42b4-96cc-a91257dcab00",
+          "text": "on the second floor",
+          "is_correct": false
+        },
+        {
+          "id": "7adf0b67-2eb5-46a9-a26a-d50e4929d429",
+          "text": "on the first floor",
+          "is_correct": true
+        },
+        {
+          "id": "22c2f6bd-eda4-448d-b322-1f7097924971",
+          "text": "on the third floor",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7adf0b67-2eb5-46a9-a26a-d50e4929d429"
+      ]
+    },
+    {
+      "question_id": "2c08c48a-260a-44c9-a72a-fe99a1e5a088",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Why may students visit the teacher’s office?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "60b6ad7d-1df1-420d-b242-260fda523d1f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why may students visit the teacher’s office?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6d4bf68e-c93f-4e57-9d6c-3165c9c7cc00",
+          "text": "to bring notes and problems",
+          "is_correct": false
+        },
+        {
+          "id": "e9c07e32-ab62-45ef-97ad-701aa055edfb",
+          "text": "to collect books and problems",
+          "is_correct": false
+        },
+        {
+          "id": "0afc9771-cc76-417c-82b0-2d0f21363507",
+          "text": "to meet friends and ask questions",
+          "is_correct": false
+        },
+        {
+          "id": "048564d2-6676-4656-88b7-0b3394bb391c",
+          "text": "to discuss questions or problems",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "048564d2-6676-4656-88b7-0b3394bb391c"
+      ]
+    },
+    {
+      "question_id": "49a8423e-5a97-4f44-a265-8c60e40263ab",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What can students find in Office 7B?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a6a14169-836f-4832-873d-cc395ec53de8",
+          "type": "TEXT",
+          "payload": {
+            "text": "What can students find in Office 7B?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4e1b5371-9678-4dae-af77-1893e744d33e",
+          "text": "the manager’s room",
+          "is_correct": false
+        },
+        {
+          "id": "ac36f08d-dac3-4c07-be2e-6bc374788512",
+          "text": "the main classroom",
+          "is_correct": false
+        },
+        {
+          "id": "6a3b1c07-d0f0-4bfb-9f53-f66d9382b822",
+          "text": "a meeting hall",
+          "is_correct": false
+        },
+        {
+          "id": "8b930fbb-c30d-495d-bbc7-3e58fba77dd6",
+          "text": "the teacher’s office",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "8b930fbb-c30d-495d-bbc7-3e58fba77dd6"
+      ]
+    },
+    {
+      "question_id": "3ba66188-f161-49a0-9a0f-93d821fe0d21",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "How long does each English class last?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "2572813f-b794-41bc-a7da-bc8d02dbd6f6",
+          "type": "TEXT",
+          "payload": {
+            "text": "How long does each English class last?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0e04731e-f5ad-4722-a5b2-5cb655e6dc37",
+          "text": "90 minutes",
+          "is_correct": true
+        },
+        {
+          "id": "fddf2d15-c074-4c88-9d67-d117b88b9ed4",
+          "text": "30 minutes",
+          "is_correct": false
+        },
+        {
+          "id": "78b1d195-2495-4411-8a62-cedb1a08ed6b",
+          "text": "two hours",
+          "is_correct": false
+        },
+        {
+          "id": "adddc9f8-7e28-4437-a55f-ad32b2f89d7b",
+          "text": "45 minutes",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0e04731e-f5ad-4722-a5b2-5cb655e6dc37"
+      ]
+    },
+    {
+      "question_id": "822c6f57-2262-4682-bc89-14f815acb9a6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Where should students get the required course book?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "598913eb-bd68-432a-9abe-0f3b4449b125",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where should students get the required course book?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f0e288d8-aa75-4c97-9fbe-ebf71fe6e572",
+          "text": "from the teacher’s office",
+          "is_correct": false
+        },
+        {
+          "id": "633fd2da-8b73-4693-b0c0-c1c2d1d666e6",
+          "text": "from the library",
+          "is_correct": true
+        },
+        {
+          "id": "00291d23-482b-481a-860c-26376d68bdf3",
+          "text": "from Room 13",
+          "is_correct": false
+        },
+        {
+          "id": "293cc457-7fd7-4f6e-a322-6ed891fbe141",
+          "text": "from the British Council café",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "633fd2da-8b73-4693-b0c0-c1c2d1d666e6"
+      ]
+    },
+    {
+      "question_id": "3966648c-05b3-4d5d-8869-0394b00e243a",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "В учебниках и пособиях по философии и истории экономических учений популярны суждения известных мыслителей. Кто среди философов до Маркса мог бы быть «присоединён» к известному суждению о том, что «труд есть источник всякого богатства»?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a7e008a2-632d-47bf-8f02-df81254ecf2b",
+          "type": "TEXT",
+          "payload": {
+            "text": "В учебниках и пособиях по философии и истории экономических учений популярны суждения известных мыслителей. Кто среди философов до Маркса мог бы быть «присоединён» к известному суждению о том, что «труд есть источник всякого богатства»?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cd9366ce-7395-4d01-8ae4-ec8c79240cd5",
+          "text": "Гегель",
+          "is_correct": true
+        },
+        {
+          "id": "9d9e5629-9f9e-4459-a480-0831839a351a",
+          "text": "Шопенгауэр",
+          "is_correct": false
+        },
+        {
+          "id": "1fba184d-2270-425c-bb3d-e8fc5d864790",
+          "text": "Кейнс",
+          "is_correct": false
+        },
+        {
+          "id": "f83ebf2e-06d6-4746-b7be-1d773aba661e",
+          "text": "Шеллинг",
+          "is_correct": false
+        },
+        {
+          "id": "59bc33a2-8f6b-40f3-aaaf-d56a1c749996",
+          "text": "Бергсон",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "cd9366ce-7395-4d01-8ae4-ec8c79240cd5"
+      ]
+    },
+    {
+      "question_id": "e80b20d3-790a-42c1-b29b-81e315dede44",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Современный технологический уклад — важнейшее звено любой конкурентоспособной экономики. Биотехнологии, информационные технологии, нано-технологии… \n\nЧто общего между этими видами технологий?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "443aad7c-b5e9-47b8-982a-09b7c56b8961",
+          "type": "TEXT",
+          "payload": {
+            "text": "Современный технологический уклад — важнейшее звено любой конкурентоспособной экономики. Биотехнологии, информационные технологии, нано-технологии… \n\nЧто общего между этими видами технологий?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7a6cdcdd-38e5-40ff-bf0e-4540274faabd",
+          "text": "Это — важные элементы инновационной составляющей в современной промышленности.",
+          "is_correct": true
+        },
+        {
+          "id": "aafa33a8-d21f-4986-9bdb-5ec2a3102707",
+          "text": "Это — технологии, которые стимулируют рынок потребления.",
+          "is_correct": false
+        },
+        {
+          "id": "cce31e95-2ef7-47f9-959d-4b47f5fa2856",
+          "text": "Это — технологии, требующие особых затрат и ресурсов.",
+          "is_correct": false
+        },
+        {
+          "id": "05ecda2d-ed0d-47f3-88f1-773b1775452f",
+          "text": "Это — важные цепочки инновационной производственной структуры.",
+          "is_correct": false
+        },
+        {
+          "id": "a3bcfd60-5bb1-4523-81b4-510377fb6cf8",
+          "text": "Это — важные компоненты расходной части промышленного бюджета.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7a6cdcdd-38e5-40ff-bf0e-4540274faabd"
+      ]
+    },
+    {
+      "question_id": "46ee09a8-a4fe-4235-a08f-5f9c2aab1d24",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Современная философия содержит ряд ключевых понятий, касающихся критического отношения к развитию научных теорий. Отметьте парные термины, характеризующие сущность подхода К. Поппера к вопросу о критике научных теорий.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "608e8281-d4da-4fd4-ba91-9facb32c13d4",
+          "type": "TEXT",
+          "payload": {
+            "text": "Современная философия содержит ряд ключевых понятий, касающихся критического отношения к развитию научных теорий. Отметьте парные термины, характеризующие сущность подхода К. Поппера к вопросу о критике научных теорий."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f7db0d7d-cc7b-4daa-8504-ee369ed95113",
+          "text": "критицизм и открытость",
+          "is_correct": false
+        },
+        {
+          "id": "02808ca2-07ca-4cf6-a225-fb55be5285c4",
+          "text": "верификация и фальсификация",
+          "is_correct": false
+        },
+        {
+          "id": "05a1b554-9595-4740-a133-7279cbac1707",
+          "text": "фальсификация и критицизм",
+          "is_correct": true
+        },
+        {
+          "id": "20adb48b-d1b3-4142-bc7f-e891bd6ac601",
+          "text": "открытость и закрытость",
+          "is_correct": false
+        },
+        {
+          "id": "bb84d230-59be-4f04-8e4b-42015c7cbde2",
+          "text": "верификация и открытость",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "05a1b554-9595-4740-a133-7279cbac1707"
+      ]
+    },
+    {
+      "question_id": "39ac8e4d-ff76-46d1-9a1b-00ac5008027d",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "«Тигр напал на раздорожье / Чёрной ночью на меня. / Взор, страшнее гнева Божья, / Полон жёлтого огня...» Центральный эпизод какого произведения М.Ю. Лермонтова созвучен старинной грузинской песне о тигре и юноше?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "456c4c1e-d489-41f9-bbec-cdb842821522",
+          "type": "TEXT",
+          "payload": {
+            "text": "«Тигр напал на раздорожье / Чёрной ночью на меня. / Взор, страшнее гнева Божья, / Полон жёлтого огня...» Центральный эпизод какого произведения М.Ю. Лермонтова созвучен старинной грузинской песне о тигре и юноше?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7aa48e1a-65b5-4045-aef7-b052947a4e2e",
+          "text": "«Герой нашего времени»",
+          "is_correct": false
+        },
+        {
+          "id": "473b126f-7941-499e-a3b5-1ddd4965d102",
+          "text": "«Мцыри»",
+          "is_correct": true
+        },
+        {
+          "id": "afef6fca-089a-4bbe-b01d-326efed6308b",
+          "text": "«Казачья колыбельная песня»",
+          "is_correct": false
+        },
+        {
+          "id": "441a134d-f026-4a02-99a2-70e5d3413d4d",
+          "text": "«Песня про царя Ивана Васильевича...»",
+          "is_correct": false
+        },
+        {
+          "id": "df2afac7-af05-42d1-b282-24813ee4c116",
+          "text": "«Демон»",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "473b126f-7941-499e-a3b5-1ddd4965d102"
+      ]
+    },
+    {
+      "question_id": "c656fa1a-5dcb-4afb-b196-1d5ba422976d",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что наиболее общего между ними.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "789e497b-d284-45f6-a118-9ff8bd373893",
+          "type": "TEXT",
+          "payload": {
+            "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что наиболее общего между ними."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "290850d9-3844-4508-876a-dc9091ba7026",
+          "text": "Общее то, что речь идет о характеристиках «слова» как единице речи.",
+          "is_correct": false
+        },
+        {
+          "id": "06a7dfde-16ed-4512-9c84-949b92dbc0b7",
+          "text": "Акцент поставлен на полезности «слова» в человеческой коммуникации.",
+          "is_correct": false
+        },
+        {
+          "id": "29ff4e62-e9ce-44ed-8c4c-68c793efb8ce",
+          "text": "Акцент поставлен на том, что слово является одновременно семантической, грамматической и фонологической единицей.",
+          "is_correct": true
+        },
+        {
+          "id": "da519083-f11b-4374-bb7b-976f5f43e28c",
+          "text": "Общее то, что прямо или косвенно речь идет о «слове» как единице речи.",
+          "is_correct": false
+        },
+        {
+          "id": "4059569f-3839-456c-8c02-e17d7f8d8022",
+          "text": "Акцент поставлен на том, что человеческая коммуникация невозможна без слов.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "29ff4e62-e9ce-44ed-8c4c-68c793efb8ce"
+      ]
+    },
+    {
+      "question_id": "44e4d6ad-ad2d-4830-bfab-301493aa4d37",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "x + y = 12 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ffc3fc7b-b8c1-4e1c-8c28-efe5f2d01530",
+          "type": "TEXT",
+          "payload": {
+            "text": "x + y = 12 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "899818b9-09a9-4dd2-8c9f-b7588cf0b961",
+          "text": "(3; −2)",
+          "is_correct": false
+        },
+        {
+          "id": "e5e28a55-4f8e-4a1f-89de-38209ecce3d3",
+          "text": "(7; 5)",
+          "is_correct": true
+        },
+        {
+          "id": "f9f65f28-1e98-44da-80bb-b01c2bbeabb4",
+          "text": "(5; −4)",
+          "is_correct": false
+        },
+        {
+          "id": "0cdda988-d85c-4552-bcba-b4ff2fab202b",
+          "text": "(−1; 1)",
+          "is_correct": false
+        },
+        {
+          "id": "754001f3-9a90-46a7-8605-8c6451622df9",
+          "text": "(3; −3)",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e5e28a55-4f8e-4a1f-89de-38209ecce3d3"
+      ]
+    },
+    {
+      "question_id": "de3e9512-1e27-4314-be54-9e453f186fbe",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "29656402-d9e1-48be-8f29-94d5d055a33f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2b04d3bf-e2d1-4159-96cb-d68cbefa2d63",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "id": "4db95758-407d-4710-947e-b187c7e23435",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "id": "93d14edf-d43e-459f-aa8a-0f933a39c0f7",
+          "text": "48",
+          "is_correct": false
+        },
+        {
+          "id": "99743039-fe8b-40c9-919e-9db7ade38bfb",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "id": "cd93840b-45b6-4411-a11e-3cd8cbf8b84d",
+          "text": "28",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4db95758-407d-4710-947e-b187c7e23435"
+      ]
+    },
+    {
+      "question_id": "1e7d2d7b-824f-467b-a66d-93e0e5f45530",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c65df3f5-7f57-415e-9aec-b9fb56ea5b27",
+          "type": "TEXT",
+          "payload": {
+            "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8f3d1c0c-aa08-473e-bd94-c07c53f1b06b",
+          "text": "Функция барлық нақты сандарда анықталған",
+          "is_correct": false
+        },
+        {
+          "id": "d22b74b1-8e79-4091-9297-e81e98f8e8c4",
+          "text": "Функция кемімелі",
+          "is_correct": false
+        },
+        {
+          "id": "7a8b64cc-474b-4a5c-9c91-87a61baf08d5",
+          "text": "Функция (0; 1) нүктесі арқылы өтеді",
+          "is_correct": false
+        },
+        {
+          "id": "d441984a-bc22-458f-ab21-cf61d519997d",
+          "text": "Функция (1; 0) және (2; 1) нүктелері арқылы өтеді",
+          "is_correct": true
+        },
+        {
+          "id": "2747e401-f08c-4cec-b89e-da05b9c895a3",
+          "text": "Функцияның мәндер жиыны тек оң сандардан тұрады",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d441984a-bc22-458f-ab21-cf61d519997d"
+      ]
+    },
+    {
+      "question_id": "987f921f-9c12-4a2f-992b-84a8046b082f",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Сравните две величины.Величина A: (1 / 2³) · 2\nВеличина B: 0,25",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "82681401-bf61-4d82-8f17-71d52edaeb94",
+          "type": "TEXT",
+          "payload": {
+            "text": "Сравните две величины.Величина A: (1 / 2³) · 2\nВеличина B: 0,25"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "1badf054-d162-41fc-8626-9114d8405e4d",
+          "text": "Величина B больше",
+          "is_correct": false
+        },
+        {
+          "id": "cd77faa8-daa8-40a1-ab07-b9496822ee3f",
+          "text": "Величина A больше",
+          "is_correct": false
+        },
+        {
+          "id": "f98314c0-ec30-4346-8314-af5e40e7178b",
+          "text": "Ни больше ни меньше",
+          "is_correct": false
+        },
+        {
+          "id": "1cb93276-9a7d-4f93-8ca8-6758210ff48e",
+          "text": "Величины равны",
+          "is_correct": true
+        },
+        {
+          "id": "74185797-3c69-494e-9b82-004c3096ee1f",
+          "text": "По данной информации невозможно определить отношение величин",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1cb93276-9a7d-4f93-8ca8-6758210ff48e"
+      ]
+    },
+    {
+      "question_id": "e4aeba8a-15e2-48c8-9ca6-72ff2fdf7152",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Используя цифры 2, 0, 9, 8, 1 составьте наибольшее пятизначное число и  используя цифры 3, 5, 4, 7, 6   для наименьшего пятизначного числа.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "000811d8-98fe-46cd-8b81-1681279a8ffd",
+          "type": "TEXT",
+          "payload": {
+            "text": "Используя цифры 2, 0, 9, 8, 1 составьте наибольшее пятизначное число и  используя цифры 3, 5, 4, 7, 6   для наименьшего пятизначного числа."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cb7e7e33-4ec1-42e2-9861-0fbb00e6164e",
+          "text": "98210 и 34567",
+          "is_correct": true
+        },
+        {
+          "id": "27d3c3aa-a3b7-4035-9594-72346da14348",
+          "text": "98210 и 10289",
+          "is_correct": false
+        },
+        {
+          "id": "0869061b-a5fe-439f-a3a7-da0dcc948f2f",
+          "text": "98210 и 67543",
+          "is_correct": false
+        },
+        {
+          "id": "5d7f52a7-2761-4ad6-807d-777dab7ad0fa",
+          "text": "98210 и 76543",
+          "is_correct": false
+        },
+        {
+          "id": "352fdf68-06a3-4f77-908a-04bec521e175",
+          "text": "98210 и 01289",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "cb7e7e33-4ec1-42e2-9861-0fbb00e6164e"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 20,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "24b5d381-6406-4a94-92b1-0e4fbb6edf91",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Jonathan think will happen in the meeting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f061dbc0-d856-4391-8f98-19479a7135e4",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Jonathan think will happen in the meeting?"
+            },
+            "position": 1
+          },
+          {
+            "id": "b8b789b9-f979-46ca-b1c2-fed20b2afba3",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "6851a79d-d154-4e87-894b-064eee552908",
+            "text": "Jonathan thinks the meeting is about Mark in Accounting.",
+            "is_correct": false
+          },
+          {
+            "id": "69cb13e5-1d24-41ee-ba69-b96bc5ea5dad",
+            "text": "He thinks the boss will tell people not to spread rumors.",
+            "is_correct": false
+          },
+          {
+            "id": "3b707665-8f22-4409-893c-fe5cb152fe93",
+            "text": "Jonathan thinks the meeting is about budget cuts.",
+            "is_correct": true
+          },
+          {
+            "id": "ff7a16b5-9788-48e8-a1e5-1587f203e3c7",
+            "text": "He thinks the staff will gossip about the email.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3b707665-8f22-4409-893c-fe5cb152fe93"
+        ]
+      },
+      {
+        "question_id": "aa2d0425-309c-47c0-a238-91243b624ad9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Kaveh think will happen after the budget cuts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "86ac617f-9ab5-4dc0-bd88-d22fa10a58d6",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Kaveh think will happen after the budget cuts?"
+            },
+            "position": 1
+          },
+          {
+            "id": "52df5ae6-8483-42e4-b467-7cc656b6013d",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "db1a40c0-1b2e-4546-ad15-824224d386dd",
+            "text": "Kaveh thinks that he will become a videographer.",
+            "is_correct": false
+          },
+          {
+            "id": "cc70a737-41de-4faa-9fbf-907d68f30ad5",
+            "text": "He thinks that Amelia will get another job.",
+            "is_correct": false
+          },
+          {
+            "id": "0aea0a4f-af36-4c7e-bcbd-b87f01cc3e9c",
+            "text": "Kaveh thinks that the studio will close.",
+            "is_correct": false
+          },
+          {
+            "id": "a0ea8949-0d0f-4b06-973b-bcb08be06016",
+            "text": "He thinks that people will lose their jobs.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "a0ea8949-0d0f-4b06-973b-bcb08be06016"
+        ]
+      },
+      {
+        "question_id": "94130d09-669c-48c8-b819-8aef97799161",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Ms. Weaver want to do at the meeting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a11e0748-3cf0-4899-9da2-d004e0102db2",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Ms. Weaver want to do at the meeting?"
+            },
+            "position": 1
+          },
+          {
+            "id": "ae38a5b6-f5c9-492f-a691-d058c8da0933",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "2a3f2008-e506-4ec9-929c-b33bb0e8cd34",
+            "text": "She wants to find out what they have been doing in their jobs.",
+            "is_correct": false
+          },
+          {
+            "id": "d08bea33-5146-4443-b0d8-f0b94a9f5e40",
+            "text": "Ms. Weaver wants to dance with Anna and the Studio team.",
+            "is_correct": false
+          },
+          {
+            "id": "e2e97dfa-fac4-456c-bc14-3a646bdcab5d",
+            "text": "She wants to praise the team and give them new assignments.",
+            "is_correct": true
+          },
+          {
+            "id": "e440137e-ba43-4925-9a20-e7161dca99ba",
+            "text": "Ms. Weaver wants to tell the team she is going to fire them.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e2e97dfa-fac4-456c-bc14-3a646bdcab5d"
+        ]
+      },
+      {
+        "question_id": "954cd2ec-286e-4592-9314-a7e55cc77c67",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Ms. Weaver say about the team? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4a7a67e4-c43c-4d6f-8301-751efabf9f1f",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Ms. Weaver say about the team?"
+            },
+            "position": 1
+          },
+          {
+            "id": "e2280516-a1ac-4ad3-a882-cf4cc26ed4cb",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "a07d71b0-012e-478a-bfcf-c00afd637d86",
+            "text": "They are doing a good job and getting new assignments.",
+            "is_correct": true
+          },
+          {
+            "id": "01c3401b-3f96-4512-bc02-d07335c08b2d",
+            "text": "Mark from Accounting is going to be part of their team.",
+            "is_correct": false
+          },
+          {
+            "id": "85eb593d-def1-47d1-ba9a-965b5b7f0075",
+            "text": "Everyone is going to lose their jobs.",
+            "is_correct": false
+          },
+          {
+            "id": "9dc9d873-b3c4-448a-8954-15ff78b3d1fd",
+            "text": "There will not be any budget cuts.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a07d71b0-012e-478a-bfcf-c00afd637d86"
+        ]
+      },
+      {
+        "question_id": "790b5e8a-bbda-462d-8d30-e17d0d8c3a72",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna first think the meeting might be about? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "04b770f2-d836-423f-954b-b3c30ba9a96a",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna first think the meeting might be about?"
+            },
+            "position": 1
+          },
+          {
+            "id": "240f35de-c28f-44bb-aa2f-4f96a25f590d",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "703778b8-729a-42d4-a657-a901abbd878a",
+            "text": "She thinks someone will lose their job.",
+            "is_correct": false
+          },
+          {
+            "id": "7f87e058-808d-48e2-8630-ba7461fcbf14",
+            "text": "She thinks they might all get raises.",
+            "is_correct": true
+          },
+          {
+            "id": "65672225-1269-496e-97e4-91f1ca022e54",
+            "text": "She thinks Mark will become the boss.",
+            "is_correct": false
+          },
+          {
+            "id": "7c29960d-a1b8-4cff-9d35-2d151d4e6e2f",
+            "text": "She thinks the studio will close.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7f87e058-808d-48e2-8630-ba7461fcbf14"
+        ]
+      },
+      {
+        "question_id": "eed505ec-e721-45c1-a725-7400da9b5430",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Who did Jonathan hear the news about budget cuts from? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "af5f4948-b7a2-4200-ab19-21d4d188d0af",
+            "type": "TEXT",
+            "payload": {
+              "text": "Who did Jonathan hear the news about budget cuts from?"
+            },
+            "position": 1
+          },
+          {
+            "id": "1a0b985e-0dec-4a3f-8caf-d88519742e9e",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "0fc34888-701f-4d56-8c0a-0d841a901d10",
+            "text": "Ms. Weaver.",
+            "is_correct": false
+          },
+          {
+            "id": "846fe087-872c-4bd4-8317-4d130d762fdc",
+            "text": "Amelia.",
+            "is_correct": false
+          },
+          {
+            "id": "0f4724ab-c0e2-44b9-8e33-b69d212a94d7",
+            "text": "Mark in Accounting.",
+            "is_correct": true
+          },
+          {
+            "id": "95441e4a-fe49-4f96-b86f-5aeb3438bd64",
+            "text": "Penelope.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0f4724ab-c0e2-44b9-8e33-b69d212a94d7"
+        ]
+      },
+      {
+        "question_id": "ce58a345-0675-4b8f-86a5-eac090db1713",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Anna say they should stop talking about budget cuts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "fa3bf3e4-ea34-4493-a703-d693dc901bb4",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Anna say they should stop talking about budget cuts?"
+            },
+            "position": 1
+          },
+          {
+            "id": "18e8f88e-6027-4cf8-a894-69903ca6b8fe",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "c749ef21-2ff9-4385-80a4-f73553adb448",
+            "text": "Because the meeting has already ended.",
+            "is_correct": false
+          },
+          {
+            "id": "d1827dd8-cea7-4533-bc0c-89d7cdcb1311",
+            "text": "Because she does not understand the email.",
+            "is_correct": false
+          },
+          {
+            "id": "1b28291c-900a-4b10-9d2f-9cbe54d4aa3f",
+            "text": "Because gossip can start rumors.",
+            "is_correct": true
+          },
+          {
+            "id": "5b228139-09e5-4e87-8682-454cae0c91dc",
+            "text": "Because Mark told her to stop.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1b28291c-900a-4b10-9d2f-9cbe54d4aa3f"
+        ]
+      },
+      {
+        "question_id": "729e1bbf-792b-40fa-ba9d-6c6da9488c2a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What job does Amelia not want to go back to? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "64c2c89c-518a-46c7-8e86-6cfd7ca5d8e7",
+            "type": "TEXT",
+            "payload": {
+              "text": "What job does Amelia not want to go back to?"
+            },
+            "position": 1
+          },
+          {
+            "id": "792843b6-6025-4253-8e7a-d63805ceefdf",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "f22150f5-8a24-4704-a9bc-7f67e6778842",
+            "text": "Reporter.",
+            "is_correct": false
+          },
+          {
+            "id": "31eeb637-1573-4faa-aa70-921c26b8ab11",
+            "text": "Teacher.",
+            "is_correct": false
+          },
+          {
+            "id": "de5f6040-a71c-49d4-8a78-7faf4c5700fb",
+            "text": "Detective.",
+            "is_correct": true
+          },
+          {
+            "id": "8b8abaf4-5d3f-4d8a-8936-6cfee684924e",
+            "text": "Accountant.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "de5f6040-a71c-49d4-8a78-7faf4c5700fb"
+        ]
+      },
+      {
+        "question_id": "f77313b7-6839-4224-9346-83cea3355dc9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Kaveh tell Penelope to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "bd6e9509-723c-41b4-a296-158a3c020b90",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Kaveh tell Penelope to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "15d0763a-073f-419d-ab1e-a105161408c8",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "b1bca135-0429-4004-b021-7fc994b5a05b",
+            "text": "Talk to Ms. Weaver.",
+            "is_correct": false
+          },
+          {
+            "id": "b6e68296-d4ca-4329-805e-204734db42b5",
+            "text": "Look for Mark in Accounting.",
+            "is_correct": false
+          },
+          {
+            "id": "73459e59-733e-4c42-8b49-b5b1ee63554c",
+            "text": "Update her résumé.",
+            "is_correct": true
+          },
+          {
+            "id": "c1e11044-4e65-40fd-9844-3a579287b680",
+            "text": "Leave the meeting early.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "73459e59-733e-4c42-8b49-b5b1ee63554c"
+        ]
+      },
+      {
+        "question_id": "9f8787cc-4dd9-4455-a436-574e01b4a5eb",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Who actually lost their job because of the budget cuts? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "0a6c1afd-2be9-4218-9ef4-b11a4597cb90",
+            "type": "TEXT",
+            "payload": {
+              "text": "Who actually lost their job because of the budget cuts?"
+            },
+            "position": 1
+          },
+          {
+            "id": "b3ca5ee2-ccc5-4955-afb0-dca2a5e560af",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/3c1eca17137543d2a3ea4d0ff853f9c7.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/8ebeb009-2cf4-46ef-9bcf-845ae63e0666.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "8c0c1706-14d1-4797-9ab9-1e08a4f977e2",
+            "text": "Anna.",
+            "is_correct": false
+          },
+          {
+            "id": "f26a0af0-a998-4674-ac6b-0034738e8d77",
+            "text": "Kaveh.",
+            "is_correct": false
+          },
+          {
+            "id": "07137024-947f-49fb-a0b0-2c2c71a8a95c",
+            "text": "Amelia.",
+            "is_correct": false
+          },
+          {
+            "id": "b48a3ffc-b422-4d31-93de-dcffacea3ab5",
+            "text": "Mark in Accounting.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "b48a3ffc-b422-4d31-93de-dcffacea3ab5"
+        ]
+      },
+      {
+        "question_id": "4884d156-2877-49fe-bfda-abc9f8c11edc",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "495e32e4-d5d7-48ea-b467-6e30050df62d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "93e759ab-8bbc-4484-8191-5e567a6a3092",
+            "text": "James may call.",
+            "is_correct": true
+          },
+          {
+            "id": "30a762d2-1d9e-4162-a8ab-4658124cd511",
+            "text": "James may to call.",
+            "is_correct": false
+          },
+          {
+            "id": "c393ec74-dae8-4c13-940c-fcc3a401e8bc",
+            "text": "James may calling.",
+            "is_correct": false
+          },
+          {
+            "id": "d137608f-ffd7-4641-8173-6cbe38e37c08",
+            "text": "James may calls.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "93e759ab-8bbc-4484-8191-5e567a6a3092"
+        ]
+      },
+      {
+        "question_id": "92fde887-fb6e-4c76-b76c-39398b6e7094",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct yes/no question.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4d807f0a-365c-40be-bb2d-11010bd5a934",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct yes/no question."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b82d649a-3ea8-419c-9b7e-02acc179fcbb",
+            "text": "I should drive?",
+            "is_correct": false
+          },
+          {
+            "id": "8587414b-0e5e-484a-9f30-0b79ac88c695",
+            "text": "Should I drive?",
+            "is_correct": true
+          },
+          {
+            "id": "7bb33813-6017-46a7-b539-6d1f9c446ece",
+            "text": "Do I should drive?",
+            "is_correct": false
+          },
+          {
+            "id": "8da4a788-e97e-4024-9db6-14e56fa525a2",
+            "text": "Should I to drive?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8587414b-0e5e-484a-9f30-0b79ac88c695"
+        ]
+      },
+      {
+        "question_id": "2bda00a1-6cce-4b1b-bfd2-fc1cc4b5c1ea",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal: I ... lift this forty-pound box.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "8d1fac6d-a375-49a1-a629-ea88f2341743",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal: I ... lift this forty-pound box."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3f9e68c4-897c-4416-8656-7cc255b410ae",
+            "text": "can",
+            "is_correct": true
+          },
+          {
+            "id": "195e1b52-504d-4ddc-88e3-814d52b0817c",
+            "text": "must",
+            "is_correct": false
+          },
+          {
+            "id": "51494d37-cb1c-493e-bc4e-5680bc9d7e20",
+            "text": "would",
+            "is_correct": false
+          },
+          {
+            "id": "436e1d24-3d24-4863-87d9-c030cc6d02fe",
+            "text": "may not",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3f9e68c4-897c-4416-8656-7cc255b410ae"
+        ]
+      },
+      {
+        "question_id": "244412e3-3f3d-4252-9753-e7175d3e3e02",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal: I ... beat you at chess when we were kids.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "cdb10f91-c9a4-45a3-9b28-43fdfb5c0322",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal: I ... beat you at chess when we were kids."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1f0bbff7-091a-4b5c-b422-26d3d0338d4a",
+            "text": "can",
+            "is_correct": false
+          },
+          {
+            "id": "2f83555c-f32c-4845-a679-fea5d59bfe92",
+            "text": "could",
+            "is_correct": true
+          },
+          {
+            "id": "c6181050-9d78-445e-b778-03559aef9ed1",
+            "text": "may",
+            "is_correct": false
+          },
+          {
+            "id": "49e513e0-292c-43b3-8789-f3a19fe7939f",
+            "text": "must",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2f83555c-f32c-4845-a679-fea5d59bfe92"
+        ]
+      },
+      {
+        "question_id": "0a6d4b5d-ebab-420a-99fc-026ac8957b41",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal for a polite request: ... you pass the handout to me, please?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ad303ef3-18f0-4997-82fe-c4d289ce7fa5",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal for a polite request: ... you pass the handout to me, please?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bc899226-2c13-4513-afde-a74f56dc03e6",
+            "text": "Must",
+            "is_correct": false
+          },
+          {
+            "id": "bc728d3d-7e55-49cb-b7e2-e184505465dc",
+            "text": "Could",
+            "is_correct": true
+          },
+          {
+            "id": "f3923637-c0e7-48e4-8ae1-9b58ce6e4ea3",
+            "text": "Should",
+            "is_correct": false
+          },
+          {
+            "id": "dc24eee2-d1ce-4ac8-93f8-84b50c5f63f7",
+            "text": "Might",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bc728d3d-7e55-49cb-b7e2-e184505465dc"
+        ]
+      },
+      {
+        "question_id": "f5b41482-e40f-4d0e-a64f-342bb89000c4",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal for asking permission: ... I attend the concert?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "68da8c55-1510-4aa4-a1f4-dea378c750cd",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal for asking permission: ... I attend the concert?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "024cffb1-8e91-412c-823f-b066bf946b5c",
+            "text": "Must",
+            "is_correct": false
+          },
+          {
+            "id": "a4779724-2fb0-4c67-9196-6da7c0675fde",
+            "text": "Would",
+            "is_correct": false
+          },
+          {
+            "id": "7b74b528-752d-4f10-81f0-6a54148aa05a",
+            "text": "May",
+            "is_correct": true
+          },
+          {
+            "id": "ceef3059-0663-4d6f-9a0b-64b4bba755d1",
+            "text": "Should",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7b74b528-752d-4f10-81f0-6a54148aa05a"
+        ]
+      },
+      {
+        "question_id": "ac5990c3-e84b-446d-9f77-7f2f12df4114",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal: I ... attend the concert, but I am not sure.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c4b21420-5b67-40b3-9606-b089e2c746c3",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal: I ... attend the concert, but I am not sure."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f685a4a7-eea2-4de2-9444-bc8ab1517f28",
+            "text": "must",
+            "is_correct": false
+          },
+          {
+            "id": "9d66b4f1-547f-4af3-8c9f-f40a5e90fb6f",
+            "text": "should",
+            "is_correct": false
+          },
+          {
+            "id": "efe3a16d-514c-47d0-8862-789a94a7e182",
+            "text": "might",
+            "is_correct": true
+          },
+          {
+            "id": "133f742c-8488-418b-8ad2-048417409292",
+            "text": "will",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "efe3a16d-514c-47d0-8862-789a94a7e182"
+        ]
+      },
+      {
+        "question_id": "cd76c039-05a5-4efd-925b-9d11a46f4bdc",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the sentence that shows strong inference.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "1ea16c32-788b-437f-9c17-9bfc0d0fc882",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the sentence that shows strong inference."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b866ba48-8e4c-452d-96af-9d517ea9d46f",
+            "text": "She is sick.",
+            "is_correct": false
+          },
+          {
+            "id": "116d6126-d18f-441a-b0bb-1941cebe005d",
+            "text": "She must be sick.",
+            "is_correct": true
+          },
+          {
+            "id": "5d00be5b-338e-4aa7-b8b7-62dac83d8669",
+            "text": "She might be sick.",
+            "is_correct": false
+          },
+          {
+            "id": "0f734211-c3cc-478f-9b19-61a182b1fb0c",
+            "text": "She could be sick.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "116d6126-d18f-441a-b0bb-1941cebe005d"
+        ]
+      },
+      {
+        "question_id": "a9c3077a-21ba-46df-9e5f-0e518be2605d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the sentence that shows a weaker possibility.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c8a38f8f-1470-4556-a447-a2473614e5d9",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the sentence that shows a weaker possibility."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b7de0a24-74b4-4610-9254-a48bb77b1406",
+            "text": "She is sick.",
+            "is_correct": false
+          },
+          {
+            "id": "d01d3f61-401b-41e9-86c1-515c9980505f",
+            "text": "She must be sick.",
+            "is_correct": false
+          },
+          {
+            "id": "eba475ec-37d6-475f-b652-11368f92f1d8",
+            "text": "She may be sick.",
+            "is_correct": true
+          },
+          {
+            "id": "9ee19be0-e06c-446c-9bfa-8cbf2ab97226",
+            "text": "She will be sick.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "eba475ec-37d6-475f-b652-11368f92f1d8"
+        ]
+      },
+      {
+        "question_id": "37add589-5258-48eb-a0d2-59b5fbe1cc5e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the best modal: According to my counselor, I ... take English 1A to graduate.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "43c18e5d-f212-4297-86e0-d1d687728d3f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the best modal: According to my counselor, I ... take English 1A to graduate."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "20157359-36dc-469b-82dc-cf97f5a640d5",
+            "text": "should",
+            "is_correct": false
+          },
+          {
+            "id": "44240c98-087d-4ea5-9c9c-1e56510c2ac9",
+            "text": "must",
+            "is_correct": true
+          },
+          {
+            "id": "fff19e70-237d-4902-8f59-f434fe1dbfdf",
+            "text": "might",
+            "is_correct": false
+          },
+          {
+            "id": "af74acc3-a9d0-45cd-a15c-c26a7d8d9032",
+            "text": "would",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "44240c98-087d-4ea5-9c9c-1e56510c2ac9"
+        ]
+      },
+      {
+        "question_id": "7fdc399a-6a78-4e10-8f4e-9359784c4eb9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the  text and choose the correct answer. My First English Class. Good afternoon, everyone, and welcome to this English language course. I will be your instructor, and my name is Lindsay Black. The spelling is L-I-N-D-S-A-Y Black. Before our lessons start, I want to give you some important details about the course. The classes will take place in the British Council building, in Room 13, which is on the first floor. After you go upstairs, turn left and you will see the room. We will meet two times a week, on Mondays and Wednesdays. Each lesson starts at 4:30 p.m. and continues for an hour and a half, so the class finishes at 6:00 p.m. If you need help or want to ask me something, you can come to my office hour. My office is 7B, on the second floor, and I am available there on Fridays at 6:00 p.m. The course begins next week, on March 13th, and it will finish on May 20th. You also need one textbook for this class. The title is British Life and Language Level 1 Student’s Book. Please visit the library and get your own copy. I do not want students to use photocopied versions of the book. That is all for now. I am happy to begin working with you. See you next Monday. What must students have for this English course?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5536a6c9-0967-42ac-9a75-395a5318fc1b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the  text and choose the correct answer. My First English Class. Good afternoon, everyone, and welcome to this English language course. I will be your instructor, and my name is Lindsay Black. The spelling is L-I-N-D-S-A-Y Black. Before our lessons start, I want to give you some important details about the course. The classes will take place in the British Council building, in Room 13, which is on the first floor. After you go upstairs, turn left and you will see the room. We will meet two times a week, on Mondays and Wednesdays. Each lesson starts at 4:30 p.m. and continues for an hour and a half, so the class finishes at 6:00 p.m. If you need help or want to ask me something, you can come to my office hour. My office is 7B, on the second floor, and I am available there on Fridays at 6:00 p.m. The course begins next week, on March 13th, and it will finish on May 20th. You also need one textbook for this class. The title is British Life and Language Level 1 Student’s Book. Please visit the library and get your own copy. I do not want students to use photocopied versions of the book. That is all for now. I am happy to begin working with you. See you next Monday. What must students have for this English course?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d6cbc89e-a3e6-41ec-b034-553141a10491",
+            "text": "a laptop",
+            "is_correct": false
+          },
+          {
+            "id": "f81ee346-5392-443f-8688-70e4d92cebc0",
+            "text": "an exercise notebook",
+            "is_correct": false
+          },
+          {
+            "id": "d4f9e158-311e-4535-85d7-1551227ec698",
+            "text": "a short note about the book",
+            "is_correct": false
+          },
+          {
+            "id": "91f349de-9aa8-4d59-9188-309642f3646a",
+            "text": "a copy of the textbook",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "91f349de-9aa8-4d59-9188-309642f3646a"
+        ]
+      },
+      {
+        "question_id": "6ab24a91-6437-477a-947a-5a4a96442d82",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What kind of material does the teacher refuse to accept?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "93ba326f-297d-4336-8437-eb2aac85d22e",
+            "type": "TEXT",
+            "payload": {
+              "text": "What kind of material does the teacher refuse to accept?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "760e9cf5-6f60-4ed6-9424-bb87c211c428",
+            "text": "photocopied versions of the textbook",
+            "is_correct": true
+          },
+          {
+            "id": "14ece1a0-7a15-4748-8474-aca6df17e6f9",
+            "text": "personal laptops",
+            "is_correct": false
+          },
+          {
+            "id": "87fb7096-cb3f-4497-86fe-ec876595aca9",
+            "text": "pictures with classmates",
+            "is_correct": false
+          },
+          {
+            "id": "2be70d9d-17e4-47eb-b6c4-f7f536650dc0",
+            "text": "ordinary notebooks",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "760e9cf5-6f60-4ed6-9424-bb87c211c428"
+        ]
+      },
+      {
+        "question_id": "ab7f00c1-1452-4fe1-885f-c4246fdfc9e8",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which textbook is required for the course?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9d419646-433f-4816-8b88-e1fcdb000ea0",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which textbook is required for the course?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0ef9b9c1-4856-4e7a-8f41-8ffeb6b7a62a",
+            "text": "British Life and Language Level 2 Teacher’s Book",
+            "is_correct": false
+          },
+          {
+            "id": "3d6c4f1a-2a3c-43d5-a71c-394ef929d4b2",
+            "text": "British Life and Language Level 2 Student’s Book",
+            "is_correct": false
+          },
+          {
+            "id": "06ae0b8d-03cc-436a-b702-de9d554d23fe",
+            "text": "British Life and Language Level 1 Student’s Book",
+            "is_correct": true
+          },
+          {
+            "id": "59498b73-af79-4cbc-9de8-6dee20a80124",
+            "text": "British Life and Language Level 1 Teacher’s Book",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "06ae0b8d-03cc-436a-b702-de9d554d23fe"
+        ]
+      },
+      {
+        "question_id": "2f4dd228-7175-46e6-88e8-d3aa793181c0",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "When does the course begin?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9ce22d5c-a75b-4e3a-9e76-c1648ed07c68",
+            "type": "TEXT",
+            "payload": {
+              "text": "When does the course begin?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bc343d83-17e9-4f0f-b52f-caf6b2646fe2",
+            "text": "on March 30th",
+            "is_correct": false
+          },
+          {
+            "id": "473e17f4-224d-4b27-913a-e6204f9b5445",
+            "text": "on May 20th",
+            "is_correct": false
+          },
+          {
+            "id": "2e68d8fd-a11f-4251-bf6d-2f2a7a47145c",
+            "text": "on May 12th",
+            "is_correct": false
+          },
+          {
+            "id": "7776b2b0-4e2c-4c0e-8eb4-e674f1876ebe",
+            "text": "on March 13th",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "7776b2b0-4e2c-4c0e-8eb4-e674f1876ebe"
+        ]
+      },
+      {
+        "question_id": "ac02ed74-cdbf-4f61-b2b6-718172934356",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "On which days are the English lessons held?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2b0db984-3c21-47b7-aac6-0d5115f689a4",
+            "type": "TEXT",
+            "payload": {
+              "text": "On which days are the English lessons held?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f541bd2b-1dc9-48ab-8615-c124a3e784a3",
+            "text": "Monday and Friday",
+            "is_correct": false
+          },
+          {
+            "id": "546c714a-8f22-4278-ac54-4760746b8ff5",
+            "text": "Monday and Tuesday",
+            "is_correct": false
+          },
+          {
+            "id": "19dee675-1db6-4ce6-b628-8d26f81f6bdf",
+            "text": "Monday and Thursday",
+            "is_correct": false
+          },
+          {
+            "id": "9934f633-9c47-4343-a4dc-5d7a9f037786",
+            "text": "Monday and Wednesday",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "9934f633-9c47-4343-a4dc-5d7a9f037786"
+        ]
+      },
+      {
+        "question_id": "a3c2942a-a7db-4f46-8fef-c24cc381ed7c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Where is Room 13 located?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "85660da8-e407-413d-a153-c24f6da6ec7d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where is Room 13 located?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "36ed7a44-ca39-4b38-9127-74057679e284",
+            "text": "on the uppermost floor",
+            "is_correct": false
+          },
+          {
+            "id": "82272371-aa80-42b4-96cc-a91257dcab00",
+            "text": "on the second floor",
+            "is_correct": false
+          },
+          {
+            "id": "7adf0b67-2eb5-46a9-a26a-d50e4929d429",
+            "text": "on the first floor",
+            "is_correct": true
+          },
+          {
+            "id": "22c2f6bd-eda4-448d-b322-1f7097924971",
+            "text": "on the third floor",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7adf0b67-2eb5-46a9-a26a-d50e4929d429"
+        ]
+      },
+      {
+        "question_id": "2c08c48a-260a-44c9-a72a-fe99a1e5a088",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Why may students visit the teacher’s office?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "60b6ad7d-1df1-420d-b242-260fda523d1f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why may students visit the teacher’s office?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6d4bf68e-c93f-4e57-9d6c-3165c9c7cc00",
+            "text": "to bring notes and problems",
+            "is_correct": false
+          },
+          {
+            "id": "e9c07e32-ab62-45ef-97ad-701aa055edfb",
+            "text": "to collect books and problems",
+            "is_correct": false
+          },
+          {
+            "id": "0afc9771-cc76-417c-82b0-2d0f21363507",
+            "text": "to meet friends and ask questions",
+            "is_correct": false
+          },
+          {
+            "id": "048564d2-6676-4656-88b7-0b3394bb391c",
+            "text": "to discuss questions or problems",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "048564d2-6676-4656-88b7-0b3394bb391c"
+        ]
+      },
+      {
+        "question_id": "49a8423e-5a97-4f44-a265-8c60e40263ab",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What can students find in Office 7B?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a6a14169-836f-4832-873d-cc395ec53de8",
+            "type": "TEXT",
+            "payload": {
+              "text": "What can students find in Office 7B?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4e1b5371-9678-4dae-af77-1893e744d33e",
+            "text": "the manager’s room",
+            "is_correct": false
+          },
+          {
+            "id": "ac36f08d-dac3-4c07-be2e-6bc374788512",
+            "text": "the main classroom",
+            "is_correct": false
+          },
+          {
+            "id": "6a3b1c07-d0f0-4bfb-9f53-f66d9382b822",
+            "text": "a meeting hall",
+            "is_correct": false
+          },
+          {
+            "id": "8b930fbb-c30d-495d-bbc7-3e58fba77dd6",
+            "text": "the teacher’s office",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "8b930fbb-c30d-495d-bbc7-3e58fba77dd6"
+        ]
+      },
+      {
+        "question_id": "3ba66188-f161-49a0-9a0f-93d821fe0d21",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "How long does each English class last?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "2572813f-b794-41bc-a7da-bc8d02dbd6f6",
+            "type": "TEXT",
+            "payload": {
+              "text": "How long does each English class last?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0e04731e-f5ad-4722-a5b2-5cb655e6dc37",
+            "text": "90 minutes",
+            "is_correct": true
+          },
+          {
+            "id": "fddf2d15-c074-4c88-9d67-d117b88b9ed4",
+            "text": "30 minutes",
+            "is_correct": false
+          },
+          {
+            "id": "78b1d195-2495-4411-8a62-cedb1a08ed6b",
+            "text": "two hours",
+            "is_correct": false
+          },
+          {
+            "id": "adddc9f8-7e28-4437-a55f-ad32b2f89d7b",
+            "text": "45 minutes",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0e04731e-f5ad-4722-a5b2-5cb655e6dc37"
+        ]
+      },
+      {
+        "question_id": "822c6f57-2262-4682-bc89-14f815acb9a6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Where should students get the required course book?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "598913eb-bd68-432a-9abe-0f3b4449b125",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where should students get the required course book?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f0e288d8-aa75-4c97-9fbe-ebf71fe6e572",
+            "text": "from the teacher’s office",
+            "is_correct": false
+          },
+          {
+            "id": "633fd2da-8b73-4693-b0c0-c1c2d1d666e6",
+            "text": "from the library",
+            "is_correct": true
+          },
+          {
+            "id": "00291d23-482b-481a-860c-26376d68bdf3",
+            "text": "from Room 13",
+            "is_correct": false
+          },
+          {
+            "id": "293cc457-7fd7-4f6e-a322-6ed891fbe141",
+            "text": "from the British Council café",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "633fd2da-8b73-4693-b0c0-c1c2d1d666e6"
+        ]
+      },
+      {
+        "question_id": "3966648c-05b3-4d5d-8869-0394b00e243a",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "В учебниках и пособиях по философии и истории экономических учений популярны суждения известных мыслителей. Кто среди философов до Маркса мог бы быть «присоединён» к известному суждению о том, что «труд есть источник всякого богатства»?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a7e008a2-632d-47bf-8f02-df81254ecf2b",
+            "type": "TEXT",
+            "payload": {
+              "text": "В учебниках и пособиях по философии и истории экономических учений популярны суждения известных мыслителей. Кто среди философов до Маркса мог бы быть «присоединён» к известному суждению о том, что «труд есть источник всякого богатства»?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cd9366ce-7395-4d01-8ae4-ec8c79240cd5",
+            "text": "Гегель",
+            "is_correct": true
+          },
+          {
+            "id": "9d9e5629-9f9e-4459-a480-0831839a351a",
+            "text": "Шопенгауэр",
+            "is_correct": false
+          },
+          {
+            "id": "1fba184d-2270-425c-bb3d-e8fc5d864790",
+            "text": "Кейнс",
+            "is_correct": false
+          },
+          {
+            "id": "f83ebf2e-06d6-4746-b7be-1d773aba661e",
+            "text": "Шеллинг",
+            "is_correct": false
+          },
+          {
+            "id": "59bc33a2-8f6b-40f3-aaaf-d56a1c749996",
+            "text": "Бергсон",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "cd9366ce-7395-4d01-8ae4-ec8c79240cd5"
+        ]
+      },
+      {
+        "question_id": "e80b20d3-790a-42c1-b29b-81e315dede44",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Современный технологический уклад — важнейшее звено любой конкурентоспособной экономики. Биотехнологии, информационные технологии, нано-технологии… \n\nЧто общего между этими видами технологий?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "443aad7c-b5e9-47b8-982a-09b7c56b8961",
+            "type": "TEXT",
+            "payload": {
+              "text": "Современный технологический уклад — важнейшее звено любой конкурентоспособной экономики. Биотехнологии, информационные технологии, нано-технологии… \n\nЧто общего между этими видами технологий?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7a6cdcdd-38e5-40ff-bf0e-4540274faabd",
+            "text": "Это — важные элементы инновационной составляющей в современной промышленности.",
+            "is_correct": true
+          },
+          {
+            "id": "aafa33a8-d21f-4986-9bdb-5ec2a3102707",
+            "text": "Это — технологии, которые стимулируют рынок потребления.",
+            "is_correct": false
+          },
+          {
+            "id": "cce31e95-2ef7-47f9-959d-4b47f5fa2856",
+            "text": "Это — технологии, требующие особых затрат и ресурсов.",
+            "is_correct": false
+          },
+          {
+            "id": "05ecda2d-ed0d-47f3-88f1-773b1775452f",
+            "text": "Это — важные цепочки инновационной производственной структуры.",
+            "is_correct": false
+          },
+          {
+            "id": "a3bcfd60-5bb1-4523-81b4-510377fb6cf8",
+            "text": "Это — важные компоненты расходной части промышленного бюджета.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7a6cdcdd-38e5-40ff-bf0e-4540274faabd"
+        ]
+      },
+      {
+        "question_id": "46ee09a8-a4fe-4235-a08f-5f9c2aab1d24",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Современная философия содержит ряд ключевых понятий, касающихся критического отношения к развитию научных теорий. Отметьте парные термины, характеризующие сущность подхода К. Поппера к вопросу о критике научных теорий.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "608e8281-d4da-4fd4-ba91-9facb32c13d4",
+            "type": "TEXT",
+            "payload": {
+              "text": "Современная философия содержит ряд ключевых понятий, касающихся критического отношения к развитию научных теорий. Отметьте парные термины, характеризующие сущность подхода К. Поппера к вопросу о критике научных теорий."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f7db0d7d-cc7b-4daa-8504-ee369ed95113",
+            "text": "критицизм и открытость",
+            "is_correct": false
+          },
+          {
+            "id": "02808ca2-07ca-4cf6-a225-fb55be5285c4",
+            "text": "верификация и фальсификация",
+            "is_correct": false
+          },
+          {
+            "id": "05a1b554-9595-4740-a133-7279cbac1707",
+            "text": "фальсификация и критицизм",
+            "is_correct": true
+          },
+          {
+            "id": "20adb48b-d1b3-4142-bc7f-e891bd6ac601",
+            "text": "открытость и закрытость",
+            "is_correct": false
+          },
+          {
+            "id": "bb84d230-59be-4f04-8e4b-42015c7cbde2",
+            "text": "верификация и открытость",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "05a1b554-9595-4740-a133-7279cbac1707"
+        ]
+      },
+      {
+        "question_id": "39ac8e4d-ff76-46d1-9a1b-00ac5008027d",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "«Тигр напал на раздорожье / Чёрной ночью на меня. / Взор, страшнее гнева Божья, / Полон жёлтого огня...» Центральный эпизод какого произведения М.Ю. Лермонтова созвучен старинной грузинской песне о тигре и юноше?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "456c4c1e-d489-41f9-bbec-cdb842821522",
+            "type": "TEXT",
+            "payload": {
+              "text": "«Тигр напал на раздорожье / Чёрной ночью на меня. / Взор, страшнее гнева Божья, / Полон жёлтого огня...» Центральный эпизод какого произведения М.Ю. Лермонтова созвучен старинной грузинской песне о тигре и юноше?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7aa48e1a-65b5-4045-aef7-b052947a4e2e",
+            "text": "«Герой нашего времени»",
+            "is_correct": false
+          },
+          {
+            "id": "473b126f-7941-499e-a3b5-1ddd4965d102",
+            "text": "«Мцыри»",
+            "is_correct": true
+          },
+          {
+            "id": "afef6fca-089a-4bbe-b01d-326efed6308b",
+            "text": "«Казачья колыбельная песня»",
+            "is_correct": false
+          },
+          {
+            "id": "441a134d-f026-4a02-99a2-70e5d3413d4d",
+            "text": "«Песня про царя Ивана Васильевича...»",
+            "is_correct": false
+          },
+          {
+            "id": "df2afac7-af05-42d1-b282-24813ee4c116",
+            "text": "«Демон»",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "473b126f-7941-499e-a3b5-1ddd4965d102"
+        ]
+      },
+      {
+        "question_id": "c656fa1a-5dcb-4afb-b196-1d5ba422976d",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что наиболее общего между ними.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "789e497b-d284-45f6-a118-9ff8bd373893",
+            "type": "TEXT",
+            "payload": {
+              "text": "И.В. Арнольд в своем курсе лекций по лексикологии указывает, что термин «слово» обозначает базовую единицу данного языка, являющуюся результатом ассоциации определенного значения с определенной группой звуков, способных к конкретному грамматическому использованию. Поэтому слово является одновременно семантической, грамматической и фонологической единицей.\n\nГ.Б. Антрушина в своих лекциях по лексикологии считает: «Слово — это единица речи, используемая для целей человеческого общения, материально представляющая собой группу звуков, обладающая значением, способная к грамматическому употреблению и характеризующаяся формальным и смысловым единством».\n\nСравните эти два суждения и определите, что наиболее общего между ними."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "290850d9-3844-4508-876a-dc9091ba7026",
+            "text": "Общее то, что речь идет о характеристиках «слова» как единице речи.",
+            "is_correct": false
+          },
+          {
+            "id": "06a7dfde-16ed-4512-9c84-949b92dbc0b7",
+            "text": "Акцент поставлен на полезности «слова» в человеческой коммуникации.",
+            "is_correct": false
+          },
+          {
+            "id": "29ff4e62-e9ce-44ed-8c4c-68c793efb8ce",
+            "text": "Акцент поставлен на том, что слово является одновременно семантической, грамматической и фонологической единицей.",
+            "is_correct": true
+          },
+          {
+            "id": "da519083-f11b-4374-bb7b-976f5f43e28c",
+            "text": "Общее то, что прямо или косвенно речь идет о «слове» как единице речи.",
+            "is_correct": false
+          },
+          {
+            "id": "4059569f-3839-456c-8c02-e17d7f8d8022",
+            "text": "Акцент поставлен на том, что человеческая коммуникация невозможна без слов.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "29ff4e62-e9ce-44ed-8c4c-68c793efb8ce"
+        ]
+      },
+      {
+        "question_id": "44e4d6ad-ad2d-4830-bfab-301493aa4d37",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "x + y = 12 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ffc3fc7b-b8c1-4e1c-8c28-efe5f2d01530",
+            "type": "TEXT",
+            "payload": {
+              "text": "x + y = 12 теңдеуінің шешімі болатын сандар жұбын көрсетіңіз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "899818b9-09a9-4dd2-8c9f-b7588cf0b961",
+            "text": "(3; −2)",
+            "is_correct": false
+          },
+          {
+            "id": "e5e28a55-4f8e-4a1f-89de-38209ecce3d3",
+            "text": "(7; 5)",
+            "is_correct": true
+          },
+          {
+            "id": "f9f65f28-1e98-44da-80bb-b01c2bbeabb4",
+            "text": "(5; −4)",
+            "is_correct": false
+          },
+          {
+            "id": "0cdda988-d85c-4552-bcba-b4ff2fab202b",
+            "text": "(−1; 1)",
+            "is_correct": false
+          },
+          {
+            "id": "754001f3-9a90-46a7-8605-8c6451622df9",
+            "text": "(3; −3)",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e5e28a55-4f8e-4a1f-89de-38209ecce3d3"
+        ]
+      },
+      {
+        "question_id": "de3e9512-1e27-4314-be54-9e453f186fbe",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "29656402-d9e1-48be-8f29-94d5d055a33f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Жаттығу ойыны кезінде шеңберді бірінші спортсмен 6 минутта, екінші спортсмен 8 минутта бір рет айналып өтеді. Екеуі бірдей бастап, мәреге бір мезгілде келгенде жүгіруді тоқтатады. Олар неше минут жүгіруі керек?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2b04d3bf-e2d1-4159-96cb-d68cbefa2d63",
+            "text": "30",
+            "is_correct": false
+          },
+          {
+            "id": "4db95758-407d-4710-947e-b187c7e23435",
+            "text": "24",
+            "is_correct": true
+          },
+          {
+            "id": "93d14edf-d43e-459f-aa8a-0f933a39c0f7",
+            "text": "48",
+            "is_correct": false
+          },
+          {
+            "id": "99743039-fe8b-40c9-919e-9db7ade38bfb",
+            "text": "14",
+            "is_correct": false
+          },
+          {
+            "id": "cd93840b-45b6-4411-a11e-3cd8cbf8b84d",
+            "text": "28",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4db95758-407d-4710-947e-b187c7e23435"
+        ]
+      },
+      {
+        "question_id": "1e7d2d7b-824f-467b-a66d-93e0e5f45530",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c65df3f5-7f57-415e-9aec-b9fb56ea5b27",
+            "type": "TEXT",
+            "payload": {
+              "text": "y = log₂x функциясы туралы дұрыс тұжырымды таңдаңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8f3d1c0c-aa08-473e-bd94-c07c53f1b06b",
+            "text": "Функция барлық нақты сандарда анықталған",
+            "is_correct": false
+          },
+          {
+            "id": "d22b74b1-8e79-4091-9297-e81e98f8e8c4",
+            "text": "Функция кемімелі",
+            "is_correct": false
+          },
+          {
+            "id": "7a8b64cc-474b-4a5c-9c91-87a61baf08d5",
+            "text": "Функция (0; 1) нүктесі арқылы өтеді",
+            "is_correct": false
+          },
+          {
+            "id": "d441984a-bc22-458f-ab21-cf61d519997d",
+            "text": "Функция (1; 0) және (2; 1) нүктелері арқылы өтеді",
+            "is_correct": true
+          },
+          {
+            "id": "2747e401-f08c-4cec-b89e-da05b9c895a3",
+            "text": "Функцияның мәндер жиыны тек оң сандардан тұрады",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d441984a-bc22-458f-ab21-cf61d519997d"
+        ]
+      },
+      {
+        "question_id": "987f921f-9c12-4a2f-992b-84a8046b082f",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Сравните две величины.Величина A: (1 / 2³) · 2\nВеличина B: 0,25",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "82681401-bf61-4d82-8f17-71d52edaeb94",
+            "type": "TEXT",
+            "payload": {
+              "text": "Сравните две величины.Величина A: (1 / 2³) · 2\nВеличина B: 0,25"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "1badf054-d162-41fc-8626-9114d8405e4d",
+            "text": "Величина B больше",
+            "is_correct": false
+          },
+          {
+            "id": "cd77faa8-daa8-40a1-ab07-b9496822ee3f",
+            "text": "Величина A больше",
+            "is_correct": false
+          },
+          {
+            "id": "f98314c0-ec30-4346-8314-af5e40e7178b",
+            "text": "Ни больше ни меньше",
+            "is_correct": false
+          },
+          {
+            "id": "1cb93276-9a7d-4f93-8ca8-6758210ff48e",
+            "text": "Величины равны",
+            "is_correct": true
+          },
+          {
+            "id": "74185797-3c69-494e-9b82-004c3096ee1f",
+            "text": "По данной информации невозможно определить отношение величин",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1cb93276-9a7d-4f93-8ca8-6758210ff48e"
+        ]
+      },
+      {
+        "question_id": "e4aeba8a-15e2-48c8-9ca6-72ff2fdf7152",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Используя цифры 2, 0, 9, 8, 1 составьте наибольшее пятизначное число и  используя цифры 3, 5, 4, 7, 6   для наименьшего пятизначного числа.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "000811d8-98fe-46cd-8b81-1681279a8ffd",
+            "type": "TEXT",
+            "payload": {
+              "text": "Используя цифры 2, 0, 9, 8, 1 составьте наибольшее пятизначное число и  используя цифры 3, 5, 4, 7, 6   для наименьшего пятизначного числа."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cb7e7e33-4ec1-42e2-9861-0fbb00e6164e",
+            "text": "98210 и 34567",
+            "is_correct": true
+          },
+          {
+            "id": "27d3c3aa-a3b7-4035-9594-72346da14348",
+            "text": "98210 и 10289",
+            "is_correct": false
+          },
+          {
+            "id": "0869061b-a5fe-439f-a3a7-da0dcc948f2f",
+            "text": "98210 и 67543",
+            "is_correct": false
+          },
+          {
+            "id": "5d7f52a7-2761-4ad6-807d-777dab7ad0fa",
+            "text": "98210 и 76543",
+            "is_correct": false
+          },
+          {
+            "id": "352fdf68-06a3-4f77-908a-04bec521e175",
+            "text": "98210 и 01289",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "cb7e7e33-4ec1-42e2-9861-0fbb00e6164e"
+        ]
+      }
+    ]
+  }
+}

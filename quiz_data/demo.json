@@ -1,0 +1,1472 @@
+{
+  "variant_id": "demo",
+  "title": "Демо-тест",
+  "total_count": 15,
+  "attempt_id": "690d62ea-5c6e-48e6-bfb6-d728ea4a6b5f",
+  "questions": [
+    {
+      "question_id": "e7eafea3-e74b-4cd6-921b-2c2ad7be7558",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Ms. Weaver want Anna to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "09592180-2e18-4518-9bc4-12ef88ae06cd",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Ms. Weaver want Anna to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "5e0bd814-880b-4ee7-aac2-eb8c65a45574",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "8df06c96-de34-4434-b760-06582e2744a7",
+          "text": "Report traffic from a helicopter."
+        },
+        {
+          "id": "1db2394d-b520-4722-ac39-1dbf286fffd6",
+          "text": "Manage assignments at The Studio."
+        },
+        {
+          "id": "19642f79-6fee-451c-a9c8-4041dac398db",
+          "text": "Put The Studio's new team together."
+        },
+        {
+          "id": "7c8e21e5-0007-451a-a5f5-ddd26ba04876",
+          "text": "Return to hosting and reporting."
+        }
+      ]
+    },
+    {
+      "question_id": "d5547cc6-dd29-46f5-80c6-9d49aa86be56",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "ffc7dc43-f05e-43bc-a3a7-ae0c953b9b33",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"?"
+          },
+          "position": 1
+        },
+        {
+          "id": "82660da3-f0d8-4770-bcea-3b9b66e310dc",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "70d2cd06-9119-4342-a615-7fccc9397701",
+          "text": "Throw the want ads up in the air."
+        },
+        {
+          "id": "9b8ad042-f8d0-48d1-88bc-65972c3c8f0e",
+          "text": "Put the want ads in the garbage."
+        },
+        {
+          "id": "2912322a-a551-4e1b-b40f-25253a435ecd",
+          "text": "Call someone from the want ads."
+        },
+        {
+          "id": "69e708a4-5383-4730-89ce-11c3ff89ba2e",
+          "text": "Give the want ads to someone else."
+        }
+      ]
+    },
+    {
+      "question_id": "3dee02e2-e652-47fb-8497-b609a0d502e6",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Anna want Pete to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8ef94dd5-0daa-4422-8e81-6863a7fd8420",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Anna want Pete to do?"
+          },
+          "position": 1
+        },
+        {
+          "id": "9ca4ff7e-cf26-4275-ab48-9a44dc27194e",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d777d30f-efa2-46a4-af65-629857c89cdf",
+          "text": "Go to an interview at her job."
+        },
+        {
+          "id": "5109e08e-b64a-49d3-9153-8fe550aef378",
+          "text": "Find someone to host a talk show."
+        },
+        {
+          "id": "73e0cdf9-584a-4721-b63f-ed2ecf9f3fb7",
+          "text": "Stop asking so many questions."
+        },
+        {
+          "id": "20f1e1a3-d2e7-4d2e-b7b5-2b6f85950a15",
+          "text": "Meet her at her boss's house."
+        }
+      ]
+    },
+    {
+      "question_id": "fedf379a-e1d5-41b7-9b6f-7c0f9d001cff",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What did Pete do last year? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "0fec90f3-49ea-4ad4-a028-2347797556b3",
+          "type": "TEXT",
+          "payload": {
+            "text": "What did Pete do last year?"
+          },
+          "position": 1
+        },
+        {
+          "id": "6ae26ee2-ff09-4839-8a49-5d73d08560bd",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d98f9445-124d-4569-a254-b115db2ebc85",
+          "text": "Tried to build a cabin in the woods."
+        },
+        {
+          "id": "6a45e8cd-9f27-462b-bc16-4a584ecbcc81",
+          "text": "Tried to become more of a people person."
+        },
+        {
+          "id": "75afb733-53c1-4bed-8de4-d9773d662bac",
+          "text": "Stayed in a cabin alone and wrote a book."
+        },
+        {
+          "id": "8efc3942-953f-45bc-ab7e-6d2e4ec9ee16",
+          "text": "Talked about the work that he is proud of."
+        }
+      ]
+    },
+    {
+      "question_id": "5e1eb96d-d6a0-4d2e-b88c-4f847af6b92c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Ms. Weaver choose Anna for hosting and reporting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "31872b21-0643-4d45-8921-7ae768581785",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Ms. Weaver choose Anna for hosting and reporting?"
+          },
+          "position": 1
+        },
+        {
+          "id": "5b69cd2c-77eb-4a89-ba73-4e2617fa4df0",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "83ef492b-1dca-45bb-93e6-70cfcf903cff",
+          "text": "Anna knows how to fly a helicopter."
+        },
+        {
+          "id": "f8645605-20ef-454e-b119-00d75159d22e",
+          "text": "Anna is good at asking questions."
+        },
+        {
+          "id": "f5348fd4-b85f-4d0f-b4c7-894957c4a434",
+          "text": "Anna wants to work alone."
+        },
+        {
+          "id": "33622871-3dee-4509-8e46-268cefcc463b",
+          "text": "Anna has written a book."
+        }
+      ]
+    },
+    {
+      "question_id": "f8a189b7-7a82-4f12-88e0-89ef79312920",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct form: ... money can help you reach your goals.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e54a248a-3c7c-4c4e-913f-0ffb55593ba6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct form: ... money can help you reach your goals."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "95ebc5a0-5dc3-46e9-a533-7e6de6340353",
+          "text": "Saving"
+        },
+        {
+          "id": "23d90b18-8c19-4607-8b61-613158edeb8d",
+          "text": "To saving"
+        },
+        {
+          "id": "8d3dcc0a-6e8e-4e0e-8dc1-48c522265380",
+          "text": "Save"
+        },
+        {
+          "id": "3381a364-ad9b-447b-888f-14adca1e0ec8",
+          "text": "Saved"
+        }
+      ]
+    },
+    {
+      "question_id": "0f08cc48-9027-479b-9bdc-cba6b3cae029",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct form: ... too much money is not wise.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "342813c4-d0e4-4576-97a7-8a9c8c0d659e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct form: ... too much money is not wise."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8359c5dc-c700-43f3-a376-7e978f8dbf5a",
+          "text": "Spend"
+        },
+        {
+          "id": "39d41b08-58f6-4834-a7fa-7c0558214216",
+          "text": "Spending"
+        },
+        {
+          "id": "d994c888-64f0-4763-9006-0831912f3b14",
+          "text": "To spending"
+        },
+        {
+          "id": "fde87a70-fb59-4d07-9bcb-e27f0a7a6983",
+          "text": "Spent"
+        }
+      ]
+    },
+    {
+      "question_id": "a657cd9c-4881-49f6-9a09-477f6d9476d5",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct verb: Baking pies ... my hobby.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "211c8bc6-95ad-4717-ba2a-5dab256bdc0d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct verb: Baking pies ... my hobby."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8c5c2404-d130-4a31-819b-5fffb702b8ed",
+          "text": "is"
+        },
+        {
+          "id": "13943e98-666a-4511-8454-a167bc64e635",
+          "text": "are"
+        },
+        {
+          "id": "1b8fee54-d125-4123-abf0-670e589dd692",
+          "text": "were"
+        },
+        {
+          "id": "3f85c9b0-7e4f-4ae3-9056-cb781e750e65",
+          "text": "be"
+        }
+      ]
+    },
+    {
+      "question_id": "2dcbaf34-b31c-4262-9dd1-9eea985a5dcc",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct verb: Baking pies and crocheting hats ... my hobbies.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "250adae4-e01b-489d-9cf8-a153b5e569fe",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct verb: Baking pies and crocheting hats ... my hobbies."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "16774eb8-c5d1-4c54-9f31-76a7ce93cebe",
+          "text": "is"
+        },
+        {
+          "id": "997355ac-3f10-4801-9989-eb4bf6be3aa2",
+          "text": "are"
+        },
+        {
+          "id": "e6a27193-d483-45d8-b561-68a584dbbbca",
+          "text": "was"
+        },
+        {
+          "id": "d5ba82d7-fd6a-4cd2-9a11-f5b59576f6ec",
+          "text": "be"
+        }
+      ]
+    },
+    {
+      "question_id": "9c060739-f5d9-40bd-b74a-65dcccb493a3",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct form: Emily enjoys ... in the mornings.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c6c0a6f6-939e-41cf-9c24-4e1e0d65f3a6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct form: Emily enjoys ... in the mornings."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "54717775-46fe-4982-9de5-64f67403db28",
+          "text": "to jog"
+        },
+        {
+          "id": "d447bc16-1da9-4135-89a4-9f3a8bb10aec",
+          "text": "jogging"
+        },
+        {
+          "id": "644d4e46-f8d9-4fb1-a495-e284463e462a",
+          "text": "jog"
+        },
+        {
+          "id": "0ad823ee-5dd7-4ad7-a0c0-e10e8babe7d8",
+          "text": "jogged"
+        }
+      ]
+    },
+    {
+      "question_id": "95e23838-de98-4d58-abb8-a9805085f7fd",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Каким может оказаться первое впечатление от «духа», «звучания» двух суждений о человеке, проклятом быть свободным, и о счастливом Сизифе?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "80fd6767-fd2c-4f4e-a982-d549340091ef",
+          "type": "TEXT",
+          "payload": {
+            "text": "Каким может оказаться первое впечатление от «духа», «звучания» двух суждений о человеке, проклятом быть свободным, и о счастливом Сизифе?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "93103bfb-42af-49fa-8fc6-f3064d9506a8",
+          "text": "Первое мнение теоретично, а второе — об античном герое"
+        },
+        {
+          "id": "1250ee8d-ff72-4afe-a07a-a13d44b91d6e",
+          "text": "Жизнь Сизифа лучше, чем реального человека"
+        },
+        {
+          "id": "995f6faa-bb36-4400-ad72-9c95e55c3e7e",
+          "text": "Человек проклят, а Сизиф счастлив"
+        },
+        {
+          "id": "1d6f2829-d89b-48a8-981c-4d66b484840f",
+          "text": "Первое суждение явно длиннее второго"
+        },
+        {
+          "id": "2ed29b90-f829-49b5-bc28-864693acf115",
+          "text": "Пессимизм первого и относительный оптимизм второго"
+        }
+      ]
+    },
+    {
+      "question_id": "034c8124-3d0a-46bd-92db-226028d538e0",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Бедность можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности, индексы качества жизни. Определите вид информации во второй части текста.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f65b869e-221a-4ec8-a081-509b46784351",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бедность можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности, индексы качества жизни. Определите вид информации во второй части текста."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cec1c90f-1637-427d-ab93-fbeb11afdb56",
+          "text": "резюмирующая"
+        },
+        {
+          "id": "8344bd08-580a-4fea-8af6-827dbfeb098f",
+          "text": "обобщающая"
+        },
+        {
+          "id": "6873c283-91f5-465a-a577-988659973f87",
+          "text": "иллюстрирующая"
+        },
+        {
+          "id": "3d3abf9a-fc7a-49aa-9dec-32941bead5df",
+          "text": "аргументирующая"
+        },
+        {
+          "id": "0263e437-1602-41cd-9514-18daf19d40b1",
+          "text": "конкретизирующая"
+        }
+      ]
+    },
+    {
+      "question_id": "6c135848-e4d3-454e-961e-1cf2e8543669",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Качество жизни можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности. Определите вид информации во второй части текста.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "77528914-7213-432f-b903-99f76812d7ed",
+          "type": "TEXT",
+          "payload": {
+            "text": "Качество жизни можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности. Определите вид информации во второй части текста."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "30d5ebbf-9832-4fa4-8177-a5939afb8d37",
+          "text": "конкретизирующая"
+        },
+        {
+          "id": "44a82d4b-a111-4c8d-971a-44da5c12168b",
+          "text": "иллюстрирующая"
+        },
+        {
+          "id": "f2048d17-e6a5-45c0-86f6-3d77bc982a24",
+          "text": "обобщающая"
+        },
+        {
+          "id": "3e453296-8956-4164-b575-00e1e57a650b",
+          "text": "резюмирующая"
+        },
+        {
+          "id": "7de18819-4dec-4cf7-be76-555f4548b62b",
+          "text": "аргументирующая"
+        }
+      ]
+    },
+    {
+      "question_id": "448ee741-4502-47b3-b39b-3642bce2597d",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Глобальный продукт имеет хождение по всему миру под одной фирменной маркой. Биг-мак будет иметь один и тот же вкус в Манчестере, Милане и Мельбурне. Определите вид информации во второй части текста.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8546e185-45dd-4c9d-822d-b5103fd86012",
+          "type": "TEXT",
+          "payload": {
+            "text": "Глобальный продукт имеет хождение по всему миру под одной фирменной маркой. Биг-мак будет иметь один и тот же вкус в Манчестере, Милане и Мельбурне. Определите вид информации во второй части текста."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "dc45d6b7-98c2-4408-9ccf-b2d255dd58f0",
+          "text": "вводная"
+        },
+        {
+          "id": "fa98faac-839c-4aea-a724-13bcddd0b2af",
+          "text": "аргументирующая"
+        },
+        {
+          "id": "4f1ca4d7-0501-408d-a97a-9c52dbba50ff",
+          "text": "резюмирующая"
+        },
+        {
+          "id": "a73c290e-6915-43db-ad68-081768569dbe",
+          "text": "детализирующая"
+        },
+        {
+          "id": "5ff0c0fe-3434-4e3e-b504-06388924c375",
+          "text": "дублирующая"
+        }
+      ]
+    },
+    {
+      "question_id": "29f500aa-bc24-4cb7-91be-71779711ec5d",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Аурелио Печчеи писал: к системе Природа — Человек — Общество вошел четвертый потенциально неуправляемый элемент — основанная на науке […]. Вставьте концепт.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "be7744a1-2b73-419d-9961-8d69ae4de8fd",
+          "type": "TEXT",
+          "payload": {
+            "text": "Аурелио Печчеи писал: к системе Природа — Человек — Общество вошел четвертый потенциально неуправляемый элемент — основанная на науке […]. Вставьте концепт."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c96afdaf-d7d1-4786-9604-ec13cc4ebab8",
+          "text": "Атомная Реакция"
+        },
+        {
+          "id": "bdd30c23-7a3a-411f-b3df-7628273a9b55",
+          "text": "Либеральная Экономика"
+        },
+        {
+          "id": "7b8f6fbb-28c7-4b17-b5fd-2a3c8a95a0b3",
+          "text": "Химическая Промышленность"
+        },
+        {
+          "id": "2b0a8588-4eda-4ab2-bdc6-491c8726ec2c",
+          "text": "Техника"
+        },
+        {
+          "id": "1a804cfe-3618-4790-82b2-eb089f84147f",
+          "text": "Атомная Энергетика"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 27,
+    "correct_count": 4,
+    "total": 15,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "e7eafea3-e74b-4cd6-921b-2c2ad7be7558",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Ms. Weaver want Anna to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "09592180-2e18-4518-9bc4-12ef88ae06cd",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Ms. Weaver want Anna to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "5e0bd814-880b-4ee7-aac2-eb8c65a45574",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "8df06c96-de34-4434-b760-06582e2744a7",
+            "text": "Report traffic from a helicopter.",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "1db2394d-b520-4722-ac39-1dbf286fffd6",
+            "text": "Manage assignments at The Studio.",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "19642f79-6fee-451c-a9c8-4041dac398db",
+            "text": "Put The Studio's new team together.",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "7c8e21e5-0007-451a-a5f5-ddd26ba04876",
+            "text": "Return to hosting and reporting.",
+            "is_correct": true,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "8df06c96-de34-4434-b760-06582e2744a7"
+        ],
+        "correct_option_ids": [
+          "7c8e21e5-0007-451a-a5f5-ddd26ba04876"
+        ],
+        "is_correct": false,
+        "explanation": "Так было сказано: “I want you to go back to hosting and reporting.” 0:47 секунда"
+      },
+      {
+        "question_id": "d5547cc6-dd29-46f5-80c6-9d49aa86be56",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "ffc7dc43-f05e-43bc-a3a7-ae0c953b9b33",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna mean when she says, \"Pete, you can tear these want ads up and throw them away!\"?"
+            },
+            "position": 1
+          },
+          {
+            "id": "82660da3-f0d8-4770-bcea-3b9b66e310dc",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "70d2cd06-9119-4342-a615-7fccc9397701",
+            "text": "Throw the want ads up in the air.",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "9b8ad042-f8d0-48d1-88bc-65972c3c8f0e",
+            "text": "Put the want ads in the garbage.",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "2912322a-a551-4e1b-b40f-25253a435ecd",
+            "text": "Call someone from the want ads.",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "69e708a4-5383-4730-89ce-11c3ff89ba2e",
+            "text": "Give the want ads to someone else.",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "70d2cd06-9119-4342-a615-7fccc9397701"
+        ],
+        "correct_option_ids": [
+          "9b8ad042-f8d0-48d1-88bc-65972c3c8f0e"
+        ],
+        "is_correct": false,
+        "explanation": "Так было сказано: “throw them away” — значит выбросить их."
+      },
+      {
+        "question_id": "3dee02e2-e652-47fb-8497-b609a0d502e6",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Anna want Pete to do? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "8ef94dd5-0daa-4422-8e81-6863a7fd8420",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Anna want Pete to do?"
+            },
+            "position": 1
+          },
+          {
+            "id": "9ca4ff7e-cf26-4275-ab48-9a44dc27194e",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d777d30f-efa2-46a4-af65-629857c89cdf",
+            "text": "Go to an interview at her job.",
+            "is_correct": true,
+            "was_chosen": true
+          },
+          {
+            "id": "5109e08e-b64a-49d3-9153-8fe550aef378",
+            "text": "Find someone to host a talk show.",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "73e0cdf9-584a-4721-b63f-ed2ecf9f3fb7",
+            "text": "Stop asking so many questions.",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "20f1e1a3-d2e7-4d2e-b7b5-2b6f85950a15",
+            "text": "Meet her at her boss's house.",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "d777d30f-efa2-46a4-af65-629857c89cdf"
+        ],
+        "correct_option_ids": [
+          "d777d30f-efa2-46a4-af65-629857c89cdf"
+        ],
+        "is_correct": true,
+        "explanation": "Так было сказано: “Your interview is tomorrow morning at 10 am.”"
+      },
+      {
+        "question_id": "fedf379a-e1d5-41b7-9b6f-7c0f9d001cff",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What did Pete do last year? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "0fec90f3-49ea-4ad4-a028-2347797556b3",
+            "type": "TEXT",
+            "payload": {
+              "text": "What did Pete do last year?"
+            },
+            "position": 1
+          },
+          {
+            "id": "6ae26ee2-ff09-4839-8a49-5d73d08560bd",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d98f9445-124d-4569-a254-b115db2ebc85",
+            "text": "Tried to build a cabin in the woods.",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "6a45e8cd-9f27-462b-bc16-4a584ecbcc81",
+            "text": "Tried to become more of a people person.",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "75afb733-53c1-4bed-8de4-d9773d662bac",
+            "text": "Stayed in a cabin alone and wrote a book.",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "8efc3942-953f-45bc-ab7e-6d2e4ec9ee16",
+            "text": "Talked about the work that he is proud of.",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "d98f9445-124d-4569-a254-b115db2ebc85"
+        ],
+        "correct_option_ids": [
+          "75afb733-53c1-4bed-8de4-d9773d662bac"
+        ],
+        "is_correct": false,
+        "explanation": "Так было сказано: “I locked myself in a cabin and wrote a book.”"
+      },
+      {
+        "question_id": "5e1eb96d-d6a0-4d2e-b88c-4f847af6b92c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Ms. Weaver choose Anna for hosting and reporting? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3]",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "31872b21-0643-4d45-8921-7ae768581785",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Ms. Weaver choose Anna for hosting and reporting?"
+            },
+            "position": 1
+          },
+          {
+            "id": "5b69cd2c-77eb-4a89-ba73-4e2617fa4df0",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/86ccfa103bb744a68d5e9bdb6db7016b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/110e7753-4b74-42ff-a7cb-8c62f11ef364.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "83ef492b-1dca-45bb-93e6-70cfcf903cff",
+            "text": "Anna knows how to fly a helicopter.",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "f8645605-20ef-454e-b119-00d75159d22e",
+            "text": "Anna is good at asking questions.",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "f5348fd4-b85f-4d0f-b4c7-894957c4a434",
+            "text": "Anna wants to work alone.",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "33622871-3dee-4509-8e46-268cefcc463b",
+            "text": "Anna has written a book.",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "83ef492b-1dca-45bb-93e6-70cfcf903cff"
+        ],
+        "correct_option_ids": [
+          "f8645605-20ef-454e-b119-00d75159d22e"
+        ],
+        "is_correct": false,
+        "explanation": "Так было сказано: “you're good at asking questions.”"
+      },
+      {
+        "question_id": "f8a189b7-7a82-4f12-88e0-89ef79312920",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct form: ... money can help you reach your goals.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "e54a248a-3c7c-4c4e-913f-0ffb55593ba6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct form: ... money can help you reach your goals."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "95ebc5a0-5dc3-46e9-a533-7e6de6340353",
+            "text": "Saving",
+            "is_correct": true,
+            "was_chosen": true
+          },
+          {
+            "id": "23d90b18-8c19-4607-8b61-613158edeb8d",
+            "text": "To saving",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "8d3dcc0a-6e8e-4e0e-8dc1-48c522265380",
+            "text": "Save",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "3381a364-ad9b-447b-888f-14adca1e0ec8",
+            "text": "Saved",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "95ebc5a0-5dc3-46e9-a533-7e6de6340353"
+        ],
+        "correct_option_ids": [
+          "95ebc5a0-5dc3-46e9-a533-7e6de6340353"
+        ],
+        "is_correct": true,
+        "explanation": "Здесь -ing форма используется как существительное и является подлежащим предложения. Gerund может быть subject: “Saving money can help...”"
+      },
+      {
+        "question_id": "0f08cc48-9027-479b-9bdc-cba6b3cae029",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct form: ... too much money is not wise.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "342813c4-d0e4-4576-97a7-8a9c8c0d659e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct form: ... too much money is not wise."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8359c5dc-c700-43f3-a376-7e978f8dbf5a",
+            "text": "Spend",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "39d41b08-58f6-4834-a7fa-7c0558214216",
+            "text": "Spending",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "d994c888-64f0-4763-9006-0831912f3b14",
+            "text": "To spending",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "fde87a70-fb59-4d07-9bcb-e27f0a7a6983",
+            "text": "Spent",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "8359c5dc-c700-43f3-a376-7e978f8dbf5a"
+        ],
+        "correct_option_ids": [
+          "39d41b08-58f6-4834-a7fa-7c0558214216"
+        ],
+        "is_correct": false,
+        "explanation": "Gerund может быть подлежащим предложения. “Spending too much money” — это одно действие, поэтому после него используется singular verb “is”."
+      },
+      {
+        "question_id": "a657cd9c-4881-49f6-9a09-477f6d9476d5",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct verb: Baking pies ... my hobby.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "211c8bc6-95ad-4717-ba2a-5dab256bdc0d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct verb: Baking pies ... my hobby."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8c5c2404-d130-4a31-819b-5fffb702b8ed",
+            "text": "is",
+            "is_correct": true,
+            "was_chosen": true
+          },
+          {
+            "id": "13943e98-666a-4511-8454-a167bc64e635",
+            "text": "are",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "1b8fee54-d125-4123-abf0-670e589dd692",
+            "text": "were",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "3f85c9b0-7e4f-4ae3-9056-cb781e750e65",
+            "text": "be",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "8c5c2404-d130-4a31-819b-5fffb702b8ed"
+        ],
+        "correct_option_ids": [
+          "8c5c2404-d130-4a31-819b-5fffb702b8ed"
+        ],
+        "is_correct": true,
+        "explanation": "“Baking pies” — это один gerund phrase, то есть одно действие. Поэтому используется singular verb: “is”."
+      },
+      {
+        "question_id": "2dcbaf34-b31c-4262-9dd1-9eea985a5dcc",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct verb: Baking pies and crocheting hats ... my hobbies.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "250adae4-e01b-489d-9cf8-a153b5e569fe",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct verb: Baking pies and crocheting hats ... my hobbies."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "16774eb8-c5d1-4c54-9f31-76a7ce93cebe",
+            "text": "is",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "997355ac-3f10-4801-9989-eb4bf6be3aa2",
+            "text": "are",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "e6a27193-d483-45d8-b561-68a584dbbbca",
+            "text": "was",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "d5ba82d7-fd6a-4cd2-9a11-f5b59576f6ec",
+            "text": "be",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "16774eb8-c5d1-4c54-9f31-76a7ce93cebe"
+        ],
+        "correct_option_ids": [
+          "997355ac-3f10-4801-9989-eb4bf6be3aa2"
+        ],
+        "is_correct": false,
+        "explanation": "Здесь два действия: “baking pies” and “crocheting hats”. Поэтому подлежащее считается plural, и нужен глагол “are”."
+      },
+      {
+        "question_id": "9c060739-f5d9-40bd-b74a-65dcccb493a3",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct form: Emily enjoys ... in the mornings.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "c6c0a6f6-939e-41cf-9c24-4e1e0d65f3a6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct form: Emily enjoys ... in the mornings."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "54717775-46fe-4982-9de5-64f67403db28",
+            "text": "to jog",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "d447bc16-1da9-4135-89a4-9f3a8bb10aec",
+            "text": "jogging",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "644d4e46-f8d9-4fb1-a495-e284463e462a",
+            "text": "jog",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "0ad823ee-5dd7-4ad7-a0c0-e10e8babe7d8",
+            "text": "jogged",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "54717775-46fe-4982-9de5-64f67403db28"
+        ],
+        "correct_option_ids": [
+          "d447bc16-1da9-4135-89a4-9f3a8bb10aec"
+        ],
+        "is_correct": false,
+        "explanation": "После глагола “enjoy” используется gerund, то есть форма -ing: “enjoys jogging”."
+      },
+      {
+        "question_id": "95e23838-de98-4d58-abb8-a9805085f7fd",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Каким может оказаться первое впечатление от «духа», «звучания» двух суждений о человеке, проклятом быть свободным, и о счастливом Сизифе?",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "80fd6767-fd2c-4f4e-a982-d549340091ef",
+            "type": "TEXT",
+            "payload": {
+              "text": "Каким может оказаться первое впечатление от «духа», «звучания» двух суждений о человеке, проклятом быть свободным, и о счастливом Сизифе?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "93103bfb-42af-49fa-8fc6-f3064d9506a8",
+            "text": "Первое мнение теоретично, а второе — об античном герое",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "1250ee8d-ff72-4afe-a07a-a13d44b91d6e",
+            "text": "Жизнь Сизифа лучше, чем реального человека",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "995f6faa-bb36-4400-ad72-9c95e55c3e7e",
+            "text": "Человек проклят, а Сизиф счастлив",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "1d6f2829-d89b-48a8-981c-4d66b484840f",
+            "text": "Первое суждение явно длиннее второго",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "2ed29b90-f829-49b5-bc28-864693acf115",
+            "text": "Пессимизм первого и относительный оптимизм второго",
+            "is_correct": true,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "93103bfb-42af-49fa-8fc6-f3064d9506a8"
+        ],
+        "correct_option_ids": [
+          "2ed29b90-f829-49b5-bc28-864693acf115"
+        ],
+        "is_correct": false,
+        "explanation": "Первое суждение звучит более пессимистично, второе — относительно оптимистично."
+      },
+      {
+        "question_id": "034c8124-3d0a-46bd-92db-226028d538e0",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Бедность можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности, индексы качества жизни. Определите вид информации во второй части текста.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "f65b869e-221a-4ec8-a081-509b46784351",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бедность можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности, индексы качества жизни. Определите вид информации во второй части текста."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cec1c90f-1637-427d-ab93-fbeb11afdb56",
+            "text": "резюмирующая",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "8344bd08-580a-4fea-8af6-827dbfeb098f",
+            "text": "обобщающая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "6873c283-91f5-465a-a577-988659973f87",
+            "text": "иллюстрирующая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "3d3abf9a-fc7a-49aa-9dec-32941bead5df",
+            "text": "аргументирующая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "0263e437-1602-41cd-9514-18daf19d40b1",
+            "text": "конкретизирующая",
+            "is_correct": true,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "cec1c90f-1637-427d-ab93-fbeb11afdb56"
+        ],
+        "correct_option_ids": [
+          "0263e437-1602-41cd-9514-18daf19d40b1"
+        ],
+        "is_correct": false,
+        "explanation": "Вторая часть конкретизирует общее понятие бедности через параметры измерения."
+      },
+      {
+        "question_id": "6c135848-e4d3-454e-961e-1cf2e8543669",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Качество жизни можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности. Определите вид информации во второй части текста.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "77528914-7213-432f-b903-99f76812d7ed",
+            "type": "TEXT",
+            "payload": {
+              "text": "Качество жизни можно измерить по параметрам: обеспеченность питанием, доход на душу населения, доступность воды и коммунальных услуг, медицинской помощи, уровень грамотности. Определите вид информации во второй части текста."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "30d5ebbf-9832-4fa4-8177-a5939afb8d37",
+            "text": "конкретизирующая",
+            "is_correct": true,
+            "was_chosen": true
+          },
+          {
+            "id": "44a82d4b-a111-4c8d-971a-44da5c12168b",
+            "text": "иллюстрирующая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "f2048d17-e6a5-45c0-86f6-3d77bc982a24",
+            "text": "обобщающая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "3e453296-8956-4164-b575-00e1e57a650b",
+            "text": "резюмирующая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "7de18819-4dec-4cf7-be76-555f4548b62b",
+            "text": "аргументирующая",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "30d5ebbf-9832-4fa4-8177-a5939afb8d37"
+        ],
+        "correct_option_ids": [
+          "30d5ebbf-9832-4fa4-8177-a5939afb8d37"
+        ],
+        "is_correct": true,
+        "explanation": "Вторая часть раскрывает понятие через конкретные параметры, значит информация конкретизирующая."
+      },
+      {
+        "question_id": "448ee741-4502-47b3-b39b-3642bce2597d",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Глобальный продукт имеет хождение по всему миру под одной фирменной маркой. Биг-мак будет иметь один и тот же вкус в Манчестере, Милане и Мельбурне. Определите вид информации во второй части текста.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "8546e185-45dd-4c9d-822d-b5103fd86012",
+            "type": "TEXT",
+            "payload": {
+              "text": "Глобальный продукт имеет хождение по всему миру под одной фирменной маркой. Биг-мак будет иметь один и тот же вкус в Манчестере, Милане и Мельбурне. Определите вид информации во второй части текста."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "dc45d6b7-98c2-4408-9ccf-b2d255dd58f0",
+            "text": "вводная",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "fa98faac-839c-4aea-a724-13bcddd0b2af",
+            "text": "аргументирующая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "4f1ca4d7-0501-408d-a97a-9c52dbba50ff",
+            "text": "резюмирующая",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "a73c290e-6915-43db-ad68-081768569dbe",
+            "text": "детализирующая",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "5ff0c0fe-3434-4e3e-b504-06388924c375",
+            "text": "дублирующая",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "dc45d6b7-98c2-4408-9ccf-b2d255dd58f0"
+        ],
+        "correct_option_ids": [
+          "a73c290e-6915-43db-ad68-081768569dbe"
+        ],
+        "is_correct": false,
+        "explanation": "Вторая часть детализирует мысль о стандартности глобального продукта."
+      },
+      {
+        "question_id": "29f500aa-bc24-4cb7-91be-71779711ec5d",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Аурелио Печчеи писал: к системе Природа — Человек — Общество вошел четвертый потенциально неуправляемый элемент — основанная на науке […]. Вставьте концепт.",
+        "type": "single_choice",
+        "blocks": [
+          {
+            "id": "be7744a1-2b73-419d-9961-8d69ae4de8fd",
+            "type": "TEXT",
+            "payload": {
+              "text": "Аурелио Печчеи писал: к системе Природа — Человек — Общество вошел четвертый потенциально неуправляемый элемент — основанная на науке […]. Вставьте концепт."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c96afdaf-d7d1-4786-9604-ec13cc4ebab8",
+            "text": "Атомная Реакция",
+            "is_correct": false,
+            "was_chosen": true
+          },
+          {
+            "id": "bdd30c23-7a3a-411f-b3df-7628273a9b55",
+            "text": "Либеральная Экономика",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "7b8f6fbb-28c7-4b17-b5fd-2a3c8a95a0b3",
+            "text": "Химическая Промышленность",
+            "is_correct": false,
+            "was_chosen": false
+          },
+          {
+            "id": "2b0a8588-4eda-4ab2-bdc6-491c8726ec2c",
+            "text": "Техника",
+            "is_correct": true,
+            "was_chosen": false
+          },
+          {
+            "id": "1a804cfe-3618-4790-82b2-eb089f84147f",
+            "text": "Атомная Энергетика",
+            "is_correct": false,
+            "was_chosen": false
+          }
+        ],
+        "submitted_ids": [
+          "c96afdaf-d7d1-4786-9604-ec13cc4ebab8"
+        ],
+        "correct_option_ids": [
+          "2b0a8588-4eda-4ab2-bdc6-491c8726ec2c"
+        ],
+        "is_correct": false,
+        "explanation": "Речь идет о технике как новом мощном элементе современной цивилизации. Аурелио Печчеи рассматривал научно-техническое развитие как фактор, который сильно изменил отношения между природой, человеком и обществом. Поэтому наиболее подходящий концепт — «техника». Остальные варианты слишком узкие: атомная энергетика, атомная реакция и химическая промышленность являются только отдельными проявлениями технического развития."
+      }
+    ]
+  }
+}

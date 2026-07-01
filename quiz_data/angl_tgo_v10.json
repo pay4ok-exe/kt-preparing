@@ -1,0 +1,3767 @@
+{
+  "variant_id": "angl_tgo_v10",
+  "title": "Английский + ТГО — Вариант 10",
+  "total_count": 40,
+  "attempt_id": "6f61eede-674d-4223-aeee-f8dc35dc00fb",
+  "questions": [
+    {
+      "question_id": "818337f9-af72-4f19-926c-53d17c5d021f",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is the main topic of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "3c107f98-f190-4380-9581-55bfd4956332",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is the main topic of the audio?"
+          },
+          "position": 1
+        },
+        {
+          "id": "d8df83ed-0a74-48ea-83b3-ce2cd113f7fc",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "f917eaeb-9919-4bc7-b043-e0b5a75da63c",
+          "text": "How to become happier in social situations.",
+          "is_correct": false
+        },
+        {
+          "id": "1c8277f4-2033-474f-95bd-18fda1e06f90",
+          "text": "How to organize a serious work meeting.",
+          "is_correct": false
+        },
+        {
+          "id": "e1aaeeb1-aa69-46ab-a2fd-749bf72396d2",
+          "text": "The meaning and use of the expression “read the room.”",
+          "is_correct": true
+        },
+        {
+          "id": "88a6a7cd-c632-4225-843c-4ef7036edd95",
+          "text": "How to avoid talking about history at dinner.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e1aaeeb1-aa69-46ab-a2fd-749bf72396d2"
+      ]
+    },
+    {
+      "question_id": "1983e487-de19-47fc-851a-fc65b105ff89",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does “to read the room” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "3c5404e6-5b4c-487a-8424-de5950f391c9",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does “to read the room” mean?"
+          },
+          "position": 1
+        },
+        {
+          "id": "1b00ddd3-0ae4-4c6b-81e5-9a428e43481c",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "cc537e0d-28f7-42c8-9f80-a3c2640cf8cc",
+          "text": "To read a book while sitting in a room.",
+          "is_correct": false
+        },
+        {
+          "id": "489aa855-4022-438c-b809-3ffc42a07291",
+          "text": "To ask everyone in a group what they are feeling.",
+          "is_correct": false
+        },
+        {
+          "id": "284ef900-4d60-4718-b51d-76136bbd8abf",
+          "text": "To observe a group and understand its general mood.",
+          "is_correct": true
+        },
+        {
+          "id": "3a43f045-37c7-4013-9bf0-8b6eac38b266",
+          "text": "To change the furniture in a room.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "284ef900-4d60-4718-b51d-76136bbd8abf"
+      ]
+    },
+    {
+      "question_id": "fe8033cc-5078-40ea-bab9-98800ffc3eb9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What are moods? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "22675f73-3d85-413d-8a36-247b4ee3082c",
+          "type": "TEXT",
+          "payload": {
+            "text": "What are moods?"
+          },
+          "position": 1
+        },
+        {
+          "id": "22326b18-4e58-422a-a684-148185927c50",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "18dc81e3-5336-49fb-807c-caf7f031aa93",
+          "text": "Physical places where people meet.",
+          "is_correct": false
+        },
+        {
+          "id": "8047db8d-9acf-4b1c-9bf3-4265c8a177c7",
+          "text": "Emotional states such as happy, sad, angry, or anxious.",
+          "is_correct": true
+        },
+        {
+          "id": "c6c5177b-7059-40e6-9564-bac2066cda95",
+          "text": "Rules for formal meetings.",
+          "is_correct": false
+        },
+        {
+          "id": "e217f02c-ea95-4c41-903e-da3e83c712cb",
+          "text": "Ways to start a conversation.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8047db8d-9acf-4b1c-9bf3-4265c8a177c7"
+      ]
+    },
+    {
+      "question_id": "ec763efc-5129-4fea-8ed8-da1f6066a55b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "According to the audio, who can have a mood? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "77349733-3ce6-4e49-95dd-e6d3eaec7bb0",
+          "type": "TEXT",
+          "payload": {
+            "text": "According to the audio, who can have a mood?"
+          },
+          "position": 1
+        },
+        {
+          "id": "d3691aa2-04be-4cf6-b894-a1c156168e99",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "f6c4b582-808b-428c-87e0-c209c906f8d3",
+          "text": "Only one person.",
+          "is_correct": false
+        },
+        {
+          "id": "d1bf9535-b13e-41f5-8e05-40573b788241",
+          "text": "Only people at work.",
+          "is_correct": false
+        },
+        {
+          "id": "c4965462-8764-4c8b-9935-1723de8d1ac1",
+          "text": "Both individuals and groups of people.",
+          "is_correct": true
+        },
+        {
+          "id": "4d28baa4-e269-43bf-bbb3-1114eafdc1f4",
+          "text": "Only close friends.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c4965462-8764-4c8b-9935-1723de8d1ac1"
+      ]
+    },
+    {
+      "question_id": "8ec3ae51-073d-45ff-a4cb-6cd5e9e383b1",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What should you do if you enter a serious work meeting while feeling silly? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "6bdd246b-8f02-4600-b439-5d7d04b75aa7",
+          "type": "TEXT",
+          "payload": {
+            "text": "What should you do if you enter a serious work meeting while feeling silly?"
+          },
+          "position": 1
+        },
+        {
+          "id": "527e0c8f-c089-4ec7-83ff-c51ff4a3f25a",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "215ede2b-bbdb-44cd-8ecc-4dd3943d5c12",
+          "text": "Continue laughing and making jokes.",
+          "is_correct": false
+        },
+        {
+          "id": "4a3dc424-3d91-4a4f-892c-e71d997be896",
+          "text": "Leave the meeting immediately.",
+          "is_correct": false
+        },
+        {
+          "id": "04464456-aaaa-465d-aadd-8146acace30c",
+          "text": "Read the room and change your behavior.",
+          "is_correct": true
+        },
+        {
+          "id": "8548e4c2-b491-4c04-acbf-5f67746eefb7",
+          "text": "Ask everyone to become less serious.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "04464456-aaaa-465d-aadd-8146acace30c"
+      ]
+    },
+    {
+      "question_id": "d33e6a3a-05e8-4f24-9df4-096276edbcbe",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "When might the speaker wait before bringing up a serious issue with friends? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "aae70bea-e006-4daf-a8e7-58f7ab667d9b",
+          "type": "TEXT",
+          "payload": {
+            "text": "When might the speaker wait before bringing up a serious issue with friends?"
+          },
+          "position": 1
+        },
+        {
+          "id": "1bb96975-ee70-4e68-b5cf-a959d18bc1fe",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "7d895a8a-cec2-4e7a-af73-7d09c9a3d6fb",
+          "text": "When the issue is urgent.",
+          "is_correct": false
+        },
+        {
+          "id": "98ee5001-c99c-43b6-80e9-159d004f48c1",
+          "text": "When everyone is already serious.",
+          "is_correct": false
+        },
+        {
+          "id": "2dc587da-d195-4f5b-ae79-d79d96db4b83",
+          "text": "When everyone is having a good time and the issue is not urgent.",
+          "is_correct": true
+        },
+        {
+          "id": "2963028d-6ca6-4126-9574-8c71dc948bb0",
+          "text": "When nobody knows each other.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2dc587da-d195-4f5b-ae79-d79d96db4b83"
+      ]
+    },
+    {
+      "question_id": "9e9f1a1d-5fac-4bb1-9b55-a3ebbad4c109",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why might someone tell another person to “read the room”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "30a816c7-4d88-409a-a777-3e027bf22011",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why might someone tell another person to “read the room”?"
+          },
+          "position": 1
+        },
+        {
+          "id": "71273b8b-228d-4077-95cc-52e301c06849",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "1a1c5d92-74e4-4449-935a-5e4394160b67",
+          "text": "Because they are reading too slowly.",
+          "is_correct": false
+        },
+        {
+          "id": "dee149ba-9b48-41ca-8031-4528f8bbc9d9",
+          "text": "Because they are too quiet.",
+          "is_correct": false
+        },
+        {
+          "id": "0399565e-3032-43c4-85ae-e31eccc22b5b",
+          "text": "Because they are behaving in a way that does not match the group’s mood.",
+          "is_correct": true
+        },
+        {
+          "id": "d4be8c28-16c9-48c6-915a-036627734856",
+          "text": "Because they forgot to attend a meeting.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0399565e-3032-43c4-85ae-e31eccc22b5b"
+      ]
+    },
+    {
+      "question_id": "fd5587de-e9da-4b21-af1f-f4602fad875d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "How can the phrase “read the room” sound? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "54c72a2f-1d61-4336-9aef-a7bdeda826db",
+          "type": "TEXT",
+          "payload": {
+            "text": "How can the phrase “read the room” sound?"
+          },
+          "position": 1
+        },
+        {
+          "id": "90839bd0-1526-4350-afd1-4ebf27fc0bab",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "917c65e6-031b-437c-aeeb-abc51bd1f355",
+          "text": "Always polite and formal.",
+          "is_correct": false
+        },
+        {
+          "id": "ea0b6935-b6ab-4ab5-8462-e92557b389c8",
+          "text": "Always rude and insulting.",
+          "is_correct": false
+        },
+        {
+          "id": "7f7a4edc-71fc-4966-8ec8-d748caa333fb",
+          "text": "Funny or insulting, depending on the situation and tone.",
+          "is_correct": true
+        },
+        {
+          "id": "c7dffd36-a5bc-468b-a32b-7bfe52178d2c",
+          "text": "Only serious and professional.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7f7a4edc-71fc-4966-8ec8-d748caa333fb"
+      ]
+    },
+    {
+      "question_id": "40d3ae2a-bb64-46d2-89d9-4022fa993aff",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What happens when Betsy brings up a serious topic at the dinner party? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "5e41059d-7906-4e88-aa08-aaec3e9e64f7",
+          "type": "TEXT",
+          "payload": {
+            "text": "What happens when Betsy brings up a serious topic at the dinner party?"
+          },
+          "position": 1
+        },
+        {
+          "id": "f3cffe3f-1f10-4ff3-bc52-9f9a333924e5",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "4c7626a1-ae44-456d-ae46-00ab00873be8",
+          "text": "Everyone laughs more.",
+          "is_correct": false
+        },
+        {
+          "id": "b01b2a46-034f-4544-b6f8-25e209aa4ed3",
+          "text": "The party becomes more exciting.",
+          "is_correct": false
+        },
+        {
+          "id": "ddbb3f28-59be-4627-a49a-bc7a7b236a2c",
+          "text": "The tone changes from happy to serious.",
+          "is_correct": true
+        },
+        {
+          "id": "3ac797e3-b8eb-405b-a3b7-95ca56183e63",
+          "text": "People leave the table immediately.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ddbb3f28-59be-4627-a49a-bc7a7b236a2c"
+      ]
+    },
+    {
+      "question_id": "6309f413-5916-423f-8b51-0f598ffa76d7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What kind of people are good at reading the room? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "blocks": [
+        {
+          "id": "d2f8c4fc-ec77-4726-951e-b3b142c894b0",
+          "type": "TEXT",
+          "payload": {
+            "text": "What kind of people are good at reading the room?"
+          },
+          "position": 1
+        },
+        {
+          "id": "9e31937e-c605-44f6-ad5a-b00da5be477e",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "9c88a56d-3635-4b90-a4eb-a96fc74c482c",
+          "text": "People who always make jokes.",
+          "is_correct": false
+        },
+        {
+          "id": "0f97744e-7f03-41f6-9bfe-d2e058ca68e2",
+          "text": "People who avoid all serious conversations.",
+          "is_correct": false
+        },
+        {
+          "id": "3cc25a10-0b49-47cf-9b35-28c20216c738",
+          "text": "People who are observant and can fit in with the atmosphere, tone, and mood.",
+          "is_correct": true
+        },
+        {
+          "id": "57448497-0f40-488d-9d8a-486f8331a391",
+          "text": "People who speak the loudest in a group.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3cc25a10-0b49-47cf-9b35-28c20216c738"
+      ]
+    },
+    {
+      "question_id": "a3aad6b1-0267-464f-acc5-cbbc978c5d59",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct pronunciation of -ed in “shared”.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "f5cb3a7e-2379-4918-816b-f943d0da1d55",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct pronunciation of -ed in “shared”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3b8b7435-0926-415f-b6a4-eb985406ef84",
+          "text": "/t/",
+          "is_correct": false
+        },
+        {
+          "id": "f20d76b1-b9fa-44e6-b855-34f61b852085",
+          "text": "/d/",
+          "is_correct": true
+        },
+        {
+          "id": "cdd6cf22-7267-447a-91a3-c5e3c612a430",
+          "text": "/ɪd/",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f20d76b1-b9fa-44e6-b855-34f61b852085"
+      ]
+    },
+    {
+      "question_id": "aff84d37-20ea-49b7-a299-c357ec235c86",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Simple Past form of “begin”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "31602d23-6003-4f92-8052-1327ad393317",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Simple Past form of “begin”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "12525833-1c9f-45e5-a605-509064daa988",
+          "text": "beginned",
+          "is_correct": false
+        },
+        {
+          "id": "353f4953-132e-4865-880a-b8b588ce167a",
+          "text": "began",
+          "is_correct": true
+        },
+        {
+          "id": "4307c708-fcaa-4c5d-b225-45e43e41f242",
+          "text": "begun",
+          "is_correct": false
+        },
+        {
+          "id": "8b6eeefc-2c4b-4b8a-b6ba-d6cdb7fc53e5",
+          "text": "beginning",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "353f4953-132e-4865-880a-b8b588ce167a"
+      ]
+    },
+    {
+      "question_id": "49eccb84-d54a-4f28-b23f-4d42b6d81a82",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Simple Past form of “go”.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "29f76382-53f1-404c-a515-c4279ac86d68",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Simple Past form of “go”."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "060ac045-916f-4d09-abcb-ece919021730",
+          "text": "goed",
+          "is_correct": false
+        },
+        {
+          "id": "0d749929-5019-4f01-ac48-3f846cdf08d8",
+          "text": "gone",
+          "is_correct": false
+        },
+        {
+          "id": "9592802a-ee45-4615-b854-1f602b031139",
+          "text": "went",
+          "is_correct": true
+        },
+        {
+          "id": "24179697-08fd-4544-bb0f-2f55ff80fe92",
+          "text": "going",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9592802a-ee45-4615-b854-1f602b031139"
+      ]
+    },
+    {
+      "question_id": "784f8295-9900-4c9d-80a4-f0adca751b83",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Simple Past form: She ... for Harvard.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "a5184190-7191-4c92-b305-116f1f7103b0",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Simple Past form: She ... for Harvard."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "37d4247c-a41f-43d8-bd5a-8e8bcab441d4",
+          "text": "didn’t worked",
+          "is_correct": false
+        },
+        {
+          "id": "d7c99345-0ac5-4c46-baa0-e86e1fe1f823",
+          "text": "didn’t work",
+          "is_correct": true
+        },
+        {
+          "id": "b4a49eba-1b9a-4f53-8709-4029af2eab57",
+          "text": "wasn’t work",
+          "is_correct": false
+        },
+        {
+          "id": "d8e9b2cd-ae01-4e91-9007-7aa46ddec1ae",
+          "text": "didn’t works",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d7c99345-0ac5-4c46-baa0-e86e1fe1f823"
+      ]
+    },
+    {
+      "question_id": "ad97b9bc-abb5-4cd5-b01f-be267cbe4c1a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Complete the sentence with the correct Simple Past form: Women ... meetings with male engineers and scientists.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "e30250b0-a035-4bfd-b8b2-a3c4138b4ce7",
+          "type": "TEXT",
+          "payload": {
+            "text": "Complete the sentence with the correct Simple Past form: Women ... meetings with male engineers and scientists."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5313775b-162c-4f54-b9ae-c6c690ae661e",
+          "text": "didn’t attended",
+          "is_correct": false
+        },
+        {
+          "id": "1d737d4a-b64d-45f3-9c15-c7d205500bbc",
+          "text": "didn’t attend",
+          "is_correct": true
+        },
+        {
+          "id": "de9a7021-5996-4e0a-a207-a63d96faa401",
+          "text": "weren’t attend",
+          "is_correct": false
+        },
+        {
+          "id": "edaba00b-757e-4705-9494-129158c0dbc3",
+          "text": "didn’t attends",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1d737d4a-b64d-45f3-9c15-c7d205500bbc"
+      ]
+    },
+    {
+      "question_id": "ff6c3b1c-80e8-4a94-933c-1a11cff9191b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct yes/no question: The class began early.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "0643e57f-aee9-48f8-96b0-dfca348f5a1c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct yes/no question: The class began early."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "516f104d-efbd-4bb1-8c1f-468edabde185",
+          "text": "Did the class began early?",
+          "is_correct": false
+        },
+        {
+          "id": "e252c91a-6f92-4ba6-aacf-9784e67dbc29",
+          "text": "Did the class begin early?",
+          "is_correct": true
+        },
+        {
+          "id": "06c583b7-aad5-40f9-a874-b16495af7eba",
+          "text": "Was the class begin early?",
+          "is_correct": false
+        },
+        {
+          "id": "e44f711d-64b1-4701-8a51-5d7d34733330",
+          "text": "Were the class began early?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e252c91a-6f92-4ba6-aacf-9784e67dbc29"
+      ]
+    },
+    {
+      "question_id": "9101b7dd-5a8e-4d6d-bdf5-7b4745a10155",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct information question.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "44526c79-e21d-4e3a-9839-b1b8ecc4ef56",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct information question."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "de1c64f9-ab72-475b-a648-78f7569e77af",
+          "text": "When did you woke up this morning?",
+          "is_correct": false
+        },
+        {
+          "id": "d2e430d8-73fb-4e0f-8442-887fef028849",
+          "text": "When did you wake up this morning?",
+          "is_correct": true
+        },
+        {
+          "id": "48b11df7-b3ca-4522-a012-c49f283625b3",
+          "text": "When you woke up this morning?",
+          "is_correct": false
+        },
+        {
+          "id": "7323c15a-223b-4567-8efb-930c5fda3fec",
+          "text": "When were you wake up this morning?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d2e430d8-73fb-4e0f-8442-887fef028849"
+      ]
+    },
+    {
+      "question_id": "6c53db33-4a1b-4c37-ab76-4a4a23822d73",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Change the sentence to the Past Progressive: Ms. Johnson worked on math problems.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6bae1955-5a3d-444d-9dfb-5640b927bfd4",
+          "type": "TEXT",
+          "payload": {
+            "text": "Change the sentence to the Past Progressive: Ms. Johnson worked on math problems."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c7796571-8b03-4afb-84b0-2bdd784786bd",
+          "text": "Ms. Johnson were working on math problems.",
+          "is_correct": false
+        },
+        {
+          "id": "2c18b493-4bb6-4914-9ff5-ce424db6652d",
+          "text": "Ms. Johnson was working on math problems.",
+          "is_correct": true
+        },
+        {
+          "id": "c21f8d34-0836-4054-9310-73854afa7dcf",
+          "text": "Ms. Johnson was worked on math problems.",
+          "is_correct": false
+        },
+        {
+          "id": "8e94c9a2-c2f0-4366-a9b9-3fbcca2abb5e",
+          "text": "Ms. Johnson did working on math problems.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2c18b493-4bb6-4914-9ff5-ce424db6652d"
+      ]
+    },
+    {
+      "question_id": "e436bf34-5ec7-4d8f-8625-67e513974459",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct negative Past Progressive sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c045aa49-7858-42c8-9f8f-def0854d4d1b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct negative Past Progressive sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f6bf1c65-fd71-405f-a6d2-6445d96d54dc",
+          "text": "The men did not relying on her.",
+          "is_correct": false
+        },
+        {
+          "id": "1bd05284-1a39-40a4-b4e5-29ac5f4a6741",
+          "text": "The men was not relying on her.",
+          "is_correct": false
+        },
+        {
+          "id": "baba3b03-df93-48e3-a5f2-f1dd5447574f",
+          "text": "The men were not relying on her.",
+          "is_correct": true
+        },
+        {
+          "id": "a908f31a-4563-4f2c-8541-6b858c6d0d25",
+          "text": "The men were not relied on her.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "baba3b03-df93-48e3-a5f2-f1dd5447574f"
+      ]
+    },
+    {
+      "question_id": "a70e54d7-f78a-429d-af4f-6e453b19cae4",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct Past Progressive yes/no question: Other female mathematicians were doing math problems.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "5d744df4-f33c-4bb2-94a9-0aa25f4c4122",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct Past Progressive yes/no question: Other female mathematicians were doing math problems."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "be95c2dd-8c48-4ea0-9483-3c463437c78f",
+          "text": "Did other female mathematicians doing math problems?",
+          "is_correct": false
+        },
+        {
+          "id": "852757b8-29f4-4b9d-a1b0-9da01fce2c43",
+          "text": "Was other female mathematicians doing math problems?",
+          "is_correct": false
+        },
+        {
+          "id": "e2d87967-7ac4-4993-b2a7-0030b7a8753c",
+          "text": "Were other female mathematicians doing math problems?",
+          "is_correct": true
+        },
+        {
+          "id": "330d664e-9c98-47b1-ba7c-7b42d02da928",
+          "text": "Were other female mathematicians did math problems?",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e2d87967-7ac4-4993-b2a7-0030b7a8753c"
+      ]
+    },
+    {
+      "question_id": "a11804ff-55aa-428e-8a23-03368312df5c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. Earth Hour. Earth Hour is a worldwide campaign held every year. It asks people, companies, and organizations in different countries to turn off unnecessary electric lights at the same time for one hour. The first Earth Hour took place in Australia in 2007, when 2.2 million people in Sydney switched off non-essential lights for sixty minutes. Since that time, the campaign has become a very large international event. In 2013, millions of people in 7,000 cities and towns around the world turned off their lights for one hour near the end of March. Famous landmarks and buildings also join the event every year. Places such as the Sydney Opera House, the Harbour Bridge, the Petronas Towers in Malaysia, the UK Parliament, Buckingham Palace, and the Empire State Building all go dark for Earth Hour. The campaign even reached space in 2011, when astronauts reduced power on the International Space Station. Earth Hour is organized by the World Wide Fund for Nature, or WWF. The idea was created by Andy Ridley, who was originally from Britain and became the executive director of Earth Hour Global. He wanted people to become more aware of environmental problems by doing something positive for the planet. Turning off lights for one hour can reduce energy use a little, but the event is also symbolic. It encourages people to think about climate change. The end of March is close to the spring equinox in the northern hemisphere and the autumn equinox in the southern hemisphere. At this time, sunset happens at similar times in both parts of the world. Because of this, a global “lights out” event is most visually powerful at this period of the year. In 2013, in the UK, the pop group McFly performed live acoustic music without electricity while wearing panda costumes, because the WWF logo is a panda. Famous chefs Gordon Ramsay and Raymond Blanc created special recipes for families to cook and eat by candlelight. Actors and TV personalities, including Kevin McCloud and Miranda Richardson, recorded Rudyard Kipling’s Just So Stories so that families could listen to them by candlelight. Who created the idea of Earth Hour?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8c9c47e9-4675-4323-90df-e6bb084b0184",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. Earth Hour. Earth Hour is a worldwide campaign held every year. It asks people, companies, and organizations in different countries to turn off unnecessary electric lights at the same time for one hour. The first Earth Hour took place in Australia in 2007, when 2.2 million people in Sydney switched off non-essential lights for sixty minutes. Since that time, the campaign has become a very large international event. In 2013, millions of people in 7,000 cities and towns around the world turned off their lights for one hour near the end of March. Famous landmarks and buildings also join the event every year. Places such as the Sydney Opera House, the Harbour Bridge, the Petronas Towers in Malaysia, the UK Parliament, Buckingham Palace, and the Empire State Building all go dark for Earth Hour. The campaign even reached space in 2011, when astronauts reduced power on the International Space Station. Earth Hour is organized by the World Wide Fund for Nature, or WWF. The idea was created by Andy Ridley, who was originally from Britain and became the executive director of Earth Hour Global. He wanted people to become more aware of environmental problems by doing something positive for the planet. Turning off lights for one hour can reduce energy use a little, but the event is also symbolic. It encourages people to think about climate change. The end of March is close to the spring equinox in the northern hemisphere and the autumn equinox in the southern hemisphere. At this time, sunset happens at similar times in both parts of the world. Because of this, a global “lights out” event is most visually powerful at this period of the year. In 2013, in the UK, the pop group McFly performed live acoustic music without electricity while wearing panda costumes, because the WWF logo is a panda. Famous chefs Gordon Ramsay and Raymond Blanc created special recipes for families to cook and eat by candlelight. Actors and TV personalities, including Kevin McCloud and Miranda Richardson, recorded Rudyard Kipling’s Just So Stories so that families could listen to them by candlelight. Who created the idea of Earth Hour?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0cb277bf-1490-4166-b596-344e3e8e10e2",
+          "text": "Andy Ridley",
+          "is_correct": true
+        },
+        {
+          "id": "4fd4347a-9990-4200-b8f9-e43eb1aabc89",
+          "text": "World Wide",
+          "is_correct": false
+        },
+        {
+          "id": "e3857baa-4ef7-46d9-b0b4-9602b69c01fd",
+          "text": "Fund for Nature",
+          "is_correct": false
+        },
+        {
+          "id": "5f07c09e-7c12-4591-ade4-3c453111b86c",
+          "text": "WWF",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0cb277bf-1490-4166-b596-344e3e8e10e2"
+      ]
+    },
+    {
+      "question_id": "bfba326b-b6d7-4189-940c-b65e6739c904",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What kind of global event has the strongest visual effect at the end of March?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "55c71b72-5e71-4a5e-9d03-8b1bffd6ab6a",
+          "type": "TEXT",
+          "payload": {
+            "text": "What kind of global event has the strongest visual effect at the end of March?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bb1b44cc-6541-45f8-ad10-a0bc17b864eb",
+          "text": "a lights out event",
+          "is_correct": true
+        },
+        {
+          "id": "1b190038-5834-459e-988d-f976759ce9ff",
+          "text": "a holiday event",
+          "is_correct": false
+        },
+        {
+          "id": "7ad1bf83-ae15-425f-98a0-803b11455774",
+          "text": "a charity sale",
+          "is_correct": false
+        },
+        {
+          "id": "7db68e5f-c44c-4d66-a8c8-2b0757685a62",
+          "text": "a business campaign",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "bb1b44cc-6541-45f8-ad10-a0bc17b864eb"
+      ]
+    },
+    {
+      "question_id": "518818bd-466e-4658-b3e7-0054cc9a09a5",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "In 2013, millions of people switched off their lights for 60 minutes around the spring and autumn _____.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "29d25371-27c3-453f-a372-43942191570a",
+          "type": "TEXT",
+          "payload": {
+            "text": "In 2013, millions of people switched off their lights for 60 minutes around the spring and autumn _____."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "59eacdae-1afa-4639-afee-3db214c6aa04",
+          "text": "celebration",
+          "is_correct": false
+        },
+        {
+          "id": "0ebfa4c1-8985-4330-95a7-4878f8997ba1",
+          "text": "weekend",
+          "is_correct": false
+        },
+        {
+          "id": "b85cc1f4-b9ab-4eec-8f94-18d5d7d0855e",
+          "text": "festival",
+          "is_correct": false
+        },
+        {
+          "id": "5da0bea5-c092-40f9-9c17-b629c4a67936",
+          "text": "equinox",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "5da0bea5-c092-40f9-9c17-b629c4a67936"
+      ]
+    },
+    {
+      "question_id": "186e5d71-c442-4725-b875-afd9e23d3e95",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Where did Earth Hour first begin in 2007?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f60c0a57-8b13-4ec3-ab20-914f578e7522",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where did Earth Hour first begin in 2007?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6f78adb1-213e-484e-a16d-36b83402714c",
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "id": "61bee5e5-eec1-4f49-a955-1f5a8d0d0fd8",
+          "text": "Britain",
+          "is_correct": false
+        },
+        {
+          "id": "644799a5-0272-48ab-a7f0-bc6576efc9e6",
+          "text": "Sydney",
+          "is_correct": true
+        },
+        {
+          "id": "14384cfa-044e-4fad-9eca-9355449d9972",
+          "text": "Malaysia",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "644799a5-0272-48ab-a7f0-bc6576efc9e6"
+      ]
+    },
+    {
+      "question_id": "fdb32335-99be-45b9-b114-3c53564e10db",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "In which country did McFly perform without electricity in 2013?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f9182c15-3ea6-4d3b-a055-c37101af5302",
+          "type": "TEXT",
+          "payload": {
+            "text": "In which country did McFly perform without electricity in 2013?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cb57ede9-5b5e-45e0-b5b4-91ecf0f78ad8",
+          "text": "Great Britain",
+          "is_correct": true
+        },
+        {
+          "id": "7e8ee88b-b6fc-4cd8-b17c-990d292bb0b5",
+          "text": "Sydney",
+          "is_correct": false
+        },
+        {
+          "id": "b5c22e0a-5098-4a48-900e-8eacd81764a9",
+          "text": "Malaysia",
+          "is_correct": false
+        },
+        {
+          "id": "a179aa4e-8f56-41ab-844e-b8210f102d87",
+          "text": "the USA",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "cb57ede9-5b5e-45e0-b5b4-91ecf0f78ad8"
+      ]
+    },
+    {
+      "question_id": "2a26f900-ccee-464a-acf6-bc6e595791ed",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Gordon Ramsay and Raymond Blanc are described as what kind of chefs?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "806b2b9f-2085-421b-baf0-c09d399db163",
+          "type": "TEXT",
+          "payload": {
+            "text": "Gordon Ramsay and Raymond Blanc are described as what kind of chefs?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6cdd419d-d687-4466-bbe4-a9317a9a9fa6",
+          "text": "ordinary",
+          "is_correct": false
+        },
+        {
+          "id": "770811e1-06dd-4528-9164-333428d78439",
+          "text": "unknown",
+          "is_correct": false
+        },
+        {
+          "id": "514e73c6-20c9-4f5b-84d4-215323bd7bc0",
+          "text": "famous",
+          "is_correct": true
+        },
+        {
+          "id": "d70ae22b-fa40-413d-8817-8a0d2d5533ec",
+          "text": "astronaut",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "514e73c6-20c9-4f5b-84d4-215323bd7bc0"
+      ]
+    },
+    {
+      "question_id": "08694ab3-693a-4619-b706-bf53c66e6f4e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "In what year was Earth Hour introduced in Australia?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "007c5b6a-0ec4-441a-9324-fec3b3a41f6f",
+          "type": "TEXT",
+          "payload": {
+            "text": "In what year was Earth Hour introduced in Australia?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "72204a6e-41ea-4096-943f-34812f56ac29",
+          "text": "2007",
+          "is_correct": true
+        },
+        {
+          "id": "1de35656-a7d1-4ff6-b2c4-71c1d3eab48c",
+          "text": "2013",
+          "is_correct": false
+        },
+        {
+          "id": "e01ae0ea-1d4e-49c1-b56b-b68d1c1f7ac6",
+          "text": "2011",
+          "is_correct": false
+        },
+        {
+          "id": "4e01889f-d1dc-451a-b963-5b64303bf5bd",
+          "text": "2008",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "72204a6e-41ea-4096-943f-34812f56ac29"
+      ]
+    },
+    {
+      "question_id": "14e41264-aab3-4fc9-ae92-52e6f46df96b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Earth Hour asks people to switch off electricity for one _____.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c997bee2-896d-41de-b86a-426833423c0f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Earth Hour asks people to switch off electricity for one _____."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bc073793-0779-42bb-9f82-4bd8463f418e",
+          "text": "week",
+          "is_correct": false
+        },
+        {
+          "id": "1a4945ac-3927-460c-9f8d-243fe51b161c",
+          "text": "day",
+          "is_correct": false
+        },
+        {
+          "id": "e1dad0d7-07da-4211-aa03-a08a4be9b1e4",
+          "text": "hour",
+          "is_correct": true
+        },
+        {
+          "id": "64477483-05c7-44eb-be83-4ea704d832a0",
+          "text": "year",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e1dad0d7-07da-4211-aa03-a08a4be9b1e4"
+      ]
+    },
+    {
+      "question_id": "ea3c11bd-630d-409f-ba86-34f8b3f6bec2",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which organization runs Earth Hour?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "64ef02f9-f6c8-4118-86bf-b0541d7572dc",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which organization runs Earth Hour?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "b7d5aa28-b473-4dcc-8e41-83bebc941ecb",
+          "text": "NASA",
+          "is_correct": false
+        },
+        {
+          "id": "f2479773-e678-4cf8-8e80-8154dc58f8e9",
+          "text": "the World Wide Fund for Nature",
+          "is_correct": true
+        },
+        {
+          "id": "b2381a4d-82dd-4c79-b334-1e42ed834899",
+          "text": "the UK Parliament",
+          "is_correct": false
+        },
+        {
+          "id": "b811176b-0c0d-478c-963d-417f06ac991d",
+          "text": "Buckingham Palace",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f2479773-e678-4cf8-8e80-8154dc58f8e9"
+      ]
+    },
+    {
+      "question_id": "68cac95c-f81f-4648-ba07-422ee4e65cdd",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Why did Andy Ridley want to start Earth Hour?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "663e6925-eb9b-424d-909f-5c493b5c7ed1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why did Andy Ridley want to start Earth Hour?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7a245ae8-54d3-420a-9e2c-a5cd483c796b",
+          "text": "to organize a music concert",
+          "is_correct": false
+        },
+        {
+          "id": "fab15762-a6d1-4977-b74f-aa21f254c623",
+          "text": "to make people travel to Australia",
+          "is_correct": false
+        },
+        {
+          "id": "a7f20017-d72b-4021-a665-046d213cbe3d",
+          "text": "to build new famous landmarks",
+          "is_correct": false
+        },
+        {
+          "id": "85e1d0ba-50cf-4690-992e-935ec4f3d25f",
+          "text": "to raise awareness of environmental problems",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "85e1d0ba-50cf-4690-992e-935ec4f3d25f"
+      ]
+    },
+    {
+      "question_id": "8c34fda0-1afa-41a3-b032-16054a6468bd",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Выберите верное определение этапа «выражение, элоквенция».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "756bbb7e-430f-43bf-8a62-3ff7dc561df2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Выберите верное определение этапа «выражение, элоквенция»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "86d7e5b2-eb3b-4a13-bae3-0bf917cb3c5b",
+          "text": "расположение отобранного материала",
+          "is_correct": false
+        },
+        {
+          "id": "7b127dcd-8b15-4089-92a0-0c6bbcd79a61",
+          "text": "словесное выражение отобранного и скомпонованного материала",
+          "is_correct": true
+        },
+        {
+          "id": "7c4acb0f-c3d0-476e-a2e2-8948d68884db",
+          "text": "запоминание основных положений текста речи",
+          "is_correct": false
+        },
+        {
+          "id": "e8af8e38-102c-4213-a461-f32373a0c33f",
+          "text": "отбор содержания из источников для будущего выступления",
+          "is_correct": false
+        },
+        {
+          "id": "c8396545-f0f4-428d-8b6a-0411ad397798",
+          "text": "авторское разыгрывание речи на публике",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7b127dcd-8b15-4089-92a0-0c6bbcd79a61"
+      ]
+    },
+    {
+      "question_id": "fe522a19-d55d-4a51-b7ec-f7404ce900c4",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Выберите верное определение этапа «акцио».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "1444bcd9-8542-4380-b257-e2a7ae2df9f2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Выберите верное определение этапа «акцио»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "9e97b855-98bb-4d1c-ab73-bdbd734a3e33",
+          "text": "запоминание основных положений текста речи",
+          "is_correct": false
+        },
+        {
+          "id": "1296be3a-19f6-45c5-a070-52137b6f3e7d",
+          "text": "авторское разыгрывание речи на публике",
+          "is_correct": true
+        },
+        {
+          "id": "a8c3fb15-5397-4893-8037-4c670a33c80b",
+          "text": "расположение отобранного материала",
+          "is_correct": false
+        },
+        {
+          "id": "3325e02e-a5da-46ca-a921-a4c888fc7bf4",
+          "text": "отбор содержания из источников для будущего выступления",
+          "is_correct": false
+        },
+        {
+          "id": "a43da3fd-229b-4c8a-8b73-00be2cc24688",
+          "text": "словесное выражение отобранного и скомпонованного материала",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1296be3a-19f6-45c5-a070-52137b6f3e7d"
+      ]
+    },
+    {
+      "question_id": "fa513346-6b84-4df1-8586-3426ac48f125",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Лао-цзы писал: «В одном колесе тридцать спиц, но пользуются колесницей из-за пустоты между ними... Вот это польза бытия и небытия». Определите, какой прием использовал китайский мудрец.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "fe58a5c8-2af5-4f51-87bd-c0be84cb098c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Лао-цзы писал: «В одном колесе тридцать спиц, но пользуются колесницей из-за пустоты между ними... Вот это польза бытия и небытия». Определите, какой прием использовал китайский мудрец."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7b7c0aaf-e51d-4e59-b4b1-b5e901fdfdd7",
+          "text": "метафора",
+          "is_correct": false
+        },
+        {
+          "id": "e39ce9eb-9955-4cde-8e0e-9525e44209c3",
+          "text": "антонимия",
+          "is_correct": false
+        },
+        {
+          "id": "40997fbd-778e-4ec5-af77-a9806806858d",
+          "text": "парадокс",
+          "is_correct": true
+        },
+        {
+          "id": "7e82b616-c253-4d99-9809-814feadb4ab1",
+          "text": "синонимия",
+          "is_correct": false
+        },
+        {
+          "id": "f64ec254-8ee0-465e-b0cd-7148b10a2f1d",
+          "text": "метаморфоза",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "40997fbd-778e-4ec5-af77-a9806806858d"
+      ]
+    },
+    {
+      "question_id": "def396a6-3f13-4d96-81c9-5d1cf2e21fb0",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "О чем еще говорит Хайдеггер, помимо контраста смыслов в двух вариантах имени собственного «Рейн»?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8a99bda2-385a-4224-b586-5ba758b2ef35",
+          "type": "TEXT",
+          "payload": {
+            "text": "О чем еще говорит Хайдеггер, помимо контраста смыслов в двух вариантах имени собственного «Рейн»?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "c094cefd-5a57-4dea-9c77-dbbe9a969499",
+          "text": "О наличии экологической проблемы на Рейне",
+          "is_correct": false
+        },
+        {
+          "id": "5c081f35-95f8-438a-b65b-fb8892a3529c",
+          "text": "О том, что невозможно отличать смыслы названий",
+          "is_correct": false
+        },
+        {
+          "id": "a981fece-d96b-4bba-91e7-a4afc0ecca51",
+          "text": "О том, что электроэнергетика может погубить природу",
+          "is_correct": false
+        },
+        {
+          "id": "99b06ffd-95c3-4414-b006-5c537fd57622",
+          "text": "О сущности техники как сугубо производственном процессе",
+          "is_correct": true
+        },
+        {
+          "id": "511e725a-7255-4e2b-bcd6-4d35743b03f8",
+          "text": "О различии эмоциональных переживаний при виде реки",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "99b06ffd-95c3-4414-b006-5c537fd57622"
+      ]
+    },
+    {
+      "question_id": "700284f7-dc58-479f-af05-1e839072f165",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Один философ сказал: «Человек проклят быть свободным...», другой утверждал: «Сизифа надо представлять себе счастливым... Сизиф свободен». Сравните суждения и укажите, что мировоззренчески общего между их авторами.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5e120efa-de44-4eee-97c3-bfea04fcf20e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Один философ сказал: «Человек проклят быть свободным...», другой утверждал: «Сизифа надо представлять себе счастливым... Сизиф свободен». Сравните суждения и укажите, что мировоззренчески общего между их авторами."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4025f560-b901-4793-aba2-68d505de8ab9",
+          "text": "оба, вероятно, знают античную историю",
+          "is_correct": false
+        },
+        {
+          "id": "096e73df-73db-42dc-8704-a153aae8a41f",
+          "text": "оба — философствующие люди",
+          "is_correct": false
+        },
+        {
+          "id": "e9f0dc7d-e8bc-4217-97af-e6ed518e107b",
+          "text": "оба писали о свободе",
+          "is_correct": false
+        },
+        {
+          "id": "2319e485-8a4d-415e-936e-9bd63f944d2b",
+          "text": "оба — экзистенциалисты",
+          "is_correct": true
+        },
+        {
+          "id": "add6563e-cded-45e3-8878-80a98e9283d7",
+          "text": "оба — известные авторы",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2319e485-8a4d-415e-936e-9bd63f944d2b"
+      ]
+    },
+    {
+      "question_id": "6149d3e0-dc30-4f61-8ebc-82b76c6cfaf1",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "АВСЕ шаршысының қабырғасы 4 см, ал оның ауданы CED үшбұрышының \nауданына тең. D нүктесінен а түзуіне дейінгі қашықтық [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/80f2e0f3-6958-48a8-be08-067a2bbf2a50.png]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b7cb62eb-9ba8-43ae-bc3d-5e4865006e38",
+          "type": "TEXT",
+          "payload": {
+            "text": "АВСЕ шаршысының қабырғасы 4 см, ал оның ауданы CED үшбұрышының \nауданына тең. D нүктесінен а түзуіне дейінгі қашықтық"
+          },
+          "position": 1
+        },
+        {
+          "id": "ddd9f301-5e2b-47d1-aaab-05f054d79e5b",
+          "type": "IMAGE",
+          "payload": {
+            "url": "media/ea8d79d8811b4f1eb06cfd3839d08ead.png",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/80f2e0f3-6958-48a8-be08-067a2bbf2a50.png"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "16e53362-74d3-4f66-aef5-f8ec1d797ad3",
+          "text": "10 см",
+          "is_correct": false
+        },
+        {
+          "id": "a46e8770-8dea-4ba8-a466-215d4a2216d6",
+          "text": "13 см",
+          "is_correct": false
+        },
+        {
+          "id": "fd6671f2-ee6d-4eee-97ed-619ef7224978",
+          "text": "11 см",
+          "is_correct": false
+        },
+        {
+          "id": "3073cf01-265b-46e0-baab-1d0c7eebdc6b",
+          "text": "14 см",
+          "is_correct": false
+        },
+        {
+          "id": "1dffa78c-b5e8-46a5-8a1a-757b3f7e21e1",
+          "text": "12 см",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "1dffa78c-b5e8-46a5-8a1a-757b3f7e21e1"
+      ]
+    },
+    {
+      "question_id": "eeff37b3-d62b-4cdf-8226-7b8fa4cfe450",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "-2 ≤ (1 - 4x) / 3 ≤ 6 болса, x-тің бола алатын ең үлкен бүтін мәні:",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "77e157ab-8c0b-4f4b-b9fe-55bd0b56cfef",
+          "type": "TEXT",
+          "payload": {
+            "text": "-2 ≤ (1 - 4x) / 3 ≤ 6 болса, x-тің бола алатын ең үлкен бүтін мәні:"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0a4c60ed-a8a6-41d6-85db-1309f9dbc844",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "id": "a461bddd-f505-42dc-8420-b28e050744aa",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "id": "3821ec79-03aa-4672-8a39-8972db6ec015",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "id": "ba49f82a-2455-4664-b469-f1bd72e8f563",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "id": "4e5c2147-1392-44f9-8a3f-057198f457a0",
+          "text": "-1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ba49f82a-2455-4664-b469-f1bd72e8f563"
+      ]
+    },
+    {
+      "question_id": "83ef4881-b36f-47ad-94a7-88ee2a089c88",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "√2, 4 2/3, √9, 25⁰ сандарының ішіндегі ең кішісін табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6d06b366-77ab-4c66-9632-4258bb9d77db",
+          "type": "TEXT",
+          "payload": {
+            "text": "√2, 4 2/3, √9, 25⁰ сандарының ішіндегі ең кішісін табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "499e7270-0655-4032-b221-6890c42cd737",
+          "text": "4 2/3",
+          "is_correct": false
+        },
+        {
+          "id": "c05b69a1-58fc-4f8b-af6d-2cc4470169b2",
+          "text": "√9",
+          "is_correct": false
+        },
+        {
+          "id": "6a50fcb2-5885-4ea0-a353-1bab54d1af22",
+          "text": "25⁰",
+          "is_correct": true
+        },
+        {
+          "id": "f3d63509-0f0e-4ac1-953e-638f35a437b8",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "0da2bdc0-b7ea-4450-bff3-5aa7e15124c8",
+          "text": "√2",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6a50fcb2-5885-4ea0-a353-1bab54d1af22"
+      ]
+    },
+    {
+      "question_id": "9b3247c6-59e4-4d3c-a061-1043e82e3225",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Вставьте пропущенное слово: «Используя сверхпроводящие кабели, можно получать поля колоссальной [...]».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "47493011-0467-43f1-92a8-79117e0ea6cd",
+          "type": "TEXT",
+          "payload": {
+            "text": "Вставьте пропущенное слово: «Используя сверхпроводящие кабели, можно получать поля колоссальной [...]»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "694068a5-ba6d-4c3a-8fbd-38fb9c054cf6",
+          "text": "напряженности",
+          "is_correct": true
+        },
+        {
+          "id": "6ca45220-1681-4c64-b93f-642209869ff3",
+          "text": "занятости",
+          "is_correct": false
+        },
+        {
+          "id": "d874124e-b1c5-4544-b7ed-f13196b0b8a0",
+          "text": "значимости",
+          "is_correct": false
+        },
+        {
+          "id": "356dd3fc-4bd8-43a6-86ba-5c69c1e6896d",
+          "text": "величины",
+          "is_correct": false
+        },
+        {
+          "id": "cd59a480-5343-4eae-b52f-3a0f899d9ab3",
+          "text": "пропорции",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "694068a5-ba6d-4c3a-8fbd-38fb9c054cf6"
+      ]
+    },
+    {
+      "question_id": "94d113a4-ebd1-49cb-9dde-c4747160993c",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Вставьте пропущенное слово: «Чем меньше знаешь, тем меньше [...]; чем меньше открыл, тем меньше видишь, что остается открыть».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7107f386-41fa-4112-9ece-02bc15ae6ff6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Вставьте пропущенное слово: «Чем меньше знаешь, тем меньше [...]; чем меньше открыл, тем меньше видишь, что остается открыть»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "59d68607-776e-44e4-b8c7-c7032bab1008",
+          "text": "сомневаешься",
+          "is_correct": true
+        },
+        {
+          "id": "8666e2dc-9bfc-40c3-a057-f177c5823275",
+          "text": "решаешь",
+          "is_correct": false
+        },
+        {
+          "id": "1eaa52e6-c52b-4490-89ec-ab760dfaea1f",
+          "text": "получаешь",
+          "is_correct": false
+        },
+        {
+          "id": "9a578c05-f154-40a7-891b-f8411e771c93",
+          "text": "изучаешь",
+          "is_correct": false
+        },
+        {
+          "id": "f155d1f0-1c98-4935-b416-ed31050775bf",
+          "text": "исследуешь",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "59d68607-776e-44e4-b8c7-c7032bab1008"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 15,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "818337f9-af72-4f19-926c-53d17c5d021f",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is the main topic of the audio? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "3c107f98-f190-4380-9581-55bfd4956332",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is the main topic of the audio?"
+            },
+            "position": 1
+          },
+          {
+            "id": "d8df83ed-0a74-48ea-83b3-ce2cd113f7fc",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "f917eaeb-9919-4bc7-b043-e0b5a75da63c",
+            "text": "How to become happier in social situations.",
+            "is_correct": false
+          },
+          {
+            "id": "1c8277f4-2033-474f-95bd-18fda1e06f90",
+            "text": "How to organize a serious work meeting.",
+            "is_correct": false
+          },
+          {
+            "id": "e1aaeeb1-aa69-46ab-a2fd-749bf72396d2",
+            "text": "The meaning and use of the expression “read the room.”",
+            "is_correct": true
+          },
+          {
+            "id": "88a6a7cd-c632-4225-843c-4ef7036edd95",
+            "text": "How to avoid talking about history at dinner.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e1aaeeb1-aa69-46ab-a2fd-749bf72396d2"
+        ]
+      },
+      {
+        "question_id": "1983e487-de19-47fc-851a-fc65b105ff89",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does “to read the room” mean? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "3c5404e6-5b4c-487a-8424-de5950f391c9",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does “to read the room” mean?"
+            },
+            "position": 1
+          },
+          {
+            "id": "1b00ddd3-0ae4-4c6b-81e5-9a428e43481c",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "cc537e0d-28f7-42c8-9f80-a3c2640cf8cc",
+            "text": "To read a book while sitting in a room.",
+            "is_correct": false
+          },
+          {
+            "id": "489aa855-4022-438c-b809-3ffc42a07291",
+            "text": "To ask everyone in a group what they are feeling.",
+            "is_correct": false
+          },
+          {
+            "id": "284ef900-4d60-4718-b51d-76136bbd8abf",
+            "text": "To observe a group and understand its general mood.",
+            "is_correct": true
+          },
+          {
+            "id": "3a43f045-37c7-4013-9bf0-8b6eac38b266",
+            "text": "To change the furniture in a room.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "284ef900-4d60-4718-b51d-76136bbd8abf"
+        ]
+      },
+      {
+        "question_id": "fe8033cc-5078-40ea-bab9-98800ffc3eb9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What are moods? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "22675f73-3d85-413d-8a36-247b4ee3082c",
+            "type": "TEXT",
+            "payload": {
+              "text": "What are moods?"
+            },
+            "position": 1
+          },
+          {
+            "id": "22326b18-4e58-422a-a684-148185927c50",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "18dc81e3-5336-49fb-807c-caf7f031aa93",
+            "text": "Physical places where people meet.",
+            "is_correct": false
+          },
+          {
+            "id": "8047db8d-9acf-4b1c-9bf3-4265c8a177c7",
+            "text": "Emotional states such as happy, sad, angry, or anxious.",
+            "is_correct": true
+          },
+          {
+            "id": "c6c5177b-7059-40e6-9564-bac2066cda95",
+            "text": "Rules for formal meetings.",
+            "is_correct": false
+          },
+          {
+            "id": "e217f02c-ea95-4c41-903e-da3e83c712cb",
+            "text": "Ways to start a conversation.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8047db8d-9acf-4b1c-9bf3-4265c8a177c7"
+        ]
+      },
+      {
+        "question_id": "ec763efc-5129-4fea-8ed8-da1f6066a55b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "According to the audio, who can have a mood? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "77349733-3ce6-4e49-95dd-e6d3eaec7bb0",
+            "type": "TEXT",
+            "payload": {
+              "text": "According to the audio, who can have a mood?"
+            },
+            "position": 1
+          },
+          {
+            "id": "d3691aa2-04be-4cf6-b894-a1c156168e99",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "f6c4b582-808b-428c-87e0-c209c906f8d3",
+            "text": "Only one person.",
+            "is_correct": false
+          },
+          {
+            "id": "d1bf9535-b13e-41f5-8e05-40573b788241",
+            "text": "Only people at work.",
+            "is_correct": false
+          },
+          {
+            "id": "c4965462-8764-4c8b-9935-1723de8d1ac1",
+            "text": "Both individuals and groups of people.",
+            "is_correct": true
+          },
+          {
+            "id": "4d28baa4-e269-43bf-bbb3-1114eafdc1f4",
+            "text": "Only close friends.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c4965462-8764-4c8b-9935-1723de8d1ac1"
+        ]
+      },
+      {
+        "question_id": "8ec3ae51-073d-45ff-a4cb-6cd5e9e383b1",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What should you do if you enter a serious work meeting while feeling silly? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "6bdd246b-8f02-4600-b439-5d7d04b75aa7",
+            "type": "TEXT",
+            "payload": {
+              "text": "What should you do if you enter a serious work meeting while feeling silly?"
+            },
+            "position": 1
+          },
+          {
+            "id": "527e0c8f-c089-4ec7-83ff-c51ff4a3f25a",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "215ede2b-bbdb-44cd-8ecc-4dd3943d5c12",
+            "text": "Continue laughing and making jokes.",
+            "is_correct": false
+          },
+          {
+            "id": "4a3dc424-3d91-4a4f-892c-e71d997be896",
+            "text": "Leave the meeting immediately.",
+            "is_correct": false
+          },
+          {
+            "id": "04464456-aaaa-465d-aadd-8146acace30c",
+            "text": "Read the room and change your behavior.",
+            "is_correct": true
+          },
+          {
+            "id": "8548e4c2-b491-4c04-acbf-5f67746eefb7",
+            "text": "Ask everyone to become less serious.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "04464456-aaaa-465d-aadd-8146acace30c"
+        ]
+      },
+      {
+        "question_id": "d33e6a3a-05e8-4f24-9df4-096276edbcbe",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "When might the speaker wait before bringing up a serious issue with friends? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "aae70bea-e006-4daf-a8e7-58f7ab667d9b",
+            "type": "TEXT",
+            "payload": {
+              "text": "When might the speaker wait before bringing up a serious issue with friends?"
+            },
+            "position": 1
+          },
+          {
+            "id": "1bb96975-ee70-4e68-b5cf-a959d18bc1fe",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "7d895a8a-cec2-4e7a-af73-7d09c9a3d6fb",
+            "text": "When the issue is urgent.",
+            "is_correct": false
+          },
+          {
+            "id": "98ee5001-c99c-43b6-80e9-159d004f48c1",
+            "text": "When everyone is already serious.",
+            "is_correct": false
+          },
+          {
+            "id": "2dc587da-d195-4f5b-ae79-d79d96db4b83",
+            "text": "When everyone is having a good time and the issue is not urgent.",
+            "is_correct": true
+          },
+          {
+            "id": "2963028d-6ca6-4126-9574-8c71dc948bb0",
+            "text": "When nobody knows each other.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2dc587da-d195-4f5b-ae79-d79d96db4b83"
+        ]
+      },
+      {
+        "question_id": "9e9f1a1d-5fac-4bb1-9b55-a3ebbad4c109",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why might someone tell another person to “read the room”? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "30a816c7-4d88-409a-a777-3e027bf22011",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why might someone tell another person to “read the room”?"
+            },
+            "position": 1
+          },
+          {
+            "id": "71273b8b-228d-4077-95cc-52e301c06849",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "1a1c5d92-74e4-4449-935a-5e4394160b67",
+            "text": "Because they are reading too slowly.",
+            "is_correct": false
+          },
+          {
+            "id": "dee149ba-9b48-41ca-8031-4528f8bbc9d9",
+            "text": "Because they are too quiet.",
+            "is_correct": false
+          },
+          {
+            "id": "0399565e-3032-43c4-85ae-e31eccc22b5b",
+            "text": "Because they are behaving in a way that does not match the group’s mood.",
+            "is_correct": true
+          },
+          {
+            "id": "d4be8c28-16c9-48c6-915a-036627734856",
+            "text": "Because they forgot to attend a meeting.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0399565e-3032-43c4-85ae-e31eccc22b5b"
+        ]
+      },
+      {
+        "question_id": "fd5587de-e9da-4b21-af1f-f4602fad875d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "How can the phrase “read the room” sound? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "54c72a2f-1d61-4336-9aef-a7bdeda826db",
+            "type": "TEXT",
+            "payload": {
+              "text": "How can the phrase “read the room” sound?"
+            },
+            "position": 1
+          },
+          {
+            "id": "90839bd0-1526-4350-afd1-4ebf27fc0bab",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "917c65e6-031b-437c-aeeb-abc51bd1f355",
+            "text": "Always polite and formal.",
+            "is_correct": false
+          },
+          {
+            "id": "ea0b6935-b6ab-4ab5-8462-e92557b389c8",
+            "text": "Always rude and insulting.",
+            "is_correct": false
+          },
+          {
+            "id": "7f7a4edc-71fc-4966-8ec8-d748caa333fb",
+            "text": "Funny or insulting, depending on the situation and tone.",
+            "is_correct": true
+          },
+          {
+            "id": "c7dffd36-a5bc-468b-a32b-7bfe52178d2c",
+            "text": "Only serious and professional.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7f7a4edc-71fc-4966-8ec8-d748caa333fb"
+        ]
+      },
+      {
+        "question_id": "40d3ae2a-bb64-46d2-89d9-4022fa993aff",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What happens when Betsy brings up a serious topic at the dinner party? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "5e41059d-7906-4e88-aa08-aaec3e9e64f7",
+            "type": "TEXT",
+            "payload": {
+              "text": "What happens when Betsy brings up a serious topic at the dinner party?"
+            },
+            "position": 1
+          },
+          {
+            "id": "f3cffe3f-1f10-4ff3-bc52-9f9a333924e5",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "4c7626a1-ae44-456d-ae46-00ab00873be8",
+            "text": "Everyone laughs more.",
+            "is_correct": false
+          },
+          {
+            "id": "b01b2a46-034f-4544-b6f8-25e209aa4ed3",
+            "text": "The party becomes more exciting.",
+            "is_correct": false
+          },
+          {
+            "id": "ddbb3f28-59be-4627-a49a-bc7a7b236a2c",
+            "text": "The tone changes from happy to serious.",
+            "is_correct": true
+          },
+          {
+            "id": "3ac797e3-b8eb-405b-a3b7-95ca56183e63",
+            "text": "People leave the table immediately.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ddbb3f28-59be-4627-a49a-bc7a7b236a2c"
+        ]
+      },
+      {
+        "question_id": "6309f413-5916-423f-8b51-0f598ffa76d7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What kind of people are good at reading the room? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3]",
+        "type": "single_choice",
+        "difficulty": "hard",
+        "blocks": [
+          {
+            "id": "d2f8c4fc-ec77-4726-951e-b3b142c894b0",
+            "type": "TEXT",
+            "payload": {
+              "text": "What kind of people are good at reading the room?"
+            },
+            "position": 1
+          },
+          {
+            "id": "9e31937e-c605-44f6-ad5a-b00da5be477e",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/ebb586ce7f594867b552a2c3a345160b.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/10dc0a45-95d1-41e2-bc6e-0a7e3c0be1d0.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "9c88a56d-3635-4b90-a4eb-a96fc74c482c",
+            "text": "People who always make jokes.",
+            "is_correct": false
+          },
+          {
+            "id": "0f97744e-7f03-41f6-9bfe-d2e058ca68e2",
+            "text": "People who avoid all serious conversations.",
+            "is_correct": false
+          },
+          {
+            "id": "3cc25a10-0b49-47cf-9b35-28c20216c738",
+            "text": "People who are observant and can fit in with the atmosphere, tone, and mood.",
+            "is_correct": true
+          },
+          {
+            "id": "57448497-0f40-488d-9d8a-486f8331a391",
+            "text": "People who speak the loudest in a group.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3cc25a10-0b49-47cf-9b35-28c20216c738"
+        ]
+      },
+      {
+        "question_id": "a3aad6b1-0267-464f-acc5-cbbc978c5d59",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct pronunciation of -ed in “shared”.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "f5cb3a7e-2379-4918-816b-f943d0da1d55",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct pronunciation of -ed in “shared”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3b8b7435-0926-415f-b6a4-eb985406ef84",
+            "text": "/t/",
+            "is_correct": false
+          },
+          {
+            "id": "f20d76b1-b9fa-44e6-b855-34f61b852085",
+            "text": "/d/",
+            "is_correct": true
+          },
+          {
+            "id": "cdd6cf22-7267-447a-91a3-c5e3c612a430",
+            "text": "/ɪd/",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f20d76b1-b9fa-44e6-b855-34f61b852085"
+        ]
+      },
+      {
+        "question_id": "aff84d37-20ea-49b7-a299-c357ec235c86",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Simple Past form of “begin”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "31602d23-6003-4f92-8052-1327ad393317",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Simple Past form of “begin”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "12525833-1c9f-45e5-a605-509064daa988",
+            "text": "beginned",
+            "is_correct": false
+          },
+          {
+            "id": "353f4953-132e-4865-880a-b8b588ce167a",
+            "text": "began",
+            "is_correct": true
+          },
+          {
+            "id": "4307c708-fcaa-4c5d-b225-45e43e41f242",
+            "text": "begun",
+            "is_correct": false
+          },
+          {
+            "id": "8b6eeefc-2c4b-4b8a-b6ba-d6cdb7fc53e5",
+            "text": "beginning",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "353f4953-132e-4865-880a-b8b588ce167a"
+        ]
+      },
+      {
+        "question_id": "49eccb84-d54a-4f28-b23f-4d42b6d81a82",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Simple Past form of “go”.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "29f76382-53f1-404c-a515-c4279ac86d68",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Simple Past form of “go”."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "060ac045-916f-4d09-abcb-ece919021730",
+            "text": "goed",
+            "is_correct": false
+          },
+          {
+            "id": "0d749929-5019-4f01-ac48-3f846cdf08d8",
+            "text": "gone",
+            "is_correct": false
+          },
+          {
+            "id": "9592802a-ee45-4615-b854-1f602b031139",
+            "text": "went",
+            "is_correct": true
+          },
+          {
+            "id": "24179697-08fd-4544-bb0f-2f55ff80fe92",
+            "text": "going",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9592802a-ee45-4615-b854-1f602b031139"
+        ]
+      },
+      {
+        "question_id": "784f8295-9900-4c9d-80a4-f0adca751b83",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Simple Past form: She ... for Harvard.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "a5184190-7191-4c92-b305-116f1f7103b0",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Simple Past form: She ... for Harvard."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "37d4247c-a41f-43d8-bd5a-8e8bcab441d4",
+            "text": "didn’t worked",
+            "is_correct": false
+          },
+          {
+            "id": "d7c99345-0ac5-4c46-baa0-e86e1fe1f823",
+            "text": "didn’t work",
+            "is_correct": true
+          },
+          {
+            "id": "b4a49eba-1b9a-4f53-8709-4029af2eab57",
+            "text": "wasn’t work",
+            "is_correct": false
+          },
+          {
+            "id": "d8e9b2cd-ae01-4e91-9007-7aa46ddec1ae",
+            "text": "didn’t works",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d7c99345-0ac5-4c46-baa0-e86e1fe1f823"
+        ]
+      },
+      {
+        "question_id": "ad97b9bc-abb5-4cd5-b01f-be267cbe4c1a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Complete the sentence with the correct Simple Past form: Women ... meetings with male engineers and scientists.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "e30250b0-a035-4bfd-b8b2-a3c4138b4ce7",
+            "type": "TEXT",
+            "payload": {
+              "text": "Complete the sentence with the correct Simple Past form: Women ... meetings with male engineers and scientists."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5313775b-162c-4f54-b9ae-c6c690ae661e",
+            "text": "didn’t attended",
+            "is_correct": false
+          },
+          {
+            "id": "1d737d4a-b64d-45f3-9c15-c7d205500bbc",
+            "text": "didn’t attend",
+            "is_correct": true
+          },
+          {
+            "id": "de9a7021-5996-4e0a-a207-a63d96faa401",
+            "text": "weren’t attend",
+            "is_correct": false
+          },
+          {
+            "id": "edaba00b-757e-4705-9494-129158c0dbc3",
+            "text": "didn’t attends",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1d737d4a-b64d-45f3-9c15-c7d205500bbc"
+        ]
+      },
+      {
+        "question_id": "ff6c3b1c-80e8-4a94-933c-1a11cff9191b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct yes/no question: The class began early.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "0643e57f-aee9-48f8-96b0-dfca348f5a1c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct yes/no question: The class began early."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "516f104d-efbd-4bb1-8c1f-468edabde185",
+            "text": "Did the class began early?",
+            "is_correct": false
+          },
+          {
+            "id": "e252c91a-6f92-4ba6-aacf-9784e67dbc29",
+            "text": "Did the class begin early?",
+            "is_correct": true
+          },
+          {
+            "id": "06c583b7-aad5-40f9-a874-b16495af7eba",
+            "text": "Was the class begin early?",
+            "is_correct": false
+          },
+          {
+            "id": "e44f711d-64b1-4701-8a51-5d7d34733330",
+            "text": "Were the class began early?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e252c91a-6f92-4ba6-aacf-9784e67dbc29"
+        ]
+      },
+      {
+        "question_id": "9101b7dd-5a8e-4d6d-bdf5-7b4745a10155",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct information question.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "44526c79-e21d-4e3a-9839-b1b8ecc4ef56",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct information question."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "de1c64f9-ab72-475b-a648-78f7569e77af",
+            "text": "When did you woke up this morning?",
+            "is_correct": false
+          },
+          {
+            "id": "d2e430d8-73fb-4e0f-8442-887fef028849",
+            "text": "When did you wake up this morning?",
+            "is_correct": true
+          },
+          {
+            "id": "48b11df7-b3ca-4522-a012-c49f283625b3",
+            "text": "When you woke up this morning?",
+            "is_correct": false
+          },
+          {
+            "id": "7323c15a-223b-4567-8efb-930c5fda3fec",
+            "text": "When were you wake up this morning?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d2e430d8-73fb-4e0f-8442-887fef028849"
+        ]
+      },
+      {
+        "question_id": "6c53db33-4a1b-4c37-ab76-4a4a23822d73",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Change the sentence to the Past Progressive: Ms. Johnson worked on math problems.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6bae1955-5a3d-444d-9dfb-5640b927bfd4",
+            "type": "TEXT",
+            "payload": {
+              "text": "Change the sentence to the Past Progressive: Ms. Johnson worked on math problems."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c7796571-8b03-4afb-84b0-2bdd784786bd",
+            "text": "Ms. Johnson were working on math problems.",
+            "is_correct": false
+          },
+          {
+            "id": "2c18b493-4bb6-4914-9ff5-ce424db6652d",
+            "text": "Ms. Johnson was working on math problems.",
+            "is_correct": true
+          },
+          {
+            "id": "c21f8d34-0836-4054-9310-73854afa7dcf",
+            "text": "Ms. Johnson was worked on math problems.",
+            "is_correct": false
+          },
+          {
+            "id": "8e94c9a2-c2f0-4366-a9b9-3fbcca2abb5e",
+            "text": "Ms. Johnson did working on math problems.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2c18b493-4bb6-4914-9ff5-ce424db6652d"
+        ]
+      },
+      {
+        "question_id": "e436bf34-5ec7-4d8f-8625-67e513974459",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct negative Past Progressive sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c045aa49-7858-42c8-9f8f-def0854d4d1b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct negative Past Progressive sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f6bf1c65-fd71-405f-a6d2-6445d96d54dc",
+            "text": "The men did not relying on her.",
+            "is_correct": false
+          },
+          {
+            "id": "1bd05284-1a39-40a4-b4e5-29ac5f4a6741",
+            "text": "The men was not relying on her.",
+            "is_correct": false
+          },
+          {
+            "id": "baba3b03-df93-48e3-a5f2-f1dd5447574f",
+            "text": "The men were not relying on her.",
+            "is_correct": true
+          },
+          {
+            "id": "a908f31a-4563-4f2c-8541-6b858c6d0d25",
+            "text": "The men were not relied on her.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "baba3b03-df93-48e3-a5f2-f1dd5447574f"
+        ]
+      },
+      {
+        "question_id": "a70e54d7-f78a-429d-af4f-6e453b19cae4",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct Past Progressive yes/no question: Other female mathematicians were doing math problems.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "5d744df4-f33c-4bb2-94a9-0aa25f4c4122",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct Past Progressive yes/no question: Other female mathematicians were doing math problems."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "be95c2dd-8c48-4ea0-9483-3c463437c78f",
+            "text": "Did other female mathematicians doing math problems?",
+            "is_correct": false
+          },
+          {
+            "id": "852757b8-29f4-4b9d-a1b0-9da01fce2c43",
+            "text": "Was other female mathematicians doing math problems?",
+            "is_correct": false
+          },
+          {
+            "id": "e2d87967-7ac4-4993-b2a7-0030b7a8753c",
+            "text": "Were other female mathematicians doing math problems?",
+            "is_correct": true
+          },
+          {
+            "id": "330d664e-9c98-47b1-ba7c-7b42d02da928",
+            "text": "Were other female mathematicians did math problems?",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e2d87967-7ac4-4993-b2a7-0030b7a8753c"
+        ]
+      },
+      {
+        "question_id": "a11804ff-55aa-428e-8a23-03368312df5c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. Earth Hour. Earth Hour is a worldwide campaign held every year. It asks people, companies, and organizations in different countries to turn off unnecessary electric lights at the same time for one hour. The first Earth Hour took place in Australia in 2007, when 2.2 million people in Sydney switched off non-essential lights for sixty minutes. Since that time, the campaign has become a very large international event. In 2013, millions of people in 7,000 cities and towns around the world turned off their lights for one hour near the end of March. Famous landmarks and buildings also join the event every year. Places such as the Sydney Opera House, the Harbour Bridge, the Petronas Towers in Malaysia, the UK Parliament, Buckingham Palace, and the Empire State Building all go dark for Earth Hour. The campaign even reached space in 2011, when astronauts reduced power on the International Space Station. Earth Hour is organized by the World Wide Fund for Nature, or WWF. The idea was created by Andy Ridley, who was originally from Britain and became the executive director of Earth Hour Global. He wanted people to become more aware of environmental problems by doing something positive for the planet. Turning off lights for one hour can reduce energy use a little, but the event is also symbolic. It encourages people to think about climate change. The end of March is close to the spring equinox in the northern hemisphere and the autumn equinox in the southern hemisphere. At this time, sunset happens at similar times in both parts of the world. Because of this, a global “lights out” event is most visually powerful at this period of the year. In 2013, in the UK, the pop group McFly performed live acoustic music without electricity while wearing panda costumes, because the WWF logo is a panda. Famous chefs Gordon Ramsay and Raymond Blanc created special recipes for families to cook and eat by candlelight. Actors and TV personalities, including Kevin McCloud and Miranda Richardson, recorded Rudyard Kipling’s Just So Stories so that families could listen to them by candlelight. Who created the idea of Earth Hour?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "8c9c47e9-4675-4323-90df-e6bb084b0184",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. Earth Hour. Earth Hour is a worldwide campaign held every year. It asks people, companies, and organizations in different countries to turn off unnecessary electric lights at the same time for one hour. The first Earth Hour took place in Australia in 2007, when 2.2 million people in Sydney switched off non-essential lights for sixty minutes. Since that time, the campaign has become a very large international event. In 2013, millions of people in 7,000 cities and towns around the world turned off their lights for one hour near the end of March. Famous landmarks and buildings also join the event every year. Places such as the Sydney Opera House, the Harbour Bridge, the Petronas Towers in Malaysia, the UK Parliament, Buckingham Palace, and the Empire State Building all go dark for Earth Hour. The campaign even reached space in 2011, when astronauts reduced power on the International Space Station. Earth Hour is organized by the World Wide Fund for Nature, or WWF. The idea was created by Andy Ridley, who was originally from Britain and became the executive director of Earth Hour Global. He wanted people to become more aware of environmental problems by doing something positive for the planet. Turning off lights for one hour can reduce energy use a little, but the event is also symbolic. It encourages people to think about climate change. The end of March is close to the spring equinox in the northern hemisphere and the autumn equinox in the southern hemisphere. At this time, sunset happens at similar times in both parts of the world. Because of this, a global “lights out” event is most visually powerful at this period of the year. In 2013, in the UK, the pop group McFly performed live acoustic music without electricity while wearing panda costumes, because the WWF logo is a panda. Famous chefs Gordon Ramsay and Raymond Blanc created special recipes for families to cook and eat by candlelight. Actors and TV personalities, including Kevin McCloud and Miranda Richardson, recorded Rudyard Kipling’s Just So Stories so that families could listen to them by candlelight. Who created the idea of Earth Hour?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0cb277bf-1490-4166-b596-344e3e8e10e2",
+            "text": "Andy Ridley",
+            "is_correct": true
+          },
+          {
+            "id": "4fd4347a-9990-4200-b8f9-e43eb1aabc89",
+            "text": "World Wide",
+            "is_correct": false
+          },
+          {
+            "id": "e3857baa-4ef7-46d9-b0b4-9602b69c01fd",
+            "text": "Fund for Nature",
+            "is_correct": false
+          },
+          {
+            "id": "5f07c09e-7c12-4591-ade4-3c453111b86c",
+            "text": "WWF",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0cb277bf-1490-4166-b596-344e3e8e10e2"
+        ]
+      },
+      {
+        "question_id": "bfba326b-b6d7-4189-940c-b65e6739c904",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What kind of global event has the strongest visual effect at the end of March?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "55c71b72-5e71-4a5e-9d03-8b1bffd6ab6a",
+            "type": "TEXT",
+            "payload": {
+              "text": "What kind of global event has the strongest visual effect at the end of March?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bb1b44cc-6541-45f8-ad10-a0bc17b864eb",
+            "text": "a lights out event",
+            "is_correct": true
+          },
+          {
+            "id": "1b190038-5834-459e-988d-f976759ce9ff",
+            "text": "a holiday event",
+            "is_correct": false
+          },
+          {
+            "id": "7ad1bf83-ae15-425f-98a0-803b11455774",
+            "text": "a charity sale",
+            "is_correct": false
+          },
+          {
+            "id": "7db68e5f-c44c-4d66-a8c8-2b0757685a62",
+            "text": "a business campaign",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "bb1b44cc-6541-45f8-ad10-a0bc17b864eb"
+        ]
+      },
+      {
+        "question_id": "518818bd-466e-4658-b3e7-0054cc9a09a5",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "In 2013, millions of people switched off their lights for 60 minutes around the spring and autumn _____.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "29d25371-27c3-453f-a372-43942191570a",
+            "type": "TEXT",
+            "payload": {
+              "text": "In 2013, millions of people switched off their lights for 60 minutes around the spring and autumn _____."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "59eacdae-1afa-4639-afee-3db214c6aa04",
+            "text": "celebration",
+            "is_correct": false
+          },
+          {
+            "id": "0ebfa4c1-8985-4330-95a7-4878f8997ba1",
+            "text": "weekend",
+            "is_correct": false
+          },
+          {
+            "id": "b85cc1f4-b9ab-4eec-8f94-18d5d7d0855e",
+            "text": "festival",
+            "is_correct": false
+          },
+          {
+            "id": "5da0bea5-c092-40f9-9c17-b629c4a67936",
+            "text": "equinox",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "5da0bea5-c092-40f9-9c17-b629c4a67936"
+        ]
+      },
+      {
+        "question_id": "186e5d71-c442-4725-b875-afd9e23d3e95",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Where did Earth Hour first begin in 2007?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f60c0a57-8b13-4ec3-ab20-914f578e7522",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where did Earth Hour first begin in 2007?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6f78adb1-213e-484e-a16d-36b83402714c",
+            "text": "London",
+            "is_correct": false
+          },
+          {
+            "id": "61bee5e5-eec1-4f49-a955-1f5a8d0d0fd8",
+            "text": "Britain",
+            "is_correct": false
+          },
+          {
+            "id": "644799a5-0272-48ab-a7f0-bc6576efc9e6",
+            "text": "Sydney",
+            "is_correct": true
+          },
+          {
+            "id": "14384cfa-044e-4fad-9eca-9355449d9972",
+            "text": "Malaysia",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "644799a5-0272-48ab-a7f0-bc6576efc9e6"
+        ]
+      },
+      {
+        "question_id": "fdb32335-99be-45b9-b114-3c53564e10db",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "In which country did McFly perform without electricity in 2013?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f9182c15-3ea6-4d3b-a055-c37101af5302",
+            "type": "TEXT",
+            "payload": {
+              "text": "In which country did McFly perform without electricity in 2013?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cb57ede9-5b5e-45e0-b5b4-91ecf0f78ad8",
+            "text": "Great Britain",
+            "is_correct": true
+          },
+          {
+            "id": "7e8ee88b-b6fc-4cd8-b17c-990d292bb0b5",
+            "text": "Sydney",
+            "is_correct": false
+          },
+          {
+            "id": "b5c22e0a-5098-4a48-900e-8eacd81764a9",
+            "text": "Malaysia",
+            "is_correct": false
+          },
+          {
+            "id": "a179aa4e-8f56-41ab-844e-b8210f102d87",
+            "text": "the USA",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "cb57ede9-5b5e-45e0-b5b4-91ecf0f78ad8"
+        ]
+      },
+      {
+        "question_id": "2a26f900-ccee-464a-acf6-bc6e595791ed",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Gordon Ramsay and Raymond Blanc are described as what kind of chefs?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "806b2b9f-2085-421b-baf0-c09d399db163",
+            "type": "TEXT",
+            "payload": {
+              "text": "Gordon Ramsay and Raymond Blanc are described as what kind of chefs?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6cdd419d-d687-4466-bbe4-a9317a9a9fa6",
+            "text": "ordinary",
+            "is_correct": false
+          },
+          {
+            "id": "770811e1-06dd-4528-9164-333428d78439",
+            "text": "unknown",
+            "is_correct": false
+          },
+          {
+            "id": "514e73c6-20c9-4f5b-84d4-215323bd7bc0",
+            "text": "famous",
+            "is_correct": true
+          },
+          {
+            "id": "d70ae22b-fa40-413d-8817-8a0d2d5533ec",
+            "text": "astronaut",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "514e73c6-20c9-4f5b-84d4-215323bd7bc0"
+        ]
+      },
+      {
+        "question_id": "08694ab3-693a-4619-b706-bf53c66e6f4e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "In what year was Earth Hour introduced in Australia?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "007c5b6a-0ec4-441a-9324-fec3b3a41f6f",
+            "type": "TEXT",
+            "payload": {
+              "text": "In what year was Earth Hour introduced in Australia?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "72204a6e-41ea-4096-943f-34812f56ac29",
+            "text": "2007",
+            "is_correct": true
+          },
+          {
+            "id": "1de35656-a7d1-4ff6-b2c4-71c1d3eab48c",
+            "text": "2013",
+            "is_correct": false
+          },
+          {
+            "id": "e01ae0ea-1d4e-49c1-b56b-b68d1c1f7ac6",
+            "text": "2011",
+            "is_correct": false
+          },
+          {
+            "id": "4e01889f-d1dc-451a-b963-5b64303bf5bd",
+            "text": "2008",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "72204a6e-41ea-4096-943f-34812f56ac29"
+        ]
+      },
+      {
+        "question_id": "14e41264-aab3-4fc9-ae92-52e6f46df96b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Earth Hour asks people to switch off electricity for one _____.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c997bee2-896d-41de-b86a-426833423c0f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Earth Hour asks people to switch off electricity for one _____."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bc073793-0779-42bb-9f82-4bd8463f418e",
+            "text": "week",
+            "is_correct": false
+          },
+          {
+            "id": "1a4945ac-3927-460c-9f8d-243fe51b161c",
+            "text": "day",
+            "is_correct": false
+          },
+          {
+            "id": "e1dad0d7-07da-4211-aa03-a08a4be9b1e4",
+            "text": "hour",
+            "is_correct": true
+          },
+          {
+            "id": "64477483-05c7-44eb-be83-4ea704d832a0",
+            "text": "year",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e1dad0d7-07da-4211-aa03-a08a4be9b1e4"
+        ]
+      },
+      {
+        "question_id": "ea3c11bd-630d-409f-ba86-34f8b3f6bec2",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which organization runs Earth Hour?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "64ef02f9-f6c8-4118-86bf-b0541d7572dc",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which organization runs Earth Hour?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "b7d5aa28-b473-4dcc-8e41-83bebc941ecb",
+            "text": "NASA",
+            "is_correct": false
+          },
+          {
+            "id": "f2479773-e678-4cf8-8e80-8154dc58f8e9",
+            "text": "the World Wide Fund for Nature",
+            "is_correct": true
+          },
+          {
+            "id": "b2381a4d-82dd-4c79-b334-1e42ed834899",
+            "text": "the UK Parliament",
+            "is_correct": false
+          },
+          {
+            "id": "b811176b-0c0d-478c-963d-417f06ac991d",
+            "text": "Buckingham Palace",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f2479773-e678-4cf8-8e80-8154dc58f8e9"
+        ]
+      },
+      {
+        "question_id": "68cac95c-f81f-4648-ba07-422ee4e65cdd",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Why did Andy Ridley want to start Earth Hour?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "663e6925-eb9b-424d-909f-5c493b5c7ed1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why did Andy Ridley want to start Earth Hour?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7a245ae8-54d3-420a-9e2c-a5cd483c796b",
+            "text": "to organize a music concert",
+            "is_correct": false
+          },
+          {
+            "id": "fab15762-a6d1-4977-b74f-aa21f254c623",
+            "text": "to make people travel to Australia",
+            "is_correct": false
+          },
+          {
+            "id": "a7f20017-d72b-4021-a665-046d213cbe3d",
+            "text": "to build new famous landmarks",
+            "is_correct": false
+          },
+          {
+            "id": "85e1d0ba-50cf-4690-992e-935ec4f3d25f",
+            "text": "to raise awareness of environmental problems",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "85e1d0ba-50cf-4690-992e-935ec4f3d25f"
+        ]
+      },
+      {
+        "question_id": "8c34fda0-1afa-41a3-b032-16054a6468bd",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Выберите верное определение этапа «выражение, элоквенция».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "756bbb7e-430f-43bf-8a62-3ff7dc561df2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Выберите верное определение этапа «выражение, элоквенция»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "86d7e5b2-eb3b-4a13-bae3-0bf917cb3c5b",
+            "text": "расположение отобранного материала",
+            "is_correct": false
+          },
+          {
+            "id": "7b127dcd-8b15-4089-92a0-0c6bbcd79a61",
+            "text": "словесное выражение отобранного и скомпонованного материала",
+            "is_correct": true
+          },
+          {
+            "id": "7c4acb0f-c3d0-476e-a2e2-8948d68884db",
+            "text": "запоминание основных положений текста речи",
+            "is_correct": false
+          },
+          {
+            "id": "e8af8e38-102c-4213-a461-f32373a0c33f",
+            "text": "отбор содержания из источников для будущего выступления",
+            "is_correct": false
+          },
+          {
+            "id": "c8396545-f0f4-428d-8b6a-0411ad397798",
+            "text": "авторское разыгрывание речи на публике",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7b127dcd-8b15-4089-92a0-0c6bbcd79a61"
+        ]
+      },
+      {
+        "question_id": "fe522a19-d55d-4a51-b7ec-f7404ce900c4",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Выберите верное определение этапа «акцио».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "1444bcd9-8542-4380-b257-e2a7ae2df9f2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Выберите верное определение этапа «акцио»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "9e97b855-98bb-4d1c-ab73-bdbd734a3e33",
+            "text": "запоминание основных положений текста речи",
+            "is_correct": false
+          },
+          {
+            "id": "1296be3a-19f6-45c5-a070-52137b6f3e7d",
+            "text": "авторское разыгрывание речи на публике",
+            "is_correct": true
+          },
+          {
+            "id": "a8c3fb15-5397-4893-8037-4c670a33c80b",
+            "text": "расположение отобранного материала",
+            "is_correct": false
+          },
+          {
+            "id": "3325e02e-a5da-46ca-a921-a4c888fc7bf4",
+            "text": "отбор содержания из источников для будущего выступления",
+            "is_correct": false
+          },
+          {
+            "id": "a43da3fd-229b-4c8a-8b73-00be2cc24688",
+            "text": "словесное выражение отобранного и скомпонованного материала",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1296be3a-19f6-45c5-a070-52137b6f3e7d"
+        ]
+      },
+      {
+        "question_id": "fa513346-6b84-4df1-8586-3426ac48f125",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Лао-цзы писал: «В одном колесе тридцать спиц, но пользуются колесницей из-за пустоты между ними... Вот это польза бытия и небытия». Определите, какой прием использовал китайский мудрец.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "fe58a5c8-2af5-4f51-87bd-c0be84cb098c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Лао-цзы писал: «В одном колесе тридцать спиц, но пользуются колесницей из-за пустоты между ними... Вот это польза бытия и небытия». Определите, какой прием использовал китайский мудрец."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7b7c0aaf-e51d-4e59-b4b1-b5e901fdfdd7",
+            "text": "метафора",
+            "is_correct": false
+          },
+          {
+            "id": "e39ce9eb-9955-4cde-8e0e-9525e44209c3",
+            "text": "антонимия",
+            "is_correct": false
+          },
+          {
+            "id": "40997fbd-778e-4ec5-af77-a9806806858d",
+            "text": "парадокс",
+            "is_correct": true
+          },
+          {
+            "id": "7e82b616-c253-4d99-9809-814feadb4ab1",
+            "text": "синонимия",
+            "is_correct": false
+          },
+          {
+            "id": "f64ec254-8ee0-465e-b0cd-7148b10a2f1d",
+            "text": "метаморфоза",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "40997fbd-778e-4ec5-af77-a9806806858d"
+        ]
+      },
+      {
+        "question_id": "def396a6-3f13-4d96-81c9-5d1cf2e21fb0",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "О чем еще говорит Хайдеггер, помимо контраста смыслов в двух вариантах имени собственного «Рейн»?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "8a99bda2-385a-4224-b586-5ba758b2ef35",
+            "type": "TEXT",
+            "payload": {
+              "text": "О чем еще говорит Хайдеггер, помимо контраста смыслов в двух вариантах имени собственного «Рейн»?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "c094cefd-5a57-4dea-9c77-dbbe9a969499",
+            "text": "О наличии экологической проблемы на Рейне",
+            "is_correct": false
+          },
+          {
+            "id": "5c081f35-95f8-438a-b65b-fb8892a3529c",
+            "text": "О том, что невозможно отличать смыслы названий",
+            "is_correct": false
+          },
+          {
+            "id": "a981fece-d96b-4bba-91e7-a4afc0ecca51",
+            "text": "О том, что электроэнергетика может погубить природу",
+            "is_correct": false
+          },
+          {
+            "id": "99b06ffd-95c3-4414-b006-5c537fd57622",
+            "text": "О сущности техники как сугубо производственном процессе",
+            "is_correct": true
+          },
+          {
+            "id": "511e725a-7255-4e2b-bcd6-4d35743b03f8",
+            "text": "О различии эмоциональных переживаний при виде реки",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "99b06ffd-95c3-4414-b006-5c537fd57622"
+        ]
+      },
+      {
+        "question_id": "700284f7-dc58-479f-af05-1e839072f165",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Один философ сказал: «Человек проклят быть свободным...», другой утверждал: «Сизифа надо представлять себе счастливым... Сизиф свободен». Сравните суждения и укажите, что мировоззренчески общего между их авторами.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5e120efa-de44-4eee-97c3-bfea04fcf20e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Один философ сказал: «Человек проклят быть свободным...», другой утверждал: «Сизифа надо представлять себе счастливым... Сизиф свободен». Сравните суждения и укажите, что мировоззренчески общего между их авторами."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4025f560-b901-4793-aba2-68d505de8ab9",
+            "text": "оба, вероятно, знают античную историю",
+            "is_correct": false
+          },
+          {
+            "id": "096e73df-73db-42dc-8704-a153aae8a41f",
+            "text": "оба — философствующие люди",
+            "is_correct": false
+          },
+          {
+            "id": "e9f0dc7d-e8bc-4217-97af-e6ed518e107b",
+            "text": "оба писали о свободе",
+            "is_correct": false
+          },
+          {
+            "id": "2319e485-8a4d-415e-936e-9bd63f944d2b",
+            "text": "оба — экзистенциалисты",
+            "is_correct": true
+          },
+          {
+            "id": "add6563e-cded-45e3-8878-80a98e9283d7",
+            "text": "оба — известные авторы",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2319e485-8a4d-415e-936e-9bd63f944d2b"
+        ]
+      },
+      {
+        "question_id": "6149d3e0-dc30-4f61-8ebc-82b76c6cfaf1",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "АВСЕ шаршысының қабырғасы 4 см, ал оның ауданы CED үшбұрышының \nауданына тең. D нүктесінен а түзуіне дейінгі қашықтық [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/80f2e0f3-6958-48a8-be08-067a2bbf2a50.png]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b7cb62eb-9ba8-43ae-bc3d-5e4865006e38",
+            "type": "TEXT",
+            "payload": {
+              "text": "АВСЕ шаршысының қабырғасы 4 см, ал оның ауданы CED үшбұрышының \nауданына тең. D нүктесінен а түзуіне дейінгі қашықтық"
+            },
+            "position": 1
+          },
+          {
+            "id": "ddd9f301-5e2b-47d1-aaab-05f054d79e5b",
+            "type": "IMAGE",
+            "payload": {
+              "url": "media/ea8d79d8811b4f1eb06cfd3839d08ead.png",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/80f2e0f3-6958-48a8-be08-067a2bbf2a50.png"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "16e53362-74d3-4f66-aef5-f8ec1d797ad3",
+            "text": "10 см",
+            "is_correct": false
+          },
+          {
+            "id": "a46e8770-8dea-4ba8-a466-215d4a2216d6",
+            "text": "13 см",
+            "is_correct": false
+          },
+          {
+            "id": "fd6671f2-ee6d-4eee-97ed-619ef7224978",
+            "text": "11 см",
+            "is_correct": false
+          },
+          {
+            "id": "3073cf01-265b-46e0-baab-1d0c7eebdc6b",
+            "text": "14 см",
+            "is_correct": false
+          },
+          {
+            "id": "1dffa78c-b5e8-46a5-8a1a-757b3f7e21e1",
+            "text": "12 см",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "1dffa78c-b5e8-46a5-8a1a-757b3f7e21e1"
+        ]
+      },
+      {
+        "question_id": "eeff37b3-d62b-4cdf-8226-7b8fa4cfe450",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "-2 ≤ (1 - 4x) / 3 ≤ 6 болса, x-тің бола алатын ең үлкен бүтін мәні:",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "77e157ab-8c0b-4f4b-b9fe-55bd0b56cfef",
+            "type": "TEXT",
+            "payload": {
+              "text": "-2 ≤ (1 - 4x) / 3 ≤ 6 болса, x-тің бола алатын ең үлкен бүтін мәні:"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0a4c60ed-a8a6-41d6-85db-1309f9dbc844",
+            "text": "0",
+            "is_correct": false
+          },
+          {
+            "id": "a461bddd-f505-42dc-8420-b28e050744aa",
+            "text": "-4",
+            "is_correct": false
+          },
+          {
+            "id": "3821ec79-03aa-4672-8a39-8972db6ec015",
+            "text": "2",
+            "is_correct": false
+          },
+          {
+            "id": "ba49f82a-2455-4664-b469-f1bd72e8f563",
+            "text": "1",
+            "is_correct": true
+          },
+          {
+            "id": "4e5c2147-1392-44f9-8a3f-057198f457a0",
+            "text": "-1",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ba49f82a-2455-4664-b469-f1bd72e8f563"
+        ]
+      },
+      {
+        "question_id": "83ef4881-b36f-47ad-94a7-88ee2a089c88",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "√2, 4 2/3, √9, 25⁰ сандарының ішіндегі ең кішісін табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6d06b366-77ab-4c66-9632-4258bb9d77db",
+            "type": "TEXT",
+            "payload": {
+              "text": "√2, 4 2/3, √9, 25⁰ сандарының ішіндегі ең кішісін табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "499e7270-0655-4032-b221-6890c42cd737",
+            "text": "4 2/3",
+            "is_correct": false
+          },
+          {
+            "id": "c05b69a1-58fc-4f8b-af6d-2cc4470169b2",
+            "text": "√9",
+            "is_correct": false
+          },
+          {
+            "id": "6a50fcb2-5885-4ea0-a353-1bab54d1af22",
+            "text": "25⁰",
+            "is_correct": true
+          },
+          {
+            "id": "f3d63509-0f0e-4ac1-953e-638f35a437b8",
+            "text": "5",
+            "is_correct": false
+          },
+          {
+            "id": "0da2bdc0-b7ea-4450-bff3-5aa7e15124c8",
+            "text": "√2",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6a50fcb2-5885-4ea0-a353-1bab54d1af22"
+        ]
+      },
+      {
+        "question_id": "9b3247c6-59e4-4d3c-a061-1043e82e3225",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Вставьте пропущенное слово: «Используя сверхпроводящие кабели, можно получать поля колоссальной [...]».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "47493011-0467-43f1-92a8-79117e0ea6cd",
+            "type": "TEXT",
+            "payload": {
+              "text": "Вставьте пропущенное слово: «Используя сверхпроводящие кабели, можно получать поля колоссальной [...]»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "694068a5-ba6d-4c3a-8fbd-38fb9c054cf6",
+            "text": "напряженности",
+            "is_correct": true
+          },
+          {
+            "id": "6ca45220-1681-4c64-b93f-642209869ff3",
+            "text": "занятости",
+            "is_correct": false
+          },
+          {
+            "id": "d874124e-b1c5-4544-b7ed-f13196b0b8a0",
+            "text": "значимости",
+            "is_correct": false
+          },
+          {
+            "id": "356dd3fc-4bd8-43a6-86ba-5c69c1e6896d",
+            "text": "величины",
+            "is_correct": false
+          },
+          {
+            "id": "cd59a480-5343-4eae-b52f-3a0f899d9ab3",
+            "text": "пропорции",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "694068a5-ba6d-4c3a-8fbd-38fb9c054cf6"
+        ]
+      },
+      {
+        "question_id": "94d113a4-ebd1-49cb-9dde-c4747160993c",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Вставьте пропущенное слово: «Чем меньше знаешь, тем меньше [...]; чем меньше открыл, тем меньше видишь, что остается открыть».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7107f386-41fa-4112-9ece-02bc15ae6ff6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Вставьте пропущенное слово: «Чем меньше знаешь, тем меньше [...]; чем меньше открыл, тем меньше видишь, что остается открыть»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "59d68607-776e-44e4-b8c7-c7032bab1008",
+            "text": "сомневаешься",
+            "is_correct": true
+          },
+          {
+            "id": "8666e2dc-9bfc-40c3-a057-f177c5823275",
+            "text": "решаешь",
+            "is_correct": false
+          },
+          {
+            "id": "1eaa52e6-c52b-4490-89ec-ab760dfaea1f",
+            "text": "получаешь",
+            "is_correct": false
+          },
+          {
+            "id": "9a578c05-f154-40a7-891b-f8411e771c93",
+            "text": "изучаешь",
+            "is_correct": false
+          },
+          {
+            "id": "f155d1f0-1c98-4935-b416-ed31050775bf",
+            "text": "исследуешь",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "59d68607-776e-44e4-b8c7-c7032bab1008"
+        ]
+      }
+    ]
+  }
+}

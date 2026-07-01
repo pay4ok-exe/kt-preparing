@@ -1,0 +1,3767 @@
+{
+  "variant_id": "angl_tgo_v07",
+  "title": "Английский + ТГО — Вариант 7",
+  "total_count": 40,
+  "attempt_id": "77e53397-cb1b-4626-95c8-d802403e7e56",
+  "questions": [
+    {
+      "question_id": "db3d6f30-b39f-4445-8d51-9d996292df16",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why are Anna and Penelope taking a tour today? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7f4efae6-edd7-40c1-a64c-2b4f0396c61e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why are Anna and Penelope taking a tour today?"
+          },
+          "position": 1
+        },
+        {
+          "id": "cee511b7-d96b-4a41-b440-935d184eba27",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "34d36d39-344f-4356-945a-c2e421e0e883",
+          "text": "Penelope is leaving town on a boat.",
+          "is_correct": false
+        },
+        {
+          "id": "beda3016-65d9-4d00-86f5-765c84bde645",
+          "text": "Anna is visiting the city for the first time.",
+          "is_correct": false
+        },
+        {
+          "id": "2872c03e-c6a0-4d71-bed3-188096ca77be",
+          "text": "Penelope is new to the city and a tour is the best way to see it.",
+          "is_correct": true
+        },
+        {
+          "id": "04947fb8-e5fe-46d6-aa85-515231a80ab5",
+          "text": "Anna is leaving Washington, D.C. on one of her trips.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "2872c03e-c6a0-4d71-bed3-188096ca77be"
+      ]
+    },
+    {
+      "question_id": "50c01dd4-1b4b-497f-b583-08dffe3660eb",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why was the DC Duck Boat created? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7589f335-af78-48b2-a72d-dd65b6702635",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why was the DC Duck Boat created?"
+          },
+          "position": 1
+        },
+        {
+          "id": "3fe959ef-e92c-43dc-a753-bcdeb483a16f",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "46b9e100-8ca2-4146-82f7-0646b4aeea5e",
+          "text": "To carry people and supplies during World War II.",
+          "is_correct": true
+        },
+        {
+          "id": "7240904d-5cf0-40b1-a25f-a30e2c4ecd39",
+          "text": "To give interesting tours with fun facts.",
+          "is_correct": false
+        },
+        {
+          "id": "481f888d-3d34-4480-be60-dc526f3cd960",
+          "text": "To bring visitors to Washington from across the river.",
+          "is_correct": false
+        },
+        {
+          "id": "5be43c08-5a0d-44c5-8b40-a2f920f5fbd1",
+          "text": "To be the first boat that flies through the air.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "46b9e100-8ca2-4146-82f7-0646b4aeea5e"
+      ]
+    },
+    {
+      "question_id": "3db85909-deee-4a52-b7c6-092e33de4417",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Which of these sentences use prepositions? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "2cffc780-a4ba-4882-9f87-442f931339a5",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which of these sentences use prepositions?"
+          },
+          "position": 1
+        },
+        {
+          "id": "f096f243-a3e6-4e86-b3ed-7982d48940cf",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "2dffa77b-aa28-4c75-a1fd-5a7609b00385",
+          "text": "“Hey, the Washington Monument is on the left!”",
+          "is_correct": false
+        },
+        {
+          "id": "a8b8007c-f3f5-46c4-a8ee-2b136eba427f",
+          "text": "“It would be so awesome to ride around the city in a boat!”",
+          "is_correct": false
+        },
+        {
+          "id": "ba44dca3-0de4-4a57-97ed-678d713b6019",
+          "text": "“There are so many beautiful buildings along this road!”",
+          "is_correct": false
+        },
+        {
+          "id": "04999c9e-1095-4235-a51a-beadb2e8af4e",
+          "text": "All of these sentences use prepositions.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "04999c9e-1095-4235-a51a-beadb2e8af4e"
+      ]
+    },
+    {
+      "question_id": "f210bf58-83ce-40ba-9930-f8a36614b9e4",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does the boy say is unusual about the White House? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "801b220e-3b40-4baa-ac9e-154b556c0982",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does the boy say is unusual about the White House?"
+          },
+          "position": 1
+        },
+        {
+          "id": "270b65d0-533e-443e-937f-86273a80c902",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "d83d0e56-187d-4092-aa02-4c438a8b56b3",
+          "text": "There is an outdoor pool.",
+          "is_correct": false
+        },
+        {
+          "id": "b71ea930-38e6-4069-abd5-7f1954aef249",
+          "text": "He has two aunts who live there.",
+          "is_correct": false
+        },
+        {
+          "id": "4fa1d082-9305-4b5f-9f3f-a7370166b95a",
+          "text": "It has thirty-two bathrooms.",
+          "is_correct": true
+        },
+        {
+          "id": "5934acdb-5df6-4f56-b51b-388364f3d689",
+          "text": "There are police officers at its gate.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4fa1d082-9305-4b5f-9f3f-a7370166b95a"
+      ]
+    },
+    {
+      "question_id": "4863328b-1643-4860-9e54-d4397d0a075a",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What kind of tour does Anna choose? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c356fde4-135e-49b9-8fd7-7bc3a819c2ac",
+          "type": "TEXT",
+          "payload": {
+            "text": "What kind of tour does Anna choose?"
+          },
+          "position": 1
+        },
+        {
+          "id": "e4857727-8c8c-476a-b2aa-b804ac12f896",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "5adb71b6-6c45-4f40-ae98-cf65e57d242c",
+          "text": "Only a bus tour through the city.",
+          "is_correct": false
+        },
+        {
+          "id": "157c4a67-4585-44bb-b5e5-7e28f76a5554",
+          "text": "Only a boat tour along the river.",
+          "is_correct": false
+        },
+        {
+          "id": "423c7891-0d07-489c-90ff-59e6ef1393fb",
+          "text": "A tour that goes on the road and on the water.",
+          "is_correct": true
+        },
+        {
+          "id": "62ed21b5-cb55-4407-9359-f0fd19e079be",
+          "text": "A walking tour around the White House.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "423c7891-0d07-489c-90ff-59e6ef1393fb"
+      ]
+    },
+    {
+      "question_id": "03897989-b0e5-4491-a06b-bff679691fd2",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What is special about the DC Ducks? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "92e6b12c-cd4f-47dd-a813-12cde4cc75ea",
+          "type": "TEXT",
+          "payload": {
+            "text": "What is special about the DC Ducks?"
+          },
+          "position": 1
+        },
+        {
+          "id": "c8da4e44-5074-4c0e-a18a-e5e145fe7f27",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "afdd4b24-a102-4424-be16-f7ad5401d483",
+          "text": "It is a boat without seats.",
+          "is_correct": false
+        },
+        {
+          "id": "a69457be-d894-4611-b0d5-12242a2b63a8",
+          "text": "It is a boat with wheels.",
+          "is_correct": true
+        },
+        {
+          "id": "9b79c67d-ebf8-445a-a7a8-0891c4c4686b",
+          "text": "It is a bus that flies.",
+          "is_correct": false
+        },
+        {
+          "id": "f69077a7-5cff-454c-8724-9434dab82616",
+          "text": "It is a train that goes into the river.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a69457be-d894-4611-b0d5-12242a2b63a8"
+      ]
+    },
+    {
+      "question_id": "8d1e215e-7cac-4268-b772-552d57076036",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "What does Penelope read from the brochure? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "b79aa091-2758-4134-8199-5efa94b6458d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What does Penelope read from the brochure?"
+          },
+          "position": 1
+        },
+        {
+          "id": "355eaff8-05fb-4b14-af39-503ed933cef4",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "b7d7b701-9b23-46be-8da2-ba555c62b89f",
+          "text": "The Duck Boat was created for presidents.",
+          "is_correct": false
+        },
+        {
+          "id": "283da1c7-731b-4b76-941e-55f51a92bd2b",
+          "text": "The Duck Boat was built only for tourists.",
+          "is_correct": false
+        },
+        {
+          "id": "7c9b8444-8812-47ba-81e8-25b6e7dd62b8",
+          "text": "The Duck Boat was created during World War II.",
+          "is_correct": true
+        },
+        {
+          "id": "246df964-ac62-407e-a6c9-b3e19784b76e",
+          "text": "The Duck Boat was designed by the boy’s father.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7c9b8444-8812-47ba-81e8-25b6e7dd62b8"
+      ]
+    },
+    {
+      "question_id": "601a1900-7b73-4df8-97ad-4f33dec4d44e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why do Anna and Penelope like the boy? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "f12fbed3-e207-48ab-bb03-5a0821bea454",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why do Anna and Penelope like the boy?"
+          },
+          "position": 1
+        },
+        {
+          "id": "8642c32e-f64f-44c7-b7ce-10367518f750",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "9af8c6d8-c06b-4431-90eb-40de9b3617d7",
+          "text": "He drives the boat.",
+          "is_correct": false
+        },
+        {
+          "id": "7998b14b-f5e5-4c92-8bbc-1d3f3a2d2810",
+          "text": "He gives them free tickets.",
+          "is_correct": false
+        },
+        {
+          "id": "959ef826-6910-49ce-b112-245374fc04e3",
+          "text": "He knows many Fun Facts for the tour.",
+          "is_correct": true
+        },
+        {
+          "id": "20e55b84-ce94-49aa-8c4c-cfa65a3981b3",
+          "text": "He works at the White House.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "959ef826-6910-49ce-b112-245374fc04e3"
+      ]
+    },
+    {
+      "question_id": "772b078b-d8db-481c-b0c6-85dcd2161771",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Where is the Washington Monument when Anna sees it? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "245dd8cc-86cd-4d11-a1ba-e0de5e681af9",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where is the Washington Monument when Anna sees it?"
+          },
+          "position": 1
+        },
+        {
+          "id": "163c890e-9805-45cf-8622-45fd5fd3708c",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "78e5ca4d-ea4e-45da-b6fd-0b4981e28944",
+          "text": "On the right.",
+          "is_correct": false
+        },
+        {
+          "id": "68194f85-ffe0-4bff-ba6a-944867e90680",
+          "text": "On the left.",
+          "is_correct": true
+        },
+        {
+          "id": "2fab2e10-642a-46b5-a096-671c62d197fb",
+          "text": "Behind the White House.",
+          "is_correct": false
+        },
+        {
+          "id": "a0266e66-b45c-43c4-8c9c-ed9ec06c7a31",
+          "text": "Across from the river.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "68194f85-ffe0-4bff-ba6a-944867e90680"
+      ]
+    },
+    {
+      "question_id": "992f8bcc-75ab-4281-9f99-c8bc1f3c7db9",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Аудирование",
+      "text": "Why does Penelope think they should give the boy a tip? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "89528d5b-1f25-4b20-846e-4629d95535bf",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why does Penelope think they should give the boy a tip?"
+          },
+          "position": 1
+        },
+        {
+          "id": "f12550e0-c59d-4e4d-aaec-f670644aa506",
+          "type": "AUDIO",
+          "payload": {
+            "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+            "source": "minio",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "a3f0fbc3-96bf-4045-b6ce-d2b07da6c8c3",
+          "text": "Because he is the captain.",
+          "is_correct": false
+        },
+        {
+          "id": "28469b33-f147-4fa0-a437-d4c687d646d9",
+          "text": "Because he fixed the boat.",
+          "is_correct": false
+        },
+        {
+          "id": "c6588c70-5772-4d61-ba8e-236638b20f93",
+          "text": "Because he bought them tickets.",
+          "is_correct": false
+        },
+        {
+          "id": "e8e82396-22c3-4775-98c3-6433d7419b29",
+          "text": "Because he gave them a great Fun Fact.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "e8e82396-22c3-4775-98c3-6433d7419b29"
+      ]
+    },
+    {
+      "question_id": "71cf3fc2-7a50-40d4-a060-1512d0b230a7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct pronoun: Lani complained that ... was exhausted.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b3058299-ca61-4d47-bab7-04b829570011",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct pronoun: Lani complained that ... was exhausted."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "79779c2f-9a61-4991-b1b5-b4c0c71c2c82",
+          "text": "he",
+          "is_correct": false
+        },
+        {
+          "id": "13022434-fc67-4120-b443-248fa371ab6f",
+          "text": "she",
+          "is_correct": true
+        },
+        {
+          "id": "872ac05a-bbb4-4b9c-b50c-970fcc1b425d",
+          "text": "they",
+          "is_correct": false
+        },
+        {
+          "id": "9b0f0209-ddc5-429e-9cec-3041f95a7995",
+          "text": "him",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "13022434-fc67-4120-b443-248fa371ab6f"
+      ]
+    },
+    {
+      "question_id": "afd66dba-a878-41ad-8758-c196aee17718",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct pronoun: Jeremy left the party early, so I did not see ... until Monday.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f127a808-0a63-4498-a6e0-8d2cf940bdc2",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct pronoun: Jeremy left the party early, so I did not see ... until Monday."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "355e91a8-31be-4f57-8681-f7f20e38ee46",
+          "text": "he",
+          "is_correct": false
+        },
+        {
+          "id": "1368472e-338f-44af-8d5d-2ddcf56ffc48",
+          "text": "she",
+          "is_correct": false
+        },
+        {
+          "id": "4df7a81c-4a48-4d84-bf9d-765653578ac5",
+          "text": "him",
+          "is_correct": true
+        },
+        {
+          "id": "a8eb1723-7501-407e-8b55-0a63c3dc5533",
+          "text": "they",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4df7a81c-4a48-4d84-bf9d-765653578ac5"
+      ]
+    },
+    {
+      "question_id": "79177e8b-1bc4-482a-b833-7af6771d8f1b",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct pronoun: Crina and Rosalie have been best friends ever since ... were freshmen in high school.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7f25e7e9-72af-42aa-93d9-110f8ddcfe6e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct pronoun: Crina and Rosalie have been best friends ever since ... were freshmen in high school."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "9ad0cdbc-5705-44c8-a543-d3c1b32d5723",
+          "text": "she",
+          "is_correct": false
+        },
+        {
+          "id": "d8bc3204-427d-40c2-9a36-9253dcf202a1",
+          "text": "her",
+          "is_correct": false
+        },
+        {
+          "id": "00bbc12c-4bb8-4af8-8b69-45796c730e2e",
+          "text": "they",
+          "is_correct": true
+        },
+        {
+          "id": "4106013a-e913-488b-a9db-c2d478799673",
+          "text": "them",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "00bbc12c-4bb8-4af8-8b69-45796c730e2e"
+      ]
+    },
+    {
+      "question_id": "31c8aa84-0306-4654-9919-9f9410a9223e",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "d450ac07-a3da-4aa1-b841-c8e8abb7db2e",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "607975dc-0ca8-4c31-8bee-4c1a84637130",
+          "text": "The man could not pick up his dry cleaning because they didn’t have a receipt.",
+          "is_correct": false
+        },
+        {
+          "id": "9819e651-5744-4107-ab23-4d458d1e0fda",
+          "text": "The man could not pick up his dry cleaning because he didn’t have a receipt.",
+          "is_correct": true
+        },
+        {
+          "id": "43fd5351-9f86-49e0-b236-272e7171f07c",
+          "text": "The man could not pick up his dry cleaning because them didn’t have a receipt.",
+          "is_correct": false
+        },
+        {
+          "id": "f3867d46-4adb-4558-a839-d57ba77cd7a2",
+          "text": "The man could not pick up his dry cleaning because him didn’t have a receipt.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "9819e651-5744-4107-ab23-4d458d1e0fda"
+      ]
+    },
+    {
+      "question_id": "5bd1bfb7-98dd-40d1-9607-59de6e25940c",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "3d303261-bded-48de-9325-e72f669ec3ef",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d1956396-0585-4dbf-8186-bb1fa7e799fb",
+          "text": "When a person goes to a restaurant, you should leave a tip.",
+          "is_correct": false
+        },
+        {
+          "id": "21a307b4-0f16-4233-b692-c79a31d68b63",
+          "text": "When a person goes to a restaurant, he or she should leave a tip.",
+          "is_correct": true
+        },
+        {
+          "id": "5a309426-9983-43f5-a0b1-774fc00f3d0a",
+          "text": "When a person goes to a restaurant, they should leaves a tip.",
+          "is_correct": false
+        },
+        {
+          "id": "99ac3317-d261-4bc8-b8e6-61394c8cec85",
+          "text": "When a person goes to a restaurant, him should leave a tip.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "21a307b4-0f16-4233-b692-c79a31d68b63"
+      ]
+    },
+    {
+      "question_id": "ac6bc5cf-4c1c-479e-b226-e7d580297952",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct revision: Meera and me enjoy doing yoga together on Sundays.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "dd698c8e-f152-400b-b1b2-de9a7c718096",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct revision: Meera and me enjoy doing yoga together on Sundays."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a93ed123-69a2-49f5-ab1d-ad3e08d6dda3",
+          "text": "Meera and me enjoy doing yoga together on Sundays.",
+          "is_correct": false
+        },
+        {
+          "id": "c5ba85fe-b140-4e5d-93c9-35ef7fef07e1",
+          "text": "Meera and I enjoy doing yoga together on Sundays.",
+          "is_correct": true
+        },
+        {
+          "id": "15fbef03-2f1c-4d3e-b462-60f209ac40a2",
+          "text": "Meera and her enjoy doing yoga together on Sundays.",
+          "is_correct": false
+        },
+        {
+          "id": "c4f0af16-d368-47f8-b51a-4a04ba01e428",
+          "text": "Meera and us enjoy doing yoga together on Sundays.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c5ba85fe-b140-4e5d-93c9-35ef7fef07e1"
+      ]
+    },
+    {
+      "question_id": "e3ef81a5-1394-412a-91cf-183b3fdbb7cb",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct revision: She and him have decided to sell their house.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "028e9e23-dc7d-4bb4-9770-6d4477ed6ad1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct revision: She and him have decided to sell their house."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fd9e5d00-7c41-4f90-96d2-f9fe3f7b7725",
+          "text": "Her and him have decided to sell their house.",
+          "is_correct": false
+        },
+        {
+          "id": "0e9ce3e6-07bb-4e98-b437-128618ac84bf",
+          "text": "She and him have decided to sell their house.",
+          "is_correct": false
+        },
+        {
+          "id": "7634cc1b-ee13-4e61-818f-459a5f14611c",
+          "text": "They have decided to sell their house.",
+          "is_correct": true
+        },
+        {
+          "id": "69596224-1873-4591-8de7-f8c935e8d15c",
+          "text": "Them have decided to sell their house.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "7634cc1b-ee13-4e61-818f-459a5f14611c"
+      ]
+    },
+    {
+      "question_id": "0d479afc-df6f-42f3-accd-b6b9b14370ec",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct phrase: Between you and ...",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "5fcc05f8-bb2f-43c2-bada-a5fea870aeba",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct phrase: Between you and ..."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3d8d3ae3-280c-4edc-88b4-8a6b4b797671",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "id": "0e224038-4994-4913-b2b9-25eccb7c978b",
+          "text": "me",
+          "is_correct": true
+        },
+        {
+          "id": "41284162-3e29-432f-9f50-79fc3625ea5d",
+          "text": "my",
+          "is_correct": false
+        },
+        {
+          "id": "e9b38b8d-3d5e-413e-8f92-0f924beeadfe",
+          "text": "mine",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0e224038-4994-4913-b2b9-25eccb7c978b"
+      ]
+    },
+    {
+      "question_id": "b7ebc626-2573-46f8-8409-463937469cc7",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct revision: Us and our friends have game night every month.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "5167a415-968f-4311-9fa4-083e56ab0898",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct revision: Us and our friends have game night every month."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3f915023-7e9e-457c-b20a-d86664b37a31",
+          "text": "Us and our friends have game night every month.",
+          "is_correct": false
+        },
+        {
+          "id": "f831743a-3b4a-425b-897d-9ce190ed0c93",
+          "text": "We and our friends have game night every month.",
+          "is_correct": true
+        },
+        {
+          "id": "4d0d7357-3da4-48f1-8e3f-c9b1a37a8c90",
+          "text": "Them and our friends have game night every month.",
+          "is_correct": false
+        },
+        {
+          "id": "f2325e2c-8413-4c53-8144-6893bca31597",
+          "text": "Our and friends have game night every month.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f831743a-3b4a-425b-897d-9ce190ed0c93"
+      ]
+    },
+    {
+      "question_id": "a284a100-b115-4509-b247-45af80f7f7fe",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Грамматика",
+      "text": "Choose the correct sentence.",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "75b712f1-9e87-4a74-8d87-bdf2e020c78a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Choose the correct sentence."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "888453b6-3eb0-4b3f-adae-1db882dd2823",
+          "text": "They and I met while on vacation in Mexico.",
+          "is_correct": true
+        },
+        {
+          "id": "8fd5131a-4554-493f-ab3a-20a9a002a242",
+          "text": "Them and I met while on vacation in Mexico.",
+          "is_correct": false
+        },
+        {
+          "id": "ab4a3462-dfd9-4154-b9e4-109c05750aa2",
+          "text": "They and me met while on vacation in Mexico.",
+          "is_correct": false
+        },
+        {
+          "id": "828af3b0-f062-4a25-8f3c-fd2b36e1c236",
+          "text": "Them and me met while on vacation in Mexico.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "888453b6-3eb0-4b3f-adae-1db882dd2823"
+      ]
+    },
+    {
+      "question_id": "d0a34fde-6165-48cc-b597-0476a9d347cb",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Read the text and choose the correct answer. A Job in the Film Industry. Interviewer: Dagmara, how did you first become connected with the film world? Dagmara: Well, many scenes from Schindler’s List were filmed in Krakow, Poland, and that is my home city. Before filming actually began, the film company opened an office in Krakow. I got work there translating papers, parts of the screenplay, and similar materials. At that time, I was still studying at university. Interviewer: How did you end up working directly on the film event? Dagmara: There was a large party at one of the hotels in Krakow, and I received an invitation. At first, I did not want to attend because I was tired after a full day of work and I felt I had nothing suitable to wear. Finally, I borrowed a jacket from a friend and decided to go. When I arrived, the Polish producer came over and told me that I had to interpret for Steven Spielberg. I needed to translate his opening speech because the young woman who was supposed to do it could not come. Interviewer: What was your reaction? Dagmara: I was shocked. I was only a student and had never worked as an interpreter before. Suddenly, I had to speak in front of hundreds of guests. I felt very nervous, so I drank two glasses of champagne to feel braver. When I began speaking, I was so anxious that I mixed up the dates of the Second World War. Fortunately, I finished the speech without any other mistakes. Interviewer: What is your opinion of the film? Dagmara: I think it is an excellent film. The actors were wonderful, especially Liam Neeson and Ben Kingsley. What does Dagmara think about Schindler’s List?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d8d00a88-1318-48c2-b31f-ec9683e6a62a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Read the text and choose the correct answer. A Job in the Film Industry. Interviewer: Dagmara, how did you first become connected with the film world? Dagmara: Well, many scenes from Schindler’s List were filmed in Krakow, Poland, and that is my home city. Before filming actually began, the film company opened an office in Krakow. I got work there translating papers, parts of the screenplay, and similar materials. At that time, I was still studying at university. Interviewer: How did you end up working directly on the film event? Dagmara: There was a large party at one of the hotels in Krakow, and I received an invitation. At first, I did not want to attend because I was tired after a full day of work and I felt I had nothing suitable to wear. Finally, I borrowed a jacket from a friend and decided to go. When I arrived, the Polish producer came over and told me that I had to interpret for Steven Spielberg. I needed to translate his opening speech because the young woman who was supposed to do it could not come. Interviewer: What was your reaction? Dagmara: I was shocked. I was only a student and had never worked as an interpreter before. Suddenly, I had to speak in front of hundreds of guests. I felt very nervous, so I drank two glasses of champagne to feel braver. When I began speaking, I was so anxious that I mixed up the dates of the Second World War. Fortunately, I finished the speech without any other mistakes. Interviewer: What is your opinion of the film? Dagmara: I think it is an excellent film. The actors were wonderful, especially Liam Neeson and Ben Kingsley. What does Dagmara think about Schindler’s List?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "9eab0e50-73cd-44a2-b0d4-f2a4662190ce",
+          "text": "it is undeveloped",
+          "is_correct": false
+        },
+        {
+          "id": "fd09d16a-8d53-4627-bf2a-67c2a24b5677",
+          "text": "it is boring",
+          "is_correct": false
+        },
+        {
+          "id": "84c2e669-c178-4a34-948a-106c27b8208c",
+          "text": "it is a great film",
+          "is_correct": true
+        },
+        {
+          "id": "5ea88ba1-a6f5-4487-88f2-3873f7b79f12",
+          "text": "it is unfinished",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "84c2e669-c178-4a34-948a-106c27b8208c"
+      ]
+    },
+    {
+      "question_id": "a2b043c2-ede3-4d5e-96f2-6ae3e1368c44",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Where did Dagmara meet Steven Spielberg?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "87364f63-0829-4772-935a-50954ccf4018",
+          "type": "TEXT",
+          "payload": {
+            "text": "Where did Dagmara meet Steven Spielberg?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7a317e3b-c44b-4e8f-96a7-5ed337a1fbea",
+          "text": "at the railway station",
+          "is_correct": false
+        },
+        {
+          "id": "5dbdb80d-57d5-49bd-8cc5-3e7692e50ac3",
+          "text": "at a restaurant",
+          "is_correct": false
+        },
+        {
+          "id": "0b90e25c-12d7-49e2-8208-37309b959e03",
+          "text": "at a hotel",
+          "is_correct": true
+        },
+        {
+          "id": "9707660d-25aa-4fbf-b720-a10e3e634a70",
+          "text": "at the airport",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "0b90e25c-12d7-49e2-8208-37309b959e03"
+      ]
+    },
+    {
+      "question_id": "fc4d3ebe-7ca0-4404-aceb-e11179f68f88",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What did Dagmara drink to feel more confident?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "6ded9846-ee27-4655-88fe-935ae28744b2",
+          "type": "TEXT",
+          "payload": {
+            "text": "What did Dagmara drink to feel more confident?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ef4de5ce-0a37-4d08-baa2-136decd460b0",
+          "text": "twelve glasses of wine",
+          "is_correct": false
+        },
+        {
+          "id": "c370f5a4-021a-4295-90dc-112b61d1fcc3",
+          "text": "two glasses of champagne",
+          "is_correct": true
+        },
+        {
+          "id": "091a82da-5e20-4d8a-b9fc-e8c7e52544d4",
+          "text": "two glasses of wine",
+          "is_correct": false
+        },
+        {
+          "id": "43cc1f21-c4a5-450c-a965-009cdf70401d",
+          "text": "twelve glasses of champagne",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c370f5a4-021a-4295-90dc-112b61d1fcc3"
+      ]
+    },
+    {
+      "question_id": "bef1f7fa-5042-475b-ab0d-f841a69980fd",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Why did Dagmara have to translate Spielberg’s speech?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "e480e8be-d688-486e-82cf-d01e643a5640",
+          "type": "TEXT",
+          "payload": {
+            "text": "Why did Dagmara have to translate Spielberg’s speech?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "8562e7a5-bddb-4092-97ed-85baec563bd3",
+          "text": "the girl who was supposed to do it could not come",
+          "is_correct": true
+        },
+        {
+          "id": "3932b239-3d17-4aa2-8536-5456153a47a0",
+          "text": "Spielberg personally invited her to the party",
+          "is_correct": false
+        },
+        {
+          "id": "8f5fb5a8-069f-4412-a1e4-08f739fb4ed6",
+          "text": "she insisted on doing it herself",
+          "is_correct": false
+        },
+        {
+          "id": "3ddcae6d-869c-46d0-92f1-4518bddaa49e",
+          "text": "Spielberg forced her to translate it",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "8562e7a5-bddb-4092-97ed-85baec563bd3"
+      ]
+    },
+    {
+      "question_id": "770c5b33-792a-472a-9585-06aae5105f35",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What event was Dagmara invited to in Krakow?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "982b8ad5-3848-47ec-9e79-b1552f242a12",
+          "type": "TEXT",
+          "payload": {
+            "text": "What event was Dagmara invited to in Krakow?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "7df6724c-8eb0-4998-907a-71cbd7438aa5",
+          "text": "a private date",
+          "is_correct": false
+        },
+        {
+          "id": "8f4e592b-6475-4362-8581-e0a814acde77",
+          "text": "a television programme",
+          "is_correct": false
+        },
+        {
+          "id": "9bc0649b-b0c2-4fd4-86b0-c30e44e1c8a3",
+          "text": "a stage performance",
+          "is_correct": false
+        },
+        {
+          "id": "1748e374-c05e-4f95-bbd0-c096e974a0d4",
+          "text": "a party",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "1748e374-c05e-4f95-bbd0-c096e974a0d4"
+      ]
+    },
+    {
+      "question_id": "3cf377fe-146c-4a09-af1f-f33b7081b718",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "How did Dagmara describe the actors in the film?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "b3068180-2467-4abd-9667-e95320ffeff8",
+          "type": "TEXT",
+          "payload": {
+            "text": "How did Dagmara describe the actors in the film?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "15b87483-fc4b-41b6-854a-a9f809ea952b",
+          "text": "brilliant",
+          "is_correct": true
+        },
+        {
+          "id": "13cd3828-7240-4ed0-9625-4535f3cabac9",
+          "text": "quite bad",
+          "is_correct": false
+        },
+        {
+          "id": "d3ed979f-cf44-4f37-90ad-b889e6f78d18",
+          "text": "boring",
+          "is_correct": false
+        },
+        {
+          "id": "a2f0e759-5a0f-4e5d-bbd5-dffa9920b657",
+          "text": "only quite good",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "15b87483-fc4b-41b6-854a-a9f809ea952b"
+      ]
+    },
+    {
+      "question_id": "7ee5a45e-642c-4ba6-8d54-337e2ab24381",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "Which actors did Dagmara especially praise?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0c88b5f6-8015-47a4-859a-d207dc268fe3",
+          "type": "TEXT",
+          "payload": {
+            "text": "Which actors did Dagmara especially praise?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5ccae92a-5c8c-4e06-b95b-46afd97f3d03",
+          "text": "Liam Hemsworth and Ben Stiller",
+          "is_correct": false
+        },
+        {
+          "id": "1b4df821-907b-4254-9c2e-d946d96f6400",
+          "text": "Liam Neeson and Liam Hemsworth",
+          "is_correct": false
+        },
+        {
+          "id": "cbd1320e-f1e1-40c0-8674-78484804b278",
+          "text": "Liam Neeson and Ben Kingsley",
+          "is_correct": true
+        },
+        {
+          "id": "b1da2baa-0e40-45ff-b84e-120ac0c6921f",
+          "text": "Liam Hemsworth and Ben Kingsley",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "cbd1320e-f1e1-40c0-8674-78484804b278"
+      ]
+    },
+    {
+      "question_id": "23622550-b685-4184-adf6-a7469d84059d",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What did the film company have in Krakow before shooting started?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "69cced46-2403-41d6-baf9-bcaa6a32683d",
+          "type": "TEXT",
+          "payload": {
+            "text": "What did the film company have in Krakow before shooting started?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a7b84bf6-519f-4692-bfb5-885b1944dc14",
+          "text": "a hotel",
+          "is_correct": false
+        },
+        {
+          "id": "86289e5a-7b21-46c9-8f7b-e54fa3b7c9e6",
+          "text": "a shop",
+          "is_correct": false
+        },
+        {
+          "id": "45984891-0bc9-4f86-b576-13d319d1e316",
+          "text": "a hostel",
+          "is_correct": false
+        },
+        {
+          "id": "965f491b-d789-4679-a6b5-da90395e1046",
+          "text": "an office",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "965f491b-d789-4679-a6b5-da90395e1046"
+      ]
+    },
+    {
+      "question_id": "15fdc7b6-db4a-4b35-92c9-155313d14858",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What was Dagmara doing for the film company before the party?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "47651fd3-cb8d-46b1-986b-451b450e0503",
+          "type": "TEXT",
+          "payload": {
+            "text": "What was Dagmara doing for the film company before the party?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "50de9e6b-a86e-43da-9722-6e356d04e8f0",
+          "text": "acting in the film",
+          "is_correct": false
+        },
+        {
+          "id": "d4b63c29-970d-43f5-9ca9-180e9e45de63",
+          "text": "selling cinema tickets",
+          "is_correct": false
+        },
+        {
+          "id": "3d4b4cd5-4219-415d-8387-5b6b2a26aeb3",
+          "text": "translating documents and parts of the script",
+          "is_correct": true
+        },
+        {
+          "id": "8a897ea5-72dc-4631-bca5-74bf3dfce98a",
+          "text": "directing scenes with actors",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3d4b4cd5-4219-415d-8387-5b6b2a26aeb3"
+      ]
+    },
+    {
+      "question_id": "35fc8ef1-dbda-4d29-848c-7f2e512d3918",
+      "subject": "Иностранный язык(Английский язык)",
+      "topic": "Чтение",
+      "text": "What mistake did Dagmara make during Spielberg’s speech?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "eb631ee4-04d2-4bad-ab46-be8eb9ea9f4f",
+          "type": "TEXT",
+          "payload": {
+            "text": "What mistake did Dagmara make during Spielberg’s speech?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "43ee3a3e-44f3-4b99-8122-43233a89c195",
+          "text": "she forgot Spielberg’s name",
+          "is_correct": false
+        },
+        {
+          "id": "1c654bd2-0aaf-42ca-9e82-474cdf3a56ae",
+          "text": "she left the hotel immediately",
+          "is_correct": false
+        },
+        {
+          "id": "96cb68b2-1819-4b17-b7fd-c6b9434fc178",
+          "text": "she spoke in the wrong language",
+          "is_correct": false
+        },
+        {
+          "id": "75e473d7-866d-4c76-9d35-a041ae7cb9e8",
+          "text": "she confused the dates of the Second World War",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "75e473d7-866d-4c76-9d35-a041ae7cb9e8"
+      ]
+    },
+    {
+      "question_id": "669397e1-474d-4bbd-894d-719af2a2a262",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Какую методологическую установку следует применить, чтобы глубоко понять разницу в «духовном контексте», который может быть сокрыт за словами этих суждений?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "06da06cc-783d-4b7a-88d3-12395d087c67",
+          "type": "TEXT",
+          "payload": {
+            "text": "Какую методологическую установку следует применить, чтобы глубоко понять разницу в «духовном контексте», который может быть сокрыт за словами этих суждений?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "122dd1fd-2a0d-4f59-a012-56da6142e888",
+          "text": "Метафизическую",
+          "is_correct": false
+        },
+        {
+          "id": "fe4e5239-4b01-4191-8800-93951fb85d6c",
+          "text": "Герменевтическую",
+          "is_correct": true
+        },
+        {
+          "id": "1d84dd00-bc85-4ae4-9c9a-747b47d586c9",
+          "text": "Антиковедческую",
+          "is_correct": false
+        },
+        {
+          "id": "e378aeb2-f971-4e32-a45c-a876aa4e57a9",
+          "text": "Либералистскую",
+          "is_correct": false
+        },
+        {
+          "id": "54a826b3-d395-424b-a8ca-00c3176a45e1",
+          "text": "Экзистенциалистскую",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "fe4e5239-4b01-4191-8800-93951fb85d6c"
+      ]
+    },
+    {
+      "question_id": "112d41d8-7cf0-490b-acc3-9e9e02dff9db",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Бернард Шоу писал: «Если у вас есть яблоко и у меня есть яблоко, и если мы обмениваемся этими яблоками, то у вас и у меня останется по яблоку. А если у вас есть […] и у меня есть […], и мы обмениваемся […], то у каждого из нас будет по две […]». Вставьте слово по смыслу.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7be844db-861f-4375-873c-5d4a884ddb1f",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бернард Шоу писал: «Если у вас есть яблоко и у меня есть яблоко, и если мы обмениваемся этими яблоками, то у вас и у меня останется по яблоку. А если у вас есть […] и у меня есть […], и мы обмениваемся […], то у каждого из нас будет по две […]». Вставьте слово по смыслу."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "66d02629-0bd3-4741-b438-77337dcfc31c",
+          "text": "деньги",
+          "is_correct": false
+        },
+        {
+          "id": "ce24e13a-3460-44b9-9d36-9400a494d3c9",
+          "text": "вещь",
+          "is_correct": false
+        },
+        {
+          "id": "f81619af-1bad-402a-8191-51ed5f81a72b",
+          "text": "дорога",
+          "is_correct": false
+        },
+        {
+          "id": "70199b0d-741f-4401-a108-852c0debf4ad",
+          "text": "квартира",
+          "is_correct": false
+        },
+        {
+          "id": "a5883543-7d02-4f5f-809c-d39ac33801f5",
+          "text": "идея",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "a5883543-7d02-4f5f-809c-d39ac33801f5"
+      ]
+    },
+    {
+      "question_id": "1d1650b0-4a66-4e72-8d3b-0b84be2dd9db",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "А.С. Пушкин писал: «Чем более мы холодны, расчетливы, осмотрительны, тем менее подвергаемся нападениям насмешки... однако есть люди, которые любят себя с такой нежностью..., что в них и […] имеет смешную сторону энтузиазма и чувствительности». Вставьте ключевое слово.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4bd4e793-9702-469d-825c-0a75246fee03",
+          "type": "TEXT",
+          "payload": {
+            "text": "А.С. Пушкин писал: «Чем более мы холодны, расчетливы, осмотрительны, тем менее подвергаемся нападениям насмешки... однако есть люди, которые любят себя с такой нежностью..., что в них и […] имеет смешную сторону энтузиазма и чувствительности». Вставьте ключевое слово."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "3bd9b293-b1bc-4f28-9847-bb464716ca5a",
+          "text": "сострадание",
+          "is_correct": false
+        },
+        {
+          "id": "a4af81ef-4637-40a5-8d77-e283f878c425",
+          "text": "восторг",
+          "is_correct": false
+        },
+        {
+          "id": "9ee53b3a-28ac-471e-b20b-6e8c4f6ad889",
+          "text": "осмотрительность",
+          "is_correct": false
+        },
+        {
+          "id": "80dfa65a-e1d7-4254-9aca-5effecd85244",
+          "text": "нежность",
+          "is_correct": false
+        },
+        {
+          "id": "2049b2c3-fa0d-49ee-bc1b-554fe560be29",
+          "text": "эгоизм",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "2049b2c3-fa0d-49ee-bc1b-554fe560be29"
+      ]
+    },
+    {
+      "question_id": "f3ffb8bf-a2eb-4881-8484-6e6ffd09004b",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Выберите тип научной деятельности, обозначаемый термином «монолог».",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0d775961-c407-4f7d-b0c7-6cc20b97fcda",
+          "type": "TEXT",
+          "payload": {
+            "text": "Выберите тип научной деятельности, обозначаемый термином «монолог»."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "eb1c578e-c3f6-443b-a4f7-cac463e4cc70",
+          "text": "диссертация",
+          "is_correct": true
+        },
+        {
+          "id": "0c320562-7137-478b-a23b-2614dd92a95e",
+          "text": "мозговая атака",
+          "is_correct": false
+        },
+        {
+          "id": "7cc900ef-ff77-42bd-bfd0-0d7ad538dcbe",
+          "text": "групповая дискуссия",
+          "is_correct": false
+        },
+        {
+          "id": "a1adc663-3f0d-4e43-989c-555192a994a0",
+          "text": "разговор по телефону",
+          "is_correct": false
+        },
+        {
+          "id": "b8904d8a-676a-4351-b00d-78866266970c",
+          "text": "партийное собрание",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "eb1c578e-c3f6-443b-a4f7-cac463e4cc70"
+      ]
+    },
+    {
+      "question_id": "b0d5a3c8-96a4-49c2-9f34-8a6c053f9f1e",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Аналитическое мышление",
+      "text": "Прежде чем вводить изменения в жизнь народа, необходимо хорошо изучить его быт, традиции и образ жизни\n\nСообразуясь с цитатой, укажите, что предлагает И. Алтынсарин.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e460cc59-5a8f-4194-8dbf-239ae41dc7ad",
+          "type": "TEXT",
+          "payload": {
+            "text": "Прежде чем вводить изменения в жизнь народа, необходимо хорошо изучить его быт, традиции и образ жизни\n\nСообразуясь с цитатой, укажите, что предлагает И. Алтынсарин."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6ca19ea3-9fe3-4548-a735-1388f0db8c10",
+          "text": "Познать нацию, чтобы понять, как она может ослабнуть",
+          "is_correct": false
+        },
+        {
+          "id": "a0044cc9-1553-42d9-bf1f-10828f3b4a8c",
+          "text": "Познать природу, а потом уже преобразовывать её",
+          "is_correct": false
+        },
+        {
+          "id": "5fef7585-311c-433b-bdf6-b5bfc49ba6a2",
+          "text": "Познать народную жизнь, прежде чем ее искусственно изменить",
+          "is_correct": true
+        },
+        {
+          "id": "247fbb5d-8260-404b-8fe7-d6a9c996ceab",
+          "text": "Познать наличие у народа предрасположенности к агрокультуре",
+          "is_correct": false
+        },
+        {
+          "id": "1d7c6ae6-40e0-4f7b-bed5-c72624ebecfd",
+          "text": "Быть разумными в отношении окружающей природы",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5fef7585-311c-433b-bdf6-b5bfc49ba6a2"
+      ]
+    },
+    {
+      "question_id": "51dac216-3268-47a8-a20b-d69d8c2b0f2e",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Бір тіктөртбұрыш ұзындығы бойынша 4 бірдей бөлікке бөлінген. Барлығы неше тіктөртбұрыш алуға болады?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "79290d87-66ad-4864-85b3-7ec060faed3c",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бір тіктөртбұрыш ұзындығы бойынша 4 бірдей бөлікке бөлінген. Барлығы неше тіктөртбұрыш алуға болады?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d073d708-b70b-48b6-944c-6073808beb71",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "05333b88-50dd-4e99-94f7-838bbfad4f88",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "5654c7de-35ec-4aea-92f5-3b97d340dba5",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "id": "2c407dfc-3f0f-4641-ad78-9a7cbc985c3f",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "89bc50b7-6ab8-477d-8b60-05fbbbc49196",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5654c7de-35ec-4aea-92f5-3b97d340dba5"
+      ]
+    },
+    {
+      "question_id": "d03e21fb-e164-4c15-bc8a-febf0a226c82",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "Бір түзудің бойында жатпайтын 6 нүкте берілген. Осы нүктелерден неше үшбұрыш құрастыруға болады?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "03bbf18b-4970-470e-8de5-32600f98fab0",
+          "type": "TEXT",
+          "payload": {
+            "text": "Бір түзудің бойында жатпайтын 6 нүкте берілген. Осы нүктелерден неше үшбұрыш құрастыруға болады?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fd30feb4-fc08-4e4d-84c2-660ac398a8ef",
+          "text": "19",
+          "is_correct": false
+        },
+        {
+          "id": "e17631da-0e44-49bd-ab1b-de3b2e471d8d",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "5f530cc9-455b-4dab-a927-0b964e64328f",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "id": "beddbb83-0c69-4aac-b333-bcad19c30d00",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "f150f0a2-4370-4d95-b0ac-ed2d82b3b2d7",
+          "text": "24",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5f530cc9-455b-4dab-a927-0b964e64328f"
+      ]
+    },
+    {
+      "question_id": "86548130-2c64-4b60-930e-fc7a49212593",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Критическое мышление",
+      "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "95fe64ee-c854-4bd2-b486-ee35d7f6bd04",
+          "type": "TEXT",
+          "payload": {
+            "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "f770fb40-c724-44eb-8a75-938f8e036e14",
+          "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+          "is_correct": true
+        },
+        {
+          "id": "b5f825c0-51d6-4563-9f73-b426a7b9eb85",
+          "text": "A < B",
+          "is_correct": false
+        },
+        {
+          "id": "dbb02317-7b2f-41fd-bd8f-ca87edf9d3d8",
+          "text": "A = B",
+          "is_correct": false
+        },
+        {
+          "id": "876dccaf-0c95-48c0-9915-2734e7ad0bc8",
+          "text": "B < A",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f770fb40-c724-44eb-8a75-938f8e036e14"
+      ]
+    },
+    {
+      "question_id": "28623457-205b-4da2-b3d5-3b6ef8654533",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "По диаграмме первая бригада строителей работала меньше всего. Вторая бригада работала в 2 раза больше, чем первая. Третья бригада работала в 2 раза больше, чем вторая. Определите работу четвертой бригады. [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/1e8be76e-2996-44ce-a30f-d9cb4bfeecbc.png]",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d407205f-282e-4fca-a2a7-aaeb73ce84df",
+          "type": "TEXT",
+          "payload": {
+            "text": "По диаграмме первая бригада строителей работала меньше всего. Вторая бригада работала в 2 раза больше, чем первая. Третья бригада работала в 2 раза больше, чем вторая. Определите работу четвертой бригады."
+          },
+          "position": 1
+        },
+        {
+          "id": "3710f858-35bd-429c-b07e-67a12a009b96",
+          "type": "IMAGE",
+          "payload": {
+            "url": "media/eb3f2d12dd374603aa7cbef6e0c58fd6.png",
+            "source": "external",
+            "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/1e8be76e-2996-44ce-a30f-d9cb4bfeecbc.png"
+          },
+          "position": 2
+        }
+      ],
+      "options": [
+        {
+          "id": "df705bfe-a5ea-4927-bc25-538818acd777",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "id": "5e68578f-519c-401c-b228-184062d6e9df",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "id": "e6060ce5-b04c-4c24-96b7-4caaa7289a80",
+          "text": "50",
+          "is_correct": true
+        },
+        {
+          "id": "4aa99ba2-bee0-4ced-8c80-106bfd9a8464",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "212e1e73-bb1b-4c97-a317-c0e564d54efa",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "e6060ce5-b04c-4c24-96b7-4caaa7289a80"
+      ]
+    },
+    {
+      "question_id": "a29d0ba8-302b-4f31-a7c9-feaed4a59f94",
+      "subject": "Тест но определение готовности к обучению(ТГО)",
+      "topic": "Логика",
+      "text": "Розы — 11%\nРомашки — 13%\nЛилии — 15%\nИрисы — 17%\nХризантемы — 20%\nТюльпаны — оставшаяся доля\nПионы — оставшаяся доля. В цветочном магазине проходит распродажа букетов. Количество проданных букетов составило 700. Сколько букетов из роз было продано?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e7d746cd-d8ee-4eb3-b7df-8d195017fd9b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Розы — 11%\nРомашки — 13%\nЛилии — 15%\nИрисы — 17%\nХризантемы — 20%\nТюльпаны — оставшаяся доля\nПионы — оставшаяся доля. В цветочном магазине проходит распродажа букетов. Количество проданных букетов составило 700. Сколько букетов из роз было продано?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "d04e20ec-daef-4606-ac6c-b2c7ce8463fe",
+          "text": "44",
+          "is_correct": false
+        },
+        {
+          "id": "569101de-dc09-4d4a-b5bf-407a33b5013c",
+          "text": "22",
+          "is_correct": false
+        },
+        {
+          "id": "fb4a5098-1424-4c99-9a74-c55c6fbd096e",
+          "text": "33",
+          "is_correct": false
+        },
+        {
+          "id": "df6be45c-6afd-43de-8ee5-2e899eae1086",
+          "text": "77",
+          "is_correct": true
+        },
+        {
+          "id": "cfda32b6-d88d-4fd0-93ad-6d0eb5f6ea50",
+          "text": "55",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "df6be45c-6afd-43de-8ee5-2e899eae1086"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 15,
+    "correct_count": null,
+    "total": 40,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "db3d6f30-b39f-4445-8d51-9d996292df16",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why are Anna and Penelope taking a tour today? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7f4efae6-edd7-40c1-a64c-2b4f0396c61e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why are Anna and Penelope taking a tour today?"
+            },
+            "position": 1
+          },
+          {
+            "id": "cee511b7-d96b-4a41-b440-935d184eba27",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "34d36d39-344f-4356-945a-c2e421e0e883",
+            "text": "Penelope is leaving town on a boat.",
+            "is_correct": false
+          },
+          {
+            "id": "beda3016-65d9-4d00-86f5-765c84bde645",
+            "text": "Anna is visiting the city for the first time.",
+            "is_correct": false
+          },
+          {
+            "id": "2872c03e-c6a0-4d71-bed3-188096ca77be",
+            "text": "Penelope is new to the city and a tour is the best way to see it.",
+            "is_correct": true
+          },
+          {
+            "id": "04947fb8-e5fe-46d6-aa85-515231a80ab5",
+            "text": "Anna is leaving Washington, D.C. on one of her trips.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "2872c03e-c6a0-4d71-bed3-188096ca77be"
+        ]
+      },
+      {
+        "question_id": "50c01dd4-1b4b-497f-b583-08dffe3660eb",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why was the DC Duck Boat created? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7589f335-af78-48b2-a72d-dd65b6702635",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why was the DC Duck Boat created?"
+            },
+            "position": 1
+          },
+          {
+            "id": "3fe959ef-e92c-43dc-a753-bcdeb483a16f",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "46b9e100-8ca2-4146-82f7-0646b4aeea5e",
+            "text": "To carry people and supplies during World War II.",
+            "is_correct": true
+          },
+          {
+            "id": "7240904d-5cf0-40b1-a25f-a30e2c4ecd39",
+            "text": "To give interesting tours with fun facts.",
+            "is_correct": false
+          },
+          {
+            "id": "481f888d-3d34-4480-be60-dc526f3cd960",
+            "text": "To bring visitors to Washington from across the river.",
+            "is_correct": false
+          },
+          {
+            "id": "5be43c08-5a0d-44c5-8b40-a2f920f5fbd1",
+            "text": "To be the first boat that flies through the air.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "46b9e100-8ca2-4146-82f7-0646b4aeea5e"
+        ]
+      },
+      {
+        "question_id": "3db85909-deee-4a52-b7c6-092e33de4417",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Which of these sentences use prepositions? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "2cffc780-a4ba-4882-9f87-442f931339a5",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which of these sentences use prepositions?"
+            },
+            "position": 1
+          },
+          {
+            "id": "f096f243-a3e6-4e86-b3ed-7982d48940cf",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "2dffa77b-aa28-4c75-a1fd-5a7609b00385",
+            "text": "“Hey, the Washington Monument is on the left!”",
+            "is_correct": false
+          },
+          {
+            "id": "a8b8007c-f3f5-46c4-a8ee-2b136eba427f",
+            "text": "“It would be so awesome to ride around the city in a boat!”",
+            "is_correct": false
+          },
+          {
+            "id": "ba44dca3-0de4-4a57-97ed-678d713b6019",
+            "text": "“There are so many beautiful buildings along this road!”",
+            "is_correct": false
+          },
+          {
+            "id": "04999c9e-1095-4235-a51a-beadb2e8af4e",
+            "text": "All of these sentences use prepositions.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "04999c9e-1095-4235-a51a-beadb2e8af4e"
+        ]
+      },
+      {
+        "question_id": "f210bf58-83ce-40ba-9930-f8a36614b9e4",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does the boy say is unusual about the White House? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "801b220e-3b40-4baa-ac9e-154b556c0982",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does the boy say is unusual about the White House?"
+            },
+            "position": 1
+          },
+          {
+            "id": "270b65d0-533e-443e-937f-86273a80c902",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "d83d0e56-187d-4092-aa02-4c438a8b56b3",
+            "text": "There is an outdoor pool.",
+            "is_correct": false
+          },
+          {
+            "id": "b71ea930-38e6-4069-abd5-7f1954aef249",
+            "text": "He has two aunts who live there.",
+            "is_correct": false
+          },
+          {
+            "id": "4fa1d082-9305-4b5f-9f3f-a7370166b95a",
+            "text": "It has thirty-two bathrooms.",
+            "is_correct": true
+          },
+          {
+            "id": "5934acdb-5df6-4f56-b51b-388364f3d689",
+            "text": "There are police officers at its gate.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4fa1d082-9305-4b5f-9f3f-a7370166b95a"
+        ]
+      },
+      {
+        "question_id": "4863328b-1643-4860-9e54-d4397d0a075a",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What kind of tour does Anna choose? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c356fde4-135e-49b9-8fd7-7bc3a819c2ac",
+            "type": "TEXT",
+            "payload": {
+              "text": "What kind of tour does Anna choose?"
+            },
+            "position": 1
+          },
+          {
+            "id": "e4857727-8c8c-476a-b2aa-b804ac12f896",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "5adb71b6-6c45-4f40-ae98-cf65e57d242c",
+            "text": "Only a bus tour through the city.",
+            "is_correct": false
+          },
+          {
+            "id": "157c4a67-4585-44bb-b5e5-7e28f76a5554",
+            "text": "Only a boat tour along the river.",
+            "is_correct": false
+          },
+          {
+            "id": "423c7891-0d07-489c-90ff-59e6ef1393fb",
+            "text": "A tour that goes on the road and on the water.",
+            "is_correct": true
+          },
+          {
+            "id": "62ed21b5-cb55-4407-9359-f0fd19e079be",
+            "text": "A walking tour around the White House.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "423c7891-0d07-489c-90ff-59e6ef1393fb"
+        ]
+      },
+      {
+        "question_id": "03897989-b0e5-4491-a06b-bff679691fd2",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What is special about the DC Ducks? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "92e6b12c-cd4f-47dd-a813-12cde4cc75ea",
+            "type": "TEXT",
+            "payload": {
+              "text": "What is special about the DC Ducks?"
+            },
+            "position": 1
+          },
+          {
+            "id": "c8da4e44-5074-4c0e-a18a-e5e145fe7f27",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "afdd4b24-a102-4424-be16-f7ad5401d483",
+            "text": "It is a boat without seats.",
+            "is_correct": false
+          },
+          {
+            "id": "a69457be-d894-4611-b0d5-12242a2b63a8",
+            "text": "It is a boat with wheels.",
+            "is_correct": true
+          },
+          {
+            "id": "9b79c67d-ebf8-445a-a7a8-0891c4c4686b",
+            "text": "It is a bus that flies.",
+            "is_correct": false
+          },
+          {
+            "id": "f69077a7-5cff-454c-8724-9434dab82616",
+            "text": "It is a train that goes into the river.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a69457be-d894-4611-b0d5-12242a2b63a8"
+        ]
+      },
+      {
+        "question_id": "8d1e215e-7cac-4268-b772-552d57076036",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "What does Penelope read from the brochure? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "b79aa091-2758-4134-8199-5efa94b6458d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What does Penelope read from the brochure?"
+            },
+            "position": 1
+          },
+          {
+            "id": "355eaff8-05fb-4b14-af39-503ed933cef4",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "b7d7b701-9b23-46be-8da2-ba555c62b89f",
+            "text": "The Duck Boat was created for presidents.",
+            "is_correct": false
+          },
+          {
+            "id": "283da1c7-731b-4b76-941e-55f51a92bd2b",
+            "text": "The Duck Boat was built only for tourists.",
+            "is_correct": false
+          },
+          {
+            "id": "7c9b8444-8812-47ba-81e8-25b6e7dd62b8",
+            "text": "The Duck Boat was created during World War II.",
+            "is_correct": true
+          },
+          {
+            "id": "246df964-ac62-407e-a6c9-b3e19784b76e",
+            "text": "The Duck Boat was designed by the boy’s father.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7c9b8444-8812-47ba-81e8-25b6e7dd62b8"
+        ]
+      },
+      {
+        "question_id": "601a1900-7b73-4df8-97ad-4f33dec4d44e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why do Anna and Penelope like the boy? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "f12fbed3-e207-48ab-bb03-5a0821bea454",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why do Anna and Penelope like the boy?"
+            },
+            "position": 1
+          },
+          {
+            "id": "8642c32e-f64f-44c7-b7ce-10367518f750",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "9af8c6d8-c06b-4431-90eb-40de9b3617d7",
+            "text": "He drives the boat.",
+            "is_correct": false
+          },
+          {
+            "id": "7998b14b-f5e5-4c92-8bbc-1d3f3a2d2810",
+            "text": "He gives them free tickets.",
+            "is_correct": false
+          },
+          {
+            "id": "959ef826-6910-49ce-b112-245374fc04e3",
+            "text": "He knows many Fun Facts for the tour.",
+            "is_correct": true
+          },
+          {
+            "id": "20e55b84-ce94-49aa-8c4c-cfa65a3981b3",
+            "text": "He works at the White House.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "959ef826-6910-49ce-b112-245374fc04e3"
+        ]
+      },
+      {
+        "question_id": "772b078b-d8db-481c-b0c6-85dcd2161771",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Where is the Washington Monument when Anna sees it? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "245dd8cc-86cd-4d11-a1ba-e0de5e681af9",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where is the Washington Monument when Anna sees it?"
+            },
+            "position": 1
+          },
+          {
+            "id": "163c890e-9805-45cf-8622-45fd5fd3708c",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "78e5ca4d-ea4e-45da-b6fd-0b4981e28944",
+            "text": "On the right.",
+            "is_correct": false
+          },
+          {
+            "id": "68194f85-ffe0-4bff-ba6a-944867e90680",
+            "text": "On the left.",
+            "is_correct": true
+          },
+          {
+            "id": "2fab2e10-642a-46b5-a096-671c62d197fb",
+            "text": "Behind the White House.",
+            "is_correct": false
+          },
+          {
+            "id": "a0266e66-b45c-43c4-8c9c-ed9ec06c7a31",
+            "text": "Across from the river.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "68194f85-ffe0-4bff-ba6a-944867e90680"
+        ]
+      },
+      {
+        "question_id": "992f8bcc-75ab-4281-9f99-c8bc1f3c7db9",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Аудирование",
+        "text": "Why does Penelope think they should give the boy a tip? [AUDIO: https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3]",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "89528d5b-1f25-4b20-846e-4629d95535bf",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why does Penelope think they should give the boy a tip?"
+            },
+            "position": 1
+          },
+          {
+            "id": "f12550e0-c59d-4e4d-aaec-f670644aa506",
+            "type": "AUDIO",
+            "payload": {
+              "url": "media/4454cb207ef04de88d96c2aeea6e66ca.mp3",
+              "source": "minio",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/315895a1-4dc4-4ae0-8782-125e1d898d19.mp3"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "a3f0fbc3-96bf-4045-b6ce-d2b07da6c8c3",
+            "text": "Because he is the captain.",
+            "is_correct": false
+          },
+          {
+            "id": "28469b33-f147-4fa0-a437-d4c687d646d9",
+            "text": "Because he fixed the boat.",
+            "is_correct": false
+          },
+          {
+            "id": "c6588c70-5772-4d61-ba8e-236638b20f93",
+            "text": "Because he bought them tickets.",
+            "is_correct": false
+          },
+          {
+            "id": "e8e82396-22c3-4775-98c3-6433d7419b29",
+            "text": "Because he gave them a great Fun Fact.",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "e8e82396-22c3-4775-98c3-6433d7419b29"
+        ]
+      },
+      {
+        "question_id": "71cf3fc2-7a50-40d4-a060-1512d0b230a7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct pronoun: Lani complained that ... was exhausted.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b3058299-ca61-4d47-bab7-04b829570011",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct pronoun: Lani complained that ... was exhausted."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "79779c2f-9a61-4991-b1b5-b4c0c71c2c82",
+            "text": "he",
+            "is_correct": false
+          },
+          {
+            "id": "13022434-fc67-4120-b443-248fa371ab6f",
+            "text": "she",
+            "is_correct": true
+          },
+          {
+            "id": "872ac05a-bbb4-4b9c-b50c-970fcc1b425d",
+            "text": "they",
+            "is_correct": false
+          },
+          {
+            "id": "9b0f0209-ddc5-429e-9cec-3041f95a7995",
+            "text": "him",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "13022434-fc67-4120-b443-248fa371ab6f"
+        ]
+      },
+      {
+        "question_id": "afd66dba-a878-41ad-8758-c196aee17718",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct pronoun: Jeremy left the party early, so I did not see ... until Monday.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f127a808-0a63-4498-a6e0-8d2cf940bdc2",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct pronoun: Jeremy left the party early, so I did not see ... until Monday."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "355e91a8-31be-4f57-8681-f7f20e38ee46",
+            "text": "he",
+            "is_correct": false
+          },
+          {
+            "id": "1368472e-338f-44af-8d5d-2ddcf56ffc48",
+            "text": "she",
+            "is_correct": false
+          },
+          {
+            "id": "4df7a81c-4a48-4d84-bf9d-765653578ac5",
+            "text": "him",
+            "is_correct": true
+          },
+          {
+            "id": "a8eb1723-7501-407e-8b55-0a63c3dc5533",
+            "text": "they",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4df7a81c-4a48-4d84-bf9d-765653578ac5"
+        ]
+      },
+      {
+        "question_id": "79177e8b-1bc4-482a-b833-7af6771d8f1b",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct pronoun: Crina and Rosalie have been best friends ever since ... were freshmen in high school.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7f25e7e9-72af-42aa-93d9-110f8ddcfe6e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct pronoun: Crina and Rosalie have been best friends ever since ... were freshmen in high school."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "9ad0cdbc-5705-44c8-a543-d3c1b32d5723",
+            "text": "she",
+            "is_correct": false
+          },
+          {
+            "id": "d8bc3204-427d-40c2-9a36-9253dcf202a1",
+            "text": "her",
+            "is_correct": false
+          },
+          {
+            "id": "00bbc12c-4bb8-4af8-8b69-45796c730e2e",
+            "text": "they",
+            "is_correct": true
+          },
+          {
+            "id": "4106013a-e913-488b-a9db-c2d478799673",
+            "text": "them",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "00bbc12c-4bb8-4af8-8b69-45796c730e2e"
+        ]
+      },
+      {
+        "question_id": "31c8aa84-0306-4654-9919-9f9410a9223e",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "d450ac07-a3da-4aa1-b841-c8e8abb7db2e",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "607975dc-0ca8-4c31-8bee-4c1a84637130",
+            "text": "The man could not pick up his dry cleaning because they didn’t have a receipt.",
+            "is_correct": false
+          },
+          {
+            "id": "9819e651-5744-4107-ab23-4d458d1e0fda",
+            "text": "The man could not pick up his dry cleaning because he didn’t have a receipt.",
+            "is_correct": true
+          },
+          {
+            "id": "43fd5351-9f86-49e0-b236-272e7171f07c",
+            "text": "The man could not pick up his dry cleaning because them didn’t have a receipt.",
+            "is_correct": false
+          },
+          {
+            "id": "f3867d46-4adb-4558-a839-d57ba77cd7a2",
+            "text": "The man could not pick up his dry cleaning because him didn’t have a receipt.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "9819e651-5744-4107-ab23-4d458d1e0fda"
+        ]
+      },
+      {
+        "question_id": "5bd1bfb7-98dd-40d1-9607-59de6e25940c",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "3d303261-bded-48de-9325-e72f669ec3ef",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d1956396-0585-4dbf-8186-bb1fa7e799fb",
+            "text": "When a person goes to a restaurant, you should leave a tip.",
+            "is_correct": false
+          },
+          {
+            "id": "21a307b4-0f16-4233-b692-c79a31d68b63",
+            "text": "When a person goes to a restaurant, he or she should leave a tip.",
+            "is_correct": true
+          },
+          {
+            "id": "5a309426-9983-43f5-a0b1-774fc00f3d0a",
+            "text": "When a person goes to a restaurant, they should leaves a tip.",
+            "is_correct": false
+          },
+          {
+            "id": "99ac3317-d261-4bc8-b8e6-61394c8cec85",
+            "text": "When a person goes to a restaurant, him should leave a tip.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "21a307b4-0f16-4233-b692-c79a31d68b63"
+        ]
+      },
+      {
+        "question_id": "ac6bc5cf-4c1c-479e-b226-e7d580297952",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct revision: Meera and me enjoy doing yoga together on Sundays.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "dd698c8e-f152-400b-b1b2-de9a7c718096",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct revision: Meera and me enjoy doing yoga together on Sundays."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a93ed123-69a2-49f5-ab1d-ad3e08d6dda3",
+            "text": "Meera and me enjoy doing yoga together on Sundays.",
+            "is_correct": false
+          },
+          {
+            "id": "c5ba85fe-b140-4e5d-93c9-35ef7fef07e1",
+            "text": "Meera and I enjoy doing yoga together on Sundays.",
+            "is_correct": true
+          },
+          {
+            "id": "15fbef03-2f1c-4d3e-b462-60f209ac40a2",
+            "text": "Meera and her enjoy doing yoga together on Sundays.",
+            "is_correct": false
+          },
+          {
+            "id": "c4f0af16-d368-47f8-b51a-4a04ba01e428",
+            "text": "Meera and us enjoy doing yoga together on Sundays.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c5ba85fe-b140-4e5d-93c9-35ef7fef07e1"
+        ]
+      },
+      {
+        "question_id": "e3ef81a5-1394-412a-91cf-183b3fdbb7cb",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct revision: She and him have decided to sell their house.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "028e9e23-dc7d-4bb4-9770-6d4477ed6ad1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct revision: She and him have decided to sell their house."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fd9e5d00-7c41-4f90-96d2-f9fe3f7b7725",
+            "text": "Her and him have decided to sell their house.",
+            "is_correct": false
+          },
+          {
+            "id": "0e9ce3e6-07bb-4e98-b437-128618ac84bf",
+            "text": "She and him have decided to sell their house.",
+            "is_correct": false
+          },
+          {
+            "id": "7634cc1b-ee13-4e61-818f-459a5f14611c",
+            "text": "They have decided to sell their house.",
+            "is_correct": true
+          },
+          {
+            "id": "69596224-1873-4591-8de7-f8c935e8d15c",
+            "text": "Them have decided to sell their house.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "7634cc1b-ee13-4e61-818f-459a5f14611c"
+        ]
+      },
+      {
+        "question_id": "0d479afc-df6f-42f3-accd-b6b9b14370ec",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct phrase: Between you and ...",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "5fcc05f8-bb2f-43c2-bada-a5fea870aeba",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct phrase: Between you and ..."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3d8d3ae3-280c-4edc-88b4-8a6b4b797671",
+            "text": "I",
+            "is_correct": false
+          },
+          {
+            "id": "0e224038-4994-4913-b2b9-25eccb7c978b",
+            "text": "me",
+            "is_correct": true
+          },
+          {
+            "id": "41284162-3e29-432f-9f50-79fc3625ea5d",
+            "text": "my",
+            "is_correct": false
+          },
+          {
+            "id": "e9b38b8d-3d5e-413e-8f92-0f924beeadfe",
+            "text": "mine",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0e224038-4994-4913-b2b9-25eccb7c978b"
+        ]
+      },
+      {
+        "question_id": "b7ebc626-2573-46f8-8409-463937469cc7",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct revision: Us and our friends have game night every month.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "5167a415-968f-4311-9fa4-083e56ab0898",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct revision: Us and our friends have game night every month."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3f915023-7e9e-457c-b20a-d86664b37a31",
+            "text": "Us and our friends have game night every month.",
+            "is_correct": false
+          },
+          {
+            "id": "f831743a-3b4a-425b-897d-9ce190ed0c93",
+            "text": "We and our friends have game night every month.",
+            "is_correct": true
+          },
+          {
+            "id": "4d0d7357-3da4-48f1-8e3f-c9b1a37a8c90",
+            "text": "Them and our friends have game night every month.",
+            "is_correct": false
+          },
+          {
+            "id": "f2325e2c-8413-4c53-8144-6893bca31597",
+            "text": "Our and friends have game night every month.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f831743a-3b4a-425b-897d-9ce190ed0c93"
+        ]
+      },
+      {
+        "question_id": "a284a100-b115-4509-b247-45af80f7f7fe",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Грамматика",
+        "text": "Choose the correct sentence.",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "75b712f1-9e87-4a74-8d87-bdf2e020c78a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Choose the correct sentence."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "888453b6-3eb0-4b3f-adae-1db882dd2823",
+            "text": "They and I met while on vacation in Mexico.",
+            "is_correct": true
+          },
+          {
+            "id": "8fd5131a-4554-493f-ab3a-20a9a002a242",
+            "text": "Them and I met while on vacation in Mexico.",
+            "is_correct": false
+          },
+          {
+            "id": "ab4a3462-dfd9-4154-b9e4-109c05750aa2",
+            "text": "They and me met while on vacation in Mexico.",
+            "is_correct": false
+          },
+          {
+            "id": "828af3b0-f062-4a25-8f3c-fd2b36e1c236",
+            "text": "Them and me met while on vacation in Mexico.",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "888453b6-3eb0-4b3f-adae-1db882dd2823"
+        ]
+      },
+      {
+        "question_id": "d0a34fde-6165-48cc-b597-0476a9d347cb",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Read the text and choose the correct answer. A Job in the Film Industry. Interviewer: Dagmara, how did you first become connected with the film world? Dagmara: Well, many scenes from Schindler’s List were filmed in Krakow, Poland, and that is my home city. Before filming actually began, the film company opened an office in Krakow. I got work there translating papers, parts of the screenplay, and similar materials. At that time, I was still studying at university. Interviewer: How did you end up working directly on the film event? Dagmara: There was a large party at one of the hotels in Krakow, and I received an invitation. At first, I did not want to attend because I was tired after a full day of work and I felt I had nothing suitable to wear. Finally, I borrowed a jacket from a friend and decided to go. When I arrived, the Polish producer came over and told me that I had to interpret for Steven Spielberg. I needed to translate his opening speech because the young woman who was supposed to do it could not come. Interviewer: What was your reaction? Dagmara: I was shocked. I was only a student and had never worked as an interpreter before. Suddenly, I had to speak in front of hundreds of guests. I felt very nervous, so I drank two glasses of champagne to feel braver. When I began speaking, I was so anxious that I mixed up the dates of the Second World War. Fortunately, I finished the speech without any other mistakes. Interviewer: What is your opinion of the film? Dagmara: I think it is an excellent film. The actors were wonderful, especially Liam Neeson and Ben Kingsley. What does Dagmara think about Schindler’s List?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d8d00a88-1318-48c2-b31f-ec9683e6a62a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Read the text and choose the correct answer. A Job in the Film Industry. Interviewer: Dagmara, how did you first become connected with the film world? Dagmara: Well, many scenes from Schindler’s List were filmed in Krakow, Poland, and that is my home city. Before filming actually began, the film company opened an office in Krakow. I got work there translating papers, parts of the screenplay, and similar materials. At that time, I was still studying at university. Interviewer: How did you end up working directly on the film event? Dagmara: There was a large party at one of the hotels in Krakow, and I received an invitation. At first, I did not want to attend because I was tired after a full day of work and I felt I had nothing suitable to wear. Finally, I borrowed a jacket from a friend and decided to go. When I arrived, the Polish producer came over and told me that I had to interpret for Steven Spielberg. I needed to translate his opening speech because the young woman who was supposed to do it could not come. Interviewer: What was your reaction? Dagmara: I was shocked. I was only a student and had never worked as an interpreter before. Suddenly, I had to speak in front of hundreds of guests. I felt very nervous, so I drank two glasses of champagne to feel braver. When I began speaking, I was so anxious that I mixed up the dates of the Second World War. Fortunately, I finished the speech without any other mistakes. Interviewer: What is your opinion of the film? Dagmara: I think it is an excellent film. The actors were wonderful, especially Liam Neeson and Ben Kingsley. What does Dagmara think about Schindler’s List?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "9eab0e50-73cd-44a2-b0d4-f2a4662190ce",
+            "text": "it is undeveloped",
+            "is_correct": false
+          },
+          {
+            "id": "fd09d16a-8d53-4627-bf2a-67c2a24b5677",
+            "text": "it is boring",
+            "is_correct": false
+          },
+          {
+            "id": "84c2e669-c178-4a34-948a-106c27b8208c",
+            "text": "it is a great film",
+            "is_correct": true
+          },
+          {
+            "id": "5ea88ba1-a6f5-4487-88f2-3873f7b79f12",
+            "text": "it is unfinished",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "84c2e669-c178-4a34-948a-106c27b8208c"
+        ]
+      },
+      {
+        "question_id": "a2b043c2-ede3-4d5e-96f2-6ae3e1368c44",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Where did Dagmara meet Steven Spielberg?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "87364f63-0829-4772-935a-50954ccf4018",
+            "type": "TEXT",
+            "payload": {
+              "text": "Where did Dagmara meet Steven Spielberg?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7a317e3b-c44b-4e8f-96a7-5ed337a1fbea",
+            "text": "at the railway station",
+            "is_correct": false
+          },
+          {
+            "id": "5dbdb80d-57d5-49bd-8cc5-3e7692e50ac3",
+            "text": "at a restaurant",
+            "is_correct": false
+          },
+          {
+            "id": "0b90e25c-12d7-49e2-8208-37309b959e03",
+            "text": "at a hotel",
+            "is_correct": true
+          },
+          {
+            "id": "9707660d-25aa-4fbf-b720-a10e3e634a70",
+            "text": "at the airport",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "0b90e25c-12d7-49e2-8208-37309b959e03"
+        ]
+      },
+      {
+        "question_id": "fc4d3ebe-7ca0-4404-aceb-e11179f68f88",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What did Dagmara drink to feel more confident?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "6ded9846-ee27-4655-88fe-935ae28744b2",
+            "type": "TEXT",
+            "payload": {
+              "text": "What did Dagmara drink to feel more confident?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ef4de5ce-0a37-4d08-baa2-136decd460b0",
+            "text": "twelve glasses of wine",
+            "is_correct": false
+          },
+          {
+            "id": "c370f5a4-021a-4295-90dc-112b61d1fcc3",
+            "text": "two glasses of champagne",
+            "is_correct": true
+          },
+          {
+            "id": "091a82da-5e20-4d8a-b9fc-e8c7e52544d4",
+            "text": "two glasses of wine",
+            "is_correct": false
+          },
+          {
+            "id": "43cc1f21-c4a5-450c-a965-009cdf70401d",
+            "text": "twelve glasses of champagne",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c370f5a4-021a-4295-90dc-112b61d1fcc3"
+        ]
+      },
+      {
+        "question_id": "bef1f7fa-5042-475b-ab0d-f841a69980fd",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Why did Dagmara have to translate Spielberg’s speech?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "e480e8be-d688-486e-82cf-d01e643a5640",
+            "type": "TEXT",
+            "payload": {
+              "text": "Why did Dagmara have to translate Spielberg’s speech?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "8562e7a5-bddb-4092-97ed-85baec563bd3",
+            "text": "the girl who was supposed to do it could not come",
+            "is_correct": true
+          },
+          {
+            "id": "3932b239-3d17-4aa2-8536-5456153a47a0",
+            "text": "Spielberg personally invited her to the party",
+            "is_correct": false
+          },
+          {
+            "id": "8f5fb5a8-069f-4412-a1e4-08f739fb4ed6",
+            "text": "she insisted on doing it herself",
+            "is_correct": false
+          },
+          {
+            "id": "3ddcae6d-869c-46d0-92f1-4518bddaa49e",
+            "text": "Spielberg forced her to translate it",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "8562e7a5-bddb-4092-97ed-85baec563bd3"
+        ]
+      },
+      {
+        "question_id": "770c5b33-792a-472a-9585-06aae5105f35",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What event was Dagmara invited to in Krakow?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "982b8ad5-3848-47ec-9e79-b1552f242a12",
+            "type": "TEXT",
+            "payload": {
+              "text": "What event was Dagmara invited to in Krakow?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "7df6724c-8eb0-4998-907a-71cbd7438aa5",
+            "text": "a private date",
+            "is_correct": false
+          },
+          {
+            "id": "8f4e592b-6475-4362-8581-e0a814acde77",
+            "text": "a television programme",
+            "is_correct": false
+          },
+          {
+            "id": "9bc0649b-b0c2-4fd4-86b0-c30e44e1c8a3",
+            "text": "a stage performance",
+            "is_correct": false
+          },
+          {
+            "id": "1748e374-c05e-4f95-bbd0-c096e974a0d4",
+            "text": "a party",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "1748e374-c05e-4f95-bbd0-c096e974a0d4"
+        ]
+      },
+      {
+        "question_id": "3cf377fe-146c-4a09-af1f-f33b7081b718",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "How did Dagmara describe the actors in the film?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "b3068180-2467-4abd-9667-e95320ffeff8",
+            "type": "TEXT",
+            "payload": {
+              "text": "How did Dagmara describe the actors in the film?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "15b87483-fc4b-41b6-854a-a9f809ea952b",
+            "text": "brilliant",
+            "is_correct": true
+          },
+          {
+            "id": "13cd3828-7240-4ed0-9625-4535f3cabac9",
+            "text": "quite bad",
+            "is_correct": false
+          },
+          {
+            "id": "d3ed979f-cf44-4f37-90ad-b889e6f78d18",
+            "text": "boring",
+            "is_correct": false
+          },
+          {
+            "id": "a2f0e759-5a0f-4e5d-bbd5-dffa9920b657",
+            "text": "only quite good",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "15b87483-fc4b-41b6-854a-a9f809ea952b"
+        ]
+      },
+      {
+        "question_id": "7ee5a45e-642c-4ba6-8d54-337e2ab24381",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "Which actors did Dagmara especially praise?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0c88b5f6-8015-47a4-859a-d207dc268fe3",
+            "type": "TEXT",
+            "payload": {
+              "text": "Which actors did Dagmara especially praise?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5ccae92a-5c8c-4e06-b95b-46afd97f3d03",
+            "text": "Liam Hemsworth and Ben Stiller",
+            "is_correct": false
+          },
+          {
+            "id": "1b4df821-907b-4254-9c2e-d946d96f6400",
+            "text": "Liam Neeson and Liam Hemsworth",
+            "is_correct": false
+          },
+          {
+            "id": "cbd1320e-f1e1-40c0-8674-78484804b278",
+            "text": "Liam Neeson and Ben Kingsley",
+            "is_correct": true
+          },
+          {
+            "id": "b1da2baa-0e40-45ff-b84e-120ac0c6921f",
+            "text": "Liam Hemsworth and Ben Kingsley",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "cbd1320e-f1e1-40c0-8674-78484804b278"
+        ]
+      },
+      {
+        "question_id": "23622550-b685-4184-adf6-a7469d84059d",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What did the film company have in Krakow before shooting started?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "69cced46-2403-41d6-baf9-bcaa6a32683d",
+            "type": "TEXT",
+            "payload": {
+              "text": "What did the film company have in Krakow before shooting started?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a7b84bf6-519f-4692-bfb5-885b1944dc14",
+            "text": "a hotel",
+            "is_correct": false
+          },
+          {
+            "id": "86289e5a-7b21-46c9-8f7b-e54fa3b7c9e6",
+            "text": "a shop",
+            "is_correct": false
+          },
+          {
+            "id": "45984891-0bc9-4f86-b576-13d319d1e316",
+            "text": "a hostel",
+            "is_correct": false
+          },
+          {
+            "id": "965f491b-d789-4679-a6b5-da90395e1046",
+            "text": "an office",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "965f491b-d789-4679-a6b5-da90395e1046"
+        ]
+      },
+      {
+        "question_id": "15fdc7b6-db4a-4b35-92c9-155313d14858",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What was Dagmara doing for the film company before the party?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "47651fd3-cb8d-46b1-986b-451b450e0503",
+            "type": "TEXT",
+            "payload": {
+              "text": "What was Dagmara doing for the film company before the party?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "50de9e6b-a86e-43da-9722-6e356d04e8f0",
+            "text": "acting in the film",
+            "is_correct": false
+          },
+          {
+            "id": "d4b63c29-970d-43f5-9ca9-180e9e45de63",
+            "text": "selling cinema tickets",
+            "is_correct": false
+          },
+          {
+            "id": "3d4b4cd5-4219-415d-8387-5b6b2a26aeb3",
+            "text": "translating documents and parts of the script",
+            "is_correct": true
+          },
+          {
+            "id": "8a897ea5-72dc-4631-bca5-74bf3dfce98a",
+            "text": "directing scenes with actors",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3d4b4cd5-4219-415d-8387-5b6b2a26aeb3"
+        ]
+      },
+      {
+        "question_id": "35fc8ef1-dbda-4d29-848c-7f2e512d3918",
+        "subject": "Иностранный язык(Английский язык)",
+        "topic": "Чтение",
+        "text": "What mistake did Dagmara make during Spielberg’s speech?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "eb631ee4-04d2-4bad-ab46-be8eb9ea9f4f",
+            "type": "TEXT",
+            "payload": {
+              "text": "What mistake did Dagmara make during Spielberg’s speech?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "43ee3a3e-44f3-4b99-8122-43233a89c195",
+            "text": "she forgot Spielberg’s name",
+            "is_correct": false
+          },
+          {
+            "id": "1c654bd2-0aaf-42ca-9e82-474cdf3a56ae",
+            "text": "she left the hotel immediately",
+            "is_correct": false
+          },
+          {
+            "id": "96cb68b2-1819-4b17-b7fd-c6b9434fc178",
+            "text": "she spoke in the wrong language",
+            "is_correct": false
+          },
+          {
+            "id": "75e473d7-866d-4c76-9d35-a041ae7cb9e8",
+            "text": "she confused the dates of the Second World War",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "75e473d7-866d-4c76-9d35-a041ae7cb9e8"
+        ]
+      },
+      {
+        "question_id": "669397e1-474d-4bbd-894d-719af2a2a262",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Какую методологическую установку следует применить, чтобы глубоко понять разницу в «духовном контексте», который может быть сокрыт за словами этих суждений?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "06da06cc-783d-4b7a-88d3-12395d087c67",
+            "type": "TEXT",
+            "payload": {
+              "text": "Какую методологическую установку следует применить, чтобы глубоко понять разницу в «духовном контексте», который может быть сокрыт за словами этих суждений?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "122dd1fd-2a0d-4f59-a012-56da6142e888",
+            "text": "Метафизическую",
+            "is_correct": false
+          },
+          {
+            "id": "fe4e5239-4b01-4191-8800-93951fb85d6c",
+            "text": "Герменевтическую",
+            "is_correct": true
+          },
+          {
+            "id": "1d84dd00-bc85-4ae4-9c9a-747b47d586c9",
+            "text": "Антиковедческую",
+            "is_correct": false
+          },
+          {
+            "id": "e378aeb2-f971-4e32-a45c-a876aa4e57a9",
+            "text": "Либералистскую",
+            "is_correct": false
+          },
+          {
+            "id": "54a826b3-d395-424b-a8ca-00c3176a45e1",
+            "text": "Экзистенциалистскую",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "fe4e5239-4b01-4191-8800-93951fb85d6c"
+        ]
+      },
+      {
+        "question_id": "112d41d8-7cf0-490b-acc3-9e9e02dff9db",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Бернард Шоу писал: «Если у вас есть яблоко и у меня есть яблоко, и если мы обмениваемся этими яблоками, то у вас и у меня останется по яблоку. А если у вас есть […] и у меня есть […], и мы обмениваемся […], то у каждого из нас будет по две […]». Вставьте слово по смыслу.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7be844db-861f-4375-873c-5d4a884ddb1f",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бернард Шоу писал: «Если у вас есть яблоко и у меня есть яблоко, и если мы обмениваемся этими яблоками, то у вас и у меня останется по яблоку. А если у вас есть […] и у меня есть […], и мы обмениваемся […], то у каждого из нас будет по две […]». Вставьте слово по смыслу."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "66d02629-0bd3-4741-b438-77337dcfc31c",
+            "text": "деньги",
+            "is_correct": false
+          },
+          {
+            "id": "ce24e13a-3460-44b9-9d36-9400a494d3c9",
+            "text": "вещь",
+            "is_correct": false
+          },
+          {
+            "id": "f81619af-1bad-402a-8191-51ed5f81a72b",
+            "text": "дорога",
+            "is_correct": false
+          },
+          {
+            "id": "70199b0d-741f-4401-a108-852c0debf4ad",
+            "text": "квартира",
+            "is_correct": false
+          },
+          {
+            "id": "a5883543-7d02-4f5f-809c-d39ac33801f5",
+            "text": "идея",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "a5883543-7d02-4f5f-809c-d39ac33801f5"
+        ]
+      },
+      {
+        "question_id": "1d1650b0-4a66-4e72-8d3b-0b84be2dd9db",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "А.С. Пушкин писал: «Чем более мы холодны, расчетливы, осмотрительны, тем менее подвергаемся нападениям насмешки... однако есть люди, которые любят себя с такой нежностью..., что в них и […] имеет смешную сторону энтузиазма и чувствительности». Вставьте ключевое слово.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4bd4e793-9702-469d-825c-0a75246fee03",
+            "type": "TEXT",
+            "payload": {
+              "text": "А.С. Пушкин писал: «Чем более мы холодны, расчетливы, осмотрительны, тем менее подвергаемся нападениям насмешки... однако есть люди, которые любят себя с такой нежностью..., что в них и […] имеет смешную сторону энтузиазма и чувствительности». Вставьте ключевое слово."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "3bd9b293-b1bc-4f28-9847-bb464716ca5a",
+            "text": "сострадание",
+            "is_correct": false
+          },
+          {
+            "id": "a4af81ef-4637-40a5-8d77-e283f878c425",
+            "text": "восторг",
+            "is_correct": false
+          },
+          {
+            "id": "9ee53b3a-28ac-471e-b20b-6e8c4f6ad889",
+            "text": "осмотрительность",
+            "is_correct": false
+          },
+          {
+            "id": "80dfa65a-e1d7-4254-9aca-5effecd85244",
+            "text": "нежность",
+            "is_correct": false
+          },
+          {
+            "id": "2049b2c3-fa0d-49ee-bc1b-554fe560be29",
+            "text": "эгоизм",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "2049b2c3-fa0d-49ee-bc1b-554fe560be29"
+        ]
+      },
+      {
+        "question_id": "f3ffb8bf-a2eb-4881-8484-6e6ffd09004b",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Выберите тип научной деятельности, обозначаемый термином «монолог».",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0d775961-c407-4f7d-b0c7-6cc20b97fcda",
+            "type": "TEXT",
+            "payload": {
+              "text": "Выберите тип научной деятельности, обозначаемый термином «монолог»."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "eb1c578e-c3f6-443b-a4f7-cac463e4cc70",
+            "text": "диссертация",
+            "is_correct": true
+          },
+          {
+            "id": "0c320562-7137-478b-a23b-2614dd92a95e",
+            "text": "мозговая атака",
+            "is_correct": false
+          },
+          {
+            "id": "7cc900ef-ff77-42bd-bfd0-0d7ad538dcbe",
+            "text": "групповая дискуссия",
+            "is_correct": false
+          },
+          {
+            "id": "a1adc663-3f0d-4e43-989c-555192a994a0",
+            "text": "разговор по телефону",
+            "is_correct": false
+          },
+          {
+            "id": "b8904d8a-676a-4351-b00d-78866266970c",
+            "text": "партийное собрание",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "eb1c578e-c3f6-443b-a4f7-cac463e4cc70"
+        ]
+      },
+      {
+        "question_id": "b0d5a3c8-96a4-49c2-9f34-8a6c053f9f1e",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Аналитическое мышление",
+        "text": "Прежде чем вводить изменения в жизнь народа, необходимо хорошо изучить его быт, традиции и образ жизни\n\nСообразуясь с цитатой, укажите, что предлагает И. Алтынсарин.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e460cc59-5a8f-4194-8dbf-239ae41dc7ad",
+            "type": "TEXT",
+            "payload": {
+              "text": "Прежде чем вводить изменения в жизнь народа, необходимо хорошо изучить его быт, традиции и образ жизни\n\nСообразуясь с цитатой, укажите, что предлагает И. Алтынсарин."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6ca19ea3-9fe3-4548-a735-1388f0db8c10",
+            "text": "Познать нацию, чтобы понять, как она может ослабнуть",
+            "is_correct": false
+          },
+          {
+            "id": "a0044cc9-1553-42d9-bf1f-10828f3b4a8c",
+            "text": "Познать природу, а потом уже преобразовывать её",
+            "is_correct": false
+          },
+          {
+            "id": "5fef7585-311c-433b-bdf6-b5bfc49ba6a2",
+            "text": "Познать народную жизнь, прежде чем ее искусственно изменить",
+            "is_correct": true
+          },
+          {
+            "id": "247fbb5d-8260-404b-8fe7-d6a9c996ceab",
+            "text": "Познать наличие у народа предрасположенности к агрокультуре",
+            "is_correct": false
+          },
+          {
+            "id": "1d7c6ae6-40e0-4f7b-bed5-c72624ebecfd",
+            "text": "Быть разумными в отношении окружающей природы",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5fef7585-311c-433b-bdf6-b5bfc49ba6a2"
+        ]
+      },
+      {
+        "question_id": "51dac216-3268-47a8-a20b-d69d8c2b0f2e",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Бір тіктөртбұрыш ұзындығы бойынша 4 бірдей бөлікке бөлінген. Барлығы неше тіктөртбұрыш алуға болады?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "79290d87-66ad-4864-85b3-7ec060faed3c",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бір тіктөртбұрыш ұзындығы бойынша 4 бірдей бөлікке бөлінген. Барлығы неше тіктөртбұрыш алуға болады?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d073d708-b70b-48b6-944c-6073808beb71",
+            "text": "4",
+            "is_correct": false
+          },
+          {
+            "id": "05333b88-50dd-4e99-94f7-838bbfad4f88",
+            "text": "9",
+            "is_correct": false
+          },
+          {
+            "id": "5654c7de-35ec-4aea-92f5-3b97d340dba5",
+            "text": "10",
+            "is_correct": true
+          },
+          {
+            "id": "2c407dfc-3f0f-4641-ad78-9a7cbc985c3f",
+            "text": "5",
+            "is_correct": false
+          },
+          {
+            "id": "89bc50b7-6ab8-477d-8b60-05fbbbc49196",
+            "text": "8",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5654c7de-35ec-4aea-92f5-3b97d340dba5"
+        ]
+      },
+      {
+        "question_id": "d03e21fb-e164-4c15-bc8a-febf0a226c82",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "Бір түзудің бойында жатпайтын 6 нүкте берілген. Осы нүктелерден неше үшбұрыш құрастыруға болады?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "03bbf18b-4970-470e-8de5-32600f98fab0",
+            "type": "TEXT",
+            "payload": {
+              "text": "Бір түзудің бойында жатпайтын 6 нүкте берілген. Осы нүктелерден неше үшбұрыш құрастыруға болады?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fd30feb4-fc08-4e4d-84c2-660ac398a8ef",
+            "text": "19",
+            "is_correct": false
+          },
+          {
+            "id": "e17631da-0e44-49bd-ab1b-de3b2e471d8d",
+            "text": "12",
+            "is_correct": false
+          },
+          {
+            "id": "5f530cc9-455b-4dab-a927-0b964e64328f",
+            "text": "20",
+            "is_correct": true
+          },
+          {
+            "id": "beddbb83-0c69-4aac-b333-bcad19c30d00",
+            "text": "8",
+            "is_correct": false
+          },
+          {
+            "id": "f150f0a2-4370-4d95-b0ac-ed2d82b3b2d7",
+            "text": "24",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5f530cc9-455b-4dab-a927-0b964e64328f"
+        ]
+      },
+      {
+        "question_id": "86548130-2c64-4b60-930e-fc7a49212593",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Критическое мышление",
+        "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "95fe64ee-c854-4bd2-b486-ee35d7f6bd04",
+            "type": "TEXT",
+            "payload": {
+              "text": "a мен b бүтін оң сандар. a-ның 5 пайызы b-ның 2 пайызына тең. Сонда A = a, B = 52. Шамалар жөнінде дұрыс айтылған тұжырымды табыңыз."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "f770fb40-c724-44eb-8a75-938f8e036e14",
+            "text": "Берілген мәліметтер қандай да бір тұжырым жасауға жеткіліксіз",
+            "is_correct": true
+          },
+          {
+            "id": "b5f825c0-51d6-4563-9f73-b426a7b9eb85",
+            "text": "A < B",
+            "is_correct": false
+          },
+          {
+            "id": "dbb02317-7b2f-41fd-bd8f-ca87edf9d3d8",
+            "text": "A = B",
+            "is_correct": false
+          },
+          {
+            "id": "876dccaf-0c95-48c0-9915-2734e7ad0bc8",
+            "text": "B < A",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f770fb40-c724-44eb-8a75-938f8e036e14"
+        ]
+      },
+      {
+        "question_id": "28623457-205b-4da2-b3d5-3b6ef8654533",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "По диаграмме первая бригада строителей работала меньше всего. Вторая бригада работала в 2 раза больше, чем первая. Третья бригада работала в 2 раза больше, чем вторая. Определите работу четвертой бригады. [IMAGE: https://s3.academy-ai.kz/magistratura-media/uploads/1e8be76e-2996-44ce-a30f-d9cb4bfeecbc.png]",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d407205f-282e-4fca-a2a7-aaeb73ce84df",
+            "type": "TEXT",
+            "payload": {
+              "text": "По диаграмме первая бригада строителей работала меньше всего. Вторая бригада работала в 2 раза больше, чем первая. Третья бригада работала в 2 раза больше, чем вторая. Определите работу четвертой бригады."
+            },
+            "position": 1
+          },
+          {
+            "id": "3710f858-35bd-429c-b07e-67a12a009b96",
+            "type": "IMAGE",
+            "payload": {
+              "url": "media/eb3f2d12dd374603aa7cbef6e0c58fd6.png",
+              "source": "external",
+              "original_url": "https://s3.academy-ai.kz/magistratura-media/uploads/1e8be76e-2996-44ce-a30f-d9cb4bfeecbc.png"
+            },
+            "position": 2
+          }
+        ],
+        "options": [
+          {
+            "id": "df705bfe-a5ea-4927-bc25-538818acd777",
+            "text": "30",
+            "is_correct": false
+          },
+          {
+            "id": "5e68578f-519c-401c-b228-184062d6e9df",
+            "text": "20",
+            "is_correct": false
+          },
+          {
+            "id": "e6060ce5-b04c-4c24-96b7-4caaa7289a80",
+            "text": "50",
+            "is_correct": true
+          },
+          {
+            "id": "4aa99ba2-bee0-4ced-8c80-106bfd9a8464",
+            "text": "10",
+            "is_correct": false
+          },
+          {
+            "id": "212e1e73-bb1b-4c97-a317-c0e564d54efa",
+            "text": "40",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "e6060ce5-b04c-4c24-96b7-4caaa7289a80"
+        ]
+      },
+      {
+        "question_id": "a29d0ba8-302b-4f31-a7c9-feaed4a59f94",
+        "subject": "Тест но определение готовности к обучению(ТГО)",
+        "topic": "Логика",
+        "text": "Розы — 11%\nРомашки — 13%\nЛилии — 15%\nИрисы — 17%\nХризантемы — 20%\nТюльпаны — оставшаяся доля\nПионы — оставшаяся доля. В цветочном магазине проходит распродажа букетов. Количество проданных букетов составило 700. Сколько букетов из роз было продано?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e7d746cd-d8ee-4eb3-b7df-8d195017fd9b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Розы — 11%\nРомашки — 13%\nЛилии — 15%\nИрисы — 17%\nХризантемы — 20%\nТюльпаны — оставшаяся доля\nПионы — оставшаяся доля. В цветочном магазине проходит распродажа букетов. Количество проданных букетов составило 700. Сколько букетов из роз было продано?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "d04e20ec-daef-4606-ac6c-b2c7ce8463fe",
+            "text": "44",
+            "is_correct": false
+          },
+          {
+            "id": "569101de-dc09-4d4a-b5bf-407a33b5013c",
+            "text": "22",
+            "is_correct": false
+          },
+          {
+            "id": "fb4a5098-1424-4c99-9a74-c55c6fbd096e",
+            "text": "33",
+            "is_correct": false
+          },
+          {
+            "id": "df6be45c-6afd-43de-8ee5-2e899eae1086",
+            "text": "77",
+            "is_correct": true
+          },
+          {
+            "id": "cfda32b6-d88d-4fd0-93ad-6d0eb5f6ea50",
+            "text": "55",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "df6be45c-6afd-43de-8ee5-2e899eae1086"
+        ]
+      }
+    ]
+  }
+}

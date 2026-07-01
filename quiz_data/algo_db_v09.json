@@ -1,0 +1,2577 @@
+{
+  "variant_id": "algo_db_v09",
+  "title": "Алгоритмы + БД — Вариант 9",
+  "total_count": 30,
+  "attempt_id": "beb2174a-c235-42a9-8b8f-d6d77afca031",
+  "questions": [
+    {
+      "question_id": "5613a14b-08d0-45cd-b195-ec1545e22a2c",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Алгоритмы сортировки и поиска",
+      "text": "Как называется сортировка массива путем многократного поиска минимального элемента и перемещения его в начало?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0697e454-a028-4b82-977f-cb4aebac2519",
+          "type": "TEXT",
+          "payload": {
+            "text": "Как называется сортировка массива путем многократного поиска минимального элемента и перемещения его в начало?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "61999af9-51ae-4486-9bd8-a386b037a2f5",
+          "text": "сортировка с помощью бинарного дерева",
+          "is_correct": false
+        },
+        {
+          "id": "a35733db-99a6-47be-8b1c-1c8641df1c90",
+          "text": "сортировка выбором",
+          "is_correct": true
+        },
+        {
+          "id": "6c4f4d17-5e5c-4d04-a544-ec991d3072fd",
+          "text": "сортировка слиянием",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a35733db-99a6-47be-8b1c-1c8641df1c90"
+      ]
+    },
+    {
+      "question_id": "cc1f1321-5d1a-462e-a5b3-d8ff15c09146",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Алгоритмы сортировки и поиска",
+      "text": "На чем основан метод сортировки слиянием?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "fcc40cf5-bc4b-408b-9e8e-ea125292bac4",
+          "type": "TEXT",
+          "payload": {
+            "text": "На чем основан метод сортировки слиянием?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "07954ee5-4150-492b-95f3-7347839c3598",
+          "text": "на использовании бинарного дерева",
+          "is_correct": false
+        },
+        {
+          "id": "c5fa1bfd-cf01-4249-8547-f82ea6e50599",
+          "text": "на технике «разделяй и властвуй»",
+          "is_correct": true
+        },
+        {
+          "id": "7be3ace3-c671-4e09-abcf-25552194cb1d",
+          "text": "на простом обмене соседних элементов",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c5fa1bfd-cf01-4249-8547-f82ea6e50599"
+      ]
+    },
+    {
+      "question_id": "cd4bb605-b5c2-4956-ad83-d59d50d3dcde",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Алгоритмы сортировки и поиска",
+      "text": "При сортировке слиянием массив делится примерно на две равные части, и каждая из них сортируется...",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9ba9d9fb-94b7-4601-88fa-95eed27996cc",
+          "type": "TEXT",
+          "payload": {
+            "text": "При сортировке слиянием массив делится примерно на две равные части, и каждая из них сортируется..."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "2ac6112a-8921-4ef4-845a-dba8567c6c1b",
+          "text": "вместе",
+          "is_correct": false
+        },
+        {
+          "id": "3aff48c1-8c8d-4f39-b7fd-e7128c5cc551",
+          "text": "отдельно",
+          "is_correct": true
+        },
+        {
+          "id": "57f980e2-4de2-4363-b13f-756bad6f9ad9",
+          "text": "без деления",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "3aff48c1-8c8d-4f39-b7fd-e7128c5cc551"
+      ]
+    },
+    {
+      "question_id": "b70a751c-8c86-4c2c-b75b-525cf3983541",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Алгоритмы сортировки и поиска",
+      "text": "Какая сортировка, как и сортировка слиянием, использует метод «разделяй и властвуй»?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "88d0faaa-acf1-487d-b88a-78715f148c84",
+          "type": "TEXT",
+          "payload": {
+            "text": "Какая сортировка, как и сортировка слиянием, использует метод «разделяй и властвуй»?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4c030439-df29-468f-b269-4a052e48c704",
+          "text": "пузырьковая сортировка",
+          "is_correct": false
+        },
+        {
+          "id": "85b981c2-15c8-4a39-b1d7-befb9d351f4b",
+          "text": "быстрая сортировка",
+          "is_correct": true
+        },
+        {
+          "id": "8e153f0f-418f-455f-90ce-0d552615dc6d",
+          "text": "сортировка выбором",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "85b981c2-15c8-4a39-b1d7-befb9d351f4b"
+      ]
+    },
+    {
+      "question_id": "cee61a92-9b7b-42ce-b584-836a301cd59a",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+      "text": "1. Что НЕ является правдой из нижеследующего:",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "ceb03eb8-ee78-4a6e-9be4-fd4570cabe21",
+          "type": "TEXT",
+          "payload": {
+            "text": "1. Что НЕ является правдой из нижеследующего:"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5820d4d3-d353-4b92-9899-752177af53a1",
+          "text": "Название переменной не может начинаться с цифры",
+          "is_correct": false
+        },
+        {
+          "id": "42ad4c75-ab1a-4c11-82c6-5c42f3bae329",
+          "text": "Для объявления переменных нужно указывать спецификатор типа",
+          "is_correct": false
+        },
+        {
+          "id": "135f1659-0797-49d5-8e19-b525b30a933b",
+          "text": "В C++ допускается использование переменных без объявления",
+          "is_correct": true
+        },
+        {
+          "id": "23ddec52-f484-4d90-b130-cf4cdfe8c794",
+          "text": "Запрещается использование неинициализированных переменных",
+          "is_correct": false
+        },
+        {
+          "id": "381062f8-77b0-402d-abaa-f2550484c9c2",
+          "text": "Область действия идентификатора – это часть программы, в которой на идентификатор можно ссылаться",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "135f1659-0797-49d5-8e19-b525b30a933b"
+      ]
+    },
+    {
+      "question_id": "490227e5-e8c5-4eca-9283-004a6c76db33",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+      "text": "1. Что НЕ является правдой из нижеследующего:",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "9355af7d-8ff5-43df-adcd-4ae17ca4e343",
+          "type": "TEXT",
+          "payload": {
+            "text": "1. Что НЕ является правдой из нижеследующего:"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "df0aa711-e5ff-411d-a7dd-83b369f31199",
+          "text": "Название переменной не может начинаться с цифры",
+          "is_correct": false
+        },
+        {
+          "id": "92d25fb5-863f-49c0-b342-f80e41976612",
+          "text": "Для объявления переменных нужно указывать спецификатор типа",
+          "is_correct": false
+        },
+        {
+          "id": "c8dafb27-0470-4f51-b9cd-6fcd664bcbc0",
+          "text": "В C++ допускается использование переменных без объявления",
+          "is_correct": true
+        },
+        {
+          "id": "36ca1b55-35c2-44d2-8a75-2f6737d73b31",
+          "text": "Запрещается использование неинициализированных переменных",
+          "is_correct": false
+        },
+        {
+          "id": "5dd634c9-4738-4004-9352-40f6a14d12ff",
+          "text": "Область действия идентификатора – это часть программы, в которой на идентификатор можно ссылаться",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c8dafb27-0470-4f51-b9cd-6fcd664bcbc0"
+      ]
+    },
+    {
+      "question_id": "f8cdc981-fba2-4a3b-8fcd-f92442f7fccb",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+      "text": "1. Что НЕ является правдой из нижеследующего:",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7abd57c8-ceae-4e7b-9355-2ccfddf16d68",
+          "type": "TEXT",
+          "payload": {
+            "text": "1. Что НЕ является правдой из нижеследующего:"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "e80d2d8b-a6c3-4f4a-8a58-d398843ce551",
+          "text": "Название переменной не может начинаться с цифры",
+          "is_correct": false
+        },
+        {
+          "id": "8f7fea89-f024-4ead-a87c-5c3d4f2a77a3",
+          "text": "Для объявления переменных нужно указывать спецификатор типа",
+          "is_correct": false
+        },
+        {
+          "id": "4276d276-80ea-4c39-9172-41d04d32b42c",
+          "text": "В C++ допускается использование переменных без объявления",
+          "is_correct": true
+        },
+        {
+          "id": "d3c398c1-a2f4-4706-a62a-b7622b769b8f",
+          "text": "Запрещается использование неинициализированных переменных",
+          "is_correct": false
+        },
+        {
+          "id": "c0de6c42-dee6-4192-aea2-2baaa126b2d8",
+          "text": "Область действия идентификатора – это часть программы, в которой на идентификатор можно ссылаться",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4276d276-80ea-4c39-9172-41d04d32b42c"
+      ]
+    },
+    {
+      "question_id": "dd007a4f-9216-437a-a3e1-828b430aea21",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+      "text": "Программа на языке программирования C++ начинается с выполнения функции",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4f3f275c-db8c-4575-aa0b-b5c17f6b7de6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Программа на языке программирования C++ начинается с выполнения функции"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "92795873-4cdb-4195-9ef1-442352500479",
+          "text": "cin",
+          "is_correct": false
+        },
+        {
+          "id": "7defac42-0a8f-4028-a408-0dfe48e1281a",
+          "text": "factorial",
+          "is_correct": false
+        },
+        {
+          "id": "34448869-f606-4055-a0fa-5425f4441d70",
+          "text": "main",
+          "is_correct": true
+        },
+        {
+          "id": "d29241e4-33a4-462d-bdc6-b0d8f95ddbbd",
+          "text": "cout",
+          "is_correct": false
+        },
+        {
+          "id": "f30622fd-6d76-4dae-9465-f538cb659d40",
+          "text": "sum",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "34448869-f606-4055-a0fa-5425f4441d70"
+      ]
+    },
+    {
+      "question_id": "12808049-71d1-44ca-b5d4-532b38f08879",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+      "text": "Переменная типа float содержит",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "7b6a5914-944b-4185-8957-32dea6526bfa",
+          "type": "TEXT",
+          "payload": {
+            "text": "Переменная типа float содержит"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "579a2b61-6cb5-41bc-b5be-6ce35dda355a",
+          "text": "строковые значения",
+          "is_correct": false
+        },
+        {
+          "id": "1c7280d0-18ef-4bcb-8761-7731808c6a1d",
+          "text": "действительные числа",
+          "is_correct": true
+        },
+        {
+          "id": "b5822397-1147-46e4-bd23-834237a7e51f",
+          "text": "текстовые значения",
+          "is_correct": false
+        },
+        {
+          "id": "f9509bfb-75a6-4bdf-8b64-a0727c276fe7",
+          "text": "графы",
+          "is_correct": false
+        },
+        {
+          "id": "73fd2fdf-af64-46ec-ae62-5896c3f2aec3",
+          "text": "целые числа",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "1c7280d0-18ef-4bcb-8761-7731808c6a1d"
+      ]
+    },
+    {
+      "question_id": "f1313f95-79cf-4ab3-9882-70bc0561f8d2",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Линейные структуры данных",
+      "text": "Один из способов задания элементов массива, который чаще применяется, когда между элементами нет зависимости, — это:",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4e215a9a-e0c2-491f-a8a7-c38143a51c8d",
+          "type": "TEXT",
+          "payload": {
+            "text": "Один из способов задания элементов массива, который чаще применяется, когда между элементами нет зависимости, — это:"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "81773bad-0475-4d83-9c83-46fe7fddf71e",
+          "text": "автоматическая сортировка",
+          "is_correct": false
+        },
+        {
+          "id": "5254b3a5-89d5-4aff-9ed9-3811616b3b62",
+          "text": "ввод с клавиатуры",
+          "is_correct": true
+        },
+        {
+          "id": "194ce8cf-0436-43eb-b7fc-eb50773ee6e5",
+          "text": "удаление массива",
+          "is_correct": false
+        },
+        {
+          "id": "ee249612-9132-45b6-b36d-6d141bc7937f",
+          "text": "ветвление программы",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "5254b3a5-89d5-4aff-9ed9-3811616b3b62"
+      ]
+    },
+    {
+      "question_id": "4068e59d-af07-4e9b-9a02-fb7f9be3e04a",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Линейные структуры данных",
+      "text": "Стек можно представить как узкую длинную трубу, один конец которой:",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "d0c8b901-4312-413d-af1b-4df8e4c41b4b",
+          "type": "TEXT",
+          "payload": {
+            "text": "Стек можно представить как узкую длинную трубу, один конец которой:"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "56574ae1-0585-448e-88ac-92d69d896844",
+          "text": "закрыт",
+          "is_correct": true
+        },
+        {
+          "id": "f2f6fe12-420e-4fbb-86d8-6edf31b62712",
+          "text": "открыт с двух сторон",
+          "is_correct": false
+        },
+        {
+          "id": "fff64f9b-8bb6-4f86-baa4-5c545bde3563",
+          "text": "является индексом",
+          "is_correct": false
+        },
+        {
+          "id": "56e48402-ded7-4ebc-bcb8-f37a52853946",
+          "text": "является массивом",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "56574ae1-0585-448e-88ac-92d69d896844"
+      ]
+    },
+    {
+      "question_id": "70ce6498-f9fa-4545-a9ed-ad738ff594c8",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Линейные структуры данных",
+      "text": "Указатель на начало очереди обычно обозначается как:",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "f975da78-38b3-4df3-b64c-7edc01fee155",
+          "type": "TEXT",
+          "payload": {
+            "text": "Указатель на начало очереди обычно обозначается как:"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "6a890654-2141-429f-adaa-7da7e00eee35",
+          "text": "add",
+          "is_correct": false
+        },
+        {
+          "id": "6fb898fd-ed19-4d35-8387-ca0ac7ff0958",
+          "text": "pbeg",
+          "is_correct": true
+        },
+        {
+          "id": "4cc04a8a-d551-4e88-9e19-d3958ff33abe",
+          "text": "break",
+          "is_correct": false
+        },
+        {
+          "id": "fed8d468-67d9-4512-b5da-ef3af7b09b8c",
+          "text": "char",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "6fb898fd-ed19-4d35-8387-ca0ac7ff0958"
+      ]
+    },
+    {
+      "question_id": "0b792554-9708-4f47-af2a-8bb2753879d0",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Дерево и двоичная куча.",
+      "text": "Множество, не содержащее ни одного непосредственно следующего для дерева или содержащее несколько непосредственно следующих деревьев.",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0e250ce4-b751-4e89-b2a7-f8d2783b1d52",
+          "type": "TEXT",
+          "payload": {
+            "text": "Множество, не содержащее ни одного непосредственно следующего для дерева или содержащее несколько непосредственно следующих деревьев."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "bd6c0eea-f351-44bf-8d92-d1e5501ec0bd",
+          "text": "поддерево",
+          "is_correct": false
+        },
+        {
+          "id": "109e69ec-b86c-4527-b346-501604ae525c",
+          "text": "лес",
+          "is_correct": true
+        },
+        {
+          "id": "5444ae32-fefe-4099-ab3e-e560a9e613be",
+          "text": "массив",
+          "is_correct": false
+        },
+        {
+          "id": "163bf84d-e940-4fda-a4a0-8235eb7330b9",
+          "text": "узел",
+          "is_correct": false
+        },
+        {
+          "id": "6242f484-c07a-4886-badf-a83ff0e1f54c",
+          "text": "список",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "109e69ec-b86c-4527-b346-501604ae525c"
+      ]
+    },
+    {
+      "question_id": "985ed8e3-e0c3-4c3d-8d90-0c86d93e5800",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Функции и рекурсивные функции",
+      "text": "Функция может принимать...",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e9c84ab6-0393-4f07-a277-c3bb3442b234",
+          "type": "TEXT",
+          "payload": {
+            "text": "Функция может принимать..."
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "25a64e63-a48e-4ee8-a6a1-7ff9f42bac57",
+          "text": "Параметры",
+          "is_correct": true
+        },
+        {
+          "id": "2c400252-6fa2-4089-82f7-8059c53478ba",
+          "text": "Индексы",
+          "is_correct": false
+        },
+        {
+          "id": "92eaab5c-95b6-46ed-81c1-73e79cc4362b",
+          "text": "Операторы",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "25a64e63-a48e-4ee8-a6a1-7ff9f42bac57"
+      ]
+    },
+    {
+      "question_id": "a15ecc82-8844-49ef-9433-d080cc718337",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Функции и рекурсивные функции",
+      "text": "Что сохраняется в стеке при вызове функции вместе с адресом возврата?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "402b6536-d558-409e-a364-f20baed7679a",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что сохраняется в стеке при вызове функции вместе с адресом возврата?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "939125bc-c0cc-4805-a595-3cc0f4fa8434",
+          "text": "Значения параметров",
+          "is_correct": true
+        },
+        {
+          "id": "ee3adc79-b355-408c-9508-b30df07f0d3d",
+          "text": "Размер",
+          "is_correct": false
+        },
+        {
+          "id": "89b1434d-dd9d-4050-b64c-17e1b985e865",
+          "text": "Имя функции",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "939125bc-c0cc-4805-a595-3cc0f4fa8434"
+      ]
+    },
+    {
+      "question_id": "cbd5e052-bdb5-4541-a92f-217939309def",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Функции и рекурсивные функции",
+      "text": "Через что всегда передается массив?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "8f2a2350-5773-42ef-b101-19554927b036",
+          "type": "TEXT",
+          "payload": {
+            "text": "Через что всегда передается массив?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "eced7d41-600e-4553-8416-1159490eb3ee",
+          "text": "Тип",
+          "is_correct": false
+        },
+        {
+          "id": "622a3de7-2a2b-47e3-87e6-9ef8b3f5d994",
+          "text": "Адрес",
+          "is_correct": true
+        },
+        {
+          "id": "f2f4faef-19da-423b-a745-7c50640ca16b",
+          "text": "Имя",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "622a3de7-2a2b-47e3-87e6-9ef8b3f5d994"
+      ]
+    },
+    {
+      "question_id": "bea6d083-a8e3-4af9-a28f-1fe3ee9254a5",
+      "subject": "Алгоритмы и структуры данных",
+      "topic": "Функции и рекурсивные функции",
+      "text": "Что происходит с индексом массива внутри функции во время выполнения программы?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "4b187084-8116-4fda-9c34-0fcb2d684054",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что происходит с индексом массива внутри функции во время выполнения программы?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "4d68a2e1-d7bc-4094-89e0-afdc0bbaaa13",
+          "text": "Пересчитывается",
+          "is_correct": true
+        },
+        {
+          "id": "a0805907-d1d8-436c-a1da-2d3493cfa8c9",
+          "text": "Удаляется",
+          "is_correct": false
+        },
+        {
+          "id": "931b1152-f2fa-4a94-bf5e-fa962cbd8f22",
+          "text": "Изменяет тип массива",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "4d68a2e1-d7bc-4094-89e0-afdc0bbaaa13"
+      ]
+    },
+    {
+      "question_id": "0d959c37-a312-448d-9fef-d4413e76501c",
+      "subject": "База данных",
+      "topic": "Архитектура СУБД. Архитектура «файл-сервер». Архитектура «клиент-сервер», трех-уров...",
+      "text": "Что означает CDC в базах данных?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "c0d7cbba-a68e-4920-a5f1-da80ab1a3ace",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что означает CDC в базах данных?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a8161283-59e6-4699-9e61-720d9b436be4",
+          "text": "Функция для замены символов в строке",
+          "is_correct": false
+        },
+        {
+          "id": "245b6294-9b51-4d70-9495-9239a57c540b",
+          "text": "Change Data Capture — отслеживание изменений в данных для синхронизации или передачи в другие системы",
+          "is_correct": true
+        },
+        {
+          "id": "2e9d8087-b66f-43d7-92a0-9d8c243ff10b",
+          "text": "Правило написания псевдонимов столбцов в SELECT",
+          "is_correct": false
+        },
+        {
+          "id": "5c30b00e-4557-4045-8f3b-ea47528ff132",
+          "text": "Нормальная форма для удаления частичных зависимостей",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "245b6294-9b51-4d70-9495-9239a57c540b"
+      ]
+    },
+    {
+      "question_id": "2799e7fe-706b-4be1-99ee-8c8dfcf8c0f5",
+      "subject": "База данных",
+      "topic": "Архитектура СУБД. Архитектура «файл-сервер». Архитектура «клиент-сервер», трех-уров...",
+      "text": "Как в Oracle можно написать рекурсивный запрос?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "a76f86b2-9339-4f99-9568-787689d00481",
+          "type": "TEXT",
+          "payload": {
+            "text": "Как в Oracle можно написать рекурсивный запрос?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "ee66f50c-f1cd-4d2f-8c91-39551b8ed6a6",
+          "text": "Использовать иерархический запрос через START WITH ... CONNECT BY или рекурсивный WITH",
+          "is_correct": true
+        },
+        {
+          "id": "ae6009e4-4381-4c8c-874b-e365d29e1a69",
+          "text": "Использовать DROP TABLE, чтобы пересоздать таблицу перед запросом",
+          "is_correct": false
+        },
+        {
+          "id": "d507507d-420b-4641-9760-345546a8871b",
+          "text": "Использовать COMMIT, чтобы повторить запрос несколько раз",
+          "is_correct": false
+        },
+        {
+          "id": "e12817c8-d0ca-4a79-b7b2-2d1738a9808c",
+          "text": "Использовать GRANT, чтобы связать строки между собой",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "ee66f50c-f1cd-4d2f-8c91-39551b8ed6a6"
+      ]
+    },
+    {
+      "question_id": "263820f1-1471-45a6-b774-69c24423f24f",
+      "subject": "База данных",
+      "topic": "Архитектура СУБД. Архитектура «файл-сервер». Архитектура «клиент-сервер», трех-уров...",
+      "text": "Для чего используется Model Clause в Oracle?",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "blocks": [
+        {
+          "id": "0cb83957-3a57-4374-a238-084b07a0ed49",
+          "type": "TEXT",
+          "payload": {
+            "text": "Для чего используется Model Clause в Oracle?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "0eb218e5-91f9-4a63-8500-92b4c8afaffd",
+          "text": "Для удаления таблицы вместе со всеми индексами",
+          "is_correct": false
+        },
+        {
+          "id": "c9158fa1-f0d6-41a1-9150-2dcc942f02c8",
+          "text": "Для выполнения расчетов в запросе по правилам, похожим на работу с многомерной таблицей",
+          "is_correct": true
+        },
+        {
+          "id": "ac138282-fa02-48de-b6c3-db9bc8937801",
+          "text": "Для создания обычного внешнего ключа между таблицами",
+          "is_correct": false
+        },
+        {
+          "id": "eca58e02-7e30-4707-a3c3-763876fada61",
+          "text": "Для выдачи прав доступа пользователю",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "c9158fa1-f0d6-41a1-9150-2dcc942f02c8"
+      ]
+    },
+    {
+      "question_id": "6b496206-12a9-4845-84e2-7e2fe665b61c",
+      "subject": "База данных",
+      "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+      "text": "Что такое JOIN в SQL?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "41aaa0c7-08b2-4327-be4b-74119f869687",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что такое JOIN в SQL?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "cda5a7ce-6039-4361-afb8-391482836e97",
+          "text": "Функция для округления чисел",
+          "is_correct": false
+        },
+        {
+          "id": "d21119f0-1911-4f5b-8309-44b23a8a0eb4",
+          "text": "Операция соединения строк из нескольких таблиц по связанным данным",
+          "is_correct": true
+        },
+        {
+          "id": "99f04e98-67f9-4e65-9ed8-3c69ebd83b08",
+          "text": "Оператор фиксации транзакции",
+          "is_correct": false
+        },
+        {
+          "id": "015b6844-798d-4868-b8d1-06e8188fce60",
+          "text": "Команда для удаления базы данных",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "d21119f0-1911-4f5b-8309-44b23a8a0eb4"
+      ]
+    },
+    {
+      "question_id": "6a7f7467-11bf-4c8b-8fed-691884caef61",
+      "subject": "База данных",
+      "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+      "text": "Чем представление отличается от обычной таблицы?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "c9564c77-82ce-4f6b-ac52-b717bec62b49",
+          "type": "TEXT",
+          "payload": {
+            "text": "Чем представление отличается от обычной таблицы?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "33a6d86c-508b-4af6-9dd0-8dd493b6e96d",
+          "text": "Таблицу нельзя читать через SELECT",
+          "is_correct": false
+        },
+        {
+          "id": "507b42a6-60c2-42d8-9670-43636c64f60f",
+          "text": "Представление всегда быстрее таблицы, потому что хранит все данные в памяти",
+          "is_correct": false
+        },
+        {
+          "id": "a8338dfe-629d-4d28-adc6-dbd32480feaf",
+          "text": "Представление обычно хранит запрос, а таблица хранит сами данные",
+          "is_correct": true
+        },
+        {
+          "id": "9e851ffd-acef-468a-95eb-ff280207e376",
+          "text": "Между ними нет никакой разницы",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a8338dfe-629d-4d28-adc6-dbd32480feaf"
+      ]
+    },
+    {
+      "question_id": "a9c534ca-f563-4e51-a81b-bbefd58d1766",
+      "subject": "База данных",
+      "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+      "text": "Как создать представление в SQL?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "55874cfa-7945-4030-8e15-687780ee2b67",
+          "type": "TEXT",
+          "payload": {
+            "text": "Как создать представление в SQL?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a1bfac2f-1f64-4975-9288-7f194bf571dc",
+          "text": "COMMIT VIEW view_name;",
+          "is_correct": false
+        },
+        {
+          "id": "21b0f844-4d7f-474e-9b21-0af9befae295",
+          "text": "DROP VIEW view_name;",
+          "is_correct": false
+        },
+        {
+          "id": "479897f0-eeab-4f3d-8a55-17ba08e3628c",
+          "text": "SELECT VIEW view_name FROM table_name;",
+          "is_correct": false
+        },
+        {
+          "id": "56573099-8176-4689-a661-85f6f2135b89",
+          "text": "CREATE VIEW view_name AS SELECT ...;",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "56573099-8176-4689-a661-85f6f2135b89"
+      ]
+    },
+    {
+      "question_id": "591e7995-09d1-4c8b-9276-fc02a10de1b0",
+      "subject": "База данных",
+      "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+      "text": "Что такое представление VIEW в SQL?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "0a57e0c5-99b2-46d8-b052-3ff41e8ba843",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что такое представление VIEW в SQL?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "af00ceba-cdcd-4268-8098-11e29585248c",
+          "text": "Виртуальная таблица, основанная на сохраненном SELECT-запросе",
+          "is_correct": true
+        },
+        {
+          "id": "af7a0e0f-74d4-41df-9286-bee7a3cfb2e6",
+          "text": "Индекс, который сортирует таблицу по ключу",
+          "is_correct": false
+        },
+        {
+          "id": "33d21cf1-32f8-41f9-a8f0-3528c117ba5d",
+          "text": "Команда для удаления всех строк",
+          "is_correct": false
+        },
+        {
+          "id": "73ac3e2b-0974-4bd8-bd89-017b5c446439",
+          "text": "Физическая копия таблицы, которая всегда хранит отдельные данные",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "af00ceba-cdcd-4268-8098-11e29585248c"
+      ]
+    },
+    {
+      "question_id": "b63cdcc5-9796-4d7e-be6a-d06b914c2519",
+      "subject": "База данных",
+      "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+      "text": "Как ограничить количество строк в результате запроса?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "e6e27f6d-aa76-484c-8eb5-2245785e43f6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Как ограничить количество строк в результате запроса?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "559133b2-8e15-487f-9c87-4c54c37ee47a",
+          "text": "Использовать GRANT",
+          "is_correct": false
+        },
+        {
+          "id": "afb2b2c8-bc48-43eb-bf1d-9aef9e4453c3",
+          "text": "Использовать LIMIT или аналогичный механизм конкретной СУБД",
+          "is_correct": true
+        },
+        {
+          "id": "462d1a73-ba71-44d5-bede-dd20e7eb01d7",
+          "text": "Использовать PRIMARY KEY",
+          "is_correct": false
+        },
+        {
+          "id": "ea085189-90c0-4566-9920-92faf12d6725",
+          "text": "Использовать DROP TABLE",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "afb2b2c8-bc48-43eb-bf1d-9aef9e4453c3"
+      ]
+    },
+    {
+      "question_id": "c50def7c-0320-4a46-a8eb-add1005a0499",
+      "subject": "База данных",
+      "topic": "Вложенные и связанные подзапросы SQL",
+      "text": "Что такое JOIN в SQL?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "68724a9a-7f3e-45a3-9a01-553c1f53bcc4",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что такое JOIN в SQL?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "fcbe9611-e393-4e3c-8e77-3b188bfaa853",
+          "text": "Команда для удаления базы данных",
+          "is_correct": false
+        },
+        {
+          "id": "f6b569be-fde3-4664-b63a-cce2b779a23a",
+          "text": "Операция соединения строк из нескольких таблиц по связанным данным",
+          "is_correct": true
+        },
+        {
+          "id": "9e4c2d92-3fd1-4dfb-9922-0c0623ca23d5",
+          "text": "Функция для округления чисел",
+          "is_correct": false
+        },
+        {
+          "id": "a56ce925-a7a0-4eec-939b-1305409c6c8e",
+          "text": "Оператор фиксации транзакции",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "f6b569be-fde3-4664-b63a-cce2b779a23a"
+      ]
+    },
+    {
+      "question_id": "dcb149bc-eb26-4bcf-a8b1-9a2491711f65",
+      "subject": "База данных",
+      "topic": "Вложенные и связанные подзапросы SQL",
+      "text": "Чем представление отличается от обычной таблицы?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "517b1dff-5aa0-432c-a884-a3a239c59af1",
+          "type": "TEXT",
+          "payload": {
+            "text": "Чем представление отличается от обычной таблицы?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "536def8f-ecba-4bb7-b24a-ed18ea425712",
+          "text": "Между ними нет никакой разницы",
+          "is_correct": false
+        },
+        {
+          "id": "e9c4c469-aefd-4107-a59a-e3968b01680e",
+          "text": "Таблицу нельзя читать через SELECT",
+          "is_correct": false
+        },
+        {
+          "id": "a4260843-ed40-41d9-b530-22ec072942bf",
+          "text": "Представление обычно хранит запрос, а таблица хранит сами данные",
+          "is_correct": true
+        },
+        {
+          "id": "fdee3b5c-0b4a-47d8-b96d-b5200358dbdf",
+          "text": "Представление всегда быстрее таблицы, потому что хранит все данные в памяти",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a4260843-ed40-41d9-b530-22ec072942bf"
+      ]
+    },
+    {
+      "question_id": "5dfd6d8f-348c-461d-9794-eff1cec148da",
+      "subject": "База данных",
+      "topic": "Вложенные и связанные подзапросы SQL",
+      "text": "Как создать представление в SQL?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "064a61af-a194-4fb4-adf4-3b6ce8ed48c6",
+          "type": "TEXT",
+          "payload": {
+            "text": "Как создать представление в SQL?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "732c26a6-eb8b-4c0b-af24-b57fda019e7b",
+          "text": "COMMIT VIEW view_name;",
+          "is_correct": false
+        },
+        {
+          "id": "ae6db326-bc9b-474a-b3e5-346549927e5f",
+          "text": "SELECT VIEW view_name FROM table_name;",
+          "is_correct": false
+        },
+        {
+          "id": "797470bc-f169-4d3c-9dec-1dca6d469572",
+          "text": "DROP VIEW view_name;",
+          "is_correct": false
+        },
+        {
+          "id": "c44acf9d-b8f5-4f03-9fc5-825a9c0b8458",
+          "text": "CREATE VIEW view_name AS SELECT ...;",
+          "is_correct": true
+        }
+      ],
+      "correct_option_ids": [
+        "c44acf9d-b8f5-4f03-9fc5-825a9c0b8458"
+      ]
+    },
+    {
+      "question_id": "5a0c0119-858a-48e6-8a27-e83561970ccc",
+      "subject": "База данных",
+      "topic": "Вложенные и связанные подзапросы SQL",
+      "text": "Что такое представление VIEW в SQL?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "a38dd3bd-4a91-4c16-85c6-89f617bee6bb",
+          "type": "TEXT",
+          "payload": {
+            "text": "Что такое представление VIEW в SQL?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "a3965d88-c54d-481a-84b6-f9cc05d27e9d",
+          "text": "Виртуальная таблица, основанная на сохраненном SELECT-запросе",
+          "is_correct": true
+        },
+        {
+          "id": "9ce11608-bd0a-4475-b2cc-19d861bea816",
+          "text": "Индекс, который сортирует таблицу по ключу",
+          "is_correct": false
+        },
+        {
+          "id": "a4eba625-0ac7-47c9-a5a5-1af8ec579324",
+          "text": "Физическая копия таблицы, которая всегда хранит отдельные данные",
+          "is_correct": false
+        },
+        {
+          "id": "0a2b1eb2-405c-4665-8bc7-77cd614bc502",
+          "text": "Команда для удаления всех строк",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "a3965d88-c54d-481a-84b6-f9cc05d27e9d"
+      ]
+    },
+    {
+      "question_id": "68a6a829-4e12-4bb0-b916-c51d1e93c56b",
+      "subject": "База данных",
+      "topic": "Вложенные и связанные подзапросы SQL",
+      "text": "Как ограничить количество строк в результате запроса?",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "blocks": [
+        {
+          "id": "537ee6e9-ccf4-48b4-ac90-82eea0d51a98",
+          "type": "TEXT",
+          "payload": {
+            "text": "Как ограничить количество строк в результате запроса?"
+          },
+          "position": 1
+        }
+      ],
+      "options": [
+        {
+          "id": "5258c3a6-cc0c-474d-bb6f-75f6c4fee1b6",
+          "text": "Использовать DROP TABLE",
+          "is_correct": false
+        },
+        {
+          "id": "28067261-efd6-4602-92ec-952b597c7d91",
+          "text": "Использовать LIMIT или аналогичный механизм конкретной СУБД",
+          "is_correct": true
+        },
+        {
+          "id": "b3e2ca1f-6e51-4769-ba8e-ed21053d785a",
+          "text": "Использовать GRANT",
+          "is_correct": false
+        },
+        {
+          "id": "31d80993-5f79-477e-945f-a1bd8ebd8f3d",
+          "text": "Использовать PRIMARY KEY",
+          "is_correct": false
+        }
+      ],
+      "correct_option_ids": [
+        "28067261-efd6-4602-92ec-952b597c7d91"
+      ]
+    }
+  ],
+  "results": {
+    "ok": true,
+    "score_percent": 23,
+    "correct_count": null,
+    "total": 30,
+    "is_paid": true,
+    "questions": [
+      {
+        "question_id": "5613a14b-08d0-45cd-b195-ec1545e22a2c",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Алгоритмы сортировки и поиска",
+        "text": "Как называется сортировка массива путем многократного поиска минимального элемента и перемещения его в начало?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0697e454-a028-4b82-977f-cb4aebac2519",
+            "type": "TEXT",
+            "payload": {
+              "text": "Как называется сортировка массива путем многократного поиска минимального элемента и перемещения его в начало?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "61999af9-51ae-4486-9bd8-a386b037a2f5",
+            "text": "сортировка с помощью бинарного дерева",
+            "is_correct": false
+          },
+          {
+            "id": "a35733db-99a6-47be-8b1c-1c8641df1c90",
+            "text": "сортировка выбором",
+            "is_correct": true
+          },
+          {
+            "id": "6c4f4d17-5e5c-4d04-a544-ec991d3072fd",
+            "text": "сортировка слиянием",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a35733db-99a6-47be-8b1c-1c8641df1c90"
+        ]
+      },
+      {
+        "question_id": "cc1f1321-5d1a-462e-a5b3-d8ff15c09146",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Алгоритмы сортировки и поиска",
+        "text": "На чем основан метод сортировки слиянием?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "fcc40cf5-bc4b-408b-9e8e-ea125292bac4",
+            "type": "TEXT",
+            "payload": {
+              "text": "На чем основан метод сортировки слиянием?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "07954ee5-4150-492b-95f3-7347839c3598",
+            "text": "на использовании бинарного дерева",
+            "is_correct": false
+          },
+          {
+            "id": "c5fa1bfd-cf01-4249-8547-f82ea6e50599",
+            "text": "на технике «разделяй и властвуй»",
+            "is_correct": true
+          },
+          {
+            "id": "7be3ace3-c671-4e09-abcf-25552194cb1d",
+            "text": "на простом обмене соседних элементов",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c5fa1bfd-cf01-4249-8547-f82ea6e50599"
+        ]
+      },
+      {
+        "question_id": "cd4bb605-b5c2-4956-ad83-d59d50d3dcde",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Алгоритмы сортировки и поиска",
+        "text": "При сортировке слиянием массив делится примерно на две равные части, и каждая из них сортируется...",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9ba9d9fb-94b7-4601-88fa-95eed27996cc",
+            "type": "TEXT",
+            "payload": {
+              "text": "При сортировке слиянием массив делится примерно на две равные части, и каждая из них сортируется..."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "2ac6112a-8921-4ef4-845a-dba8567c6c1b",
+            "text": "вместе",
+            "is_correct": false
+          },
+          {
+            "id": "3aff48c1-8c8d-4f39-b7fd-e7128c5cc551",
+            "text": "отдельно",
+            "is_correct": true
+          },
+          {
+            "id": "57f980e2-4de2-4363-b13f-756bad6f9ad9",
+            "text": "без деления",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "3aff48c1-8c8d-4f39-b7fd-e7128c5cc551"
+        ]
+      },
+      {
+        "question_id": "b70a751c-8c86-4c2c-b75b-525cf3983541",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Алгоритмы сортировки и поиска",
+        "text": "Какая сортировка, как и сортировка слиянием, использует метод «разделяй и властвуй»?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "88d0faaa-acf1-487d-b88a-78715f148c84",
+            "type": "TEXT",
+            "payload": {
+              "text": "Какая сортировка, как и сортировка слиянием, использует метод «разделяй и властвуй»?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4c030439-df29-468f-b269-4a052e48c704",
+            "text": "пузырьковая сортировка",
+            "is_correct": false
+          },
+          {
+            "id": "85b981c2-15c8-4a39-b1d7-befb9d351f4b",
+            "text": "быстрая сортировка",
+            "is_correct": true
+          },
+          {
+            "id": "8e153f0f-418f-455f-90ce-0d552615dc6d",
+            "text": "сортировка выбором",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "85b981c2-15c8-4a39-b1d7-befb9d351f4b"
+        ]
+      },
+      {
+        "question_id": "cee61a92-9b7b-42ce-b584-836a301cd59a",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+        "text": "1. Что НЕ является правдой из нижеследующего:",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "ceb03eb8-ee78-4a6e-9be4-fd4570cabe21",
+            "type": "TEXT",
+            "payload": {
+              "text": "1. Что НЕ является правдой из нижеследующего:"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5820d4d3-d353-4b92-9899-752177af53a1",
+            "text": "Название переменной не может начинаться с цифры",
+            "is_correct": false
+          },
+          {
+            "id": "42ad4c75-ab1a-4c11-82c6-5c42f3bae329",
+            "text": "Для объявления переменных нужно указывать спецификатор типа",
+            "is_correct": false
+          },
+          {
+            "id": "135f1659-0797-49d5-8e19-b525b30a933b",
+            "text": "В C++ допускается использование переменных без объявления",
+            "is_correct": true
+          },
+          {
+            "id": "23ddec52-f484-4d90-b130-cf4cdfe8c794",
+            "text": "Запрещается использование неинициализированных переменных",
+            "is_correct": false
+          },
+          {
+            "id": "381062f8-77b0-402d-abaa-f2550484c9c2",
+            "text": "Область действия идентификатора – это часть программы, в которой на идентификатор можно ссылаться",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "135f1659-0797-49d5-8e19-b525b30a933b"
+        ]
+      },
+      {
+        "question_id": "490227e5-e8c5-4eca-9283-004a6c76db33",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+        "text": "1. Что НЕ является правдой из нижеследующего:",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "9355af7d-8ff5-43df-adcd-4ae17ca4e343",
+            "type": "TEXT",
+            "payload": {
+              "text": "1. Что НЕ является правдой из нижеследующего:"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "df0aa711-e5ff-411d-a7dd-83b369f31199",
+            "text": "Название переменной не может начинаться с цифры",
+            "is_correct": false
+          },
+          {
+            "id": "92d25fb5-863f-49c0-b342-f80e41976612",
+            "text": "Для объявления переменных нужно указывать спецификатор типа",
+            "is_correct": false
+          },
+          {
+            "id": "c8dafb27-0470-4f51-b9cd-6fcd664bcbc0",
+            "text": "В C++ допускается использование переменных без объявления",
+            "is_correct": true
+          },
+          {
+            "id": "36ca1b55-35c2-44d2-8a75-2f6737d73b31",
+            "text": "Запрещается использование неинициализированных переменных",
+            "is_correct": false
+          },
+          {
+            "id": "5dd634c9-4738-4004-9352-40f6a14d12ff",
+            "text": "Область действия идентификатора – это часть программы, в которой на идентификатор можно ссылаться",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c8dafb27-0470-4f51-b9cd-6fcd664bcbc0"
+        ]
+      },
+      {
+        "question_id": "f8cdc981-fba2-4a3b-8fcd-f92442f7fccb",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+        "text": "1. Что НЕ является правдой из нижеследующего:",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7abd57c8-ceae-4e7b-9355-2ccfddf16d68",
+            "type": "TEXT",
+            "payload": {
+              "text": "1. Что НЕ является правдой из нижеследующего:"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "e80d2d8b-a6c3-4f4a-8a58-d398843ce551",
+            "text": "Название переменной не может начинаться с цифры",
+            "is_correct": false
+          },
+          {
+            "id": "8f7fea89-f024-4ead-a87c-5c3d4f2a77a3",
+            "text": "Для объявления переменных нужно указывать спецификатор типа",
+            "is_correct": false
+          },
+          {
+            "id": "4276d276-80ea-4c39-9172-41d04d32b42c",
+            "text": "В C++ допускается использование переменных без объявления",
+            "is_correct": true
+          },
+          {
+            "id": "d3c398c1-a2f4-4706-a62a-b7622b769b8f",
+            "text": "Запрещается использование неинициализированных переменных",
+            "is_correct": false
+          },
+          {
+            "id": "c0de6c42-dee6-4192-aea2-2baaa126b2d8",
+            "text": "Область действия идентификатора – это часть программы, в которой на идентификатор можно ссылаться",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4276d276-80ea-4c39-9172-41d04d32b42c"
+        ]
+      },
+      {
+        "question_id": "dd007a4f-9216-437a-a3e1-828b430aea21",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+        "text": "Программа на языке программирования C++ начинается с выполнения функции",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4f3f275c-db8c-4575-aa0b-b5c17f6b7de6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Программа на языке программирования C++ начинается с выполнения функции"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "92795873-4cdb-4195-9ef1-442352500479",
+            "text": "cin",
+            "is_correct": false
+          },
+          {
+            "id": "7defac42-0a8f-4028-a408-0dfe48e1281a",
+            "text": "factorial",
+            "is_correct": false
+          },
+          {
+            "id": "34448869-f606-4055-a0fa-5425f4441d70",
+            "text": "main",
+            "is_correct": true
+          },
+          {
+            "id": "d29241e4-33a4-462d-bdc6-b0d8f95ddbbd",
+            "text": "cout",
+            "is_correct": false
+          },
+          {
+            "id": "f30622fd-6d76-4dae-9465-f538cb659d40",
+            "text": "sum",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "34448869-f606-4055-a0fa-5425f4441d70"
+        ]
+      },
+      {
+        "question_id": "12808049-71d1-44ca-b5d4-532b38f08879",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Базовый процедурно-ориентированный алгоритмический язык.",
+        "text": "Переменная типа float содержит",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "7b6a5914-944b-4185-8957-32dea6526bfa",
+            "type": "TEXT",
+            "payload": {
+              "text": "Переменная типа float содержит"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "579a2b61-6cb5-41bc-b5be-6ce35dda355a",
+            "text": "строковые значения",
+            "is_correct": false
+          },
+          {
+            "id": "1c7280d0-18ef-4bcb-8761-7731808c6a1d",
+            "text": "действительные числа",
+            "is_correct": true
+          },
+          {
+            "id": "b5822397-1147-46e4-bd23-834237a7e51f",
+            "text": "текстовые значения",
+            "is_correct": false
+          },
+          {
+            "id": "f9509bfb-75a6-4bdf-8b64-a0727c276fe7",
+            "text": "графы",
+            "is_correct": false
+          },
+          {
+            "id": "73fd2fdf-af64-46ec-ae62-5896c3f2aec3",
+            "text": "целые числа",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "1c7280d0-18ef-4bcb-8761-7731808c6a1d"
+        ]
+      },
+      {
+        "question_id": "f1313f95-79cf-4ab3-9882-70bc0561f8d2",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Линейные структуры данных",
+        "text": "Один из способов задания элементов массива, который чаще применяется, когда между элементами нет зависимости, — это:",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4e215a9a-e0c2-491f-a8a7-c38143a51c8d",
+            "type": "TEXT",
+            "payload": {
+              "text": "Один из способов задания элементов массива, который чаще применяется, когда между элементами нет зависимости, — это:"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "81773bad-0475-4d83-9c83-46fe7fddf71e",
+            "text": "автоматическая сортировка",
+            "is_correct": false
+          },
+          {
+            "id": "5254b3a5-89d5-4aff-9ed9-3811616b3b62",
+            "text": "ввод с клавиатуры",
+            "is_correct": true
+          },
+          {
+            "id": "194ce8cf-0436-43eb-b7fc-eb50773ee6e5",
+            "text": "удаление массива",
+            "is_correct": false
+          },
+          {
+            "id": "ee249612-9132-45b6-b36d-6d141bc7937f",
+            "text": "ветвление программы",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "5254b3a5-89d5-4aff-9ed9-3811616b3b62"
+        ]
+      },
+      {
+        "question_id": "4068e59d-af07-4e9b-9a02-fb7f9be3e04a",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Линейные структуры данных",
+        "text": "Стек можно представить как узкую длинную трубу, один конец которой:",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "d0c8b901-4312-413d-af1b-4df8e4c41b4b",
+            "type": "TEXT",
+            "payload": {
+              "text": "Стек можно представить как узкую длинную трубу, один конец которой:"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "56574ae1-0585-448e-88ac-92d69d896844",
+            "text": "закрыт",
+            "is_correct": true
+          },
+          {
+            "id": "f2f6fe12-420e-4fbb-86d8-6edf31b62712",
+            "text": "открыт с двух сторон",
+            "is_correct": false
+          },
+          {
+            "id": "fff64f9b-8bb6-4f86-baa4-5c545bde3563",
+            "text": "является индексом",
+            "is_correct": false
+          },
+          {
+            "id": "56e48402-ded7-4ebc-bcb8-f37a52853946",
+            "text": "является массивом",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "56574ae1-0585-448e-88ac-92d69d896844"
+        ]
+      },
+      {
+        "question_id": "70ce6498-f9fa-4545-a9ed-ad738ff594c8",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Линейные структуры данных",
+        "text": "Указатель на начало очереди обычно обозначается как:",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "f975da78-38b3-4df3-b64c-7edc01fee155",
+            "type": "TEXT",
+            "payload": {
+              "text": "Указатель на начало очереди обычно обозначается как:"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "6a890654-2141-429f-adaa-7da7e00eee35",
+            "text": "add",
+            "is_correct": false
+          },
+          {
+            "id": "6fb898fd-ed19-4d35-8387-ca0ac7ff0958",
+            "text": "pbeg",
+            "is_correct": true
+          },
+          {
+            "id": "4cc04a8a-d551-4e88-9e19-d3958ff33abe",
+            "text": "break",
+            "is_correct": false
+          },
+          {
+            "id": "fed8d468-67d9-4512-b5da-ef3af7b09b8c",
+            "text": "char",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "6fb898fd-ed19-4d35-8387-ca0ac7ff0958"
+        ]
+      },
+      {
+        "question_id": "0b792554-9708-4f47-af2a-8bb2753879d0",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Дерево и двоичная куча.",
+        "text": "Множество, не содержащее ни одного непосредственно следующего для дерева или содержащее несколько непосредственно следующих деревьев.",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0e250ce4-b751-4e89-b2a7-f8d2783b1d52",
+            "type": "TEXT",
+            "payload": {
+              "text": "Множество, не содержащее ни одного непосредственно следующего для дерева или содержащее несколько непосредственно следующих деревьев."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "bd6c0eea-f351-44bf-8d92-d1e5501ec0bd",
+            "text": "поддерево",
+            "is_correct": false
+          },
+          {
+            "id": "109e69ec-b86c-4527-b346-501604ae525c",
+            "text": "лес",
+            "is_correct": true
+          },
+          {
+            "id": "5444ae32-fefe-4099-ab3e-e560a9e613be",
+            "text": "массив",
+            "is_correct": false
+          },
+          {
+            "id": "163bf84d-e940-4fda-a4a0-8235eb7330b9",
+            "text": "узел",
+            "is_correct": false
+          },
+          {
+            "id": "6242f484-c07a-4886-badf-a83ff0e1f54c",
+            "text": "список",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "109e69ec-b86c-4527-b346-501604ae525c"
+        ]
+      },
+      {
+        "question_id": "985ed8e3-e0c3-4c3d-8d90-0c86d93e5800",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Функции и рекурсивные функции",
+        "text": "Функция может принимать...",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e9c84ab6-0393-4f07-a277-c3bb3442b234",
+            "type": "TEXT",
+            "payload": {
+              "text": "Функция может принимать..."
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "25a64e63-a48e-4ee8-a6a1-7ff9f42bac57",
+            "text": "Параметры",
+            "is_correct": true
+          },
+          {
+            "id": "2c400252-6fa2-4089-82f7-8059c53478ba",
+            "text": "Индексы",
+            "is_correct": false
+          },
+          {
+            "id": "92eaab5c-95b6-46ed-81c1-73e79cc4362b",
+            "text": "Операторы",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "25a64e63-a48e-4ee8-a6a1-7ff9f42bac57"
+        ]
+      },
+      {
+        "question_id": "a15ecc82-8844-49ef-9433-d080cc718337",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Функции и рекурсивные функции",
+        "text": "Что сохраняется в стеке при вызове функции вместе с адресом возврата?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "402b6536-d558-409e-a364-f20baed7679a",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что сохраняется в стеке при вызове функции вместе с адресом возврата?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "939125bc-c0cc-4805-a595-3cc0f4fa8434",
+            "text": "Значения параметров",
+            "is_correct": true
+          },
+          {
+            "id": "ee3adc79-b355-408c-9508-b30df07f0d3d",
+            "text": "Размер",
+            "is_correct": false
+          },
+          {
+            "id": "89b1434d-dd9d-4050-b64c-17e1b985e865",
+            "text": "Имя функции",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "939125bc-c0cc-4805-a595-3cc0f4fa8434"
+        ]
+      },
+      {
+        "question_id": "cbd5e052-bdb5-4541-a92f-217939309def",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Функции и рекурсивные функции",
+        "text": "Через что всегда передается массив?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "8f2a2350-5773-42ef-b101-19554927b036",
+            "type": "TEXT",
+            "payload": {
+              "text": "Через что всегда передается массив?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "eced7d41-600e-4553-8416-1159490eb3ee",
+            "text": "Тип",
+            "is_correct": false
+          },
+          {
+            "id": "622a3de7-2a2b-47e3-87e6-9ef8b3f5d994",
+            "text": "Адрес",
+            "is_correct": true
+          },
+          {
+            "id": "f2f4faef-19da-423b-a745-7c50640ca16b",
+            "text": "Имя",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "622a3de7-2a2b-47e3-87e6-9ef8b3f5d994"
+        ]
+      },
+      {
+        "question_id": "bea6d083-a8e3-4af9-a28f-1fe3ee9254a5",
+        "subject": "Алгоритмы и структуры данных",
+        "topic": "Функции и рекурсивные функции",
+        "text": "Что происходит с индексом массива внутри функции во время выполнения программы?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "4b187084-8116-4fda-9c34-0fcb2d684054",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что происходит с индексом массива внутри функции во время выполнения программы?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "4d68a2e1-d7bc-4094-89e0-afdc0bbaaa13",
+            "text": "Пересчитывается",
+            "is_correct": true
+          },
+          {
+            "id": "a0805907-d1d8-436c-a1da-2d3493cfa8c9",
+            "text": "Удаляется",
+            "is_correct": false
+          },
+          {
+            "id": "931b1152-f2fa-4a94-bf5e-fa962cbd8f22",
+            "text": "Изменяет тип массива",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "4d68a2e1-d7bc-4094-89e0-afdc0bbaaa13"
+        ]
+      },
+      {
+        "question_id": "0d959c37-a312-448d-9fef-d4413e76501c",
+        "subject": "База данных",
+        "topic": "Архитектура СУБД. Архитектура «файл-сервер». Архитектура «клиент-сервер», трех-уров...",
+        "text": "Что означает CDC в базах данных?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "c0d7cbba-a68e-4920-a5f1-da80ab1a3ace",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что означает CDC в базах данных?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a8161283-59e6-4699-9e61-720d9b436be4",
+            "text": "Функция для замены символов в строке",
+            "is_correct": false
+          },
+          {
+            "id": "245b6294-9b51-4d70-9495-9239a57c540b",
+            "text": "Change Data Capture — отслеживание изменений в данных для синхронизации или передачи в другие системы",
+            "is_correct": true
+          },
+          {
+            "id": "2e9d8087-b66f-43d7-92a0-9d8c243ff10b",
+            "text": "Правило написания псевдонимов столбцов в SELECT",
+            "is_correct": false
+          },
+          {
+            "id": "5c30b00e-4557-4045-8f3b-ea47528ff132",
+            "text": "Нормальная форма для удаления частичных зависимостей",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "245b6294-9b51-4d70-9495-9239a57c540b"
+        ]
+      },
+      {
+        "question_id": "2799e7fe-706b-4be1-99ee-8c8dfcf8c0f5",
+        "subject": "База данных",
+        "topic": "Архитектура СУБД. Архитектура «файл-сервер». Архитектура «клиент-сервер», трех-уров...",
+        "text": "Как в Oracle можно написать рекурсивный запрос?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "a76f86b2-9339-4f99-9568-787689d00481",
+            "type": "TEXT",
+            "payload": {
+              "text": "Как в Oracle можно написать рекурсивный запрос?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "ee66f50c-f1cd-4d2f-8c91-39551b8ed6a6",
+            "text": "Использовать иерархический запрос через START WITH ... CONNECT BY или рекурсивный WITH",
+            "is_correct": true
+          },
+          {
+            "id": "ae6009e4-4381-4c8c-874b-e365d29e1a69",
+            "text": "Использовать DROP TABLE, чтобы пересоздать таблицу перед запросом",
+            "is_correct": false
+          },
+          {
+            "id": "d507507d-420b-4641-9760-345546a8871b",
+            "text": "Использовать COMMIT, чтобы повторить запрос несколько раз",
+            "is_correct": false
+          },
+          {
+            "id": "e12817c8-d0ca-4a79-b7b2-2d1738a9808c",
+            "text": "Использовать GRANT, чтобы связать строки между собой",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "ee66f50c-f1cd-4d2f-8c91-39551b8ed6a6"
+        ]
+      },
+      {
+        "question_id": "263820f1-1471-45a6-b774-69c24423f24f",
+        "subject": "База данных",
+        "topic": "Архитектура СУБД. Архитектура «файл-сервер». Архитектура «клиент-сервер», трех-уров...",
+        "text": "Для чего используется Model Clause в Oracle?",
+        "type": "single_choice",
+        "difficulty": "medium",
+        "blocks": [
+          {
+            "id": "0cb83957-3a57-4374-a238-084b07a0ed49",
+            "type": "TEXT",
+            "payload": {
+              "text": "Для чего используется Model Clause в Oracle?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "0eb218e5-91f9-4a63-8500-92b4c8afaffd",
+            "text": "Для удаления таблицы вместе со всеми индексами",
+            "is_correct": false
+          },
+          {
+            "id": "c9158fa1-f0d6-41a1-9150-2dcc942f02c8",
+            "text": "Для выполнения расчетов в запросе по правилам, похожим на работу с многомерной таблицей",
+            "is_correct": true
+          },
+          {
+            "id": "ac138282-fa02-48de-b6c3-db9bc8937801",
+            "text": "Для создания обычного внешнего ключа между таблицами",
+            "is_correct": false
+          },
+          {
+            "id": "eca58e02-7e30-4707-a3c3-763876fada61",
+            "text": "Для выдачи прав доступа пользователю",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "c9158fa1-f0d6-41a1-9150-2dcc942f02c8"
+        ]
+      },
+      {
+        "question_id": "6b496206-12a9-4845-84e2-7e2fe665b61c",
+        "subject": "База данных",
+        "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+        "text": "Что такое JOIN в SQL?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "41aaa0c7-08b2-4327-be4b-74119f869687",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что такое JOIN в SQL?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "cda5a7ce-6039-4361-afb8-391482836e97",
+            "text": "Функция для округления чисел",
+            "is_correct": false
+          },
+          {
+            "id": "d21119f0-1911-4f5b-8309-44b23a8a0eb4",
+            "text": "Операция соединения строк из нескольких таблиц по связанным данным",
+            "is_correct": true
+          },
+          {
+            "id": "99f04e98-67f9-4e65-9ed8-3c69ebd83b08",
+            "text": "Оператор фиксации транзакции",
+            "is_correct": false
+          },
+          {
+            "id": "015b6844-798d-4868-b8d1-06e8188fce60",
+            "text": "Команда для удаления базы данных",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "d21119f0-1911-4f5b-8309-44b23a8a0eb4"
+        ]
+      },
+      {
+        "question_id": "6a7f7467-11bf-4c8b-8fed-691884caef61",
+        "subject": "База данных",
+        "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+        "text": "Чем представление отличается от обычной таблицы?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "c9564c77-82ce-4f6b-ac52-b717bec62b49",
+            "type": "TEXT",
+            "payload": {
+              "text": "Чем представление отличается от обычной таблицы?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "33a6d86c-508b-4af6-9dd0-8dd493b6e96d",
+            "text": "Таблицу нельзя читать через SELECT",
+            "is_correct": false
+          },
+          {
+            "id": "507b42a6-60c2-42d8-9670-43636c64f60f",
+            "text": "Представление всегда быстрее таблицы, потому что хранит все данные в памяти",
+            "is_correct": false
+          },
+          {
+            "id": "a8338dfe-629d-4d28-adc6-dbd32480feaf",
+            "text": "Представление обычно хранит запрос, а таблица хранит сами данные",
+            "is_correct": true
+          },
+          {
+            "id": "9e851ffd-acef-468a-95eb-ff280207e376",
+            "text": "Между ними нет никакой разницы",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a8338dfe-629d-4d28-adc6-dbd32480feaf"
+        ]
+      },
+      {
+        "question_id": "a9c534ca-f563-4e51-a81b-bbefd58d1766",
+        "subject": "База данных",
+        "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+        "text": "Как создать представление в SQL?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "55874cfa-7945-4030-8e15-687780ee2b67",
+            "type": "TEXT",
+            "payload": {
+              "text": "Как создать представление в SQL?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a1bfac2f-1f64-4975-9288-7f194bf571dc",
+            "text": "COMMIT VIEW view_name;",
+            "is_correct": false
+          },
+          {
+            "id": "21b0f844-4d7f-474e-9b21-0af9befae295",
+            "text": "DROP VIEW view_name;",
+            "is_correct": false
+          },
+          {
+            "id": "479897f0-eeab-4f3d-8a55-17ba08e3628c",
+            "text": "SELECT VIEW view_name FROM table_name;",
+            "is_correct": false
+          },
+          {
+            "id": "56573099-8176-4689-a661-85f6f2135b89",
+            "text": "CREATE VIEW view_name AS SELECT ...;",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "56573099-8176-4689-a661-85f6f2135b89"
+        ]
+      },
+      {
+        "question_id": "591e7995-09d1-4c8b-9276-fc02a10de1b0",
+        "subject": "База данных",
+        "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+        "text": "Что такое представление VIEW в SQL?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "0a57e0c5-99b2-46d8-b052-3ff41e8ba843",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что такое представление VIEW в SQL?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "af00ceba-cdcd-4268-8098-11e29585248c",
+            "text": "Виртуальная таблица, основанная на сохраненном SELECT-запросе",
+            "is_correct": true
+          },
+          {
+            "id": "af7a0e0f-74d4-41df-9286-bee7a3cfb2e6",
+            "text": "Индекс, который сортирует таблицу по ключу",
+            "is_correct": false
+          },
+          {
+            "id": "33d21cf1-32f8-41f9-a8f0-3528c117ba5d",
+            "text": "Команда для удаления всех строк",
+            "is_correct": false
+          },
+          {
+            "id": "73ac3e2b-0974-4bd8-bd89-017b5c446439",
+            "text": "Физическая копия таблицы, которая всегда хранит отдельные данные",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "af00ceba-cdcd-4268-8098-11e29585248c"
+        ]
+      },
+      {
+        "question_id": "b63cdcc5-9796-4d7e-be6a-d06b914c2519",
+        "subject": "База данных",
+        "topic": "Выборка данных из одной и нескольких таблиц (SQL). Функции агрегирования в запросах",
+        "text": "Как ограничить количество строк в результате запроса?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "e6e27f6d-aa76-484c-8eb5-2245785e43f6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Как ограничить количество строк в результате запроса?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "559133b2-8e15-487f-9c87-4c54c37ee47a",
+            "text": "Использовать GRANT",
+            "is_correct": false
+          },
+          {
+            "id": "afb2b2c8-bc48-43eb-bf1d-9aef9e4453c3",
+            "text": "Использовать LIMIT или аналогичный механизм конкретной СУБД",
+            "is_correct": true
+          },
+          {
+            "id": "462d1a73-ba71-44d5-bede-dd20e7eb01d7",
+            "text": "Использовать PRIMARY KEY",
+            "is_correct": false
+          },
+          {
+            "id": "ea085189-90c0-4566-9920-92faf12d6725",
+            "text": "Использовать DROP TABLE",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "afb2b2c8-bc48-43eb-bf1d-9aef9e4453c3"
+        ]
+      },
+      {
+        "question_id": "c50def7c-0320-4a46-a8eb-add1005a0499",
+        "subject": "База данных",
+        "topic": "Вложенные и связанные подзапросы SQL",
+        "text": "Что такое JOIN в SQL?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "68724a9a-7f3e-45a3-9a01-553c1f53bcc4",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что такое JOIN в SQL?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "fcbe9611-e393-4e3c-8e77-3b188bfaa853",
+            "text": "Команда для удаления базы данных",
+            "is_correct": false
+          },
+          {
+            "id": "f6b569be-fde3-4664-b63a-cce2b779a23a",
+            "text": "Операция соединения строк из нескольких таблиц по связанным данным",
+            "is_correct": true
+          },
+          {
+            "id": "9e4c2d92-3fd1-4dfb-9922-0c0623ca23d5",
+            "text": "Функция для округления чисел",
+            "is_correct": false
+          },
+          {
+            "id": "a56ce925-a7a0-4eec-939b-1305409c6c8e",
+            "text": "Оператор фиксации транзакции",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "f6b569be-fde3-4664-b63a-cce2b779a23a"
+        ]
+      },
+      {
+        "question_id": "dcb149bc-eb26-4bcf-a8b1-9a2491711f65",
+        "subject": "База данных",
+        "topic": "Вложенные и связанные подзапросы SQL",
+        "text": "Чем представление отличается от обычной таблицы?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "517b1dff-5aa0-432c-a884-a3a239c59af1",
+            "type": "TEXT",
+            "payload": {
+              "text": "Чем представление отличается от обычной таблицы?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "536def8f-ecba-4bb7-b24a-ed18ea425712",
+            "text": "Между ними нет никакой разницы",
+            "is_correct": false
+          },
+          {
+            "id": "e9c4c469-aefd-4107-a59a-e3968b01680e",
+            "text": "Таблицу нельзя читать через SELECT",
+            "is_correct": false
+          },
+          {
+            "id": "a4260843-ed40-41d9-b530-22ec072942bf",
+            "text": "Представление обычно хранит запрос, а таблица хранит сами данные",
+            "is_correct": true
+          },
+          {
+            "id": "fdee3b5c-0b4a-47d8-b96d-b5200358dbdf",
+            "text": "Представление всегда быстрее таблицы, потому что хранит все данные в памяти",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a4260843-ed40-41d9-b530-22ec072942bf"
+        ]
+      },
+      {
+        "question_id": "5dfd6d8f-348c-461d-9794-eff1cec148da",
+        "subject": "База данных",
+        "topic": "Вложенные и связанные подзапросы SQL",
+        "text": "Как создать представление в SQL?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "064a61af-a194-4fb4-adf4-3b6ce8ed48c6",
+            "type": "TEXT",
+            "payload": {
+              "text": "Как создать представление в SQL?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "732c26a6-eb8b-4c0b-af24-b57fda019e7b",
+            "text": "COMMIT VIEW view_name;",
+            "is_correct": false
+          },
+          {
+            "id": "ae6db326-bc9b-474a-b3e5-346549927e5f",
+            "text": "SELECT VIEW view_name FROM table_name;",
+            "is_correct": false
+          },
+          {
+            "id": "797470bc-f169-4d3c-9dec-1dca6d469572",
+            "text": "DROP VIEW view_name;",
+            "is_correct": false
+          },
+          {
+            "id": "c44acf9d-b8f5-4f03-9fc5-825a9c0b8458",
+            "text": "CREATE VIEW view_name AS SELECT ...;",
+            "is_correct": true
+          }
+        ],
+        "correct_option_ids": [
+          "c44acf9d-b8f5-4f03-9fc5-825a9c0b8458"
+        ]
+      },
+      {
+        "question_id": "5a0c0119-858a-48e6-8a27-e83561970ccc",
+        "subject": "База данных",
+        "topic": "Вложенные и связанные подзапросы SQL",
+        "text": "Что такое представление VIEW в SQL?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "a38dd3bd-4a91-4c16-85c6-89f617bee6bb",
+            "type": "TEXT",
+            "payload": {
+              "text": "Что такое представление VIEW в SQL?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "a3965d88-c54d-481a-84b6-f9cc05d27e9d",
+            "text": "Виртуальная таблица, основанная на сохраненном SELECT-запросе",
+            "is_correct": true
+          },
+          {
+            "id": "9ce11608-bd0a-4475-b2cc-19d861bea816",
+            "text": "Индекс, который сортирует таблицу по ключу",
+            "is_correct": false
+          },
+          {
+            "id": "a4eba625-0ac7-47c9-a5a5-1af8ec579324",
+            "text": "Физическая копия таблицы, которая всегда хранит отдельные данные",
+            "is_correct": false
+          },
+          {
+            "id": "0a2b1eb2-405c-4665-8bc7-77cd614bc502",
+            "text": "Команда для удаления всех строк",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "a3965d88-c54d-481a-84b6-f9cc05d27e9d"
+        ]
+      },
+      {
+        "question_id": "68a6a829-4e12-4bb0-b916-c51d1e93c56b",
+        "subject": "База данных",
+        "topic": "Вложенные и связанные подзапросы SQL",
+        "text": "Как ограничить количество строк в результате запроса?",
+        "type": "single_choice",
+        "difficulty": "easy",
+        "blocks": [
+          {
+            "id": "537ee6e9-ccf4-48b4-ac90-82eea0d51a98",
+            "type": "TEXT",
+            "payload": {
+              "text": "Как ограничить количество строк в результате запроса?"
+            },
+            "position": 1
+          }
+        ],
+        "options": [
+          {
+            "id": "5258c3a6-cc0c-474d-bb6f-75f6c4fee1b6",
+            "text": "Использовать DROP TABLE",
+            "is_correct": false
+          },
+          {
+            "id": "28067261-efd6-4602-92ec-952b597c7d91",
+            "text": "Использовать LIMIT или аналогичный механизм конкретной СУБД",
+            "is_correct": true
+          },
+          {
+            "id": "b3e2ca1f-6e51-4769-ba8e-ed21053d785a",
+            "text": "Использовать GRANT",
+            "is_correct": false
+          },
+          {
+            "id": "31d80993-5f79-477e-945f-a1bd8ebd8f3d",
+            "text": "Использовать PRIMARY KEY",
+            "is_correct": false
+          }
+        ],
+        "correct_option_ids": [
+          "28067261-efd6-4602-92ec-952b597c7d91"
+        ]
+      }
+    ]
+  }
+}
