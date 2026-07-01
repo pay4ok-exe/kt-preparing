@@ -8,7 +8,7 @@ import re
 import glob
 
 OUTPUT_DIR = '/Users/javascript/Desktop/kt/quiz_data'
-HTML_OUTPUT = '/Users/javascript/Desktop/kt/quiz_app.html'
+HTML_OUTPUT = '/Users/javascript/Desktop/kt/index.html'
 MEDIA_DIR = os.path.join(OUTPUT_DIR, 'media')
 
 
