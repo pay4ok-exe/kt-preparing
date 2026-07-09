@@ -1,13 +1,19 @@
+# Large raw sources / intermediates — never needed for the build
 new-data/**
 extracted/**
 quiz_data/**
 quiz_data.zip
 *.log
-*.html
-*.py
+
+# Root-level legacy artifacts (anchored so quiz-app/index.html is NOT excluded)
+/*.html
+/*.py
+/*.png
 tools/
 .brute_force*
 generate_*
 download_*
+
+# App build artifacts (Vercel rebuilds these)
 quiz-app/node_modules/**
 quiz-app/dist/**
