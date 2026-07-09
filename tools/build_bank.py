@@ -828,28 +828,35 @@ for q in QUESTIONS:
     if not q.get('media') and ORPHAN_FIG.search(text):
         DROPPED += 1
         continue
-    # clean + dedupe options (preserve order, keep first correct instance)
-    seen_opt, opts = set(), []
+    # clean + dedupe options (preserve order, keep first correct instance).
+    # Normalize on lowercase + collapsed whitespace, trimming trailing
+    # punctuation, but keep meaningful chars (so "-1" != "1", "=-" != "-=").
+    def okey(s):
+        return re.sub(r'\s+', ' ', s.lower()).strip().rstrip('.;,')
+    seen_opt, opts, n_raw = {}, [], 0
     for o in q['options']:
         ot = clean_option_text(o['text'])
         if not ot or SECTION_OPT.match(ot):
             continue
-        low = ot.lower()
+        n_raw += 1
+        low = okey(ot)
         if low in seen_opt:
-            # same text seen: if this one is correct, promote existing to correct
             if o['correct']:
-                for eo in opts:
-                    if eo['text'].lower() == low:
-                        eo['correct'] = True
+                seen_opt[low]['correct'] = True   # promote existing to correct
             continue
-        seen_opt.add(low)
-        opts.append({'text': ot, 'correct': o['correct']})
+        entry = {'text': ot, 'correct': o['correct']}
+        seen_opt[low] = entry
+        opts.append(entry)
     # drop questions with merged code fragments or an over-long option (Q+opts merged)
     if any(CODE_JUNK.search(o['text']) for o in opts) or any(len(o['text']) > 400 for o in opts):
         DROPPED += 1
         continue
     ncorrect = sum(1 for o in opts if o['correct'])
     if len(opts) < 2 or ncorrect == 0 or ncorrect == len(opts):
+        DROPPED += 1
+        continue
+    # if many options were duplicates (broken parse), drop the whole question
+    if n_raw >= 4 and len(opts) < n_raw - 1:
         DROPPED += 1
         continue
     q['text'] = re.sub(r'\s+', ' ', text).strip()
@@ -862,11 +869,25 @@ QUESTIONS = CLEANED
 # ============================================================
 # DEDUPE + OUTPUT
 # ============================================================
+# Tight normalization: collapse whitespace and strip punctuation so that
+# copies differing only by spacing/punctuation dedupe together. Runs GLOBALLY
+# (subject not in the key) so the same question in two sources is kept once.
+def dnorm(s):
+    s = unicodedata.normalize('NFKC', s).lower()
+    return re.sub(r'\s+', '', re.sub(r'[^\w\s]', '', s))
+
+# Keep the best copy of each duplicate: verified platform data first, then
+# questions with media, then the one offering the most answer choices.
+def priority(q):
+    return (0 if q['source'].startswith('quiz_data') else 1,
+            0 if q.get('media') else 1,
+            -len(q['options']))
+QUESTIONS.sort(key=priority)
+
 seen = {}
 unique = []
 for q in QUESTIONS:
-    key = (q['subject'], norm(q['text']),
-           tuple(sorted(norm(o['text']) for o in q['options'])))
+    key = (dnorm(q['text']), tuple(sorted(dnorm(o['text']) for o in q['options'])))
     if key in seen:
         continue
     seen[key] = True
