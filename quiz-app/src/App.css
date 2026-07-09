@@ -108,6 +108,10 @@ main { padding: 20px 0; }
   background: var(--bg); border-radius: 8px; padding: 12px; margin-bottom: 10px;
   color: var(--muted); font-size: 14px; white-space: pre-wrap;
 }
+.media { display: flex; flex-direction: column; gap: 10px; margin: 10px 0; }
+.media audio { width: 100%; max-width: 460px; }
+.media img { max-width: 100%; border-radius: 8px; border: 1px solid var(--border); background: #fff; }
+
 .pager { display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: 20px; }
 .pager button {
   background: var(--bg2); border: 1px solid var(--border); color: var(--text);

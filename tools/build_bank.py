@@ -33,13 +33,18 @@ def add_questions(qs, subject, lang, source, min_opts=2):
         ncorrect = sum(1 for _, c in opts if c)
         if ncorrect == 0:
             continue
-        QUESTIONS.append({
+        item = {
             'subject': subject, 'topic': q.get('topic') or None, 'lang': lang,
             'type': 'multi' if ncorrect > 1 else 'single',
             'text': text,
             'options': [{'text': t, 'correct': c} for t, c in opts],
             'source': source,
-        })
+        }
+        if q.get('media'):
+            item['media'] = q['media']
+        if q.get('passage'):
+            item['passage'] = q['passage'][:1500]
+        QUESTIONS.append(item)
         kept += 1
     STATS.append((source, subject, len(qs), kept))
     return kept
@@ -148,10 +153,23 @@ def src_quiz_data():
                             else 'tgo' if 'тго' in s or 'готовности' in s
                             else 'algorithms' if 'алгоритм' in s
                             else 'databases' if 'баз' in s or 'дерек' in s else 'other')
+                # Prefer the clean first TEXT block over the top-level text,
+                # which has "[AUDIO: url]" / "[IMAGE: url]" markers appended.
+                text = q['text']
+                media = []
+                for b in q.get('blocks', []):
+                    if b['type'] == 'TEXT' and b['payload'].get('text'):
+                        text = b['payload']['text']
+                    elif b['type'] in ('AUDIO', 'IMAGE'):
+                        fname = os.path.basename(b['payload'].get('url', ''))
+                        if fname:
+                            media.append({'type': b['type'].lower(), 'file': fname})
+                text = re.sub(r'\s*\[(AUDIO|IMAGE|VIDEO):[^\]]*\]', '', text).strip()
                 item = {
-                    'text': q['text'],
+                    'text': text,
                     'topic': q.get('topic'),
                     'options': [(o['text'], o.get('is_correct', False)) for o in q.get('options', [])],
+                    'media': media or None,
                 }
                 qs_by_subj.setdefault(subj, []).append(item)
         for subj, qs in qs_by_subj.items():
@@ -787,6 +805,12 @@ SECTION_OPT = re.compile(r'^\s*(\d+\s*)?(чтение|слушание|reading|l
 SECTION_Q = re.compile(r'^\s*(\d+\s*)?(чтение|слушание|reading|listening|тыңдалым|оқылым|text)\s*\d*\s*$', re.I)
 LEAK_PREFIX = re.compile(r'^\s*(?:[Oo]\s+)?[A-HА-Е]\)\s*')   # "D) ", "O D) "
 CODE_JUNK = re.compile(r'[{}]|^\}|miss rate|hit rate')       # merged code fragments
+# references to a drawn figure lost during OCR (locative "shown in the graph/picture");
+# unanswerable without the image, and no media file is recoverable for these sources.
+ORPHAN_FIG = re.compile(
+    r'(суретте|суреттегі|графикте|графиктегі|диаграммада|диаграммадағы|'
+    r'кестеде көрсетілген|сызбада|сызбанұсқа|дөңгелек диаграмма|'
+    r'на рисунке|на графике|на диаграмме|по графику|по диаграмме|на чертеже|см\. рис)', re.I)
 
 def clean_option_text(t):
     t = LEAK_PREFIX.sub('', t)
@@ -798,6 +822,10 @@ DROPPED = 0
 for q in QUESTIONS:
     text = JUNK_SUFFIX.sub('', q['text']).strip()
     if SECTION_Q.match(text) or len(text) < 8:
+        DROPPED += 1
+        continue
+    # drop questions that reference a lost figure and have no attached media
+    if not q.get('media') and ORPHAN_FIG.search(text):
         DROPPED += 1
         continue
     # clean + dedupe options (preserve order, keep first correct instance)

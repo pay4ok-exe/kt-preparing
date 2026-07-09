@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { shuffle } from '../store';
 import { LANG_LABEL } from '../constants';
+import Media from './Media';
 
 function pickQuestions(bank, db, config) {
   if (config.qids) return config.qids;
@@ -138,6 +139,7 @@ export default function Quiz({ bank, db, config, byId, bump, done }) {
         {results.map(({ q, a }, i) => (
           <div className={'q-item ' + (a?.correct ? 'ok-border' : 'bad-border')} key={q.id}>
             <div className="q-row"><b>{i + 1}.</b>&nbsp;<span className="q-text">{q.text}</span></div>
+            <Media media={q.media} />
             <ul className="opts">
               {q.options.map((o, j) => {
                 const was = a?.picked?.includes(j);
@@ -172,6 +174,7 @@ export default function Quiz({ bank, db, config, byId, bump, done }) {
         <span className="lang-tag">{LANG_LABEL[q.lang]}</span> {q.text}
         {isMulti && <span className="multi-tag"> (несколько ответов)</span>}
       </h3>
+      <Media media={q.media} />
       <div className="quiz-opts">
         {order.map(origIdx => {
           const o = q.options[origIdx];

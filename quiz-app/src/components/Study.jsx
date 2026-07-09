@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import { LANG_LABEL } from '../constants';
+import Media from './Media';
 
 export default function Study({ bank, db, subject, bump }) {
   const [q, setQ] = useState('');
@@ -64,6 +65,7 @@ export default function Study({ bank, db, subject, bump }) {
             {shown && (
               <ul className="opts">
                 {x.passage && <li className="passage">{x.passage}</li>}
+                {x.media && <li><Media media={x.media} /></li>}
                 {x.options.map((o, i) => (
                   <li key={i} className={o.correct ? 'correct' : ''}>
                     {o.correct ? '✓ ' : ''}{o.text}
