@@ -1,0 +1,13 @@
+new-data/**
+extracted/**
+quiz_data/**
+quiz_data.zip
+*.log
+*.html
+*.py
+tools/
+.brute_force*
+generate_*
+download_*
+quiz-app/node_modules/**
+quiz-app/dist/**

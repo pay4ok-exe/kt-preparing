@@ -1,0 +1,17 @@
+.vercel
+.DS_Store
+
+# Node / build artifacts
+node_modules/
+quiz-app/node_modules/
+quiz-app/dist/
+dist/
+
+# Raw study sources — too large for GitHub (100MB/file limit); kept locally only
+new-data/
+extracted/
+quiz_data.zip
+quiz_data/media/
+
+# Logs
+*.log
